@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Come to the Water</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2856"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, come to the water<br/>All who are thirsty<br/>Come and be filled<br/>Come, come to the river<br/>Brothers and sisters<br/>Come and be healed<br/>Come and be healed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We believe in the kingdom come<br/>We believe in the risen Son<br/>You bring our hearts to life<br/>Lord we come with our hands up high<br/>We believe You will satisfy<br/>You bring our hearts to life<br/>You bring our hearts to life<br/>We are alive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See people returning<br/>The love of the father drawing us in<br/>See salvation coming<br/>Jesus our Savior, light of the world<br/>Light of the world</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let revival come<br/>Let the people sing<br/>The glory of Your name</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Let revival come<br/>Let the people sing<br/>The glory of Your name</lines>
+    </verse>
+  </lyrics>
+</song>

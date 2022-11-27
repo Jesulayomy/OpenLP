@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>We Cry Out</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="813"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord, we cry out, we've been lost<br/>We need your mercies, oh God<br/>We repent for our ways and we turn to you again<br/>Oh Lord, we cry out, we've been lost<br/>Change our hearts to yours, oh God<br/>We repent for our sin and we turn to you again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh God, we cry out, for your mercy<br/>Oh God, we cry out, for your grace<br/>Oh God, we cry out, set us free<br/>Oh God, we cry out, once again</lines>
+    </verse>
+  </lyrics>
+</song>

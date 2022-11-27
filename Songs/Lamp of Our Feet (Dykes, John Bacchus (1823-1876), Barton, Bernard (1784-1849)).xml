@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lamp of Our Feet</title>
+    </titles>
+    <authors>
+      <author type="music">Dykes, John Bacchus (1823-1876)</author>
+      <author type="words">Barton, Bernard (1784-1849)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lamp of our feet! whereby we trace Our path, when wont to stray; Stream from the fount of heav'nly grace! Brook by the trav'ler's way!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bread of our souls! whereon we feed; True manna from on high! Our guide, and chart wherein we read Of realms beyond the sky.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pillar of fire\through watches dark! Or radiant cloud by day! When waves would whelm our tossing bark\Our anchor and our stay!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pole\star on life's tempestuous deep! Beacon! when doubts surround; Compass! by which our course we keep; Our deep sea\lead, to sound!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Riches in poverty! our aid In every needful hour! Unshaken rock! the pilgrim's shade; The soldier's fortress tow'r.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Our shield and buckler in the fight!<br/>Vict'ry's triumphant palm!<br/>Comfort in grief! in weakness, might!<br/>In sickness, Gilead's balm.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Childhood's preceptor! manhood's trust!<br/>Old age's firm ally!<br/>Our hope\-when we go down to dust,<br/>Of immortality.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Pure oracles of truth divine!<br/>Unlike each fabled dream<br/>Given forth from Delphos' mystic shrine<br/>Or groves of Academe!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Word of the ever-living God!<br/>Will of His glorious Son!<br/>Without Thee, how could earth be trod?<br/>Or Heaven itself be won?</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Yet to unfold thy hidden worth,<br/>Thy mysteries to reveal,<br/>That Spirit which first gave thee forth,<br/>Thy volume must unseal!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>And we, if we aright would learn<br/>The wisdom it imparts,<br/>Must to its heavenly teaching turn<br/>With simple, child-like hearts!</lines>
+    </verse>
+  </lyrics>
+</song>

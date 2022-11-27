@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>The Table</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3595"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1<br/>I will feast at the table of the Lord<br/>I will feast at the table of the Lord<br/>I won't hunger anymore<br/>At His table [x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Come all you weary; come and find<br/>His yoke is easy; His burden light<br/>He is able; He will restore<br/>At the table of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2<br/>There is peace at the table of the Lord<br/>There is peace at the table of the Lord<br/>I won't worry anymore<br/>At His table</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 3<br/>There is healing at the table of the Lord<br/>There is healing at the table of the Lord<br/>I won't suffer anymore<br/>At His table</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I know He has a place for me<br/>Oh, what joy will fill my heart<br/>With the saints around the mercy seat of God</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus: Capo 3<br/>Come all you weary; come and find<br/>His yoke is easy; his burden light<br/>He is able; He will restore<br/>At the table of the Lord<br/>At the table of the Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 4<br/>I'm invited to the table of the Lord<br/>I'm invited to the table of the Lord<br/>He says, "Come just as you are"<br/>To His table</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>O Thou Who Camest From Above</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Thou who camest from above<br/>The pure celestial fire to impart, <br/>Kindle a flame of sacred love <br/>On the mean altar of my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There let it for Thy glory burn <br/>With inextinguishable blaze, <br/>And trembling to its source return, <br/>In humble prayer and fervent praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, confirm my heart’s desire <br/>To work, and speak, and think for Thee; <br/>Still let me guard the holy fire, <br/>And still stir up Thy gift in me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ready for all Thy perfect will, <br/>My acts of faith and love repeat, <br/>Till death Thy endless mercies seal, <br/>And make the sacrifice complete.</lines>
+    </verse>
+  </lyrics>
+</song>

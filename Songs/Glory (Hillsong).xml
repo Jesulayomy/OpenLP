@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Glory</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is the Lord God Almighty<br/>Great is the Lord on high<br/>The train of His robe fills the temple<br/>And we cry out highest praise</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Glory to the risen King<br/>Glory to the Son<br/>Glorious Son</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lift up your heads, open the doors<br/>Let the King of glory come in<br/>And forever be our God inst.G D Bm A x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy is the Lord God Almighty<br/>Holy is the Lord on high<br/>Let all the earth bow before You<br/>And crown You Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

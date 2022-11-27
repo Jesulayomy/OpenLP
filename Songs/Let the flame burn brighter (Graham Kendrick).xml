@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Let the flame burn brighter</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We'll walk the land with hearts on fire,<br/>And every step will be a prayer.<br/>Hope is rising, new day dawning,<br/>Sound of singing fills the air.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Two thousand years, and still the flame<br/>Is burning bright across the land.<br/>Hearts are waiting, longing, aching,<br/>For awakening once again.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let the flame burn brighter,<br/>In the heart of the darkness,<br/>Turning night to glorious day.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Let the song grow louder<br/>As our love grows stronger,<br/>Let it shine, let it shine!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We'll walk for truth, speak out for love;<br/>In Jesus' name we shall be strong,<br/>To lift the fallen, to save the children,<br/>To fill the nation with Your song.</lines>
+    </verse>
+  </lyrics>
+</song>

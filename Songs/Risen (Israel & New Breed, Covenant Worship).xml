@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Risen</title>
+    </titles>
+    <authors>
+      <author type="words">Covenant Worship</author>
+      <author type="music">Covenant Worship</author>
+      <author type="words">Israel &amp; New Breed</author>
+      <author type="music">Israel &amp; New Breed</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2439"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>praise</theme>
+      <theme>easter</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Intro]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Chorus]<br/>Ri   sen, He's risen, forever glorified<br/>Ri   sen, He's risen, King Jesus, King Jesus is alive</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Interlude 1]<br/>Oh, oh, hallelujah     Oh, oh, hallelujah<br/>Oh, oh, hallelujah     Oh, oh, hallelujah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Verse]<br/>Grave where are you now? You've been overpowered!<br/>Death where is  your sting? Conquered by the King!<br/>Resurrected one, shining like the sun<br/>Breaking through the fear, victory is here, victory is here now</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Interlude 2]<br/>Oh, oh, hallelujah Oh, oh, hallelujah<br/>Jesus be lifted higher, we serve a risen saviour</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Chorus]<br/>Ri   sen, He's risen, forever glorified<br/>Ri   sen, He's risen, King Jesus, King Jesus is alive</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[Interlude 3]<br/>Oh, oh, hallelujah     Oh, oh, hallelujah</lines>
+    </verse>
+    <verse name="v8">
+      <lines>[Verse]<br/>Resurrected one, shining like the sun<br/>Breaking through the fear, victory is here, victory is here now</lines>
+    </verse>
+    <verse name="v9">
+      <lines>[Interlude 2]<br/>Oh, oh, hallelujah Oh, oh, hallelujah<br/>Jesus be lifted higher, we serve a risen saviour</lines>
+    </verse>
+    <verse name="v10">
+      <lines>[Chorus]<br/>Ri   sen, He's risen, forever glorified<br/>Ri   sen, He's risen, King Jesus, King Jesus is alive</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ri   sen, He's risen, forever glorified<br/>Ri   sen, He's risen, King Jesus, King Jesus is alive</lines>
+    </verse>
+    <verse name="v12">
+      <lines>[Bridge]<br/>The same power, the same power that crushed the enemy<br/>The same power, the same power, he same power lives in me<br/>The same power, the same power that crushed the enemy<br/>The same power, the same power, he same power lives in me</lines>
+    </verse>
+    <verse name="v13">
+      <lines>[Chorus]<br/>N.C.<br/>Risen, He's risen, forever glorified<br/>N.C.<br/>Risen, He's risen, King Jesus, King Jesus is<br/>Ri   sen, He's risen, forever glorified<br/>Ri   sen, He's risen, King Jesus, King Jesus is alive</lines>
+    </verse>
+    <verse name="v14">
+      <lines>[Interlude]<br/>Hallelujah<br/>Hallelujah<br/>Hallelujah<br/>Jesus, King Jesus is Alive<br/>Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

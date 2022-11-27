@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Let God arise</title>
+      <title>It is good</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Let God Arise<br/>Let God Arise</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Let His Enemies be scattered<br/>But let the righteous be glad<br/>Yes let them rejoice with Gladness<br/>God has triumphed mightily</lines>
+    </verse>
+    <verse name="b1">
+      <lines>It is good to praise the Lord<br/>And make music to your Name<br/>Oh God Most High<br/>To proclaim your love and faithfulness<br/>Through the day and through the night</lines>
+    </verse>
+    <verse name="b2">
+      <lines>May I dwell in your courts Oh Lord<br/>Then to flourish like the trees of Lebanon<br/>Planted in the house of Adonai<br/>There to live forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

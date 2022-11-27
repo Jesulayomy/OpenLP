@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>The Head That Once Was Crowned</title>
+    </titles>
+    <authors>
+      <author>Thomas Kelly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The head that once was crowned<br/>Is crowned with glory now;<br/>A royal diadem adorns<br/>The mighty Victor’s brow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The highest place that heaven affords<br/>Is His by sovereign right,<br/>The King of kings, the Lord of lords,<br/>And heaven’s eternal light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The joy of all who dwell above,<br/>The joy of all below,<br/>To whom He manifests His love,<br/>And grants His name to know.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To them the cross, with all its shame,<br/>With all its grace, is given;<br/>Their name an everlasting name,<br/>Their joy the joy of heaven.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>They suffer with their Lord below,<br/>They reign with Him above;<br/>Their profit and their joy to know<br/>The mystery of His love.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The cross He bore is life and health,<br/>Though shame and death to Him;<br/>His people’s hope, His people’s wealth,<br/>Their everlasting theme.</lines>
+    </verse>
+  </lyrics>
+</song>

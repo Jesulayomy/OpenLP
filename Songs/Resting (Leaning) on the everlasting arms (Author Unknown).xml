@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>Resting (Leaning) on the everlasting arms</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a fellowship, what a joy divine,<br/>Leaning on the everlasting arms;<br/>What a blessedness, what a peace is mine,<br/>Leaning on the everlasting arms.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Leaning, leaning, safe and secure from all alarms;<br/>Leaning, leaning, leaning on the everlasting arms.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Trust</title>
+    </titles>
+    <copyright>1993 Squint Songs</copyright>
+    <authors>
+      <author type="words">Sixpence None the Richer</author>
+      <author type="music">Sixpence None the Richer</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Trust in the Lord with all of your heart; lean not on your own understanding.<br/>In all of your ways acknowledge Him and He will make your path straight.<br/>Don't worry about tomorrow; He's got it under control.<br/>Just trust in the Lord with all of your heart and He will carry you through.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lord, sometimes it gets so tough<br/>to keep my eyes on you when things are going rough.<br/>But then I turn my eyes up to the sky and I hear Your voice;<br/>It says to me:</lines>
+    </verse>
+  </lyrics>
+</song>

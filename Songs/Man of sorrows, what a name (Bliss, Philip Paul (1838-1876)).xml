@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:17">
+  <properties>
+    <titles>
+      <title>Man of sorrows, what a name</title>
+      <title>Hallelujah, What a Savior!</title>
+    </titles>
+    <authors>
+      <author type="words">Bliss, Philip Paul (1838-1876)</author>
+      <author type="music">Bliss, Philip Paul (1838-1876)</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>crucifixion</theme>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Man of Sorrows, what a name! For the Son of God, Who came<br/>Ruined sinners to reclaim. Hallelujah! What a Savior!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bearing shame and scoffing rude, In my place condemned He stood;<br/>Sealed my pardon with His blood. Hallelujah! What a Savior!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Guilty, vile, and helpless we; Spotless Lamb of God was He;<br/>Full atonement! Can it be? Hallelujah! What a Savior!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lifted up was He to die; "It is finished!" was His cry;<br/>Now in heaven exalted high. Hallelujah! What a Savior!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When He comes, our glorious King, All His ransomed home to bring,<br/>Then anew His song we'll sing: Hallelujah! What a Savior!</lines>
+    </verse>
+  </lyrics>
+</song>

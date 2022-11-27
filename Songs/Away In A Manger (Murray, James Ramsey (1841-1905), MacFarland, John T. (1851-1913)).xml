@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Away In A Manger</title>
+    </titles>
+    <authors>
+      <author type="music">Murray, James Ramsey (1841-1905)</author>
+      <author type="words">MacFarland, John T. (1851-1913)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Away in a manger, no crib for a bed<br/>The little Lord Jesus lay down his sweet head<br/>The stars in the sky looked down where he lay<br/>The little Lord Jesus asleep on the hay</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The cattle are lowing, the Baby awakes;<br/>But little Lord Jesus, no crying He makes;<br/>I love Thee, Lord Jesus, look down from the sky;<br/>And stay by my cradle 'til morning is nigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be near me, Lord Jesus, I ask Thee to stay,<br/>Close by me forever, and love me, I pray.<br/>Bless all the dear children in Thy tender care,<br/>And fit us for Heaven to live with Thee there.</lines>
+    </verse>
+  </lyrics>
+</song>

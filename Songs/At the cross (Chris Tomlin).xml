@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>At the cross</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2029"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a place, where mercy reigns and never dies<br/>There's a place, where streams of grace flows deep and wide</lines>
+    </verse>
+    <verse name="p1">
+      <lines>All the love, I've ever found<br/>Comes like a flood, comes flowing down</lines>
+    </verse>
+    <verse name="c1">
+      <lines>At the cross, at the cross<br/>I surrender my life<br/>I'm in awe of you; I'm in awe of you<br/>Where your love ran red, and my sins washed white<br/>I owe all to you, I owe all to you<br/>Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a place, where sin and shame are powerless<br/>Where my heart has peace with God, and forgiveness</lines>
+    </verse>
+    <verse name="p2">
+      <lines>All the love, I've ever found<br/>Comes like a flood, comes flowing down</lines>
+    </verse>
+    <verse name="c2">
+      <lines>At the cross, at the cross<br/>I surrender my life<br/>I'm in awe of you; I'm in awe of you<br/>Where your love ran red, and my sins washed white<br/>I owe all to you, I owe all to you<br/>Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Here my hope is found, here on holy ground<br/>Here I bow down, here I bow down<br/>Here arms open wide, here you saved my life<br/>Here I bow down, here I bow</lines>
+    </verse>
+  </lyrics>
+</song>

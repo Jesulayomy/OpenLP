@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>Harvest</title>
+    </titles>
+    <authors>
+      <author type="words">Philip Moolman</author>
+      <author type="music">Philip Moolman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a harvest coming<br/>For the kingdom of God to be born<br/>There's a harvest coming<br/>Now the weed still grows with the corn</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I am convinced<br/>The hard times we have to share<br/>Cannot compare<br/>To all the joy<br/>And good times there is to come<br/>See you there!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Are you ready for the Harvest? (X4)</lines>
+    </verse>
+    <verse name="p2">
+      <lines>I am convinced<br/>The hard times we have to share<br/>Cannot compare<br/>To all the joy<br/>And good times there is to come<br/>See you there! ......... (HANG 2 BARS)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Are you ready for the Harvest? X4</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The goat and the sheep<br/>The chaff and the corn<br/>Everyone - whatever we've done<br/>Will come together to stand before the Son</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Are you ready for the Harvest? (X4)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a harvest coming<br/>For the kingdom of God to be born<br/>There's a harvest coming<br/>Now the weed still grows with the corn</lines>
+    </verse>
+    <verse name="p3">
+      <lines>I am convinced<br/>The hard times we have to share<br/>Cannot compare<br/>To all the joy<br/>And good times there is to come<br/>See you there! .....(HANG 2 BARS)</lines>
+    </verse>
+    <verse name="c4">
+      <lines>.......... (BREAKDOWN) .......<br/>Are you ready for the Harvest? (X4)<br/>....... (FULL BAND) .....<br/>Get ready for the Harvest (X4)</lines>
+    </verse>
+  </lyrics>
+</song>

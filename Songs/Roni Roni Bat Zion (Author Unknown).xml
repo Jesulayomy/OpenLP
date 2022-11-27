@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Roni Roni Bat Zion</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>jewish</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Roni, Roni Bat Zion<br/>Heriu Yisrael<br/>Simchi V'altsi B'chol Lev<br/>Bat Yerushalayim</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Rejoice, rejoice daughter of Zion<br/>Shout aloud Israel<br/>Sing rejoice with all your heart<br/>O Jerusalem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>For the Lord has taken your<br/>punishment<br/>Destroyed your enemies<br/>King of Israel<br/>Lord of all is He<br/>In the midst of us<br/>He is mighty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the Lord your God in the<br/>midst of you<br/>Mighty is His name<br/>Rejoicing over you<br/>With songs of gladness<br/>Sing joyfully<br/>He will save us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heshir hashem mishpotaich<br/>Pina oyvech<br/>Melech Israel<br/>Adonai<br/>Bekirbech<br/>Al tirai</lines>
+    </verse>
+  </lyrics>
+</song>

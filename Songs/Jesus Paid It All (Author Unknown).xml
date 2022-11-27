@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Jesus Paid It All</title>
+      <title>I hear the Savior say</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I hear the Savior say,<br/>"Your strength indeed is small;<br/>Child of weakness, watch and pray<br/>Find in Me your all in all."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus paid it all<br/>All to Him I owe;<br/>Sin had left a crimson stain<br/>He washed it white as snow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For nothing good have I<br/>Where-by Your grace to claim<br/>I'll wash my garments white<br/>in the blood of Calv'ry's Lamb</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, now indeed I find<br/>Your pow'r, and Yours a-lone,<br/>Can change the leper's spots<br/>And melt the heart of stone</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh praise the one who paid my debt<br/>And raised this life up from the dead.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Valentine</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3258"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1:<br/>From Your sacrifice for the sake of all<br/>Redemption's birth and relentless hope<br/>As the weight of grace crushed the face of love<br/>AndYou bled and died for Your enemies</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2:<br/>To woo us back from death and woe<br/>A valentine to a faithless world<br/>Every wayward heart You pursue us all<br/>And in kindness call us home</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>This world is Yours<br/>My God this world is Yours<br/>All You made to be Yours<br/>I know You love us all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 3:<br/>Your agape love displaces fear<br/>And the plan is working heaven's near<br/>For the kingdom comes to the heart<br/>That whispers<br/>Have mercy God on me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS 2:<br/>This world is Yours<br/>My God this world is Yours<br/>All You made to be Yours<br/>I know You love us all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All this world is Yours<br/>My God this world is Yours<br/>All You made to be Yours<br/>I know You love us all</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>You reign forever<br/>You reign forevermore<br/>My heart surrendered<br/>You reign forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

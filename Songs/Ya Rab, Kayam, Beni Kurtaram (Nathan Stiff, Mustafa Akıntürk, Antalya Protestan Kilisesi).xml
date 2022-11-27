@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>Ya Rab, Kayam, Beni Kurtaram</title>
+    </titles>
+    <copyright>Sovereign Grace Music</copyright>
+    <authors>
+      <author type="translate">Mustafa Akıntürk</author>
+      <author type="translate">Antalya Protestan Kilisesi</author>
+      <author type="words">Nathan Stiff</author>
+      <author type="music">Nathan Stiff</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ya Rab, Kayam, beni Kurtaran<br/>Ruhumdur Sana özlem duyan<br/>Rab'bim, Senin gibisi yok<br/>Sevincim yalnız Senden gelir<br/>Lütfun, dipsiz bir kuyu gibi<br/>Sevgin göklere sığmaz taşar<br/>Gerçeğin de mükemmel bir pınar<br/>Sen iyisin Rab hep yanımda kal</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ya Rab, Kayam, beni Kurtaran<br/>Bitkin kalbimin koruyucusu<br/>Zalimi kovan keskin kılıcım<br/>Nefrete karşı kalkanımsın<br/>Karanlık çökünce ışığımsın<br/>Hüzün basınca umudumsun<br/>Denenmeler artınca sevincimsin<br/>Sadakatin, gece sığınağım</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ya Rab, Kayam, beni Kurtaran<br/>Yıkımdan beni çekip alan<br/>Tüm günahım Senin omuzunda<br/>Benim için can veren İsa<br/>// Dirilerek ölümü yendin<br/>Günahla bağımı kırdın<br/>Ya Rab, Kayam, beni Kurtaran<br/>Tüm hayatımda yücel İsa //</lines>
+    </verse>
+  </lyrics>
+</song>

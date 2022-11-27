@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>We Stand</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1244"/>
+    </songbooks>
+    <themes>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, we're gathered here to seek Your face.<br/>We wait upon You now. Come have Your way.<br/>You are the glorious one, the Lord of all.<br/>Worthy of endless praise, our hearts proclaim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We stand before You in awe and wonder.<br/>With lifted hands and our hearts surrendered.<br/>We give You praise, give You glory and honor.<br/>To You be the glory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lift up one voice. Join in one song.<br/>Honor and praise unto Your name.</lines>
+    </verse>
+  </lyrics>
+</song>

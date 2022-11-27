@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Heaven is in my Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Неизвестный</author>
+      <author type="music">Неизвестный</author>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3678"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>The kingdom of our Lord is here<br/>Heaven is in my heart<br/>The presence of his majesty<br/>Heaven is in my heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Ooooo... Heaven is in my heart<br/>Ooooo... Heaven is in my heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse2:<br/>In His presence joy abounds<br/>Heaven is in my heart<br/>The light of Holiness surrounds<br/>Heaven is in my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 3:<br/>We are a temple of the Lord<br/>Heaven is in my heart<br/>We worship Him in one accord<br/>Heaven is in my heart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chorus (x4)</lines>
+    </verse>
+  </lyrics>
+</song>

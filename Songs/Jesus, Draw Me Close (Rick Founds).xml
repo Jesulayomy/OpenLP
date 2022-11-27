@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Jesus, Draw Me Close</title>
+    </titles>
+    <copyright>1990 Maranatha Praise, Inc.</copyright>
+    <authors>
+      <author type="words">Rick Founds</author>
+      <author type="music">Rick Founds</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus draw me close,<br/>Closer Lord to You;<br/>Let the world around me fade away;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus draw me close,<br/>Closer Lord to You;<br/>For I desire to worship and obey.</lines>
+    </verse>
+  </lyrics>
+</song>

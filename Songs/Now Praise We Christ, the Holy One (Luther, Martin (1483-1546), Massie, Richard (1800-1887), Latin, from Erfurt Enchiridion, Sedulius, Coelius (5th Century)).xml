@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Now Praise We Christ, the Holy One</title>
+      <title>Jesus We Now Must Laud and Sing, From East to West</title>
+    </titles>
+    <authors>
+      <author type="music">Latin</author>
+      <author type="music">from Erfurt Enchiridion</author>
+      <author type="words">Sedulius, Coelius (5th Century)</author>
+      <author type="translate">Luther, Martin (1483-1546)</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now praise we Christ, the Holy One, The spotless virgin Mary's Son, Far as the blesséd sun doth shine E'en to the world's remote confine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He, who Himself all things did make, A servant's form vouchsafed to take, That He as man mankind might win, And save His creatures from their sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The grace of God, th'Almighty Lord, On the chaste mother was outpoured a virgin pure and undefiled In wondrous wise conceived a child.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The holy maid became th'abode And temple of the living God; And she, who knew not man, was blest With God's own Word made manifest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The noble mother bare a Son, For so did Gabriel's promise run, Whom John confessed and leapt with joy, Ere yet the mother knew her boy.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In a rude manger, stretched on hay, In poverty content He lay;<br/>With milk was fed the Lord of all, Who feeds the ravens when they call.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Th' angelic choir rejoice, and raise Their voice to God in songs of praise;<br/>To humble shepherds is proclaimed The Shepherd who the world hath framed.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Honor to Thee, O Christ, be paid, Pure offspring of a holy maid,<br/>With Father and with Holy Ghost, Till time in time's abyss be lost.</lines>
+    </verse>
+  </lyrics>
+</song>

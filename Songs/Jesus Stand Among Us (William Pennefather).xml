@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Jesus Stand Among Us</title>
+    </titles>
+    <authors>
+      <author>William Pennefather</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus stand among us,<br/>In Thy risen power,<br/>Let this time of worship<br/>Be a hallowed hour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Breathe Thy Holy Spirit<br/>Into every heart,<br/>Bid the fears and sorrows<br/>From each soul depart.<br/>Thus with quickened footsteps<br/>We’ll pursue our way,<br/>Watching for the dawning<br/>Of eternal day.</lines>
+    </verse>
+  </lyrics>
+</song>

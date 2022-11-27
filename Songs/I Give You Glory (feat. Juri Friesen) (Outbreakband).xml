@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>I Give You Glory (feat. Juri Friesen)</title>
+    </titles>
+    <authors>
+      <author type="words">Outbreakband</author>
+      <author type="music">Outbreakband</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4102"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>INTRO:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>Oh, how beautiful are You, Lord<br/>It's Your words it's Your love<br/>Oh, how glorious are You, Lord<br/>It's Your power<br/>It was Your cross</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>That saved me and rescued me<br/>Just a moment there set me free</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I give You glory, glory<br/>I give You glory, glory<br/>I give You glory, glory<br/>Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>With a crown of thorns<br/>You became my King forever<br/>With a crown of thorns<br/>You became my King forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With a crown of thorns<br/>You became my King forever<br/>With a crown of thorns<br/>You became my King forever<br/>With a crown of thorns<br/>You became my King forever<br/>With a crown of thorns<br/>You became my King forever</lines>
+    </verse>
+  </lyrics>
+</song>

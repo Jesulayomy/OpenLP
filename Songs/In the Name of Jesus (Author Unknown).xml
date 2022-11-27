@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>In the Name of Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the name of Jesus,<br/>In the name of Jesus,<br/>We have the victory.<br/>In the name of Jesus,<br/>In the name of Jesus,<br/>Demons will have to flee.<br/>Who can tell what God can do?<br/>Who can tell of His love for you?<br/>In the name of Jesus, Jesus,<br/>We have the victory.</lines>
+    </verse>
+  </lyrics>
+</song>

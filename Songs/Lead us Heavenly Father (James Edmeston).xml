@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Lead us Heavenly Father</title>
+    </titles>
+    <authors>
+      <author>James Edmeston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lead us, Heavenly Father, lead us<br/>O’er the world’s tempestuous sea;<br/>Guard us, guide us, keep us, feed us,<br/>For we have no help but Thee;<br/>Yet possessing every blessing<br/>If our God our Father be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Saviour, breathe forgiveness o’er us;<br/>All our weakness Thou dost know,<br/>Thou didst tread this earth before us,<br/>Thou didst feel its keenest woe;<br/>Tempted, taunted, yet undaunted,<br/>Through the desert Thou didst go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit of our God, descending,<br/>Fill our hearts with heavenly joy,<br/>Love with every passion blending,<br/>Pleasure that can never cloy;<br/>Thus provided, pardoned, guided,<br/>Nothing can our peace destroy.</lines>
+    </verse>
+  </lyrics>
+</song>

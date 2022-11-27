@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Sing Wherever I go</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>All my life, all I know<br/>God's been good, good to my soul<br/>Mountain high, valley low<br/>I'm gonna sing wherever I go</lines>
+    </verse>
+    <verse name="v1">
+      <lines>God is for me, He's not against me<br/>I will hold to the plans He has for me<br/>When I'm broken He will fix me<br/>I will call on the name of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's my heart song in my sorrow<br/>He's my hope and my strength for tomorrow<br/>When the storms rise all around me<br/>I will call on the name of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

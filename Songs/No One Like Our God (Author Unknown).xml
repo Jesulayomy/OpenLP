@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>No One Like Our God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5176"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What is this love that won't relent<br/>That's calling out with heaven's breath<br/>Who's reaching wide to save our souls<br/>Only You<br/>What is this grace that makes no sense<br/>That we could never recompense<br/>Who gives us all a second chance<br/>Only You, Only You, Only You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There is no one like our God<br/>There is no one like our God<br/>There is no other God who can save<br/>There is no one like our God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who hung the stars upon the night<br/>And showed the sun how bright to shine<br/>Who shaped with world within His hands<br/>Only you<br/>Who set the sky upon the hills<br/>And told the waters to be still<br/>Who spoke to form the universe<br/>Only You, Only You, Only You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>No height or depth can stand between us<br/>No power on earth or all creation<br/>No life or death can separate us from Your love</lines>
+    </verse>
+  </lyrics>
+</song>

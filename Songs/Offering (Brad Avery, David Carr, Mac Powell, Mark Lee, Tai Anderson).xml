@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Offering</title>
+    </titles>
+    <copyright>2003 Consuming Fire Music</copyright>
+    <authors>
+      <author type="words">Mac Powell</author>
+      <author type="music">Mac Powell</author>
+      <author type="words">Brad Avery</author>
+      <author type="music">Brad Avery</author>
+      <author type="words">David Carr</author>
+      <author type="music">David Carr</author>
+      <author type="words">Mark Lee</author>
+      <author type="music">Mark Lee</author>
+      <author type="words">Tai Anderson</author>
+      <author type="music">Tai Anderson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magnificent, Holy Father, I stand in awe of all I see.<br/>Of all the things You have created, and still You choose to think of me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And who am I that You should suffer Your very life to set me free?<br/>The only thing that I can give You  is the life You gave to me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is my offering, dear Lord. This is my offering to You, God.<br/>I will give You my life, for it's all I have to give,<br/>Because You gave Your life for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I stand before You at this altar; so many have given You more.<br/>I may not have much I can offer, yet what I have is truly Yours.</lines>
+    </verse>
+  </lyrics>
+</song>

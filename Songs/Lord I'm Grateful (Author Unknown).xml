@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>Lord I'm Grateful</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I'm grateful, amazed at what you've done<br/>My finest efforts are filthy rags<br/>But I'm made righteous by trusting in the Son<br/>I have God's riches at Christ's expense</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause it's grace there's nothing I can do<br/>To make You love me more<br/>To make You love me less than You do<br/>And by faith I'm standing on this stone<br/>Of Christ and Christ alone<br/>Your righteousness is all that I need<br/>'Cause it's grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Called and chosen when I was far away<br/>You brought me into Your family<br/>Free forgiven my guilt is washed away<br/>Your loving kindness is life to me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Grace loves the sinner<br/>Loves all I am and all I'll ever be<br/>Makes me a winner<br/>Whatever lies the devil throws at me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Freely given but bought with priceless blood<br/>My life was ransomed at Calvary<br/>There my Jesus gave everything He could<br/>That I might live for eternity</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:14">
+  <properties>
+    <titles>
+      <title>He's Got the Whole World in His Hands</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">Unknown</author>
+      <author type="music">Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>kids</theme>
+      <theme>protection</theme>
+      <theme>provision</theme>
+      <theme>gods-might</theme>
+      <theme>creation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's got the whole world in His hands<br/>He's got the whole world in His hands<br/>He's got the whole world in His hands<br/>He's got the whole world in His hands</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's got everybody here in His hands<br/>He's got everybody here in His hands<br/>He's got everybody here in His hands<br/>He's got the whole world in His hands</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's got the tiny little baby in His hands<br/>He's got the tiny little baby in His hands<br/>He's got the tiny little baby in His hands<br/>He's got the whole world in His hands</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He's got you and me brother in His hands<br/>He's got you and me brother in His hands<br/>He's got you and me brother in His hands<br/>He's got the whole world in His hands</lines>
+    </verse>
+  </lyrics>
+</song>

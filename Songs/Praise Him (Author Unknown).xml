@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Praise Him</title>
+      <title>Morning, noon-time</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise Him, praise Him,<br/>Praise Him in the morning,<br/>Praise Him in the noon-time,<br/>Praise Him, praise Him,<br/>Praise Him when the<br/>sun goes down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love Him, love Him,<br/>Love Him in the morning,<br/>Love Him in the noon-time.<br/>Love Him, love Him,<br/>Love Him when the<br/>sun goes down.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Serve Him, serve Him,<br/>Serve Him in the morning,<br/>Serve Him in the noon-time.<br/>Serve Him, serve Him,<br/>Serve Him when the<br/>sun goes down</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thank Him, thank Him,<br/>Thank Him in the morning,<br/>Thank Him in the noon-time.<br/>Thank Him, thank Him,<br/>Thank Him when the<br/>sun goes down.</lines>
+    </verse>
+  </lyrics>
+</song>

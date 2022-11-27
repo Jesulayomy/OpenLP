@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Lost In Wonder</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Ogden</author>
+      <author type="music">Jonathan Ogden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3782"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father<br/>You're the author of creation<br/>You're the joy of every nation<br/>There is none like You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus<br/>You display the Father's glory<br/>You're the centre of the story<br/>There is none like You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So I fall down at Your feet<br/>Lost in wonder, worshipping<br/>Praises to the most high king<br/>I give you all of my affection Lord<br/>You're my everything<br/>Jesus You're my everything<br/>Take all the world just give me Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Messiah<br/>You're the stillness in the wrestling<br/>You're the answer to my questions<br/>I'm in awe of You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Saviour<br/>You gave up your life to save us<br/>Day by day you recreate us<br/>I'm in awe of You</lines>
+    </verse>
+  </lyrics>
+</song>

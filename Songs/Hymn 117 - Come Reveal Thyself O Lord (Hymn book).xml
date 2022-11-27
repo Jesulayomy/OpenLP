@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-06T18:08:26">
+  <properties>
+    <titles>
+      <title>Hymn 117 - Come Reveal Thyself O Lord</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, reveal Thyself O Lord,<br/>Come, our hearts teach to knoweth Thee<br/>Invigorate all our hearts<br/>Bless us now before we go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, give our souls lasting rest<br/>Come, make us blessed souls<br/>Come, and speak peace to us Lord<br/>Come, and help our unbelief</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come, dispel doubts in our hearts<br/>Teach us how to approach Thee,<br/>Come, and pour love into our hearts<br/>Come, and raise our fainting hearts</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come, and make our hearts rejoice,<br/>Speak to us, Thee I do choose<br/>Come, to keep us Thy flock safe<br/>Come, and bless all Thy loved sheep</lines>
+    </verse>
+  </lyrics>
+</song>

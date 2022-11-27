@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Back To The Start</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3585"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+      <theme>repentance</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Waiting for You<br/>Be my rescue<br/>Find me<br/>Bring me out alive<br/>I will surrender<br/>Back to the start<br/>Where You found me<br/>I give You my heart again<br/>Take everything<br/>I'm all I can bring<br/>I'm coming home again<br/>Savior save me<br/>Darkness leave me<br/>Healer burn away this pain<br/>Hold me<br/>I'm a fire I'm note a flame<br/>Whooaa<br/>I give You my heart again<br/>I'm coming back to the start, to the start<br/>I'm coming back to You<br/>I'm running back to Your heart, to Your heart<br/>I'm running back to You<br/>You never stop loving us<br/>No matter how far we were<br/>You never give up on us<br/>All of heaven shout<br/>Let the future begin<br/>A feel alive<br/>I come alive<br/>I am alive<br/>On God's Great dance floor</lines>
+    </verse>
+  </lyrics>
+</song>

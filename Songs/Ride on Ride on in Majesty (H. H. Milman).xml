@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Ride on Ride on in Majesty</title>
+    </titles>
+    <authors>
+      <author>H. H. Milman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ride on, ride on in majesty!<br/>In lowly pomp ride on to die! <br/>O Christ, Thy triumphs now begin <br/>O’er captive death and conquered sin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ride on, ride on in majesty! <br/>Hark all the tribes ‘hosanna’ cry; <br/>Thine humble beast pursues his road <br/>With palms and scattered garments strowed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ride on, ride on in majesty! <br/>Thy last and fiercest strife is nigh; <br/>The Father on His sapphire throne <br/>Expects His own anointed Son.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ride on, ride on in majesty! <br/>In lowly pomp ride on to die! <br/>Bow Thy meek head to mortal pain, <br/>Then take, O God, Thy power, and reign!</lines>
+    </verse>
+  </lyrics>
+</song>

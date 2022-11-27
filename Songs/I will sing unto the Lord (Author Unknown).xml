@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>I will sing unto the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing unto the Lord, for He is worthy to be praised.<br/>I will sing unto the Lord, and bless His holy name.<br/>I will sing unto the Lord, for He is worthy to be praised.<br/>I will sing unto the Lord, and bless His holy name.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are holy, you are righteous,<br/>You are magnificent, You are victorious,<br/>You are mighty, You are omnipotent.<br/>There is none that can compare,<br/>I've come to bless His name.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bless His Name, Bess His Name,<br/>Let everybody come and Bless His ame</lines>
+    </verse>
+  </lyrics>
+</song>

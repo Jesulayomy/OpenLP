@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>The Lord's My Shepherd</title>
+    </titles>
+    <authors>
+      <author type="music">Bain, James Leith Macbeth (1860-1925)</author>
+      <author type="words">from the Scottish Psalter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord's my Shepherd, I'll not want.<br/>He makes me lie in pastures green.<br/>He leads me by the still, still waters,<br/>His goodness restores my soul.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will trust in You alone.<br/>And I will trust in You alone,<br/>For Your endless mercy follows me,<br/>Your goodness will lead me home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He guides my ways in righteousness,<br/>And He anoints my head with oil,<br/>And my cup, it overflows with joy,<br/>I feast on His pure delights.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And though I walk the darkest path,<br/>I will not fear the evil one,<br/>For You are with me, and Your rod and staff<br/>Are the comfort I need to know.</lines>
+    </verse>
+  </lyrics>
+</song>

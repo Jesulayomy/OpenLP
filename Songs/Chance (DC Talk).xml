@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Chance</title>
+    </titles>
+    <authors>
+      <author type="words">DC Talk</author>
+      <author type="music">DC Talk</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:<br/>G G/F# Em</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>People watching, every life a mystery<br/>Sunny faces, but you know the story's incomplete<br/>Satisfaction. seems a million miles away<br/>But I'm moving (in) to another state of mind<br/>I'm believing there's no better place or better time</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Everyday we live, there's a chance to give<br/>Everytime we speak, there's a chance for peace<br/>Everyday we live, there's a chance</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Little sister, put aside your fear and breath<br/>In the secret, so you hear the voice of heaven<br/>(sayin') Come together, hope is stronger than it seems<br/>Where you're standing there's no running out on love<br/>Only human, but you've set your eyes on things above</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A chance for you, a chance for me<br/>A chance to serve in a time of need<br/>A chance to live, a chance to touch<br/>A chance to live, a chance to tell<br/>A chance to pray for a father's love<br/>A chance to lose yourself for somebody else<br/>Or a chance top pray for the chance to love</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I know some of this might be<br/>wrong. But please e-mail me and tell me if you find anything wrong.<br/>This one goes out to Mary K. You've helped me out alot.</lines>
+    </verse>
+  </lyrics>
+</song>

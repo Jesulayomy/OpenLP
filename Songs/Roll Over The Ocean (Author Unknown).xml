@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Roll Over The Ocean</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's me, it's me, it's me who builds community,<br/>it's me, it's me, it's me who builds community.<br/>It's me, it's me, it's me who builds community,<br/>it's me who builds community.<br/>(clap clap clap Hey!)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Roll over the ocean, roll over the sea,<br/>roll over the ocean in the deep blue sea.<br/>Roll over the ocean, roll over the sea.<br/>Go and do your part and build community.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's you, it's you, it's you who builds community...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's us...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's Christ...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It's love...</lines>
+    </verse>
+  </lyrics>
+</song>

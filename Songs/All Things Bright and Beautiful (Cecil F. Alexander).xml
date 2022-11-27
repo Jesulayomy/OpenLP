@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>All Things Bright and Beautiful</title>
+    </titles>
+    <authors>
+      <author>Cecil F. Alexander</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All things bright and beautiful,<br/>All creatures great and small,<br/>All things wise and wonderful,<br/>The Lord God made them all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Each little flower that opens,<br/>Each little bird that sings,<br/>He made their glowing colours,<br/>He made their tiny wings.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The purple-headed mountain,<br/>The river running by,<br/>The sunset, and the morning<br/>That brightens up the sky.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The cold wind in the winter,<br/>The pleasant summer sun,<br/>The ripe fruits in the garden,<br/>He made them every one.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He gave us eyes to see them,<br/>And lips that we might tell<br/>How great is God Almighty,<br/>Who has made all things well.</lines>
+    </verse>
+  </lyrics>
+</song>

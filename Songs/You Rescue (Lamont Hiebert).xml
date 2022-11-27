@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>You Rescue</title>
+    </titles>
+    <copyright>2008 Meadowgreen Music Company | Lamont Songs</copyright>
+    <authors>
+      <author type="words">Lamont Hiebert</author>
+      <author type="music">Lamont Hiebert</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some choices I have made brought pain<br/>But you will never stop restoring what's been lost</lines>
+    </verse>
+    <verse name="p1">
+      <lines>So I will boast of Your saving deeds<br/>And I will rave of your glory</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You rescue, You redeem<br/>You save, You intervene<br/>You rescue, You redeem<br/>Our lives, our stories</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The damage done to me was not Your dream<br/>Innocence has died but is risen from the dead</lines>
+    </verse>
+    <verse name="p2">
+      <lines>So I will boast of Your saving deeds<br/>And I will shout of your glory</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You rescue, You redeem<br/>You save, You intervene<br/>You rescue, You redeem<br/>Our lives, our stories</lines>
+    </verse>
+  </lyrics>
+</song>

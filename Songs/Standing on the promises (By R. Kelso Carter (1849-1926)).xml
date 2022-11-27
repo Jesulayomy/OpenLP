@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:58">
+  <properties>
+    <titles>
+      <title>Standing on the promises</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">By R. Kelso Carter (1849-1926)</author>
+      <author type="music">By R. Kelso Carter (1849-1926)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>provision</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Standing on the promises of Christ, my King!<br/>Through eternal ages let His praises ring;<br/>"Glory in the highest!" I will shout and sing,<br/>Standing on the promises of God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Standing, standing,<br/>Standing on the promises of Christ my Saviour;<br/>Standing, standing<br/>I'm standing on the promises of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Standing on the promises that cannot fail,<br/>When the howling storms of doubt and fears assail,<br/>By the living Word of God I shall prevail,<br/>Standing on the promises of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Standing on the promises, I now can see<br/>Perfect, present cleansing in the blood for me;<br/>Standing in the liberty where Christ makes free,<br/>Standing on the promises of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Standing on the promises of Christ the Lord,<br/>Bound to Him eternally by love's strong cord,<br/>Overcoming daily with the Spirit's sword,<br/>Standing on the promises of God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Standing on the promises, I cannot fall,<br/>List'ning every moment to the Spirit's call,<br/>Resting in my Saviour as my All-in-All,<br/>Standing on the promises of God.</lines>
+    </verse>
+  </lyrics>
+</song>

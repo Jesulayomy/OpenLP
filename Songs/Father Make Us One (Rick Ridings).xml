@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>Father Make Us One</title>
+    </titles>
+    <copyright>1985 Scripture in Song</copyright>
+    <authors>
+      <author type="words">Rick Ridings</author>
+      <author type="music">Rick Ridings</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father make us one,<br/>Father, make us one,<br/>That the world may know<br/>Thou hast sent the Son,<br/>Father, make us one.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold how pleasant<br/>and how good it is<br/>For brethren to dwell in unity,<br/>For there the Lord<br/>commands the blessing,<br/>Life forever more.</lines>
+    </verse>
+  </lyrics>
+</song>

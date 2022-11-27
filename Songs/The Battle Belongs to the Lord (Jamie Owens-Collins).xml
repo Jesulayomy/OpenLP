@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>The Battle Belongs to the Lord</title>
+    </titles>
+    <copyright>1985 Fairhill Music</copyright>
+    <authors>
+      <author type="words">Jamie Owens-Collins</author>
+      <author type="music">Jamie Owens-Collins</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In heavenly armor we'll enter the land,<br/>The battle belongs to the Lord;<br/>No weapon that's fashioned against us will stand,<br/>The battle belongs to the Lord!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We sing glory, honor,<br/>Power, and strength to the Lord;<br/>We sing glory, honor,<br/>Power, and strength to the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the power of darkness comes in like a flood,<br/>The battle belongs to the Lord;<br/>He's raised up a standard, the power of His blood,<br/>The battle belongs to the Lord!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When your enemy presses in hard do not fear,<br/>The battle belongs to the Lord;<br/>Take courage, my friend, your redemption is near,<br/>The battle belongs to the Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

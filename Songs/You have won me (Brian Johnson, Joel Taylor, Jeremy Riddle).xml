@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>You have won me</title>
+    </titles>
+    <authors>
+      <author type="words">Jeremy Riddle</author>
+      <author type="music">Jeremy Riddle</author>
+      <author type="words">Brian Johnson</author>
+      <author type="music">Brian Johnson</author>
+      <author type="words">Joel Taylor</author>
+      <author type="music">Joel Taylor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grace, You've shown me grace<br/>You've lifted my shame<br/>Drawn me with loving kindness<br/>Washed whiter than snow<br/>You have redeemed and made me whole</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, You have won me<br/>You have broken every Chain with love and mercy<br/>You have triumphed over Death and You are worthy<br/>Of glory and praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love, You've shown me love<br/>By leaving Your throne<br/>By bleeding and dying on a cross<br/>That wonderful cross<br/>That took all my guilt and sin away</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Shout it out and lift up one voice in worship<br/>Sing it out until all the earth can hear it<br/>Jesus is alive and He saves, He rescues and saves</lines>
+    </verse>
+  </lyrics>
+</song>

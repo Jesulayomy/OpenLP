@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Praise to the Holiest in the Height</title>
+    </titles>
+    <authors>
+      <author>John H. Newman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise to the holiest in the height,<br/>And in the depth be praise; <br/>In all His words most wonderful, <br/>Most sure in all His ways.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O loving wisdom of our God! <br/>When all was sin and shame, <br/>A second Adam to the fight <br/>And to the rescue came.<br/>O wisest love! that flesh and blood, <br/>Which did in Adam fail, <br/>Should strive afresh against the foe, <br/>Should strive and should prevail;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And that a higher gift than grace <br/>Should flesh and blood refine,<br/>God’s presence and His very self, <br/>And essence all-divine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O generous love! that He, who smote <br/>In Man for man the foe, <br/>The double agony in Man <br/>For man should undergo;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And in the garden secretly, <br/>And on the cross on high, <br/>Should teach His brethren, and inspire <br/>To suffer and to die.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Praise to the Holiest in the height,<br/>And to the depth be praise;<br/>In all His words most wonderful,<br/>Most sure in all His ways.</lines>
+    </verse>
+  </lyrics>
+</song>

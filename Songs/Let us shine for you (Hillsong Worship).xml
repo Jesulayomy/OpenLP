@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Let us shine for you</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Look across the world<br/>And let us shine for you, Lord<br/>The whole world is yours<br/>And I want to live for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One thing I know<br/>Is that you've changed my life<br/>I give you my all<br/>All you are is good</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give you my heart<br/>God it's only you I seek<br/>Give you my praise<br/>'Cause I believe in you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Look across the world<br/>And let us shine for you, Lord<br/>The whole world is yours<br/>And I want to live for you, O God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All that I know<br/>Is that you've changed my life<br/>I give you my all<br/>And all you are is good</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Carry the lost<br/>Make my prayer in this life real Carry my cross<br/>Hold on 'til I see you</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Look across the world<br/>And let us shine for you, Lord<br/>The whole world is yours<br/>And I want to live for you, O God</lines>
+    </verse>
+    <verse name="v8">
+      <lines>And I want to live<br/>I want to love you more<br/>I want to be used<br/>Father in all of the world<br/>May your word be heard<br/>May it stay on my lips<br/>To live what I speak<br/>Until your kingdom come</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Look across the world<br/>And let us shine for you<br/>And let us shine for you</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Look across the world<br/>And let us shine for you, Lord<br/>The whole world is yours<br/>And I want to live for you</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Look across the world<br/>And let us shine for you, Lord<br/>The whole world is yours</lines>
+    </verse>
+    <verse name="v12">
+      <lines>And I want to live for you<br/>And I want to live for you<br/>And I want to live for you</lines>
+    </verse>
+  </lyrics>
+</song>

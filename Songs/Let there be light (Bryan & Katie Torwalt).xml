@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Let there be light</title>
+    </titles>
+    <authors>
+      <author type="words">Bryan &amp; Katie Torwalt</author>
+      <author type="music">Bryan &amp; Katie Torwalt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3513"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 verse:<br/>When You speak<br/>Darkness has to bow<br/>Confusion has its final hour<br/>When You speak<br/>Mountains rise and fall<br/>Its tears down every wall around me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse:<br/>When You speak<br/>You breathe upon the dust<br/>You come alive in us<br/>When You speak<br/>You silence every fear<br/>We feel Your Spirit here around us</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Let there be light<br/>Let there be light<br/>Until it fills up every space<br/>Come and have your way<br/>Let there be light<br/>Let there be light<br/>Just one word and I am changed<br/>Come and have Your way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Now You're everything we seek<br/>As deep cries out to deep<br/>We will see God<br/>Here Your glory on display<br/>Jesus, take your place<br/>We will see God</lines>
+    </verse>
+  </lyrics>
+</song>

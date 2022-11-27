@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:17">
+  <properties>
+    <titles>
+      <title>Be glorified</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now God our father, You are the father,<br/>We are the works of Your hands.<br/>Mold us and make us, make us like Jesus,<br/>We are the works of your hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be glorified, God of our lives, be glorified in us.<br/>Be glorified, God of our lives, be glorified in us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God of creation, in celebration,<br/>Praising the God of our lives.<br/>Blessing the nation, Master creator,<br/>Praising the God of our lives.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>// Be glorified, God of our lives, be glorified in us.<br/>Be glorified, God of our lives, be glorified in us. //</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yours is the kingdom, the power the glory,<br/>The first hallelujah, the final amen.<br/>And I was created to praise you forever,<br/>Created to praise you again, and again.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And everything within my soul,<br/>gives glory to Your name.<br/>To Jesus Christ who was and is,<br/>And is coming again to reign.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Yours is the kingdom, the power the glory,<br/>The first hallelujah, the final amen.<br/>And I was created to praise you forever,<br/>Created to praise you again, and again.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>// Be glorified, God of our lives, be glorified in us.<br/>Be glorified, God of our lives, be glorified in us. //</lines>
+    </verse>
+  </lyrics>
+</song>

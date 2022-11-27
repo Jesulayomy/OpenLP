@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>When I survey the Wondrous Cross</title>
+    </titles>
+    <authors>
+      <author>Isaac Watts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I survey the wonderous Cross,<br/>On which the Prince of glory died,<br/>My richest gain I count but loss,<br/>And pour contempt on all my pride.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Forbid it, Lord, that I should boast,<br/>Save in the death of Christ my God:<br/>All the vain things that charm me most,<br/>I sacrifice them to His blood.<br/>See from His head, His hands, His feet,<br/>Sorrow and love flow mingled down:<br/>Did e’er such love and sorrow meet,<br/>Or thorns compose so rich a crown?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Were the whole realm of Nature mine,<br/>That were an offering far too small;<br/>Love so amazing, so divine,<br/>Demands my soul, my life, my all!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>O Little Town of Bethlehem</title>
+    </titles>
+    <authors>
+      <author type="music">Redner, Lewis Henry (1830-1908)</author>
+      <author type="words">Brooks, Phillips (1835-1893)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O little town of Bethlehem,<br/>How still we see thee lie;<br/>Above thy deep and dreamless sleep,<br/>The silent stars go by.<br/>Yet in thy dark streets shineth<br/>The everlasting light;<br/>The hopes and fears of all the years<br/>Are met in thee tonight.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Christ is born of Mary,<br/>And gather'd all above,<br/>While mortals sleep, the angels keep<br/>Their watch of wond'ring love.<br/>O morning stars together<br/>Proclaim the holy birth<br/>And praises sing to God the King<br/>And peace to men on earth.</lines>
+    </verse>
+  </lyrics>
+</song>

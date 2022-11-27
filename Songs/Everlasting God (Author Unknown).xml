@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>Everlasting God</title>
+      <title>Yesterday, today, forever</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everlasting God<br/>The years go by but You're unchanging<br/>In this fragile world<br/>You are the only firm foundation</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Always loving, always true<br/>Always merciful and good, so good</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesterday today and forever<br/>You are the same, You never change<br/>Yesterday today and forever<br/>You are faithful and we will trust in You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uncreated one<br/>You have no end and no beginning<br/>Earthly power fades<br/>But there is no end to your kingdom</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yahweh, God unchanging<br/>Yahweh, firm foundation</lines>
+    </verse>
+  </lyrics>
+</song>

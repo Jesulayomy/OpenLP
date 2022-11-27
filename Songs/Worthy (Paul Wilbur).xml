@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Worthy</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Wilbur</author>
+      <author type="music">Paul Wilbur</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy Worthy Worthy<br/>To receive our praise<br/>Holy Holy Holy<br/>Youre the Son of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are awesome<br/>God of power<br/>Lord of glory<br/>Come and fill this place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Awesome<br/>Power<br/>Glory<br/>Fill this place</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are awesome<br/>Power<br/>Glory<br/>Fill this place</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy Holy Holy<br/>You are awesome<br/>Come and fill this place</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are awesome<br/>God of mercy<br/>God of righteousness<br/>God of salvation</lines>
+    </verse>
+  </lyrics>
+</song>

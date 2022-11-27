@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>My Everything</title>
+      <title>When my hope is lost</title>
+    </titles>
+    <authors>
+      <author type="words">Owl City</author>
+      <author type="music">Owl City</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>When my hope is lost,<br/>And my strength is gone,<br/>I run to you, and you alone,<br/>When I can't get up and I can't go on,<br/>I run to you, and you alone,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Refrain:<br/>'Cause you're my light in the dark,<br/>And I sing with all of my heart,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Hallelujah, My almighty God divine,<br/>Hallelujah, I am yours and you are mine,<br/>This is all I know I will sa--y,<br/>Hallelujah, Hallelujah,<br/>You're my everything,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>When I'm plagued with pain,<br/>And filled with fear,<br/>I run to you, and you alone,<br/>When my days are few,<br/>And death is near,<br/>I run to you, and you alone,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Refrain:<br/>'Cause you're my light in the dark,<br/>And I sing with all of my heart,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Chorus:<br/>Hallelujah, My almighty God divine,<br/>Hallelujah, I am yours and you are mine,<br/>This is all I know I will sa-y,<br/>Hallelujah, Hallelujah,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bridge:<br/>When trouble comes and goes,<br/>And when the cold wind blows,<br/>I lift my hands up, I lift my hands up,<br/>When sorrow knocks me down,<br/>And you pick me off the ground,<br/>I lift my hands up, I lift my hands up,<br/>And I sing,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Breakdown:<br/>Hallelujah, My almighty God divine,<br/>Hallelujah, I am yours, and you are mine,<br/>This is all I know I will sa--y,</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Coda:<br/>Hallelujah, By the grace of God above,<br/>Hallelujah, Our shining light to shine above,<br/>This is all I know I will say,<br/>Hallelujah, Hallelujah,<br/>This is all I know I will say,<br/>Hallelujah, Hallelujah,<br/>You're my everything,<br/>Ohh ohh, you're my everything,</lines>
+    </verse>
+  </lyrics>
+</song>

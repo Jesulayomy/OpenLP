@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Just as I am</title>
+    </titles>
+    <authors>
+      <author>Charlotte Elliot</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just as I am, without one plea<br/>But that Thy blood was shed for me,<br/>And that Thou bid’st me come to Thee,<br/>O Lamb of God, I come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just as I am, and waiting not<br/>To rid my soul of one dark blot,<br/>To Thee, whose blood can cleanse each spot,<br/>O Lamb of God, I come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just as I am, though tossed about<br/>With many a conflict, many a doubt,<br/>Fightings and fears within, without,<br/>O Lamb of God, I come.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just as I am, poor, wretched, blind;<br/>Sight, riches, healing of the mind,<br/>Yea, all I need in Thee to find,<br/>O Lamb of God, I come.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Just as I am, Thou wilt receive,<br/>Wilt welcome, pardon, cleanse, relieve,<br/>Because Thy promise I believe,<br/>O Lamb of God, I come.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Just as I am, Thy love unknown<br/>Has broken every barrier down;<br/>Now to be Thine, yea, Thine alone,<br/>O Lamb of God, I come.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Just as I am, of that free love<br/>The breadth, length, depth and height to prove,<br/>Here for a season, then above,<br/>O Lamb of God, I come.</lines>
+    </verse>
+  </lyrics>
+</song>

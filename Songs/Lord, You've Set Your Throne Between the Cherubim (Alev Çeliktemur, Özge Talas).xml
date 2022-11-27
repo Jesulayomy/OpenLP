@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Lord, You've Set Your Throne Between the Cherubim</title>
+    </titles>
+    <authors>
+      <author type="music">Alev Çeliktemur</author>
+      <author type="words">Özge Talas</author>
+      <author type="music">Özge Talas</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Lord, You've set your throne between the cherubim, cherubim  //<br/>And unto this heart of mine you are Light, O Lord<br/>Word, O Lord / Life, O Lord / Strength, O Lord<br/>The glory of your brightness is a path to me<br/>A path to me, the Way to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You've spread your tent above me, O Lord<br/>Keep me secure, O my King<br/>By night, by day, I'll worship You, my Lord<br/>By night, by day, O Lord on high!</lines>
+    </verse>
+  </lyrics>
+</song>

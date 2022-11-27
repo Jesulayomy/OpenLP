@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>You</title>
+      <title>Faithful to me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faithful to me, faithful to me You are (x4)<br/>You are King of Glory<br/>You are the Awesome One<br/>You are mine forever<br/>You are an awesome God x2... You are (end)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fullness of joy, fullness of joy in You (x4)<br/>In You I'm completed<br/>In You I'm restored<br/>In You I'm forever<br/>Safe in the living Lord x2 in You (end)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So let the oceans roar let the heavens sing<br/>Let the whole earth praise the King of Kings</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Gabriel's Message</title>
+      <title>The Angel Gabriel From Heaven Came</title>
+    </titles>
+    <authors>
+      <author type="words">Basque</author>
+      <author type="music">Basque</author>
+      <author type="translate">Gould, Sabine Baring (1834-1924)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The angel Gabriel from heaven came, his wings as drifted snow, his eyes as flame; "All hail," said he, "thou lowly maiden, Mary, most highly favored lady," Gloria!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"For know a blessed Mother thou shalt be, all generations laud and honor thee, thy Son shall be Emmanuel, by seers foretold, most highly favored lady," Gloria!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then gentle Mary meekly bowed her head, "To me be as it pleaseth God," she said, "my soul shall laud and magnify His holy Name." most highly favored lady," Gloria!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Of her, Emmanuel, the Christ was born in Bethlehem, all on a Christmas morn, and Christian folk throughout the world will ever say most highly favored lady," Gloria!</lines>
+    </verse>
+  </lyrics>
+</song>

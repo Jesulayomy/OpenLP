@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Pass Me Not</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pass me not, O gentle Savior,<br/>Hear my humble cry;<br/>While on others Thou art calling,<br/>Do not pass me by.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Savior, Savior,<br/>Hear my humble cry;<br/>While on others Thou art calling,<br/>Do not pass me by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let me at a throne of mercy<br/>Find a sweet relief;<br/>Kneeling there in deep contrition,<br/>Help my unbelief.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trusting only in Thy merit,<br/>Would I seek Thy face;<br/>Heal my wounded, broken spirit,<br/>Save me by Thy grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou the Spring of all my comfort,<br/>More than life to me;<br/>Whom have I on earth beside Thee?<br/>Whom in heav'n but Thee?</lines>
+    </verse>
+  </lyrics>
+</song>

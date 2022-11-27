@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Almighty God My Redeemer</title>
+    </titles>
+    <copyright>1997 Darlene Zschech / Hillsongs Australia</copyright>
+    <authors>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Almighty God my Redeemer, My hiding place,<br/>My safe refuge, No other name like Jesus,<br/>No power can stand against You,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My feet are planted on this rock,<br/>And I will not be shaken<br/>My hope it comes from You alone,<br/>My Lord and my salvation</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your praise is always on my lips,<br/>Your Word is living in my heart<br/>And I will praise You with a new song,<br/>My soul will bless you Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You fill my life with greater joy,<br/>Yes I delight myself in You<br/>And I will praise You with a new song,<br/>My soul will bless You Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When I am weak<br/>You make me strong<br/>When I'm poor<br/>I know I'm rich<br/>For in the power of Your name<br/>All things are possible<br/>All things are possible<br/>All things are possible<br/>All things are possible</lines>
+    </verse>
+  </lyrics>
+</song>

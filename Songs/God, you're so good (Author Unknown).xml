@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>God, you're so good</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing love  that welcomes me  the kindness of mercy<br/>That bought with blood  wholeheartedly  my soul undeserving</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God, You're so good, God, You're so good<br/>God, You're so good, You're so good to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold the cross  age to age  and hour by hour<br/>The dead are raised, the sinner saved the work of Your power</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am blessed, I am called, I am healed, I am whole<br/>I am saved in Jesus' name<br/>Highly favored, anointed, filled with Your power<br/>For the glory of Jesus' name<br/>I am blessed, I am called, I am healed, I am whole<br/>I am saved in Jesus' name<br/>Highly favored, anointed, filled with Your power<br/>For the glory of Jesus' name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And should this  life bring suffering, Lord, I will remember<br/>What Calvary  has bought for me  both now and forever</lines>
+    </verse>
+  </lyrics>
+</song>

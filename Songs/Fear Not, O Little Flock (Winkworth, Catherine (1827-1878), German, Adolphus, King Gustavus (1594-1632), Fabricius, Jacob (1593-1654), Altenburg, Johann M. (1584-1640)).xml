@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Fear Not, O Little Flock</title>
+    </titles>
+    <authors>
+      <author type="music">German</author>
+      <author type="words">Adolphus, King Gustavus (1594-1632)</author>
+      <author type="words">Fabricius, Jacob (1593-1654)</author>
+      <author type="words">Altenburg, Johann M. (1584-1640)</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fear not, O little flock, the foe Who madly seeks your overthrow; Dread not his rage and pow'r; What though your courage sometimes faints, His seeming triumph o'er God's saints Lasts but one little hour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be of good cheer; your cause belongs To Him who can avenge your wrongs; Leave it to Him our Lord. Though hidden yet from all our eyes, He sees the Gideon who shall rise; To save us, and His word.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As true as God's own word is true, Not earth nor hell with all their crew Against us shall prevail. A jest and by\word are they grown; God is with us, we are His own, Our vict'ry cannot fail.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amen, Lord Jesus, grant our prayer! Great Captain, now Thine arm make bare; Fight for us once again. So shall thy saints and martyrs raise A mighty chorus to Thy praise, World without end. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

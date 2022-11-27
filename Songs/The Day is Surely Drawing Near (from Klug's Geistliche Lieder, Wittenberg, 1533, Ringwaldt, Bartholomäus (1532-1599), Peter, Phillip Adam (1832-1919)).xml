@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The Day is Surely Drawing Near</title>
+    </titles>
+    <authors>
+      <author type="music">from Klug's Geistliche Lieder, Wittenberg, 1533</author>
+      <author type="words">Ringwaldt, Bartholomäus (1532-1599)</author>
+      <author type="translate">Peter, Phillip Adam (1832-1919)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The day is surely drawing near, When God's Son, the Anointed, Shall with great majesty appear, As Judge of all appointed. All mirth and laughter then shall cease When flames on flames will still increase, As Scripture truly teacheth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A trumpet loud shall then resound, And all the earth be shaken; Then all who in their graves are found Shall from their sleep awaken. But all that live shall in that hour, By the Almighty's boundless pow'r Be changed at His commanding.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A book is opened then to all, A record truly telling What each hath done, both great and small, When he on earth was dwelling; And every heart be clearly seen, And all be known as they have been, In thoughts and words and actions.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then woe to those who scorned the Lord, And sought but carnal pleasures, Who here despised His precious Word, And loved their earthly treasures! With shame and trembling they will stand, And at the Judge's stern command To Satan be delivered.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Jesus, who my debt didst pay And for my sin wast smitten Within the Book of Life, oh, may My name be also written! I will not doubt; I trust in Thee, From Satan Thou hast made me free And from all condemnation.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Therefore, my Intercessor be, And for Thy blood and merit<br/>Declare my name from judgment free, With all who life inherit;<br/>That I may see Thee face to face<br/>With all thy saints in that blest place<br/>Which Thou for us hast purchased.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>O Jesus Christ, do not delay, O hasten our salvation!<br/>We often tremble on our way In fear and tribulation.<br/>Then hear us when we cry to Thee;<br/>Come, mighty Judge, and make us free<br/>From every evil. Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

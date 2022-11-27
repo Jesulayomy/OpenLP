@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Me da wase oo daa</title>
+      <title>Mefiri makoma mu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mefiri makoma mu<br/>Mehwɛ nea w'ayɛ<br/>ɛsɛ sɛ me da wase oo daa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wonsa no ho adwuma yɛ wanwa<br/>ɛsɛ sɛ me da wase oo daa</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Me da w'ase oo<br/>Me da w'ase oo<br/>Me da w'ase oo daa</lines>
+    </verse>
+  </lyrics>
+</song>

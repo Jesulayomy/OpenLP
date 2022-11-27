@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>I just came to praise the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Wayne Romero</author>
+      <author type="music">Wayne Romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just came to praise the Lord<br/>I just came to praise the Lord<br/>I just came to praise His Holy Name<br/>I just came to praise the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He came into my life<br/>One very special day<br/>He came into my heart<br/>To show me a better way<br/>He said He would never depart<br/>And this is why I sing:<br/>I just came to praise the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I just came to thank the Lord<br/>I just came to thank the Lord<br/>I just came to praise His Holy Name<br/>I just came to thank the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I just came to love the Lord<br/>I just came to love the Lord<br/>I just came to praise His Holy ame<br/>I just came to love the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

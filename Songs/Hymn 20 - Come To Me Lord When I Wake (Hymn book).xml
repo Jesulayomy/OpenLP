@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-07T17:18:48">
+  <properties>
+    <titles>
+      <title>Hymn 20 - Come To Me Lord When I Wake</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come to me, Lord, when first I wake,<br/>as the faint lights of morning break;<br/>bid purest thoughts within me rise,<br/>like crystal dewdrops to the sky</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come to me in the sultry noon,<br/>or earth's low communings will soon<br/>of thy dear face eclipse the light,<br/>and change my fairest day to night.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come to me in the evening shade,<br/>and, if my heart from thee hath strayed,<br/>O bring it back, and at thy side<br/>securely let me there abide.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come to me in the midnight hour,<br/>when sleep withholds its balmy power;<br/>let my lone spirit find her rest,<br/>like John, upon my Savior's breast.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come to me through life's varied way,<br/>and when its pulses cease to play,<br/>then, Savior, bid me come to thee,<br/>that where thou art, thy child may be.</lines>
+    </verse>
+  </lyrics>
+</song>

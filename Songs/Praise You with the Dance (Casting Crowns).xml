@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Praise You with the Dance</title>
+    </titles>
+    <authors>
+      <author type="words">Casting Crowns</author>
+      <author type="music">Casting Crowns</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing to the Lord,<br/>And I will lift my voice<br/>For You have heard my cry.<br/>I will sing to the Lord,<br/>And I will lift my hands<br/>For You have brought me out of the pit,<br/>For You have brought me out of the pit.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I'll sing glory, hallelujah;<br/>I lift Your name on high.<br/>And I'll sing holy, 'cause Your worthy;<br/>I'll praise You with the dance.<br/>And I'll sing glory, hallelujah;<br/>I lift Your name on high.<br/>And I'll sing holy, 'cause Your worthy;<br/>I'll praise You with the dance.<br/>I will praise You with the dance.<br/>I will praise You with the dance.</lines>
+    </verse>
+  </lyrics>
+</song>

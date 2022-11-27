@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Amazing</title>
+      <title>A love so undeserved</title>
+    </titles>
+    <copyright>2002 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A love so undeserved<br/>A gift that's free, You lavish on me<br/>A peace I could not earn<br/>And mercy for the freedom of my soul</lines>
+    </verse>
+    <verse name="c1">
+      <lines>That's what's so amazing about Your grace<br/>That's what's so amazing about Your grace<br/>Lord, every day You pour on me<br/>Your blessings of eternity<br/>And that's what's so amazing about Your grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Forgiveness runs so deep<br/>Within Your heart of loving kindness<br/>And, should a soul forget<br/>The cross of Christ reminds us everyday</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Freely I've received, now freely to give<br/>Freely I've received, now freely to give<br/>Freely I've received, now freely to give<br/>Give my life to You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Magnificent</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1695"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>You show Your majesty In every star that shines<br/>And every time we breathe<br/>Your glory, God, revealed from distant galaxies<br/>To here beneath our skin</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>You are higher than we ever could imagine,<br/>Closer than our eyes could ever see. You are...</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Magnificent  You alone are holy<br/>No-one else as glorious as You<br/>Magnificent, Jesus You are worthy<br/>Who can shine as brightly as You do?<br/>Magnificent<br/>You're so magnificent</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>You're lighting up our lives illuminate our hearts<br/>With everything You are.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>You are higher than we ever could imagine,<br/>closer than our eyes could ever see.<br/>We are pouring out our heart here in You presence.</lines>
+    </verse>
+  </lyrics>
+</song>

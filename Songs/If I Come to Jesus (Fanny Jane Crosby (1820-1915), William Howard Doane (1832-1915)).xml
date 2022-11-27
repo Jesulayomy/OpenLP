@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:14">
+  <properties>
+    <titles>
+      <title>If I Come to Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Fanny Jane Crosby (1820-1915)</author>
+      <author type="music">William Howard Doane (1832-1915)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If I come to Jesus,<br/>He will make me glad;<br/>He will give me pleasure<br/>When my heart is sad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>If I come to Jesus,<br/>Happy I shall be.<br/>He is gently calling<br/>Little ones like me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If I come to Jesus<br/>He will hear my prayer;<br/>He will love me dearly,<br/>He my sins did bear.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Refrain<br/>If I come to Jesus<br/>He will take my hand,<br/>He will kindly lead me<br/>To a better land.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Refrain<br/>There with happy children,<br/>Robed in snowy white,<br/>I shall see my Savior<br/>In that world so bright.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Refrain</lines>
+    </verse>
+  </lyrics>
+</song>

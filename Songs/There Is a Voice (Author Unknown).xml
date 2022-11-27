@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>There Is a Voice</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a voice that must be heard,<br/>There is a song that must be sung;<br/>There is a name that must be lifted high.<br/>There is a treasure more than gold,<br/>There is a King upon the throne;<br/>There is one whose praise will fill the skies.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His name is Jesus, friend of sinners,<br/>Jesus, Jesus, friend of mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a peace that calms our fears,<br/>There is a love stronger than death;<br/>There is a hope that goes beyond the grave.<br/>There is a Friend who won't let go,<br/>There is a heart that beats for You;<br/>There is one name by which we are saved.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I was captive to my fears,<br/>You were the one who came to me,<br/>You set me free.</lines>
+    </verse>
+  </lyrics>
+</song>

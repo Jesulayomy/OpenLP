@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Jesus Thank You (feat. Brook Hills Music)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4720"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The mystery of the cross I cannot comprehend<br/>The agonies of Calvary<br/>You the perfect Holy One crushed Your Son<br/>Who drank the bitter cup reserved for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your blood has washed away my sin<br/>Jesus, thank You<br/>The Father's wrath completely satisfied<br/>Jesus, thank You<br/>Once Your enemy, now seated at Your table<br/>Jesus, thank You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By Your perfect sacrifice I've been brought near<br/>Your enemy You've made Your friend<br/>Pouring out the riches of Your glorious grace<br/>Your mercy and Your kindness know no end</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lover of my soul<br/>I want to live for You (repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

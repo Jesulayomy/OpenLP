@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Cornerstone</title>
+    </titles>
+    <authors>
+      <author type="music">Hillsong</author>
+      <author type="words">Edward Mote</author>
+    </authors>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My hope is built on nothing less<br/>Than Jesus' blood and righteousness<br/>I dare not trust the sweetest frame<br/>But wholly trust is Jesus' name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ alone, Cornerstone<br/>Weak made strong in the Savior's love<br/>Through the storm<br/>He is Lord<br/>Lord of all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When darkness seems to hide His face<br/>I rest on His unchanging grace<br/>In every high and stormy gale<br/>My anchor holds within the veil<br/>My anchor holds within the veil</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is Lord<br/>Lord of all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When He shall come with trumpet sound<br/>Oh may I then in Him be found<br/>Dressed in His righteousness alone<br/>Faultless, stand before the throne</lines>
+    </verse>
+  </lyrics>
+</song>

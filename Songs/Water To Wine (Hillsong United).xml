@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Water To Wine</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5233"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Words and Music by Joel Houston</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 1<br/>Everlasting<br/>So infinite in wildest love<br/>My soul thirsts for the things above<br/>Turn this water into wine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2<br/>Blood and water<br/>The mercy flowing from Your side<br/>A river made of endless light<br/>When my heart was running dry</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS 1<br/>So I'll stay<br/>Stay in Your love<br/>As long as life within me I'll remain<br/>In who You are Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE 3<br/>Take this wineskin<br/>My spirit bursts for something new<br/>There's nothing I want more than You<br/>Only You can satisfy</lines>
+    </verse>
+    <verse name="v6">
+      <lines>CHORUS 2<br/>So I'll stay<br/>I'll stay in Your love<br/>As long as life within me<br/>I'll remain<br/>In who You are Lord</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So I'll stay<br/>Stay in Your love<br/>In the vintage of Your heart<br/>Lord only You could satisfy me</lines>
+    </verse>
+    <verse name="v8">
+      <lines>So I'll stay<br/>Fixed within Your life<br/>A branch within Your vine<br/>Apart from You Lord I've got nothing<br/>So I'll stay<br/>I will stay within Your hold<br/>I know You'll never let me go<br/>And my soul it runs with mercy</lines>
+    </verse>
+    <verse name="v9">
+      <lines>So I'll stay<br/>Stay in Your love<br/>I'll stay where You are<br/>As long as life remains</lines>
+    </verse>
+    <verse name="v10">
+      <lines>So I'll stay<br/>Stay with You<br/>I'll never walk away<br/>I'll never be the same<br/>Turn this water into wine<br/>I know You love me Lord<br/>I know You love me Lord<br/>I know You love me Lord<br/>I know You love me Lord</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Let Your Spirit transform my soul<br/>Your Spirit awakens me<br/>Your Spirit sets me free<br/>And for all I'm yet to know</lines>
+    </verse>
+    <verse name="v12">
+      <lines>I know You'll never let me go<br/>I know You love me<br/>I know You love me so<br/>I know what love means<br/>It's who You are</lines>
+    </verse>
+  </lyrics>
+</song>

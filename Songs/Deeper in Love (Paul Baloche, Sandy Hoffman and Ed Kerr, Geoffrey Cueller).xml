@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Deeper in Love</title>
+    </titles>
+    <copyright>1996 Integrity's Hosanna Music</copyright>
+    <authors>
+      <author type="words">Sandy Hoffman and Ed Kerr</author>
+      <author type="music">Sandy Hoffman and Ed Kerr</author>
+      <author type="words">Geoffrey Cueller</author>
+      <author type="music">Geoffrey Cueller</author>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a longing, only You can fill;<br/>A raging tempest only You can still.<br/>My soul is thirsting, Lord, to know You as I'm known;<br/>Drink from the river that flows before Your throne</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Take me deeper, deeper in love with You;<br/>Jesus, hold me close in Your embrace.<br/>Take me deeper, deeper than I've ever been before;<br/>I just want to love You more and more,<br/>How I long to be deeper in love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sunrise to sunrise, I will seek Your face;<br/>Drawn by the Spirit to the promise of Your grace.<br/>My heart has found in You a hope that will abide;<br/>Here in Your presence, for ever satisfied.</lines>
+    </verse>
+  </lyrics>
+</song>

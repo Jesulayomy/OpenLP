@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Dancing Generation</title>
+    </titles>
+    <copyright>2004 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>joy</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>appeal</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your mercy taught us how to dance<br/>To celebrate with all we have<br/>And we'll dance to thank you for mercy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your Glory taught us how to shout<br/>To lift Your name over all the earth<br/>And we'll shout to thank you for glory</lines>
+    </verse>
+    <verse name="p1">
+      <lines>It's the overflow<br/>Of a forgiven soul<br/>And now that we've seen you God<br/>Our hearts cannot stay silent</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And we'll be a dancing generation<br/>Dancing because of Your great mercy Lord<br/>Your great mercy Lord<br/>And we'll be a shouting generation<br/>Shouting because of Your great glory Lord<br/>Your great Glory Lord</lines>
+    </verse>
+  </lyrics>
+</song>

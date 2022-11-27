@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>In The Bleak MidWinter</title>
+    </titles>
+    <authors>
+      <author type="music">Holst, Gustav Theodore (1874-1934)</author>
+      <author type="words">Rossetti, Christina Georgina (1830-1894)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the bleak midwinter, frosty wind made moan, Earth stood hard as iron, water like a stone; Snow had fallen, snow on snow, snow on snow on snow, In the bleak midwinter, long ago.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our God, Heav'n cannot hold Him, nor earth sustain; Heav'n and earth shall flee away when He comes to reign. In the bleak midwinter a stable place sufficed The Lord God Almighty, Jesus Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Enough for Him, whom cherubim, worship night and day, Breastful of milk, and a mangerful of hay; Enough for Him, whom angels fall down before, Ox and ass and camel which adore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Angels and archangels may have gathered there, Cherubim and seraphim thronged the air; But His mother only, in her maiden bliss, Worshiped the beloved with a kiss.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>What can I give Him, poor as I am? If I were a shepherd, I would bring a lamb; If I were a Wise Man, I would do my part; Yet what can I give Him: give my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

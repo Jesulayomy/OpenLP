@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Thank You Jesus for the Blood</title>
+    </titles>
+    <authors>
+      <author type="words">Charity Gayle</author>
+      <author type="music">Charity Gayle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>intro</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was a wretch<br/>I remember who I was<br/>I was lost I was blind<br/>I was running out of time<br/>Sin separated<br/>The breach was far too wide<br/>But from the far side of the chasm<br/>You held me in Your sight</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So You made a way<br/>Across the great divide<br/>Left behind Heaven's throne<br/>To build it here inside<br/>And there at the cross<br/>You paid the debt I owed<br/>Broke my chains<br/>Freed my soul<br/>For the first time I had hope</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Thank You Jesus<br/>For the blood applied<br/>Thank You Jesus<br/>It has washed me white<br/>Thank You Jesus<br/>You have saved my life<br/>Brought me from the darkness<br/>Into glorious light</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You took my place<br/>Laid inside my tomb of sin<br/>You were buried for three days<br/>But then You walked right out again<br/>And now death has no sting<br/>And life has no end<br/>For I have been transformed<br/>By the blood of the Lamb</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There is nothing stronger<br/>Than the wonder working power<br/>Of the blood the blood<br/>That calls us sons and daughters<br/>We are ransomed by our Father<br/>Through the blood the blood</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Glory to His name<br/>Glory to His name<br/>There to my heart<br/>Was the blood applied<br/>Glory to His name</lines>
+    </verse>
+  </lyrics>
+</song>

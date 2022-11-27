@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Splinters and Stones</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2587"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>Fate<br/>Holds nothing on the providence I know<br/>No longer bound to things of wood and stone<br/>When all I had to offer was my worst<br/>You saw my heavy heart and loved me first</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your beauty staring down my brokenness<br/>You chose to throw Your heart into the mess<br/>Compassion crashing down upon my debt You were there</lines>
+    </verse>
+    <verse name="v3">
+      <lines>PRE-CHORUS 1<br/>All this time<br/>Like a river running through my failure<br/>You carried me all this time<br/>Like the splinters buried in<br/>Your shoulders You carry me now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS 1<br/>Hallelujah<br/>If ever now my heart cries hallelujah<br/>If ever now in the wonder of Your grace<br/>A thousand times a thousand years my soul<br/>Will say</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE 2<br/>Grace<br/>You saw the crushing weight my flesh deserved<br/>You kneeled and wrote forgiveness in the dirt<br/>And one by one the stones fell where they lay<br/>As one by one my accusers walked away<br/>With nothing left to throw they made a cross<br/>And knowing only love could count the cost<br/>You were there</lines>
+    </verse>
+    <verse name="v6">
+      <lines>PRE-CHORUS 2<br/>All this time<br/>Like a river running through my failure<br/>You carried me all this time<br/>Like the splinters buried in<br/>Your shoulders Your love carried all my shame<br/>Jesus how my soul will praise You<br/>You carried me all this way<br/>Like a diamond in the scars upon<br/>Your crown You carry me now</lines>
+    </verse>
+    <verse name="v7">
+      <lines>CHORUS 2<br/>Hallelujah<br/>If ever now my heart cries hallelujah<br/>If ever now in the wonder of Your grace<br/>A thousand times a thousand years<br/>My soul will say<br/>Hallelujah<br/>Forever now in the greatness of my Saviour<br/>Forever now in the brightness of<br/>Your Name Jesus on this rock I'll sing Your praise</lines>
+    </verse>
+  </lyrics>
+</song>

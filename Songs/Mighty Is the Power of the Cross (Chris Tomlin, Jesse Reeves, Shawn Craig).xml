@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Mighty Is the Power of the Cross</title>
+    </titles>
+    <copyright>2004 Ariose Music | PraiseSong Press | worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Shawn Craig</author>
+      <author type="music">Shawn Craig</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What can take a dying man<br/>And raise him up to life again?<br/>What can heal a wounded soul?<br/>What can make us white as snow?<br/>What can fill the emptiness?<br/>What can mend our brokenness,<br/>Brokenness?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mighty, awesome, wonderful<br/>Is the holy cross,<br/>Where the Lamb laid down His life<br/>To lift us from the fall.<br/>Mighty is the power of the cross.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What restores our faith in God?<br/>What reveals the Father's love?<br/>What can lead the wayward home?<br/>What can melt a heart of stone?<br/>What can free the guilty ones?<br/>What can save and overcome,<br/>Overcome?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>It's a miracle to me.<br/>(It's a miracle to me.)<br/>And it's still a mystery.<br/>(And it's still a mystery.)<br/>It's a miracle to me,<br/>The power of God<br/>For those who believe.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Mighty, awesome, wonderful<br/>Is the holy cross,<br/>Where the Lamb laid down His life<br/>To lift us from the fall.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Mighty is the power of,<br/>Mighty is the power of,<br/>Mighty is the power of the cross.</lines>
+    </verse>
+  </lyrics>
+</song>

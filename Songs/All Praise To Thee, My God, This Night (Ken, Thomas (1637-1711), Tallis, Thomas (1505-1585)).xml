@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>All Praise To Thee, My God, This Night</title>
+    </titles>
+    <authors>
+      <author type="music">Tallis, Thomas (1505-1585)</author>
+      <author type="words">Ken, Thomas (1637-1711)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All praise to Thee, my God, this night, For all the blessings of the light! Keep me, O keep me, King of kings, Beneath Thine own almighty wings.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Forgive me, Lord, for Thy dear Son, The ill that I this day have done, That with the world, myself, and Thee, I, ere I sleep, at peace may be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teach me to live, that I may dread The grave as little as my bed. Teach me to die, that so I may Rise glorious at the judgment day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O may my soul on Thee repose, And with sweet sleep mine eyelids close, Sleep that may me more vig'rous make To serve my God when I awake.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When in the night I sleepless lie, My soul with heav'nly thoughts supply; Let no ill dreams disturb my rest, No pow'rs of darkness me molest.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O when shall I, in endless day,<br/>For ever chase dark sleep away,<br/>And hymns divine with angels sing,<br/>All praise to thee, eternal King?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Praise God, from Whom all blessings flow;<br/>Praise Him, all creatures here below;<br/>Praise Him above, ye heavenly host;<br/>Praise Father, Son, and Holy Ghost.</lines>
+    </verse>
+  </lyrics>
+</song>

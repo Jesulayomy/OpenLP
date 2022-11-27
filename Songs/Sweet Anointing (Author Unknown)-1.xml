@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Sweet Anointing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sweet, sweet annointing,<br/>pouring down to make me clean,<br/>like a mighty rushing stream,<br/>sweet, sweet annointing,<br/>pouring out the oil and wine all over me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Just one touch,<br/>of the hand of my Jesus,<br/>dipped into the Oil of The Holy Ghost<br/>it will sooth all my fears, wipe away all my tears,<br/>it's the annointing that i need the most.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now we lift our hands unto the father,<br/>send forth rain upon this dry and thirsty land,<br/>all my sins please forgive,<br/>give me life that i might live,<br/>let me feel the touch of your annointing hand.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Jesus sweet Jesus in me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus sweet Jesus in me.<br/>No longer me but Thee.<br/>Ressurection power,<br/>fill me this hour,<br/>Jesus sweet Jesus in me.</lines>
+    </verse>
+  </lyrics>
+</song>

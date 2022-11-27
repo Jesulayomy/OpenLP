@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>When the fight calls</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Young &amp; Free</author>
+      <author type="music">Hillsong Young &amp; Free</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3138"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>You've overcome this world with love<br/>And made my fight Your own<br/>I lift my eyes and throw fear aside<br/>And sing out into the night</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Cause even when the world caves<br/>Even when the fight calls<br/>Even when the war's waged<br/>I'll take heart<br/>I know You are greater<br/>Forever You are Savior<br/>I will sing Your praise<br/>With all that I have<br/>With all that I am Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>I'll stare down the waves cause You own the tide<br/>I still my soul and know<br/>You wait for me on waters wild<br/>Where faith walks above the storm</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I won't let the storm weather my heart<br/>Won't let the darkness beat me down<br/>Sing in the night my hope alive in You<br/>I'll walk through the fire and not be burned<br/>Pray in the fight and watch it turn<br/>Jesus tonight I give it all to You</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:</lines>
+    </verse>
+  </lyrics>
+</song>

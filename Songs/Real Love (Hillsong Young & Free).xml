@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Real Love</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Young &amp; Free</author>
+      <author type="music">Hillsong Young &amp; Free</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2913"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Staring into Your eyes<br/>Makes my heart come alive<br/>Suddenly brought to life<br/>When I met You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Reaching beyond the skies<br/>Running deep, stretching wide<br/>Perfect love  realized<br/>Here with You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>Now this love is for real You will never let go,<br/>Never let go<br/>It's  more than just words love beyond my control<br/>Out of con-trol</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Channel:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is real love, this is real love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This is real love, this is real love</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>You're pulling me closer and closer<br/>holding my heart til the very end<br/>Jesus, I'm found in Your freedom<br/>this is real love, this is real love</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>In Your heart I am found<br/>I want You, I want You<br/>You won't let me down<br/>You've got me, You've got me</lines>
+    </verse>
+  </lyrics>
+</song>

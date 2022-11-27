@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:42">
+  <properties>
+    <titles>
+      <title>Miracle worker</title>
+    </titles>
+    <verseOrder>v v c o</verseOrder>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You don't have to worry, about the problems you face<br/>You don't have to carry, all those burdens alone<br/>There's someone who can carry, every problem that you face<br/>You can call him, my miracle worker<br/>He's here in this church today</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miracle worker, mender of destiny <br/>working in us, mending our lives<br/>Miracle worker, mender of destiny<br/>Changing all odds, working things out</lines>
+    </verse>
+    <verse name="o1">
+      <lines>He's a miracle worker <br/>(worker)<br/>Jesus is our miracle<br/>(worker)<br/>Changing our destiny<br/>(worker)<br/>Jesus is our miracle<br/>(worker)</lines>
+    </verse>
+  </lyrics>
+</song>

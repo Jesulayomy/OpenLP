@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>To Him Be Glory</title>
+    </titles>
+    <authors>
+      <author type="words">Kevin Jonas</author>
+      <author type="music">Kevin Jonas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For of Him and through Him<br/>And to Him are all things<br/>For of Him and through Him<br/>And to Him are all things</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To Him be glory<br/>To Him be glory<br/>To Him be glory<br/>Forever, amen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O the depth of the riches both<br/>Of the wisdom and knowledge of God<br/>How unsearchable are<br/>His judgments and His ways</lines>
+    </verse>
+  </lyrics>
+</song>

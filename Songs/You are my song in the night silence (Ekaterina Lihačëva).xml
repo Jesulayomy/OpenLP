@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>You are my song in the night silence</title>
+    </titles>
+    <authors>
+      <author type="words">Ekaterina Lihačëva</author>
+      <author type="music">Ekaterina Lihačëva</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5592"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my song in the night silence,<br/>You are the first breath of my soul.<br/>I don't have the strength to dream without You,<br/>My dreams are in You and my whole world.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are rock of my heart,<br/>There is no other happiness.<br/>Earthly treasures are like dust,<br/>You are more precious than the whole world.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Until there is a sun in the sky,<br/>Until the river runs to the river,<br/>I will not be tired of singing to<br/>You, my God, on earth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my berth in the hours of anxiety,<br/>My house among the steep roads.<br/>You are the inspiration for the hearts,<br/>My God, my Friend, and my Creator.</lines>
+    </verse>
+  </lyrics>
+</song>

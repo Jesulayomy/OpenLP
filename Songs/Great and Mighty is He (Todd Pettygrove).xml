@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>Great and Mighty is He</title>
+    </titles>
+    <authors>
+      <author type="words">Todd Pettygrove</author>
+      <author type="music">Todd Pettygrove</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Great and mighty is He,<br/>Great and mighty is He;<br/>Clothed in glory arrayed in splendour,<br/>Great and mighty is He.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Let us lift His name up high,<br/>Celebrate His grace;<br/>For He has redeemed our lives,<br/>And He reigns on high.</lines>
+    </verse>
+  </lyrics>
+</song>

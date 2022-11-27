@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Blessed be</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Blessed Be<br/>Blessed Be<br/>Blessed Be Your Name (2x)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You, Oh Lord, are a strong and<br/>mighty tower<br/>an ever present help<br/>in my darkest hour<br/>You're my hiding place,<br/>You're the ancient of days.<br/>You're the rock on which I'm<br/>standing,<br/>You are worthy of my praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You, Oh Lord, are the deep that I<br/>have searched for.<br/>The ever flowing fountain that<br/>my heart always thirst for.<br/>You're The One that makes me<br/>whole,<br/>You're The Lover of my soul,<br/>And whatever comes my way,<br/>I know You're in control</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let your people proclaim<br/>You are Holy<br/>You are Holy God<br/>And we lift up Your Name<br/>And give glory<br/>Glory to Your Name</lines>
+    </verse>
+  </lyrics>
+</song>

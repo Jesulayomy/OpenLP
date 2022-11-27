@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Dwell in Your House</title>
+    </titles>
+    <copyright>Hillsong Music</copyright>
+    <authors>
+      <author type="words">Paul Ewing</author>
+      <author type="music">Paul Ewing</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You set me apart<br/>Gave me a new heart<br/>Filled with compassion<br/>To share Your great love<br/>Show me Your ways<br/>I want to know You<br/>Guide me in truth<br/>My hope is in You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>That I may dwell in Your house forever<br/>Lifting up Your Name<br/>Dwell in Your house forevermore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll hold on to You<br/>My strength and my refuge<br/>Whom shall I fear<br/>I know You are near<br/>All of my days<br/>I live for You Lord<br/>Establish my path<br/>There's one thing I ask</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Holy Spirit have Your way<br/>Sweet anointing teach our hearts<br/>Our lives we pray</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>We Win</title>
+    </titles>
+    <copyright>2005 worshiptogether.com songs | sixsteps Music | Inot Music</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+      <author type="words">Jack Parker</author>
+      <author type="music">Jack Parker</author>
+      <author type="words">Mike Dodson</author>
+      <author type="music">Mike Dodson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're gonna shout loud,<br/>Loud until the walls come down.<br/>Shout loud, loud until the walls come down.<br/>Loud until the walls come down. (2X)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>'Cause we've already won,<br/>And you don't have a chance. (2X)<br/>Yeah, it's already done,<br/>And you don't have a chance,<br/>'Cause we've already won. We have already won.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're gonna shout loud,<br/>Loud until the final sound.<br/>Shout loud, loud until the final sound.<br/>Loud until the final sound.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We're gonna shout loud, loud until the walls come down. (8X)<br/>(This is for glory!)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Yeah, we have already won.<br/>We have already won.</lines>
+    </verse>
+  </lyrics>
+</song>

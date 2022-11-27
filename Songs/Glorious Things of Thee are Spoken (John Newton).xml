@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Glorious Things of Thee are Spoken</title>
+    </titles>
+    <authors>
+      <author>John Newton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glorious things of Thee are spoken,<br/>Zion, city of our God!<br/>He whose word cannot be broken<br/>Formed thee for His own abode.<br/>On the Rock of Ages founded,<br/>What can shake thy sure repose?<br/>With salvation’s walls surrounded,<br/>Thou mayest smile at all thy foes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See! The streams of living waters,<br/>Springing from eternal love,<br/>Well supply thy sons and daughters,<br/>And all fear of want remove;<br/>Who can faint, whilst such a river<br/>Ever flows their thirst to assuage?<br/>Grace which, like the Lord, the Giver,<br/>Never fails from age to age.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Round each habitation hovering,<br/>See the cloud and fire appear!<br/>For a glory and a covering,<br/>Showing that the Lord is near.<br/>He who gives them daily manna,<br/>He who listens when they cry:<br/>Let Him hear the loud hosanna<br/>Rising to His throne on high.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Saviour, if of Zion’s city<br/>I, through grace, a member am,<br/>Let the world deride or pity,<br/>I will glory in Thy name.<br/>Fading is the worldling’s pleasure,<br/>All his boasted pomp and show,<br/>Solid joys and lasting treasure<br/>None but Zion’s children know.</lines>
+    </verse>
+  </lyrics>
+</song>

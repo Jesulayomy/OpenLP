@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T09:24:52">
+  <properties>
+    <titles>
+      <title>Hymn 76 - ALLELUIA</title>
+    </titles>
+    <authors>
+      <author type="words">E. H. Bickersteth</author>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia!Alleluia!Alleluia!<br/>The strife is o'er, the  battle done<br/>The victory of life is won<br/>The song of triumph has begun<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The power of death have done<br/>Their worst<br/>But Christ their legions hath<br/>Dispersed<br/>Let shouts of holy joy outburst<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The three sad days have quickly <br/>Sped<br/>He rises glorious from the dead<br/>All glory to our risen Head<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He brake the age bound chains<br/>Of hell<br/>The bars from heaven's high<br/>Portals fell<br/>Let hymns of Praise<br/>His triumph tell<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, by the stripes which<br/>Wounded Thee<br/>From death's dread sting<br/>Thy servants free<br/>That we may live and sing to Thee<br/>Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

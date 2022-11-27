@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Te Amo, I Love You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Te Amo, I love You<br/>Con todo mi corazon(2x)<br/>With all my heart, Oh Senor<br/>With all my soul, Oh Senor<br/>I Love You Lord<br/>Te Amo, Te Amo<br/>I love You Lord, I love You Lord(2x)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I love the way, You never change<br/>Your Word remains for ever and ever<br/>I love Your Name, Jesus the same<br/>Yesterday today, for ever and ever<br/>Oh Lord your love never fails me<br/>Oh Lord you love never fails</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love Your Grace, that broke the chains<br/>Of sin and shame, for ever and ever<br/>I love Your Mercy, Lord You are Worthy<br/>Of all the Glory, for ever and ever<br/>Oohh oh oh Your Love never fails me<br/>No Your Love never fails me</lines>
+    </verse>
+  </lyrics>
+</song>

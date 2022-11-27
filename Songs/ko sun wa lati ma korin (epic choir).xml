@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:42">
+  <properties>
+    <titles>
+      <title>ko sun wa lati ma korin</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ko sun wa lati ma korin ti igbani <br/>ogo f'olorun Halleluyah!<br/>A le fi igbagbo korin na soke kikon ;<br/>ogo f'oiorun Hallelujah!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>omo olorun ni eto lati <br/>ma busayo<br/>pe ona yi nye wa si <br/>Okan wa nsaferi re <br/>nigbose a o de afin oba wa ologo ;<br/>ogo f ' olorun Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Awa nbe n' nu ibu ife to ra  wa pada<br/>Ogo f'olorun Halleluyah!<br/>Awa y'o fi iye goke lo s'oke orun;<br/>Ogo f'olorun Halleluyah!<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Awa nlo si afin kan ti a fi wura ko;<br/>Ogo f'olorun Halleluyah!<br/>Nibiti a o ri oba ogo n'nu ewa re;<br/>Ogo f'olorun Halleluyah!<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nibe a o korin titun tanu to da wa nde<br/>Ogo f'olorun Halleluyah!<br/>Nibe awon ayanfe yio korin 'yin kristi<br/>Ogo f'olorun Halleluyah!</lines>
+    </verse>
+  </lyrics>
+</song>

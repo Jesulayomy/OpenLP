@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>Give Thanks With a Grateful Heart</title>
+    </titles>
+    <copyright>1978 Integrity's Hosanna! Music</copyright>
+    <authors>
+      <author type="words">Henry Smith</author>
+      <author type="music">Henry Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>comfort</theme>
+      <theme>thanksgiving</theme>
+      <theme>gods-word</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give thanks with a grateful heart<br/>Give thanks to the Holy One<br/>Give thanks because He's given Jesus Christ, His Son</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And now let the weak say, "I am strong"<br/>Let the poor say, "I am rich"<br/>Because of what the Lord has done for us"<br/>Give Thanks</lines>
+    </verse>
+  </lyrics>
+</song>

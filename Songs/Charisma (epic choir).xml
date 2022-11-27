@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:40">
+  <properties>
+    <titles>
+      <title>Charisma</title>
+    </titles>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is glory<br/>Mighty Working Power<br/>At work in me<br/>There is glory<br/>Mighty Working Power<br/>At Work in me<br/>In the Holy Ghost</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My hands they heal<br/>My ears they hear<br/>My eyes they see<br/>In the Holy Ghost</lines>
+    </verse>
+    <verse name="b1">
+      <lines>In the Holy Ghost<br/>In the Holy Ghost<br/>In the Holy Ghost<br/>In the Holy Ghost</lines>
+    </verse>
+  </lyrics>
+</song>

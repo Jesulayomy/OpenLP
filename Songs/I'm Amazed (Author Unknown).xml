@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>I'm Amazed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No one knew how alone I was feeling<br/>And the emptiness I tried so hard to hide<br/>Though I laughed and said my life was fine without You<br/>I was covering up the secret tears I cried<br/>Then one day someone told me of Your mercy<br/>And the love You showed on a hill called calvary<br/>there You died and purchased my redemtion<br/>When You broke sin's power and set my spirit free</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I'm amazed that You love me<br/>I'm amazed how You care<br/>Through Your precious blood, I've found pardon<br/>And my sins are washed, they're all washed away,<br/>all my sins are washed away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes it's true there have been days I've failed You<br/>Lord You know the many times I've gone astray<br/>But I've learned that Your love is stronger than my weakness<br/>And Your ear is open every time I pray<br/>No one else has ever cared for me like You Lord<br/>Other friends could never be as close to me<br/>I'm not affraid to face the problems of tomorrow<br/>Knowing You are everything I'll ever need</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Best For Me</title>
+    </titles>
+    <authors>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2457"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Intro]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Verse 1]<br/>Jesus You're alive, You are alive, You are the Risen One<br/>Jesus You're alive, You are the life and resurrection</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Verse 1]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus You're alive, You are alive, You are the Risen One<br/>Jesus You're alive, You are the life and resurrection, woh, woh, woh</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Chorus]<br/>I live to worship, I live to worship You<br/>And I give my all to You, I give my all to You<br/>You gave Your best for me<br/>And I live to testify, and I live because You died<br/>And I give my all to You, I give my all to You<br/>You gave Your best for me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Bridge]<br/>There's no one like You Jesus<br/>There's no one like You Jesus</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[Verse 2]<br/>Jesus You're the only One I want, You're all I'm living for<br/>Jesus You are holy, all the glory is forever Yours, oh, oh, oh</lines>
+    </verse>
+    <verse name="v8">
+      <lines>[Instrumental]<br/>There's no one, there's no one, there's no one like You Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

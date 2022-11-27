@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:14">
+  <properties>
+    <titles>
+      <title>See His Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>guitar</theme>
+      <theme>salvation</theme>
+      <theme>meditation</theme>
+      <theme>sacrifice</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>See His love nailed onto a cross<br/>Perfect and blameless life<br/>given as sacrifice<br/>See Him there all in the name of love<br/>Broken yet glorious,<br/>all for the sake of us</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is Jesus in His glory<br/>King of Heaven dying for me<br/>It is finished, He has done it<br/>Death is beaten, Heaven beckons me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Greater love no one could ever show<br/>Mercy so undeserved,<br/>freedom I should not know<br/>All my sin, all of my hidden shame<br/>Died with Him on the cross,<br/>eternity won for us</lines>
+    </verse>
+    <verse name="b1">
+      <lines>// Such love, such love<br/>Such love is this for me  //</lines>
+    </verse>
+  </lyrics>
+</song>

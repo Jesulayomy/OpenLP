@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-06-05T08:43:09">
+  <properties>
+    <titles>
+      <title>Hymn 176 - Asegun Ati Ajogun Ni A Je</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="music">Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Asegun ati ajogun ni a je<br/>Nipa eje Kristi a ni isegun<br/>Oluwa mbe fun wa<br/>A ki y'o subu<br/>Ko sohun to le bori<br/>Agbara re</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Asegun ni wa<br/>Nipa eje Jesu<br/>Baba fun wa ni'segun<br/>Nipa eje Jesu<br/>Eni t'apa f'elese<br/>Sibe o wa O njoba<br/>Awa ju asegun lo </lines>
+    </verse>
+    <verse name="v2">
+      <lines>A nlo l'oruko Olorun<br/>Isreali<br/>Lati segun ese<br/>At'aisododo<br/>Ki 'se fun ewa<br/>Sugbon tire ni iyin<br/>Fun 'gbala ati 'segun<br/>T'a f'eje ra</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Enit'o ba segun li a o fifun<br/>Lati je manna<br/>T'o t'orun wa nihin<br/>L'ohun y'o gbe <br/>Imope asegun<br/>Y'o wo'so funfun<br/>Y'o d'ade wura</lines>
+    </verse>
+  </lyrics>
+</song>

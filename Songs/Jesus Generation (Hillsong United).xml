@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Jesus Generation</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2370"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 verse:<br/>Let the earth rejoice<br/>See the risen king<br/>On the clouds of praise<br/>He's exalted forever</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 verse:<br/>We will rise to him<br/>Son of righteousness<br/>And the earth will shake<br/>With the glory of heaven</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>See the heavens open wide<br/>And his glory like a flood<br/>Fills the earth with salvation<br/>See the nations take his hand<br/>And in righteousness they stand<br/>This is Je - sus' generation</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse: repeat<br/>We will rise to him<br/>Son of righteousness<br/>And the earth will shake<br/>With the glory of heaven</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Glo - ry glo - ry glo - ry<br/>Emanuel, God is with us</lines>
+    </verse>
+  </lyrics>
+</song>

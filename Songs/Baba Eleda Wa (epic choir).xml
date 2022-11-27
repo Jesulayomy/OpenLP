@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:40">
+  <properties>
+    <titles>
+      <title>Baba Eleda Wa</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Baba Eleda Wa<br/>Gbo orin iyin wa<br/>L'aye ati l'orun<br/>Baba Olubukun</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Iwo l'ogo ati iyin<br/>Ope ati ola ye fun</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wo Olorun Omo <br/>T'oku lati gba wa<br/>Enit' o ji dide<br/>Ti o si goke lo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Si O Emi Mimo<br/>Ni a korin iyin<br/>Iwo t'o fimole<br/>Iye si okan wa</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mimo, mimo, mimo<br/>Ni `yin metalokan<br/>La'ye ati l'orun<br/>L'ao ma korin pe;</lines>
+    </verse>
+  </lyrics>
+</song>

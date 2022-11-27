@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Bigger Than Any Mountain</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bigger than all the shadows that fall across my path,<br/>God is bigger than any mountain that I can or can not see.<br/>He's bigger than all the confusion, bigger than anything;<br/>God is bigger than any mountain that I can or can not see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus<br/>He's bigger than all my problems, bigger than all my fears;<br/>God is bigger than any mountain that I can or can not see.<br/>Oh, yes, he's bigger than all my questions, bigger than anything;<br/>God is bigger than any mountain that I can or can not see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's bigger than all the giants of pain and unbelief;<br/>God is bigger than any mountain that I can or can not see.<br/>He's bigger than any discouragement, bigger than anything;<br/>My God is bigger than any mountain that I can or can not see</lines>
+    </verse>
+  </lyrics>
+</song>

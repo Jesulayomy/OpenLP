@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Limitless</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5205"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm saying goodbye to any limitation<br/>I'm saying hello to the God of all creation<br/>There are no limits with you<br/>There are no limits with you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're limitless, nothing's too hard for you<br/>You're limitless, there's nothing you cannot do<br/>You are bigger, and you're greater, and you're stronger I know<br/>You're limitless, you're limitless</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's no limits with Jesus when we walk with Him<br/>There's no limits inside of us cause He lives within<br/>We're breaking every limitation, nothing's gonna hold us back<br/>We'll keep exceeding the limits until He comes back</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lord, you are bigger<br/>Lord, you are greater<br/>Lord, you are stronger<br/>Than anything</lines>
+    </verse>
+  </lyrics>
+</song>

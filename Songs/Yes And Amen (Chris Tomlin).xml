@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Yes And Amen</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4226"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro: BPM</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 Verse:<br/>Father of kindness You have poured out grace<br/>You brought me out of darkness You have filled me with peace<br/>Giver of mercy You're my help in time of need<br/>Lord I can't help but sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Faithful, You are<br/>Faithful, forever You will be<br/>Faithful, You are<br/>// All Your promises are yes and amen //</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 Verse:<br/>Beautiful Savior You have brought me near<br/>You pulled me from the ashes You have broken every curse<br/>Blessed redeemer You have set this captive free<br/>Lord I can't help but sing</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>I will rest in Your promises<br/>My confidence Is Your faithfulness<br/>I will rest in Your promises<br/>My confidence Is Your faithfulness</lines>
+    </verse>
+  </lyrics>
+</song>

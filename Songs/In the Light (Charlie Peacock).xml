@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>In the Light</title>
+    </titles>
+    <copyright>1991, 1997 Sparrow Song</copyright>
+    <authors>
+      <author type="words">Charlie Peacock</author>
+      <author type="music">Charlie Peacock</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>    I keep trying to find a life on my own apart from You;<br/>I am the king of excuses; I've got one for every selfish thing I do.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The disease of self runs through my blood, it's a cancer fatal to my soul;<br/>Every attempt on my behalf has failed to bring this sickness under control.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>What's going on inside of me? I despise my own behavior;<br/>This only serves to confirm my suspicions that I'm still a man in need of a Savior.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I wanna be in the light as You are in the light.<br/>I wanna shine like the stars in the heavens.<br/>Oh Lord, be my light, and be my salvation,<br/>'Cause all I want is to be in the light,<br/>All I want is to be in the light.</lines>
+    </verse>
+  </lyrics>
+</song>

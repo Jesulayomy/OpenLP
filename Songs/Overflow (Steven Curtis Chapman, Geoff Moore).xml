@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Overflow</title>
+    </titles>
+    <copyright>Songs On The Forefront | Geoff Moore Songs | Sparrow Song | Peach Hill Songs</copyright>
+    <authors>
+      <author type="words">Geoff Moore</author>
+      <author type="music">Geoff Moore</author>
+      <author type="words">Steven Curtis Chapman</author>
+      <author type="music">Steven Curtis Chapman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got a story to tell,<br/>and I am learning<br/>You've got a story as well,<br/>Flowing through us, making us who we are.<br/>And just like a river that runs, the story of Jesus comes<br/>Into our hearts so that we can know<br/>a love so great, it will overflow.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let the river run wild and free,<br/>the river of Your love for me.<br/>Fill my heart and my soul 'till I overflow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is a time to be real, this is a time for courage,<br/>Time for going deeper still, for letting go into His will.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Let the river run wild and free,<br/>the river of Your love for me.<br/>Fill my heart and my soul 'till I overflow.<br/>Let the river run wild and free,<br/>the river of Your grace for me.<br/>Fill my heart and my soul 'till I overflow.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Overflow, let me overflow. Fill my heart and my soul.<br/>Let me overflow, let me overflow.<br/>Fill my heart and my soul 'til I overflow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Guys:<br/>Let the river run wild and free,<br/>The river of your love for me.<br/>Fill my heart and my soul 'till I overflow.<br/>Let the river run wild and free,<br/>The river of your grace for me.<br/>Fill my heart and my soul 'till I overflow.<br/>Girls:<br/>Overflow, let me overflow.<br/>Fill my heart and my soul.<br/>Let me overflow, let me overflow.<br/>Fill my heart and my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

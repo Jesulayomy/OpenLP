@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T08:49:56">
+  <properties>
+    <titles>
+      <title>Hymn 170 - My life, my love I give to thee</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My life, my love I give to thee<br/>Thou lamb of God who died for me<br/>Oh, may I ever be faithful<br/>My savior and my God<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'll live for him who died for me<br/>How happy then my life shall be<br/>I'll live for him who died for me<br/>My savior and my God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I now believe thou dost receive<br/>For thou hast died hat I might live<br/>And now henceforth I'll trust in thee<br/>My savior and my God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O thou who died on calvary<br/>To save my soul and make me free<br/>I'll consecrate my life to thee<br/>My savior and my God.</lines>
+    </verse>
+  </lyrics>
+</song>

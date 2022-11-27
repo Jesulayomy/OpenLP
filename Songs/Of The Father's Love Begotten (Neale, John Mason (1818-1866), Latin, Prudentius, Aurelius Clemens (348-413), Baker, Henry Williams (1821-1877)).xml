@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Of The Father's Love Begotten</title>
+    </titles>
+    <authors>
+      <author type="music">Latin</author>
+      <author type="words">Prudentius, Aurelius Clemens (348-413)</author>
+      <author type="translate">Neale, John Mason (1818-1866)</author>
+      <author type="translate">Baker, Henry Williams (1821-1877)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Of the Father's love begotten Ere the worlds began to be, He is Alpha and Omega, He the source, the ending He, Of the things that are, that have been, And that future years shall see, Evermore and evermore!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At His Word they were created; He commanded; it was done: Heav'n and earth and depths of ocean In their threefold order one; All that grows beneath the shining Of the moon and burning sun, Evermore and evermore!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is found in human fashion, Death and sorrow here to know, That the race of Adam's children, Doomed by law to endless woe, May not henceforth die and perish In the dreadful gulf below, Evermore and evermore!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh that birth forever blessèd! When the virgin, full of grace, By the Holy Ghost conceiving, Bare the Savior of our race; And the Babe, the world's Redeemer, First revealed His sacred face, Evermore and evermore!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O ye heights of heav'n adore Him; Angel hosts, His praises sing; Pow'rs, dominions, bow before Him, and extol our God and King: Let no tongue on earth be silent, Every voice in concert ring, Evermore and evermore!</lines>
+    </verse>
+  </lyrics>
+</song>

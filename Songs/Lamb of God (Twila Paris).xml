@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:52">
+  <properties>
+    <titles>
+      <title>Lamb of God</title>
+    </titles>
+    <copyright>1985 Straightway Music</copyright>
+    <authors>
+      <author type="words">Twila Paris</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your only Son, no sin to hide; but You have sent Him from Your side,<br/>To walk upon this guilty sod and to become the Lamb of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your Gift of Love they crucified; they laughed and scorned Him as He died;<br/>The humble King, they named a fraud<br/>and sacrificed the Lamb of God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Lamb of God, sweet Lamb of God;<br/>I love the holy Lamb of God;<br/>O wash me in His precious blood;<br/>My Jesus Christ, the Lamb of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was so lost I should have died but You have brought me to Your side,<br/>To be led by Your staff and rod and to be called a lamb of God.</lines>
+    </verse>
+  </lyrics>
+</song>

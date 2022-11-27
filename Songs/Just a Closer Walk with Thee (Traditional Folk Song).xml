@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Just a Closer Walk with Thee</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">Traditional Folk Song</author>
+      <author type="music">Traditional Folk Song</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am weak but Thou art strong;<br/>Jesus keep me from all wrong.<br/>I'll be satisfied as long<br/>As I walk, let me walk close to Thee.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Just a closer walk with Thee,<br/>Grant it, Jesus, is my plea.<br/>Daily walking close to Thee,<br/>Let it be, dear Lord, let it be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thro' this world of toil and snares,<br/>If I faulter, Lord who cares?<br/>Who with me my burden shares?<br/>None but Thee, dear Lord, none but Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When this feeble life is o'er,<br/>Time for me will be no more;<br/>Guide me gently, safely o'er<br/>To Thy kingdom shore, to Thy shore.</lines>
+    </verse>
+  </lyrics>
+</song>

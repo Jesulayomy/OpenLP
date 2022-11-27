@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Home</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1120"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>My eyes have now been fixed<br/>My heart has now been set on love<br/>I've turned my gaze to this<br/>The One whom which my soul cries out for</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>There is none I've known<br/>That holds my heart as You do now<br/>I've made for You a home<br/>A place where love can grow and be found</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus: (x2)<br/>Draw to me Jesus<br/>I've made my heart a home<br/>My love is Jesus<br/>My love is You alone</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>It will not, it will never be enough<br/>Just to know about You Jesus<br/>But never call You my own<br/>For my, my heart was made for love<br/>I can't live without You Jesus<br/>It will not, it will never be enough<br/>Just to know about You Jesus<br/>And never call You my own<br/>For my, my heart was made for God<br/>I can't live without You Jesus</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Draw to me Jesus<br/>I've made my heart a home<br/>My love is Jesus<br/>My love is You alone</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Ending:<br/>Draw to me Jesus<br/>I've made my heart a home<br/>My love is Jesus<br/>My love is You alone</lines>
+    </verse>
+  </lyrics>
+</song>

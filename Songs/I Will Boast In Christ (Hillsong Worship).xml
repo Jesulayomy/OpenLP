@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>I Will Boast In Christ</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2168"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>♩= 71</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE: 1<br/>All I have because of Jesus<br/>All this promise won for me<br/>When He paid the highest ransom<br/>Once for always for my freedom</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>I will boast in Christ alone<br/>His righteousness and not my own<br/>I will cling to Christ my hope<br/>His mercy reigns now and forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE: 2<br/>Love will never lose its power<br/>All my failures could not erase<br/>Now I walk within Your favour<br/>Grace unending, my salvation</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Repeat CHORUS:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>What can wash away my sin<br/>Nothing but the blood of Jesus<br/>What can make me whole again<br/>Nothing but the blood of Jesus</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Repeat BRIDGE:<br/>Repeat CHORUS:<br/>Repeat BRIDGE:</lines>
+    </verse>
+    <verse name="c3">
+      <lines>REFRAIN:<br/>O precious is the flow<br/>That makes me white as snow<br/>No other     fount I know<br/>Nothing but the blood of Jesus<br/>Nothing but the blood of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

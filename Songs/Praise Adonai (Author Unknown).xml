@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Praise Adonai</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is like Him?<br/>The Lion and the Lamb<br/>Seated on the throne<br/>Mountains bow down,<br/>every ocean roars<br/>To the Lord of hosts</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise Adonai<br/>From the rising of the sun<br/>To the end of every day<br/>Praise Adonai<br/>All the nations of the earth<br/>All the angels and the saints<br/>sing praise</lines>
+    </verse>
+  </lyrics>
+</song>

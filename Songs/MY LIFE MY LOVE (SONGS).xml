@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:42">
+  <properties>
+    <titles>
+      <title>MY LIFE MY LOVE</title>
+    </titles>
+    <authors>
+      <author type="words">SONGS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Mo f'aye at'ife mi fun<br/>Od'aguntan to ku fun mi;<br/>Je ki n le je olotito,<br/>Jesu Olorun mi.<br/><br/>N o wa f'Eni t'O ku fun mi,<br/>Aye mi yo si dun pupo;<br/>N o wa f'Eni to ku fun mi,<br/>Jesu Olorun mi.<br/><br/>Mo gbagbo pe Iwo n gbani<br/>'Tori 'Wo ku k'emi le la;<br/>Emi yo si gbekele O,<br/>Jesu Olorun mi.<br/><br/>Iwo t'O ku ni Kalfari,<br/>Lati so mi dominira;<br/>Mo yara mi soto fun O,<br/>Jesu Olorun mi.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>The Lord Is Gracious and Compassionate</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is gracious and compassionate,<br/>Slow to anger and rich in love.<br/>The Lord is gracious and compassionate,<br/>Slow to anger and rich in love.<br/>The Lord is good to all.<br/>He has compassion for all that He has made,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As far as the east is from the west,<br/>That's how far He has removed our<br/>transgressions from us. (Repeat)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise the Lord, oh my soul, praise the Lord.<br/>Praise the Lord, oh my soul, praise the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

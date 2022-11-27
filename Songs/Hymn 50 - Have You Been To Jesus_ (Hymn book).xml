@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-05T17:36:12">
+  <properties>
+    <titles>
+      <title>Hymn 50 - Have You Been To Jesus?</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have you been to Jesus for the cleansing power?<br/>Are you washed in the blood of the Lamb?<br/>Are you fully trusting in His grace this hour?<br/>Are you washed in the blood of the Lamb?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Are you washed ?in the blood? <br/>In the soul cleaning blood of The Lamb?<br/>Are your garments spotless ?<br/>Are they white as snow ?<br/>Are you washed in the blood of The Lamb?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are walking daily by the Saviour's side?<br/>Are you washed in the blood of The Lamb? <br/>Do you rest each moment in the Crucified?<br/>Are you washed in the blood of The Lamb? </lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the Bridegroom cometh will your robes be white?<br/>Pure and white in the blood of The Lamb? <br/>Will your soul be ready for the mansions bright? <br/>And be washed in the blood of The Lamb</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lay aside the garment that are stained with sin <br/>And be washed in the blood of The Lamb <br/>There's a fountain flowing for the soul unclean <br/>O be washed in the blood of The Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

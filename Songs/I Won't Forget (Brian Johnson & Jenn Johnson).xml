@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>I Won't Forget</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson &amp; Jenn Johnson</author>
+      <author type="music">Brian Johnson &amp; Jenn Johnson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3720"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>christian-living</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse 1]<br/>I won't forget the price You paid<br/>Though death was mine, You took my place<br/>I won't forget the sacrifice<br/>For to this love I owe my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Chorus]<br/>Jesus, oh the wonder of Your Name<br/>Jesus, I'm forever changed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Verse 2]<br/>You searched my heart and know my ways<br/>You've held me in Your hands of grace<br/>Now I have found my peace with God<br/>A refuge in my Saviour's love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Chorus]<br/>Jesus, oh the wonder of Your Name<br/>Jesus, I'm forever changed<br/>Jesus, oh the wonder of Your Name<br/>Jesus, I'm forever changed</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Bridge]<br/>You came in the night and tore down the walls<br/>That held my broken heart<br/>When all I could see lay ruined scarred<br/>Your light shattered the dark<br/>You came in the night and tore down the walls<br/>That held my broken heart<br/>When all I could see lay ruined and scarred<br/>Your light shattered the dark</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Chorus]<br/>Jesus, oh the wonder of Your Name<br/>Jesus, I'm forever changed</lines>
+    </verse>
+  </lyrics>
+</song>

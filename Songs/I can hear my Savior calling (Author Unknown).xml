@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>I can hear my Savior calling</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can hear my Savior calling,<br/>I can hear my Savior calling,<br/>I can hear my Savior calling,<br/>"Take thy cross and follow,<br/>follow Me."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where He leads me I will follow,<br/>Where He leads me I will follow,<br/>Where He leads me I will follow,<br/>I'll go with Him, with Him all the way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll go with Him through the garden,<br/>I'll go with Him through the garden,<br/>I'll go with Him through the garden,<br/>I'll go with Him, with Him all the way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll go with Him through the judgment,<br/>I'll go with Him through the judgment,<br/>I'll go with Him through the judgment,<br/>I'll go with Him, with Him all the way.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He will give me grace and glory,<br/>He will give me grace and glory,<br/>He will give me grace and glory,<br/>And go with me, with me all the way.</lines>
+    </verse>
+  </lyrics>
+</song>

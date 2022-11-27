@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>Let Your Word Be Born</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It was in a simple stable<br/>All beaten and worn<br/>Hardly a place<br/>For a King to be born<br/>He didnt chose a place special<br/>To reveal His Majesty<br/>So I know if I give Him control<br/>He will be born in me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Let Your word be born<br/>in the manger of my heart<br/>Let it live in me, let it start<br/>Live inside this house of clay<br/>and be molded every day<br/>Let your word be born<br/>in the manger of my heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now outwardly I am nothing<br/>Not much to behold<br/>not likely a place<br/>For His Word to unfold<br/>But if I'll just yield this vessel<br/>And let Him have His way<br/>From glory unto glory<br/>He'll change me day by day</lines>
+    </verse>
+  </lyrics>
+</song>

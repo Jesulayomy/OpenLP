@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>It's Christmas</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2893"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 Verse:<br/>Can you feel it in the air?<br/>Joy is everywhere It's Christmas<br/>Everything is shining bright<br/>Oh, what a glorious night It's Christmas</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>It's the greatest time of the year<br/>It's the greatest time of the year</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Come on let's celebrate, it's Christmas<br/>So be of good cheer, for Jesus is here<br/>Come on let's celebrate, it's Christmas<br/>So everybody sing and let the music ring<br/>It's Christmas</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 Verse:<br/>There is a reason why<br/>We celebrate tonight It's Jesus<br/>The greatest gift of all<br/>He came to save us all He's Jesus<br/>And it's Christmas</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pre Chorus:<br/>It's the greatest time of the year<br/>It's the greatest time of the year</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Chorus:<br/>Come on let's celebrate, it's Christmas<br/>So be of good cheer, for Jesus is here<br/>Come on let's celebrate, it's Christmas<br/>So everybody sing and let the music ring<br/>It's Christmas</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Chorus:<br/>Come on let's celebrate<br/>Come on let's celebrate, it's Christmas<br/>So be of good cheer, for Jesus is here<br/>Come on let's celebrate, it's Christmas<br/>So everybody sing and let the music ring<br/>It'sChristmas</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Outro:<br/>It's Christmas (gonna celebrate)<br/>It's Christmas (let the music ring)<br/>It's Christmas</lines>
+    </verse>
+  </lyrics>
+</song>

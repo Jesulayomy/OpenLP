@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Give My All</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3914"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>I bring my best praise<br/>And I'm ready to give it all to You<br/>I bring my whole heart<br/>And I'm ready to pour it out on You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>I bring my energy and passion<br/>You're worthy of nothing less<br/>Your love is stirring me to action<br/>So I'm gonna give my best</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I give my all to You<br/>'Cause You are worth it, Lord You deserve it<br/>I give my all to You<br/>All of my passion, my heart's reaction<br/>You have it all, You have it all, You have it all<br/>You have it all, You have it all, You have it all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Interlude:<br/>You have it all<br/>You have it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>I bring a new song<br/>And I'm gonna sing it out to You<br/>I bring a fresh love<br/>And I'm trading the old in me for new</lines>
+    </verse>
+    <verse name="c3">
+      <lines>PreChorus:<br/>I bring my energy and passion<br/>You're worthy of nothing less<br/>Your love is stirring me to action<br/>So I'm gonna give my best</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Chorus:<br/>I give my all to You<br/>'Cause You are worth it, Lord You deserve it<br/>I give my all to You<br/>All of my passion, my heart's reaction<br/>You have it all, You have it all, You have it all<br/>You have it all, You have it all, You have it all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Interlude:<br/>You have it all<br/>You have it all</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>As I praise and lift Your name<br/>The walls come down<br/>I celebrate, Your freedom reigns<br/>The walls come down</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Chorus:<br/>I give my all to You<br/>'Cause You are worth it, Lord You deserve it<br/>I give my all to You<br/>All of my passion, my heart's reaction<br/>You have it all, You have it all, You have it all<br/>You have it all, You have it all, You have it all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Interlude:<br/>You have it all<br/>You have it all<br/>You have it all<br/>You have it all</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Ending:</lines>
+    </verse>
+  </lyrics>
+</song>

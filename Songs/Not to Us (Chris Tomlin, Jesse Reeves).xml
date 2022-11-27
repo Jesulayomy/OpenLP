@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Not to Us</title>
+    </titles>
+    <authors>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The cross before me, the world behind.<br/>No turning back, raise the banner high.<br/>It's not for me; it's all for You.<br/>Let the heavens shake and split the sky.<br/>Let the people clap their hands and cry.<br/>It's not for us; it's all for You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Not to us, but to Your name  be the glory.<br/>Not to us, but to Your name  be the glory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our hearts unfold before Your throne.<br/>The only place for those who know:<br/>It's not for us; it's all for You.<br/>Send Your holy fire on this offering.<br/>Let our worship burn for the world to see.<br/>It's not for us; it's all for You, for You.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>The earth is shaking, the mountains shouting;<br/>It's all for You.<br/>The waves are crashing, the sun is raging;<br/>It's all for You.<br/>The universe is spinning and singing;<br/>It's all for You<br/>Your children dancing, dancing, dancing;<br/>It's all for You; it's all for You.</lines>
+    </verse>
+  </lyrics>
+</song>

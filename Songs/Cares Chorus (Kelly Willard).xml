@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Cares Chorus</title>
+    </titles>
+    <copyright>1978 Maranatha Praise, Inc.</copyright>
+    <authors>
+      <author type="words">Kelly Willard</author>
+      <author type="music">Kelly Willard</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I cast all my cares upon You,<br/>I lay all of my burdens down at Your feet.<br/>And any time I don't know what to do,<br/>I will cast all my cares upon You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I cast all my cares upon You,<br/>I lay all of my burdens down at Your feet.<br/>And any time I don't know just what to do,<br/>I will cast all my cares upon You;<br/>I will cast all my cares upon You.</lines>
+    </verse>
+  </lyrics>
+</song>

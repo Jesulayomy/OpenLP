@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Jesus Christ, Our Blessed Savior</title>
+      <title>Jesus Christ Our Redeemer Born, Christ Who Freed Our Souls From Danger, Jesus Christ Our God and Savior</title>
+    </titles>
+    <authors>
+      <author type="music">from Walter's Geistliche Gesangbüchlein, 1524</author>
+      <author type="words">Hus, John (1369-1415)</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+      <author type="translate">unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Christ, our Blessed Savior, Turned away God's wrath forever; Suff'ring pains no tongue can tell, He saved us from the pains of hell.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To remind us that, to save us He hath died, His flesh He gave us With this bread, a quick'ning food, And with this wine, His precious blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Whoso to this board repaireth, Take good heed how He prepareth; Death instead of life shall He Receive who comes unworthily.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise the Father, God in heaven, Who such dainty food hath given, And for misdeeds thou hast done Gave to die His beloved Son.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thou shalt hold with faith unshaken, That this food is to be taken By the sick who are distressed, By those whose heart is sin\oppressed.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>To such grace and mercy turneth<br/>Every soul that truly mourneth;<br/>Art thou well? Avoid this board,<br/>Else thou reapest an ill reward.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Christ says: "Come ye heavy-laden,<br/>I your weary hearts will gladden;<br/>They that are yet strong and well,<br/>Despise the best physician's skill.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Couldst thou earn thine own salvation,<br/>Useless were my death and passion;<br/>This feast is not spread for thee,<br/>If thine own helper thou wilt be.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>If thou this believest truly,<br/>And confession makest duly,<br/>Thou a welcome guest art here,<br/>This heavenly food thy soul shall cheer.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>But the fruits must not be missing,<br/>Love thy neighbor without ceasing,<br/>That true love let him receive,<br/>Which here to thee thy God doth give.</lines>
+    </verse>
+  </lyrics>
+</song>

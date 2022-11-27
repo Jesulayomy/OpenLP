@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>I Feel Like I'm Falling</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>INTRO:<br/>G C Em D C</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE1:<br/>Standing tall in this wide space<br/>Getting lost in Your embrace<br/>I see a fire burning brighter<br/>It's calling me to catch the flame</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE2:<br/>You're drawing me closer to Your side<br/>It's the safest place I know where to hide<br/>With one glance You captured my heart<br/>You speak Your words, You speak Your words that set me apart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS:<br/>I feel like I'm falling<br/>over and over in love with You<br/>It's not just a feeling<br/>but I know that He is real<br/>I feel like I'm falling<br/>into the arms of the mighty God<br/>It's not just a feeling<br/>but I know that He is real</lines>
+    </verse>
+    <verse name="v5">
+      <lines>G D/F#<br/>I feel like I'm falling<br/>I feel like I'm falling<br/>I feel like I'm falling<br/>Falling into the arms of love</lines>
+    </verse>
+  </lyrics>
+</song>

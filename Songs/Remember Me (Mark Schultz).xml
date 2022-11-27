@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Remember Me</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Schultz</author>
+      <author type="music">Mark Schultz</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Remember me in a Bible cracked and faded through the years.<br/>Remember me in a sanctuary filled with silent prayer.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And age to age and heart to heart,<br/>Bound by grace and peace,<br/>Child of wonder, child of God,<br/>I've remembered you; remember Me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Remember me when the color of the sunset fills the sky.<br/>Remember me when you pray and tears of joy fall from your eyes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Remember me when the children leave their Sunday school with smiles.<br/>Remember me when they're Old enough to teach,<br/>Old enough to preach, Old enough to leave.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Age to age and heart to heart, child of wonder, child of God.<br/>Remember me.<br/>Age to age and heart to heart, child of wonder, child of God.</lines>
+    </verse>
+  </lyrics>
+</song>

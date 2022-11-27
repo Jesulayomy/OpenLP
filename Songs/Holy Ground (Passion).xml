@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Holy Ground</title>
+    </titles>
+    <authors>
+      <author type="words">Passion</author>
+      <author type="music">Passion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>1 verse:<br/>Here as we wait seek Your face<br/>Come and make Your throne upon our praise<br/>Here in this place have Your way<br/>The moment that we see You, we are changed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus:<br/>Show us Your glory show us Your glory<br/>In wonder and surrender we fall down<br/>Show us Your glory show us Your glory<br/>Let every burning heart be holy ground</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2 verse:<br/>Here, not by power not by might<br/>But only by the cross we come alive<br/>Here, we're undone overcome<br/>By heaven's love revealed before our eyes</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chorus:<br/>Show us Your glory show us Your glory<br/>In wonder and surrender we fall down<br/>Show us Your glory show us Your glory<br/>Let every burning heart be holy ground</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bridge:<br/>Chains fall fear bow here, now<br/>Jesus, you change everything<br/>Lives healed hope found here, now<br/>Jesus, you change everything</lines>
+    </verse>
+  </lyrics>
+</song>

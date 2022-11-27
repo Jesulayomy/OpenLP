@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>He Who Would Valiant Be</title>
+    </titles>
+    <authors>
+      <author>John Bunyan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He who would valiant be<br/>’Gainst all disaster,<br/>Let him in constancy<br/>Follow the Master.<br/>There’s no discouragement<br/>Shall make him once relent<br/>His first avowed intent<br/>To be a pilgrim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who so beset him round<br/>With dismal stories,<br/>Do but themselves confound—<br/>His strength the more is.<br/>No foes shall stay his might,<br/>Though he with giants fight;<br/>He will make good his right<br/>To be a pilgrim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Since, Lord, Thou dost defend<br/>Us with Thy Spirit,<br/>We know we at the end<br/>Shall life inherit.<br/>Then fancies flee away!<br/>I’ll fear not what men say,<br/>I’ll labour night and day<br/>To be a pilgrim.</lines>
+    </verse>
+  </lyrics>
+</song>

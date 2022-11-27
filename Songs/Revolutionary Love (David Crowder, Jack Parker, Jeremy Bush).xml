@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Revolutionary Love</title>
+    </titles>
+    <copyright>2003 worshiptogether.com songs | sixsteps Music | Inot Music</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+      <author type="words">Jack Parker</author>
+      <author type="music">Jack Parker</author>
+      <author type="words">Jeremy Bush</author>
+      <author type="music">Jeremy Bush</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're a revolution. You're a revolution.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Desperation leads us here, leads us here.<br/>Illumination meets us here, meets us here.<br/>Revelation brings us here, brings us here.<br/>Restoration frees us here, frees us here.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And I don't want to leave, I don't want to leave this place.<br/>No, I don't want to leave, I never want to leave this place.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It's so amazing - Your unchanging love.<br/>Simply amazing, never-changing love, love,<br/>Love, (revolutionary love).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reparation leads us here, leads us here.<br/>Liberation meets us here, meets us here.<br/>Jubilation brings us here, brings us here.<br/>Higher elevation frees us here, frees us here.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your revolutionary love. Your revolutionary love.<br/>Your revolutionary love, love, love.<br/>You're a revolution. I want to be revolutionary.<br/>You're a revolution. I want to be revolutionary.<br/>You're a revolution. I want to be<br/>Love, love, love,revolutionary love.</lines>
+    </verse>
+  </lyrics>
+</song>

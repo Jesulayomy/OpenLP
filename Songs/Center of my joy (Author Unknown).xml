@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Center of my joy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, You're the center of my joy<br/>All that's good and perfect comes from You<br/>You're the heart of my contentment<br/>Hope for all I do<br/>Jesus, You're the center of my joy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I've lost my direction<br/>You're the compass for my way<br/>You're the fire and light<br/>When nights are long and cold<br/>In sadness You are the laughter<br/>That shatters all my fears<br/>When I'm all alone<br/>Your hand is there to hold</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, You're the center of my joy<br/>All that's good and perfect comes from You<br/>You're the heart of my contentment<br/>Hope for all I do<br/>Jesus, You're the center of my joy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are why I find pleasure<br/>In the simple things in life<br/>You're the music in the meadows and the streams<br/>The voices of the children, my family and my home<br/>You're the source and finish of my highest dreams</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, You're the center of my joy<br/>All that's good and perfect comes from You<br/>You're the heart of my contentment<br/>Hope for all I do<br/>Jesus, You're the center of my joy</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus, You are the center of my joy<br/>Jesus, You are the center of my joy<br/>Jesus, You are the center of my joy<br/>Jesus, You are the center of my joy</lines>
+    </verse>
+  </lyrics>
+</song>

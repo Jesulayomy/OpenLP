@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The Winds and Billows Loudly Roar</title>
+    </titles>
+    <authors>
+      <author type="music">Wyeth, John (1770-1858)</author>
+      <author type="words">Wordsworth, Christopher (1807-1885)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The winds and billows loudly roar We flounder in the deep Our bark is frail, far off the shore, And Jesus is asleep.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Save us, we perish, Lord," they cry; To Thee we fly for aid; "Awake! awake!" they say; but why So faithless and afraid?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His head is pillow'd on the stern, As Man He is asleep; As God He all things does discern, And endless vigils keep.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He does the elements control; By His Almighty Will. The angry waves their surges roll; And at His Word are still.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O ye, who in the Church's Bark O'er life's rough ocean sail, When all around is drear and dark, and human efforts fail,</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Revelation Song</title>
+    </titles>
+    <copyright>2004 Gateway Create Publishing</copyright>
+    <authors>
+      <author type="words">Jennie Lee Riddle</author>
+      <author type="music">Jennie Lee Riddle</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2733"/>
+    </songbooks>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy is the, Lamb who was slain<br/>Holy, Holy, is He<br/>Sing a new song, to him who sits on<br/>Heaven's mercy seat</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy, Holy, Holy<br/>Is the Lord God Almighty<br/>Who was, and is, and is to come<br/>With all creation I sing<br/>Praise to the King of Kings<br/>You are my everything<br/>And I will adore You...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Clothed in rainbows, of living color<br/>Flashes of lightning, rolls of thunder<br/>Blessing and honor, strength and glory and power be<br/>To You the only wise King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Filled with wonder, awestruck wonder<br/>At the mention of your name<br/>Jesus your name is power<br/>Breath, and living water<br/>Such a marvellous mystery...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>დიდებული კრავი ღმერთის<br/>წმინდა წმინდაა ის<br/>ვუგალობოთ მას სიმღერა<br/>მწყალობელია ის</lines>
+    </verse>
+    <verse name="c2">
+      <lines>წმინდა წმინდა წმინდა<br/>იესო ყოვლის შემძლე<br/>რომელიც იყო და მოვა<br/>მთელ ქმნილებასთან ერთად<br/>გიმღერი მხოლოდ შენ<br/>მეფეთა მეფე ხარ<br/>მარადის თაყვანს გცემ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ცისარტყელა ნაირფერი<br/>ცოცხალი ღმერთის დიდებულ<br/>ხატავს<br/>პატივი ძალა ქება ,კურთხევს<br/>შემოქმედს<br/>საუკუნოდ ხარ მეფე<br/>გაოცებით მოწიწებით<br/>მავსებს სახელი შენი<br/>იესო ეს სახელი არს სუნთქვა<br/>ჩემი<br/>მაცოცხლებელი წყალი</lines>
+    </verse>
+    <verse name="v6">
+      <lines>didebuli kʼravi ghmertis<br/>tsʼminda tsʼmindaa is<br/>vugalobot mas simghera<br/>mtsʼqʼalobelia is</lines>
+    </verse>
+    <verse name="c3">
+      <lines>tsʼminda tsʼminda tsʼminda<br/>ieso qʼovlis shemdzle<br/>romelits iqʼo da mova<br/>mtel kmnilebastan ertad<br/>gimgheri mkholod shen<br/>mepeta mepe khar<br/>maradis taqʼvans gtsem</lines>
+    </verse>
+    <verse name="v7">
+      <lines>tsisartʼqʼela nairperi<br/>tsotskhali ghmertis didebul<br/>khatʼavs<br/>pʼatʼivi dzala keba ,kʼurtkhevs<br/>shemokmeds<br/>saukʼunod khar mepe<br/>gaotsebit motsʼitsʼebit<br/>mavsebs sakheli sheni<br/>ieso es sakheli ars suntkva<br/>chemi<br/>matsotskhlebeli tsʼqʼali</lines>
+    </verse>
+  </lyrics>
+</song>

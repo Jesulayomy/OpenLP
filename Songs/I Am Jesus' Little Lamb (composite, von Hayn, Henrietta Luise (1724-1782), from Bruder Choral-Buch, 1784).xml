@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>I Am Jesus' Little Lamb</title>
+    </titles>
+    <authors>
+      <author type="translate">composite</author>
+      <author type="words">von Hayn, Henrietta Luise (1724-1782)</author>
+      <author type="music">from Bruder Choral-Buch, 1784</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am Jesus' little lamb, Ever glad at heart I am; For my Shepherd gently guides me, Knows my need, and well provides me, Loves me ev'ry day the same, Even calls me by my name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Day by day, at home, away, Jesus is my Staff and Stay. When I hunger, Jesus feeds me, Into pleasant pastures leads me; When I thirst, He bids me go Where the quiet waters flow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who so happy as I am, Even now the Shepherd's lamb? And when my short life is ended, By His angel host attended, He shall fold me to His breast, There within His arms to rest.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Alleluia, Alleluia! Hearts to Heaven and Voices Raise</title>
+    </titles>
+    <authors>
+      <author type="music">van Beethoven, Ludwig (1770-1827)</author>
+      <author type="music">Hodges, Edward (1796-1867)</author>
+      <author type="words">Wordsworth, Christopher (1807-1885)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia, alleluia! Hearts to Heav'n and voices raise: Sing to God a hymn of gladness, sing to God a hymn of praise. He, who on the cross a Victim, for the world's salvation bled, Jesus Christ, the King of glory, now is risen from the dead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now the iron bars are broken, Christ from death to life is born, Glorious life, and life immortal, on the holy Easter morn. Christ has triumphed, and we conquer by His mighty enterprise: We with Him to life eternal by His resurrection rise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ is risen, Christ, the first fruits of the holy harvest field, Which will all its full abundance at His second coming yield: Then the golden ears of harvest will their heads before Him wave, Ripened by His glorious sunshine from the furrows of the grave.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Christ is risen, we are risen! Shed upon us heav'nly grace, Rain and dew and gleams of glory from the brightness of Thy face; That we, with our hearts in Heaven, here on earth may fruitful be, And by angel hands be gathered, and be ever, Lord, with Thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alleluia, alleluia! Glory be to God on high; Alleluia! to the Savior who has gained the victory; Alleluia! to the Spirit, fount of love and sanctity: Alleluia, alleluia! to the Triune Majesty.</lines>
+    </verse>
+  </lyrics>
+</song>

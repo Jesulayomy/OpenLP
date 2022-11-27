@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>I Am Yours</title>
+    </titles>
+    <authors>
+      <author type="words">Jonas Park</author>
+      <author type="music">Jonas Park</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will wait for you, as long as it takes<br/>Giving up my life, over for love</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You've been searching for, How you've been yearning for<br/>Hearts loyal to your own<br/>So when you search the earth, looking for your friends<br/>hear me sing my Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am yours<br/>Yes I am<br/>Wholly Yours</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are my first love<br/>You are my only one<br/>Lord there is nothing else for me<br/>Where else can I go<br/>You have my heart alone<br/>You are the only home I need</lines>
+    </verse>
+  </lyrics>
+</song>

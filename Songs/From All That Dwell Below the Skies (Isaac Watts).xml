@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>From All That Dwell Below the Skies</title>
+    </titles>
+    <authors>
+      <author>Isaac Watts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From all that dwell below the skies<br/>Let the Creator’s praise arise:<br/>Alleluia! Alleluia!<br/>Let the Redeemer’s name be sung<br/>Through every land, by every tongue.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluia! Alleluia!<br/>Alleluia! Alleluia!<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eternal are Thy mercies, Lord;<br/>Eternal truth attends Thy word:<br/>Alleluia! Alleluia!<br/>Thy praise shall sound from shore to shore,<br/>Till suns shall rise and set no more.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your lofty themes, ye mortals, bring,<br/>In songs of praise divinely sing:<br/>Alleluia! Alleluia!<br/>The great salvation loud proclaim,<br/>And shout for joy the Saviour’s name.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In every land begin the song;<br/>To every land the strains belong.<br/>Alleluia! Alleluia!<br/>In cheerful sounds all voices raise,<br/>And fill the world with loudest praise.</lines>
+    </verse>
+  </lyrics>
+</song>

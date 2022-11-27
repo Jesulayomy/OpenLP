@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Now Rest Beneath Night's Shadow</title>
+      <title>Now All the Woods Are Sleeping, Now Woods and  Wolds Are Sleeping, The Duteous Day Now Closeth</title>
+    </titles>
+    <authors>
+      <author type="music">Isaac, Heinrich (1450-1517)</author>
+      <author type="words">Gerhardt, Paul (1607-1676)</author>
+      <author type="translate">composite</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now rest beneath night's shadow The woodland, field, and meadow, The world in slumber lies; But Thou, my heart, awake thee, To prayer and song betake thee; Let praise to thy Creator rise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The radiant sun hath vanished, His golden rays are banished By night, the foe of day; But Christ, the Sun of gladness, Dispelling all my sadness, Within my heart holds constant sway.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The rule of day is over And shining jewels cover The heaven's boundless blue. Thus I shall shine in heaven, Where crowns of gold are given To all who faithful prove and true.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To rest my body hasteth, Aside its garments casteth, Types of mortality; These I put off and ponder How Christ will give me yonder A robe of glorious majesty.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord Jesus, who dost love me, Oh, spread Thy wings above me And shield me from alarm! Though evil would assail me, Thy mercy will not fail me: I rest in Thy protecting arm.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>My loved ones, rest securely, For God this night will surely<br/>From peril guard your heads. Sweet slumbers may He send you<br/>And bid His hosts attend you And through the night watch o'er your beds.</lines>
+    </verse>
+  </lyrics>
+</song>

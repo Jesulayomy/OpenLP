@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Who You Say I Am</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3159"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>freedom</theme>
+      <theme>grace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 verse:<br/>Who am I that the highest King would wel - come me<br/>I was lost but He brought me in His love for me<br/>Oh His love for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Who the Son sets free Oh is free indeed<br/>I'm a child of God yes I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 verse:<br/>Free at last He has ransomed me His grace runs deep<br/>While I was a slave to sin<br/>Jesus died for me<br/>Yes He died for me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Who the Son sets free Oh is free indeed<br/>I'm a child of God yes I am<br/>In my Father's house there's a place for me<br/>I'm a child of God yes I am</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge: (2x)<br/>I am chosen not forsaken<br/>I am who You say I am<br/>You are for me not against me<br/>I am who You say I am</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Tag:<br/>I am who You say I am</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>Who the Son sets free Oh is free indeed<br/>I'm a child of God yes I am<br/>In my Father's house there's a place for me<br/>I'm a child of God yes I am</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Outro:<br/>In my Father's house there's a place for me<br/>I'm a child of God yes I am</lines>
+    </verse>
+  </lyrics>
+</song>

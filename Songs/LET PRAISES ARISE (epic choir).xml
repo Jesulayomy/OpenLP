@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:42">
+  <properties>
+    <titles>
+      <title>LET PRAISES ARISE</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Let praises rise<br/>From the inside<br/>From the inside of me<br/>May you delight<br/>In the inside<br/>In the inside of me<br/>Come fill my life<br/>From the inside<br/>From the inside of me<br/>Set me on fire<br/>From the inside<br/>From the inside of me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Cos all I want<br/>Is for you<br/>You to be glorified<br/>You to be lifted high<br/>All I want<br/>Is for you<br/>You to be glorified<br/>You to be lifted high</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Let praises rise<br/>From the inside<br/>From the inside of me<br/>May you delight<br/>In the inside<br/>In the inside of me<br/>Come fill my life<br/>From the inside<br/>From the inside of me<br/>Set me on fire<br/>From the inside<br/>From the inside of me</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Cos all I want<br/>Is for you<br/>You to be glorified<br/>You to be lifted high<br/>All I want<br/>Is for you<br/>You to be glorified<br/>You to be lifted high</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Fill my life<br/>Till all they see<br/>Is you Lord<br/>Glorify Your name<br/></lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Fill my life<br/>Till all they see<br/>Is you Lord<br/>Glorify Your name<br/><br/></lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Fill my life<br/>Till all they see<br/>Is you Lord<br/>Glorify</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>Cos all I want<br/>Is for you<br/>You to be glorified<br/>You to be lifted high<br/>All I want<br/>Is for you<br/>You to be glorified<br/>You to be lifted high</lines>
+    </verse>
+  </lyrics>
+</song>

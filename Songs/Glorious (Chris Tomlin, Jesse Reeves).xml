@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Glorious</title>
+    </titles>
+    <copyright>2006 worshiptogether.com songs | sixsteps Music | Vamos Publishing</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+    </authors>
+    <songbooks>
+      <songbook name="Işık Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We lift our hands in praise to You.<br/>We lift our hearts in worship to You, Lord.<br/>We lift our voice to You and sing.<br/>Our greatest love will ever be You, Lord,<br/>You, Lord!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glorious, over us,<br/>You shall reign glorious.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a King that we adore.<br/>With humble hearts we bow before You, Lord.<br/>There is a place we long to be.<br/>Yes, face to face, we long to see You, Lord,<br/>You, Lord!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Majesty and power<br/>Are Yours alone forever! (2X)</lines>
+    </verse>
+  </lyrics>
+</song>

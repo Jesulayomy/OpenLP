@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>Like a River Glorious</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Frances Ridley Havergal</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like a river glorious is God’s perfect peace,<br/>Over all victorious, in its bright increase:<br/>Perfect, yet it floweth fuller every day;<br/>Perfect, yet it groweth deeper all the way.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Stayed upon Jehovah, hearts are fully blest;<br/>Finding, as He promised, perfect peace and rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hidden in the hollow of His blessed hand,<br/>Never foe can follow, never traitor stand;<br/>Not a surge of worry, not a shade of care,<br/>Not a blast of hurry touched the Spirit there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every joy or trial falleth from above,<br/>Traced upon our dial by the sun of love.<br/>We may trust Him fully, all for us to do;<br/>They who trust Him wholly find Him wholly true.</lines>
+    </verse>
+  </lyrics>
+</song>

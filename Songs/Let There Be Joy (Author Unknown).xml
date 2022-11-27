@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>Let There Be Joy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let there be joy, let there be peace,<br/>let there be power, let there be praise.<br/>Let there be joy, joy in the Holy Ghost.<br/>It was for freedom that we were set free,<br/>Let ev'ry mountain, be cast to the sea.<br/>Let there be joy, joy in the Holy Ghost</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We will declare it to the heavens,<br/>The righteousness of God in which we stand.<br/>We will proclaim it to the nations;<br/>Ev'ry eye shall see, ev'ry ear shall hear,<br/>Ev'ry heart will understand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let there be joy, joy in the Holy Ghost<br/>Let there be joy, joy in the Holy Ghost</lines>
+    </verse>
+  </lyrics>
+</song>

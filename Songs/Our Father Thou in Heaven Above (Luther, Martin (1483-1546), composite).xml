@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Our Father Thou in Heaven Above</title>
+      <title>Our Father, Who from Heaven Above, Our Father in the Heaven Who Art</title>
+    </titles>
+    <authors>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="music">Luther, Martin (1483-1546)</author>
+      <author type="translate">composite</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father, Thou in heav'n above, Who biddest us to dwell in love, As brethren of one family, To cry in ev'ry need to Thee, Teach us no thoughtless word to say, But from our inmost heart to pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy name be hallowed. Help us, Lord, In purity to keep Thy Word, That to the glory of Thy Name We walk before Thee free from blame. Let no false doctrine us pervert; All poor, deluded souls convert.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thy kingdom come. Thine let it be In time and in eternity. Let Thy good Spirit e'er be nigh Our hearts with graces to supply. Break Satan's pow'r, defeat his rage; Preserve Thy Church from age to age.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thy gracious will on earth be done As 'tis in heav'n before Thy throne; Obedience in our weal and woe And patience in all grief bestow. Curb flesh and blood and ev'ry ill That sets itself against Thy will.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Give us this day our daily bread And let us all be clothed and fed. From war and strife be our Defense, From famine and from pestilence, That we may live in godly peace, Free from all care and avarice.</lines>
+    </verse>
+  </lyrics>
+</song>

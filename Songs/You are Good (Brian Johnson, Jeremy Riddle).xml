@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>You are Good</title>
+      <title>I want to scream it out</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson</author>
+      <author type="music">Brian Johnson</author>
+      <author type="words">Jeremy Riddle</author>
+      <author type="music">Jeremy Riddle</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to scream it out<br/>From every mountain top<br/>Your goodness knows no bounds<br/>Your goodness never stops<br/>Your mercy follows me<br/>Your kindness fills my life<br/>Your Love amazes me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I sing because you are good<br/>And I dance because you are good<br/>And I<br/>shout because you are good<br/>You are good to me to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing and no one comes<br/>Anywhere close to you<br/>The earth and oceans deep<br/>Only reflect this truth<br/>And in my darkest night<br/>You shine as bright as day<br/>Your Love amazes me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>With a cry of praise, my heart will proclaim<br/>You are good! You are good!<br/>In the sun or rain, my life celebrates<br/>You are good You are good<br/>With a cry of praise my heart will proclaim<br/>You are good! You are good!<br/>In the sun or rain, my life celebrates<br/>You are good! You are good!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Jesus Messiah</title>
+    </titles>
+    <copyright>2008 Vamos Publishing | worshiptogether.com songs | sixsteps Music | Alletrop Music</copyright>
+    <authors>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="words">Daniel Carson</author>
+      <author type="music">Daniel Carson</author>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He became sin, who knew no sin,<br/>That we might become His righteousness.<br/>He humbled Himself and carried the cross.<br/>Love so amazing, love so amazing!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, Messiah, Name above all names,<br/>Blessed Redeemer, Emmanuel.<br/>The Rescue for sinners,<br/>The Ransom from heaven,<br/>Jesus, Messiah,Lord of all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His body the bread, His blood the wine,<br/>Broken and poured out all for love.<br/>The whole earth trembled and the veil was torn.<br/>Love so amazing, love so amazing!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All our hope is in You.<br/>All our hope is in You.<br/>All the glory to You, God,<br/>The Light of the world.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Jesus, Messiah,Lord of all.<br/>The Lord of all, the Lord of all.</lines>
+    </verse>
+  </lyrics>
+</song>

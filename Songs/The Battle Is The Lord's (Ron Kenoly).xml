@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>The Battle Is The Lord's</title>
+    </titles>
+    <authors>
+      <author type="words">Ron Kenoly</author>
+      <author type="music">Ron Kenoly</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2412"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the mighty men<br/>From the tribe of Judah<br/>Faced the enemy<br/>They were told by God<br/>Not to be afraid<br/>He would give the victory<br/>He said lift up a song<br/>And lay down the sword<br/>For the battle is mine<br/>Says the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing unto the Lord<br/>Make a joyful sound<br/>Lift your voices<br/>And let your praise resound<br/>Sing a victory song<br/>In the time of war<br/>Trust in Jesus<br/>The battle is the Lord´s</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the evil one<br/>Comes against you<br/>To fill yor heart with fear<br/>You can trust in God<br/>He wil never leave you<br/>He promised to be near<br/>You can lift up a song<br/>In the midst of the war<br/>For the battle is mine<br/>Says the Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(Repeat chorus 2 times)</lines>
+    </verse>
+  </lyrics>
+</song>

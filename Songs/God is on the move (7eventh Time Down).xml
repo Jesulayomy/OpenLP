@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>God is on the move</title>
+    </titles>
+    <authors>
+      <author type="words">7eventh Time Down</author>
+      <author type="music">7eventh Time Down</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2455"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Artist: 7eventh Time Down<br/>Song: "God Is On The Move"<br/>Intro: B - F# - C#</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Verse 1]<br/>Anytime a heart turns from<br/>Darkness to light<br/>Anytime temptation comes and<br/>Someone stands to fight<br/>Anytime somebody lives to<br/>Serve and not be served</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know - I know - I know - I know<br/>[Chorus]<br/>God is on the move,<br/>On the move Hallelujah<br/>God is on the move<br/>In many mighty ways<br/>God is on the move,<br/>On the move Hallelujah<br/>God is on the move<br/>On the move today</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Verse 2]<br/>Anytime in weakness someone<br/>Falls upon their knees<br/>Or Dares to speak the Truth<br/>That sets men free<br/>Anytime the choice is made to<br/>Stand upon the Word</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I know - I know - I know - I know</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Chorus]</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[Interlude] x2</lines>
+    </verse>
+    <verse name="v8">
+      <lines>[Bridge]<br/>I see a generation<br/>Standing on the truth<br/>In each in every nation<br/>God is on the move</lines>
+    </verse>
+    <verse name="v9">
+      <lines>[Verse 3]<br/>Anytime the Gospel<br/>Stirs a searching souls<br/>And Someone says:<br/>"Send me, Here I go"<br/>I know - I know - I know - I know</lines>
+    </verse>
+    <verse name="v10">
+      <lines>[Chorus] х2 [Interlude] x2 [Bridge]</lines>
+    </verse>
+  </lyrics>
+</song>

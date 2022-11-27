@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>Oh, what a Friend</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, what a Friend<br/>Who walks beside me<br/>To hold my hand,<br/>And safely guide me.<br/>Safe in His arms,<br/>He'll always hide me.<br/>Oh, what a Friend, He is to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He knows the way,<br/>My road is wending.<br/>He sees around<br/>My pathway's bending.<br/>He'll take me through<br/>When day is ending.<br/>Oh, what a Friend, he is to me.</lines>
+    </verse>
+  </lyrics>
+</song>

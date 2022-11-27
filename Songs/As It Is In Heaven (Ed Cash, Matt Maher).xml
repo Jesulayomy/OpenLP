@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:58">
+  <properties>
+    <titles>
+      <title>As It Is In Heaven</title>
+    </titles>
+    <copyright>2005 Thankyou Music | spiritandsong.com | Alletrop Music</copyright>
+    <authors>
+      <author type="words">Matt Maher</author>
+      <author type="music">Matt Maher</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father, who art in heaven,<br/>hallowed be Thy name.<br/>Come and let Your glory,<br/>come and let Your glory fall.<br/>Our Father, who art in heaven,<br/>the rocks cry out Your name.<br/>Come and let Your glory,<br/>come and let Your glory fall.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I will sing, sing a new song.<br/>I will sing, sing a new song.<br/>I will sing, sing a new song<br/>To the Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let Your Kingdom come, let Your will be done<br/>On earth as it is in heaven.<br/>Ev'ry heart proclaim the mercy of Your name<br/>On earth as it is in heaven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God give us new ev'ry morning<br/>mercy as daily bread.<br/>In the name of Jesus,<br/>in the name of Jesus we pray.<br/>And lead us not to temptation,<br/>but deliver us with Your hand.<br/>In the name of Jesus,<br/>in the name of Jesus we pray.<br/>Father, we pray:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>For the kingdom is Yours,<br/>And the power is Yours,<br/>And the glory forever, amen. (4X)</lines>
+    </verse>
+  </lyrics>
+</song>

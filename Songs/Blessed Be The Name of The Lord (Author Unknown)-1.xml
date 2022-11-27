@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Blessed Be The Name of The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>meditation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the name of the Lord<br/>He is worthy to be praised and adored<br/>So we lift up holy hands in one accord<br/>Singing blessed be the name<br/>Blessed be the name<br/>Blessed be the name of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

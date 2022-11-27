@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Victory in Jesus</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">Eugene M. Bartlett</author>
+      <author type="music">Eugene M. Bartlett</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I heard an old, old story, How a Savior came from glory,<br/>How He gave His life on Calvary To save a wretch like me;<br/>I heard about His groaning Of His precious blood's atoning,<br/>Then I repented of my sins and won the victory.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O victory in Jesus my Savior, forever!<br/>He sought me and bought me with His redeeming blood;<br/>He loved me ere I knew Him, and all my love is due Him<br/>He plunged me to victory beneath the cleansing flood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I heard about His healing, Of His cleansing power revealing,<br/>How He made the lame to walk again And caused the blind to see;<br/>And then I cried "Dear Jesus, Come and heal my broken spirit,"<br/>And somehow Jesus came and brought to me the victory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I heard about a mansion He has built for me in glory,<br/>And I heard about the streets of gold Beyond the crystal sea;<br/>About the angels singing And the old redemption story,<br/>And some sweet day I'll sing up there the song of victory.</lines>
+    </verse>
+  </lyrics>
+</song>

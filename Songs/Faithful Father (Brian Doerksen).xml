@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Faithful Father</title>
+    </titles>
+    <copyright>1996 ION Publishing</copyright>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, I can't explain this kind of love<br/>This kind of grace<br/>I know I still break Your heart<br/>And yet You run to welcome me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is my song of praise to You<br/>For who You are and all that You do<br/>From the moment my life began<br/>You have been faithful</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father I love the way you hold me close<br/>And say my name<br/>I know when my life is through<br/>My heart will find its home in You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You will be faithful<br/>Forever faithful<br/>Father</lines>
+    </verse>
+    <verse name="c2">
+      <lines>This is our song of praise to You<br/>For who You are and all that You do<br/>From before the world began<br/>You have been faithful</lines>
+    </verse>
+    <verse name="b2">
+      <lines>You will be faithful<br/>Forever faithful<br/>Father</lines>
+    </verse>
+  </lyrics>
+</song>

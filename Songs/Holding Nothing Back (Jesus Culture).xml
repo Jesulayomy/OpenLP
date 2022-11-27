@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Holding Nothing Back</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3507"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>I am chosen I am free<br/>I am living for eternity<br/>Free now forever<br/>You picked me up turned me around<br/>You set my feet on solid ground<br/>Yours now forever</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>And nothing's gonna hold me back<br/>Nothing's gonna hold me back<br/>Nothing's gonna hold me back</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>My chains fell off my heart was free<br/>I'm alive to live for You<br/>I'm alive to live for You<br/>Amazing Love, how can it be?<br/>You gave everything for me<br/>You gave everything for me<br/>Everything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>You washed my sin and shame away<br/>The slate is clean a brand new day<br/>Free now forever<br/>Now boldly I approach Your throne<br/>To claim this crown through Christ my own<br/>Yours now forever</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>I'm free to live free to give<br/>Free to be I'm free to love You<br/>I'm free to live free to give<br/>Free to be I'm free to love You<br/>I'm free to live free to give<br/>Free to be I'm free to love You Lord</lines>
+    </verse>
+  </lyrics>
+</song>

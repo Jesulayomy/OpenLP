@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>What Wondrous Love Is This</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">Alexander Means</author>
+      <author type="music">Alexander Means</author>
+      <author type="words">Gordon Mack</author>
+      <author type="music">Gordon Mack</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What wondrous love is this,<br/>O my soul, O my soul?<br/>What wondrous love is this, O my soul?<br/>What wondrous love is this<br/>That caused the Lord of bliss<br/>To bear the dreadful curse for my soul,<br/>To bear the dreadful curse for my soul?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wondrous love... (4x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I was sinking down,<br/>Sinking down, sinking down,<br/>When I was sinking down, sinking down,<br/>When I was sinking down,<br/>Beneath God's righteous frown,<br/>Christ laid aside His crown for my soul,<br/>Christ laid aside His crown for my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To God and to the Lamb<br/>I will sing, I will sing.<br/>To God and to the Lamb, I will sing.<br/>To God and to the Lamb,<br/>Who is the Great I AM,<br/>While millions join the theme, I will sing,<br/>While millions join the theme, I will sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when from death I'm free,<br/>I'll sing on, I'll sing on.<br/>And when from death I'm free, I'll sing on.<br/>And when from death I'm free,<br/>I'll sing and joyful be,<br/>And thro' eternity, I'll sing on,<br/>And thro' eternity, I'll sing on.</lines>
+    </verse>
+  </lyrics>
+</song>

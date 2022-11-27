@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Say to the Lord "I love you"</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Touch your fingers to your nose,<br/>Bend from the waist way down<br/>And touch your toes,<br/>And when you come up slowly,<br/>Start to sing, and say to the Lord,<br/>"I love you."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>"I love you, I love you."<br/>Say to the Lord,<br/>"I love you."<br/>"I love you, I love you."<br/>Say to the Lord,<br/>"I love you!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reach your hands up to the sky,<br/>Look to your left, then right,<br/>And blink your eyes,<br/>And when you turn around,<br/>You'll start to sing, and say to the Lord,<br/>"I love you."</lines>
+    </verse>
+  </lyrics>
+</song>

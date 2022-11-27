@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:05">
+  <properties>
+    <titles>
+      <title>Come on and Celebrate</title>
+    </titles>
+    <authors>
+      <author type="words">Patrick Morgan</author>
+      <author type="music">Patrick Morgan</author>
+      <author type="words">Dave Bankhead</author>
+      <author type="music">Dave Bankhead</author>
+    </authors>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>response</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>appeal</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

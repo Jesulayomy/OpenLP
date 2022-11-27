@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-05T18:30:57">
+  <properties>
+    <titles>
+      <title>Hymn 47 - Blow Ye, The Trumpet Blow</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blow ye the trumpet, blow!<br/>The gladly solemn sound<br/>let all the nations know,<br/>to earth's remotest bound:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The year of jubilee is come;<br/>return, ye ransomed sinners, home;<br/>return, ye ransomed sinners, home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Extol the Lamb of God,<br/>the sacrificial Lamb;<br/>redemption thro' his blood<br/>throughout the world proclaim:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ye who have sold for naught<br/>your heritage above,<br/>receive it back unbought,<br/>the gift of Jesus' love:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The gospel trumpet hear,<br/>the news of heav'nly grace;<br/>and, saved from earth, appear<br/>before your Savior's face:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, our great High Priest,<br/>has full atonement made;<br/>ye weary spirits, rest;<br/>ye mournful souls, be glad:</lines>
+    </verse>
+  </lyrics>
+</song>

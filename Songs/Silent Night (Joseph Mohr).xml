@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Silent Night</title>
+    </titles>
+    <authors>
+      <author>Joseph Mohr</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Silent night, holy night! <br/>Sleeps the world; hid from sight, <br/>Mary and Joseph in stable bare <br/>Watch o’er the Child beloved and fair, <br/>Sleeping in heavenly rest, <br/>Sleeping in heavenly rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Silent night, holy night! <br/>Shepherds first saw the light, <br/>Heard resounding clear and long, <br/>Far and near, the angel-song: <br/>‘Christ the Redeemer is here, <br/>Christ the Redeemer is here.’</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Silent night, holy night! <br/>Son of God, O how bright <br/>Love is smiling from Thy face! <br/>Strikes for us now the hour of grace, <br/>Saviour, since Thou art born, <br/>Saviour, since Thou art born.</lines>
+    </verse>
+  </lyrics>
+</song>

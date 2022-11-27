@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Lord, here I am</title>
+    </titles>
+    <authors>
+      <author type="words">Lurianne Moolman</author>
+      <author type="music">Lurianne Moolman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lord, here I am<br/>Reliant on Your mercy every day<br/>Lord, here I stand<br/>My heart wide open here for You to stay</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Guide my thoughts, my soul and everything I say<br/>Guard my heart and how I feel<br/>Let me hear Your words of love for me each day<br/>Then show me how to give Your love away</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Lord, here I am<br/>Reliant on Your mercy every day<br/>Lord, here I stand<br/>My heart wide open here for You to stay</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Guide my thoughts, my soul and everything I say<br/>Guard my heart and how I feel<br/>Let me hear Your words of love for me each day<br/>Then show me how to give Your love away<br/>Then show me how to give Your love away</lines>
+    </verse>
+  </lyrics>
+</song>

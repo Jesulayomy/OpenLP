@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Rain Down</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rain Down, all around the world we're singing<br/>Rain Down, can you hear the earth is singing<br/>Rain Down, all around your people singing<br/>Rain Down, rain it down on me</lines>
+    </verse>
+  </lyrics>
+</song>

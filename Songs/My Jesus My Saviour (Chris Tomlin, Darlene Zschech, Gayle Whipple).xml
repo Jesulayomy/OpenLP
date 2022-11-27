@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>My Jesus My Saviour</title>
+    </titles>
+    <copyright>1993 Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Gayle Whipple</author>
+      <author type="music">Gayle Whipple</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>worship</theme>
+      <theme>violin</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+      <theme>thanksgiving</theme>
+      <theme>victory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Jesus, my Savior,<br/>Lord, there is none like You;<br/>All of my days, I want to praise the wonders of Your mighty love.<br/>My Comfort, my Shelter, Tower of refuge and strength;<br/>Let every breath, all that I am, never cease to worship You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Shout to the Lord, all the earth, let us sing,<br/>Power and majesty, praise to the King.<br/>Mountains bow down and the seas will roar<br/>At the sound of Your name.<br/>I sing for joy at the work of Your hands;<br/>Forever I'll love You, forever I'll stand.<br/>Nothing compares to the promise I have in You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>იესო მხსნელი ხარ,<br/>არვინ არ შეგედრება შენ,<br/>ჩემი ღმერთი ხარ,<br/>მე გადიდებ შენ,<br/>ყველაფრისთვის რაც<br/>გამიკეთე<br/>ნუგეში ხარ, საყრდენი,<br/>ძალა შენშია<br/>ჩემმა გულმა, მთელმა<br/>არსებამ<br/>დაე, თაყვანი გცეს შენ</lines>
+    </verse>
+    <verse name="c2">
+      <lines>შესძახე დედამიწავ,<br/>უმღერე ღმერთს<br/>დიდება, ქება, მეფეთა მეფეს<br/>თაყვანს სცემენ მთები,<br/>ზღვები იმღერებენ<br/>მისი სახელის წინაშე,<br/>მთელი ჩემი არსებით<br/>გადიდებ შენ,<br/>მხოლოდ შენშია ჩემი<br/>სიხარული,<br/>არაფერზე არ ვზრუნავ,<br/>როდესაც ჩემთან ხარ</lines>
+    </verse>
+  </lyrics>
+</song>

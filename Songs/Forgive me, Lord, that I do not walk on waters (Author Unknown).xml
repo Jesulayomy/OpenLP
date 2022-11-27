@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Forgive me, Lord, that I do not walk on waters</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5591"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Forgive me, Lord, that I do not walk on waters,<br/>Although I could go - You gave me power.<br/>Even if the whole nature is against it,<br/>I would go on the waves, as You already walked.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You gave everything, gave me strength,<br/>I have so much!<br/>Though my spirit is so small, You expected<br/>I can live just like You...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By faith unearthly, to be dare with You -<br/>Everything could be done, I could do everything...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forgive me, Lord, that I do not move mountains -<br/>What to say about them? Even stone is heavy for me...<br/>By Your Word they are ready to melt,<br/>But I know: the Holy Spirit has come down for this.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Forgive me, Lord, that I do not resurrect<br/>Those who wounded by a poisoned arrow of the world.<br/>That I do not multiply your bread with only one prayer<br/>To share life with a hungry crowd.</lines>
+    </verse>
+  </lyrics>
+</song>

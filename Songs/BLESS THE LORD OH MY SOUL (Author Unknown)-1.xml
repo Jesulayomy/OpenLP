@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>BLESS THE LORD OH MY SOUL</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bless the Lord Oh my soul<br/>And all that is within me<br/>bless his Holy name<br/>Bless the Lord Oh my soul<br/>Forget not all his goodness<br/>bless his Holy name</lines>
+    </verse>
+    <verse name="v1">
+      <lines>He healed all my diseases<br/>Forgiven all my sins<br/>Redeemed me from the evil one<br/>And seated me with him</lines>
+    </verse>
+  </lyrics>
+</song>

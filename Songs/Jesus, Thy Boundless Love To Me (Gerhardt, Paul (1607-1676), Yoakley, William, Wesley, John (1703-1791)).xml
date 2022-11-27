@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Jesus, Thy Boundless Love To Me</title>
+    </titles>
+    <authors>
+      <author type="music">Yoakley, William</author>
+      <author type="words">Gerhardt, Paul (1607-1676)</author>
+      <author type="translate">Wesley, John (1703-1791)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Thy boundless love to me No thought can reach, no tongue declare; Unite my thankful heart with Thee And reign without a rival there. To Thee alone, dear Lord, I live; Myself to Thee, dear Lord, I give.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, grant that nothing in my soul May dwell but Thy pure love alone! Oh, may Thy love possess me whole, My joy, my treasure, and my crown! All coldness from my heart remove; My every act, word, thought, be love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O love, how cheering is thy ray! All pain before thy presence flies; Care, anguish, sorrow, melt away Where'er thy healing beams arise. O Jesus, nothing may I see, Nothing desire or seek, but Thee!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This love unwearied I pursue And dauntlessly to Thee aspire. Oh, may Thy love my hope renew Burn in my soul like heav'nly fire! And day and night be all my care To guard this sacred treasure there.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My Savior, Thou Thy love to me In shame, in want, in pain, hast showed; For me, on the accursed tree, Thou pourest forth Thy guiltless blood; Thy wounds upon my heart impress, Nor aught shall the lov'd stamp efface.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>More hard than marble is my heart,<br/>And foul with sins of deepest stain;<br/>But Thou the mighty Savior art,<br/>Nor flowed thy cleansing blood in vain;<br/>Ah soften, melt this rock, and may<br/>Thy blood wash all these stains away!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>O that I, as a little child,<br/>May follow Thee, and never rest<br/>Till sweetly Thou hast breathed<br/>Thy mild And lowly mind into my breast!<br/>Nor ever may we parted be,<br/>Till I become as one with Thee.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Still let Thy love point out my way;<br/>How wondrous things Thy love hath wrought!<br/>Still lead me, lest I go astray;<br/>Direct my word, inspire my thought;<br/>And if I fall, soon may I hear<br/>Thy voice, and know that love is near.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>In suffering be Thy love my peace, In weakness be Thy love my power;<br/>And when the storms of life shall cease, Jesus, in that important hour,<br/>In death as life be Thou my guide, And save me, Who for me hast died.</lines>
+    </verse>
+  </lyrics>
+</song>

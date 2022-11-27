@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Voice in the Wilderness</title>
+    </titles>
+    <copyright>1998 New Springs Publishing, Inc. &amp; Point Clear Music</copyright>
+    <authors>
+      <author type="words">4Him</author>
+      <author type="music">4Him</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand among the millions, and I can't help but feel so small,<br/>For I am just a speck of dust, a particle existing on this great big spinning ball.<br/>The part of me that's human, it tells me I am not that strong,<br/>There's a power in my soul, greater than us all, and I'm reminded I am not my own.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm yielded to a higher calling: I'm...<br/>One voice, shining through the darkest night.<br/>One voice, standing up for what is right.<br/>One voice, nothing more and nothing less,<br/>Than a voice crying out, a voice in the wilderness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The voices of confusion, can fill a world that's all my own.<br/>Running havoc through my mind, all the truth and all the lies,<br/>It's so hard to sift the right from wrong.<br/>In the middle of the choosing, through the clutter of this human noise,<br/>When my words fall to the ground, all the dust has settled down,<br/>All that matters is Your still small voice.</lines>
+    </verse>
+  </lyrics>
+</song>

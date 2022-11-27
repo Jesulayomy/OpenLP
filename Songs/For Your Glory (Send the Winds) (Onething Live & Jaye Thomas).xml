@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>For Your Glory (Send the Winds)</title>
+    </titles>
+    <authors>
+      <author type="words">Onething Live &amp; Jaye Thomas</author>
+      <author type="music">Onething Live &amp; Jaye Thomas</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1523"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>Lord, if       I find favor in Your sight<br/>Lord, please hear my heart's cry<br/>I'm desperately waiting to be where You are<br/>I'll cross the hottest desert, I'll travel near or far</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>For Your glo - ry I will do anything<br/>Just to see You, to behold You as my King</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus: (after key change)<br/>For Your glo - ry I will do anything<br/>Just to see You, to behold You as my King</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Send the winds of refreshing, God, send Your Spirit<br/>Send the winds of refreshing, God, send Your glory down</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Send the winds of refreshing, God, send Your Spirit<br/>Send the winds of refreshing, God, send Your glory down</lines>
+    </verse>
+  </lyrics>
+</song>

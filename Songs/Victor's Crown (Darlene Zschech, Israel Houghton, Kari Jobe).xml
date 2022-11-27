@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Victor's Crown</title>
+    </titles>
+    <authors>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+      <author type="words">Israel Houghton</author>
+      <author type="music">Israel Houghton</author>
+      <author type="words">Kari Jobe</author>
+      <author type="music">Kari Jobe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are always fighting for us<br/>Heaven's angels all around<br/>My delight is found in knowing<br/>That You wear the Victor's crown<br/>You're my help and my defender<br/>You're my Saviour and my friend<br/>By Your grace I live and breathe<br/>To worship You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At the mention of Your greatness<br/>In Your Name I will bow down<br/>In Your presence fear is silent<br/>For You wear the Victor's crown<br/>Let Your glory fill this temple<br/>Let Your power overflow<br/>By Your grace I live and breathe<br/>To worship You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelu - jah<br/>You have overcome<br/>You have overcome<br/>Hallelu - jah<br/>Jesus You have overcome the world</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are ever interceding<br/>As the lost become the found<br/>You can never be defeated<br/>For You wear the Victor's crown<br/>You are Jesus the Messiah<br/>You're the Hope of all the world<br/>By Your grace I live and breathe<br/>To worship You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hallelu - jah<br/>You have overcome<br/>You have overcome<br/>Hallelu - jah<br/>Jesus You have overcome the world</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Every high thing must come down<br/>Every stronghold shall be broken<br/>You wear the Victor's crown<br/>You overcome, You overcome (x4)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At the cross the work was finished<br/>You were buried in the ground<br/>But the grave could not contain You<br/>For You wear the Victor's crown</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Hallelu - jah<br/>You have overcome<br/>You have overcome<br/>Hallelu - jah<br/>Jesus You have overcome the world</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Every high thing must come down<br/>Every stronghold shall be broken<br/>You wear the Victor's crown<br/>You overcome, You overcome. (x6)</lines>
+    </verse>
+  </lyrics>
+</song>

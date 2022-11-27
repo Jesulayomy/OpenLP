@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>I Surrender All</title>
+    </titles>
+    <authors>
+      <author type="words">Newsboys</author>
+      <author type="music">Newsboys</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I surrender all,<br/>To the promises You've made<br/>And I will give it all,<br/>To the Maker of the day</lines>
+    </verse>
+    <verse name="v1">
+      <lines>No one knows your hurt<br/>And No one knows your fears<br/>When no one solves the mystery<br/>Or even whipes away the tears</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Can you hear the sound of laughter<br/>From the other side of life<br/>Their are days when I feel like a stranger sometimes<br/>Tell me are there any other souls like me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>He doesn't love us 'cause of who we are<br/>He only loves us 'cause of who He is (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

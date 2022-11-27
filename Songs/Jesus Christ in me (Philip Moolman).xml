@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Jesus Christ in me</title>
+      <title>I Know there is a purpose, Jesus Christ in me</title>
+    </titles>
+    <authors>
+      <author type="words">Philip Moolman</author>
+      <author type="music">Philip Moolman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know there's a purpose<br/>I know there's a plan<br/>I know it's a process, no bed of roses<br/>I understand<br/>I know there's a reason<br/>Why I came to be<br/>So that in time others could find<br/>Jesus in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know I'm not perfect<br/>I know I'm a sinner<br/>But He says I'm worth it<br/>He calls me perfect<br/>He says I'm a winner<br/>Because of Jesus, I am free<br/>Free to discover, the greatest Lover<br/>Jesus in me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus Christ in Me<br/>Jesus Christ in me<br/>Through my life, let the whole world see<br/>Jesus Christ in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Made in His image<br/>That is His dream<br/>He takes His time, for you and I<br/>To become more like Him<br/>That is the reason<br/>Why I came to be<br/>So that in time others could find<br/>Jesus in me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jesus Christ in Me<br/>Jesus Christ in me<br/>Through my life, let the whole world see<br/>Jesus Christ in me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>God is an Artist<br/>He's a Creator<br/>He's never done, He caries on<br/>Until we have made it<br/>He works the hardest -<br/>Lovingly<br/>No need to labour, unmerited favour<br/>Jesus in me<br/>No need to labour, unmerited favour<br/>Jesus in me</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Jesus Christ in Me ........ (ONE LINE BREAKDOWN)<br/>Jesus Christ in me<br/>Through my life, let the whole world see<br/>Jesus Christ in me<br/>Through my life, let the whole world see<br/>Jesus Christ in me</lines>
+    </verse>
+  </lyrics>
+</song>

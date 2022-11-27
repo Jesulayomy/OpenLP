@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>One Shot</title>
+    </titles>
+    <authors>
+      <author type="words">Hawk Nelson</author>
+      <author type="music">Hawk Nelson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's 2 o'clock, your eyes are shut,<br/>your phone alarm is going off<br/>The sun is up, you're still in bed,<br/>another day gone again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This isn't what you wanted was it<br/>I know you've got<br/>a pulse let's get it started</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You've got one shot,<br/>all you got take it now<br/>You gotta get up, get up,<br/>get up oh-wo-oh-wo-oh<br/>One life, live it right,<br/>keep on moving forward<br/>You've got one shot<br/>everybody it's your time<br/>I wanna see you on the other side<br/>You've got one shot,<br/>all you got, live out loud<br/>Come on wake up, wake up,<br/>wake up before it's over</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You got a truck, take a drive<br/>go somewhere to feel alive<br/>You got a dream, say a prayer,<br/>a little faith will get ya there</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is what<br/>you wanted promise<br/>Never go back to<br/>the way you started</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh, oh, oh, oh, oh<br/>oh, oh, oh, oh, oh</lines>
+    </verse>
+  </lyrics>
+</song>

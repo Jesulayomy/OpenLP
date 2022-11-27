@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>There's No Other Name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5025"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your singing moves and shakes the ground<br/>Your beckon brings the rain in drought<br/>Your glory spins the earth around<br/>And Your whisper makes Your fire fall down</lines>
+    </verse>
+    <verse name="p1">
+      <lines>There's no other name<br/>The Name that stands through the ages</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There's no other name, there's no other name like Yours<br/>Jesus like Yours Jesus<br/>There's no other name, there's no other name like Yours<br/>Jesus, like Yours Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your word commands the wind and waves<br/>Your touch revives the sick and lame<br/>Your power wakes the dead again<br/>And Your love destroys the grip of sin<br/>For Your love destroys the grip of sin</lines>
+    </verse>
+    <verse name="c2">
+      <lines>There's no other name, there's no other name like Yours<br/>Jesus like Yours Jesus<br/>There's no other name, there's no other name like Yours<br/>Jesus, like Yours Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Every knee will bow, every tongue confess<br/>The Name of Jesus<br/>Every knee will bow and every tongue confess<br/>The Name of Jesus<br/>Oh every knee will bow every tongue confess<br/>The Name of Jesus<br/>Oh every knee will bow and every tongue confess<br/>The Name of Jesus</lines>
+    </verse>
+    <verse name="c3">
+      <lines>There's no other name, there's no other name like Yours<br/>Jesus like Yours Jesus<br/>There's no other name, there's no other name like Yours<br/>Jesus, like Yours Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's no other name...</lines>
+    </verse>
+  </lyrics>
+</song>

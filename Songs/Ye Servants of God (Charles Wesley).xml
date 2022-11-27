@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:15">
+  <properties>
+    <titles>
+      <title>Ye Servants of God</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ye servants of God,<br/>Your Master proclaim, <br/>And publish abroad <br/>His wonderful name; <br/>The name all-victorious <br/>Of Jesus extol; <br/>His kingdom is glorious <br/>And rules over all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God ruleth on high, <br/>Almighty to save; <br/>And still He is nigh, <br/>His presence we have; <br/>The great congregation <br/>His triumph shall sing, <br/>Ascribing salvation <br/>To Jesus our King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Salvation to God, <br/>Who sits on the throne! <br/>Let all cry aloud, <br/>And honour the Son; <br/>The praises of Jesus <br/>The angels proclaim, <br/>Fall down on their faces, <br/>And worship the Lamb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then let us adore, <br/>And give Him His right, <br/>All glory and power, <br/>All wisdom and might, <br/>All honour and blessing, <br/>With angels above, <br/>And thanks never ceasing, <br/>And infinite love.</lines>
+    </verse>
+  </lyrics>
+</song>

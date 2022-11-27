@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:22">
+  <properties>
+    <titles>
+      <title>Lion of Judah</title>
+    </titles>
+    <authors>
+      <author type="words">Dave Bell</author>
+      <author type="music">Dave Bell</author>
+      <author type="words">Ted Sandquist</author>
+      <author type="music">Ted Sandquist</author>
+      <author type="words">Robin Mark</author>
+      <author type="music">Robin Mark</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're the Lion of Judah, the Lamb Who was slain,<br/>You ascended to heaven and evermore shall reign;<br/>At the end of the age when the earth You reclaim,<br/>You will gather the nations before You.<br/>And the eyes of all men will be fixed on the Lamb Who was crucified,<br/>For with wisdom and mercy and justice He reigns at the Father's side.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a shield in our hand and a sword at our side,<br/>There's a fire in our spirit that cannot be denied;<br/>As the Father has told us for these you have died,<br/>For the nations will gather before you.<br/>And the ears of all men need to hear of the Lamb Who was crucified,<br/>Who went down to the grave yet was raised up to reign at the Father's side.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And the angels will cry, "Hail the Lamb<br/>Who was slain for the world; rule in power!"<br/>And the earth shall reply, "You shall reign<br/>As the King of all kings and the Lord of all lords!"</lines>
+    </verse>
+  </lyrics>
+</song>

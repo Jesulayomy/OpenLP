@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:21">
+  <properties>
+    <titles>
+      <title>God is on the move</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4834"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anytime a heart turns from darkness to light<br/>Anytime temptation comes and someone stands to fight<br/>Anytime somebody lives to serve and not be served<br/>I know, I know, I know, I know</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God is on the move, on the move Hallelujah<br/>God is on the move in many mighty ways<br/>God is on the move, on the move Hallelujah<br/>God is on the move on the move today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anytime in weakness someone falls upon their knees<br/>Or dares to speak the truth that sets men free<br/>Anytime the choice is made to stand upon the Word<br/>I know, I know, I know, I know</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I see a generation standing on the truth<br/>In each and every nation God is on the move<br/>Anytime the gospel stirs a searching soul<br/>And someone says, "Send me, here I go"<br/>I know, I know, I know, I know</lines>
+    </verse>
+  </lyrics>
+</song>

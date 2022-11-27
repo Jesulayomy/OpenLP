@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>Once In Royal David's City</title>
+    </titles>
+    <authors>
+      <author>Cecil F. Alexander</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once in royal David's city,<br/>Stood a lowly cattle shed, <br/>Where a mother laid her baby<br/>In a manger for His bed. <br/>Mary was that mother mild, <br/>Jesus Christ, her little child.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He came down to earth from heaven, <br/>Who is God and Lord of all, <br/>And His shelter was a stable, <br/>And His cradle was a stall: <br/>With the poor and meek and lowly <br/>Lived on earth our Saviour holy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And through all His wondrous childhood <br/>He would honour and obey, <br/>Love and watch the lowly mother <br/>In whose gentle arms He lay. <br/>Christian children all should be <br/>Mild, obedient, good as He.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For He is our childhood’s pattern: <br/>Day by day like us He grew; <br/>He was little, weak and helpless; <br/>Tears and smiles like us He knew: <br/>And He feeleth for our sadness, <br/>And He shareth in our gladness.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And our eyes at last shall see Him <br/>Through His own redeeming love; <br/>For that child, so dear and gentle, <br/>Is our Lord in heaven above; <br/>And He leads His children on <br/>To the place where He is gone.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Not in that poor lowly stable, <br/>With the oxen standing by, <br/>We shall see Him, but in heaven, <br/>Set at God’s right hand on high; <br/>When like stars His children crowned, <br/>All in white shall wait around.</lines>
+    </verse>
+  </lyrics>
+</song>

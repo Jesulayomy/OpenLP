@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-06-05T08:55:21">
+  <properties>
+    <titles>
+      <title>Hymn 3 - Praise Him Praise Him</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise Him, Praise Him! Jesus our blessed redeemer;<br/>Sing, O earth, His wonderful love proclaim! <br/>Hail Him, hail Him! highest archangels in glory, <br/>Strength and honour give to His holy name. <br/>Like a shepherd, Jesus will guard His children, <br/>In His arms He carries them all day long; <br/>O ye saints that dwell in the mountains of Zion, <br/>Praise Him! praise Him! ever in joyful song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise Him, praise Him! Jesus, our blessed Redeemer; <br/>For our sins He suffered and bled and died. <br/>He, our Rock, our hope of eternal salvation, <br/>Hail Him, hail Him! Jesus the Crucified. <br/>Loving Saviour, meekly enduring sorrow, <br/>Crowned with thorns that cruelly pierced His brow; <br/>Once for us rejected, despised, and forsaken, <br/>Prince of glory, ever triumphant now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise Him, praise Him! Jesus, our blessed Redeemer; <br/>Heavenly portals loud with hosannas ring! <br/>Jesus, Saviour, reigneth for ever and ever, <br/>Crown Him, crown Him! Prophet and Priest and King! <br/>Death is vanquished, tell it with joy, ye faithful! <br/>Where is now thy victory, boasting grave? <br/>Jesus lives, no longer thy portals are cheerless; <br/>Jesus lives, the mighty and strong to save.</lines>
+    </verse>
+  </lyrics>
+</song>

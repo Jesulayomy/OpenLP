@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>All about You</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2736"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE:<br/>I can see it clearly now<br/>There's a reason for this sound<br/>It's Jesus<br/>At the core of who I am<br/>Is the risen Son of man<br/>It's Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS:<br/>You're like no other<br/>For Your love is greater<br/>And You are the centre of it all</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>It's all about You<br/>It's all about You<br/>It's all about You<br/>It's all about You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2:<br/>I exist to bring You praise<br/>And to shout no other name<br/>But Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>INSTRUMENTAL 2:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>CHORUS 2:<br/>It's all about You<br/>It's all about You<br/>It's all about You<br/>It's all about You</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE:<br/>You are the first, You are the last<br/>You are my future, 'cause You took my past<br/>You are the reason why I sing</lines>
+    </verse>
+    <verse name="v6">
+      <lines>CODA:<br/>It's all about You<br/>It's all about You<br/>I'm living for You<br/>'Cause t's all about You</lines>
+    </verse>
+  </lyrics>
+</song>

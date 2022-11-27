@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Sing Sing Sing</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Matt Gilder</author>
+      <author type="music">Matt Gilder</author>
+      <author type="words">Daniel Carson</author>
+      <author type="music">Daniel Carson</author>
+      <author type="words">Travis Nunn</author>
+      <author type="music">Travis Nunn</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sing, sing, sing<br/>And make music with the heavens<br/>We will sing, sing, sing<br/>Grateful that You hear us<br/>When we shout your praise<br/>Lift high the name of Jesus</lines>
+    </verse>
+    <verse name="v1">
+      <lines>What's not to love about You?<br/>Heaven and earth adore You<br/>Kings and kingdoms bow down<br/>Son of God, You are the One<br/>You are the One (2.we're living for-&gt;chorus)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the love that frees us<br/>You are the light that leads us<br/>Like a fire burning<br/>Son of God, You are the One<br/>You are the one we're living for</lines>
+    </verse>
+  </lyrics>
+</song>

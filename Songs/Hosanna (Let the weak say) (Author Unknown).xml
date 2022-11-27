@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Hosanna (Let the weak say)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the weak say, "I am strong"<br/>Let the poor say, "I am rich"<br/>Let the blind say, "I can see"<br/>It's what the Lord has done in me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hosanna, hosanna<br/>To the Lamb that was slain<br/>Hosanna, hosanna<br/>Jesus died and rose again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Into the river, I will wade<br/>There my sins are washed away<br/>From the heavens mercy streams<br/>Of the Savior's love for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will rise from waters deep<br/>Into the saving arms of God<br/>I will sing salvation songs<br/>Jesus Christ has set me free</lines>
+    </verse>
+  </lyrics>
+</song>

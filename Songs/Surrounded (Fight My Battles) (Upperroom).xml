@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>Surrounded (Fight My Battles)</title>
+    </titles>
+    <authors>
+      <author type="words">Upperroom</author>
+      <author type="music">Upperroom</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3988"/>
+    </songbooks>
+    <themes>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 verse:<br/>There's a table that You've prepared for me<br/>In the presence of my enemies<br/>It's Your body and Your blood You shed for me<br/>This is how I fight my battles</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>And I believe You've overcome<br/>And I will lift my song of<br/>Praise for what You've done</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>This is how I fight my battles,<br/>This is how I fight my battles<br/>This is how I fight my battles, this is how</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 verse:<br/>In the valley I know that You're with me<br/>Surely Your goodness and Your mercy follow me<br/>My weapons are Praise and Thanksgiving<br/>This is how I fight my battles</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>It may look like I'm surrounded but I'm surrounded by You</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>It may look like I'm surrounded but I'm surrounded by You<br/>It may look like I'm surrounded but I'm surrounded by You<br/>It may look like I'm surrounded but I'm surrounded by You</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:<br/>My victories in Jesus name</lines>
+    </verse>
+  </lyrics>
+</song>

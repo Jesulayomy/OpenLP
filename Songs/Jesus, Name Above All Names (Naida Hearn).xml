@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:49">
+  <properties>
+    <titles>
+      <title>Jesus, Name Above All Names</title>
+    </titles>
+    <authors>
+      <author type="words">Naida Hearn</author>
+      <author type="music">Naida Hearn</author>
+    </authors>
+    <themes>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, name above all names,<br/>Beautiful Saviour, glorious Lord;<br/>Emmanuel, God is with us,<br/>Blessed Redeemer, Living Word.</lines>
+    </verse>
+  </lyrics>
+</song>

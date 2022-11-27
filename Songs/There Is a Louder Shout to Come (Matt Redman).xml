@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>There Is a Louder Shout to Come</title>
+    </titles>
+    <copyright>1996 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a louder shout to come, there is a sweeter song to hear;<br/>All the nations with one voice, all the people with one fear.<br/>Bowing down before Your throne, every tribe and tongue will be;<br/>All the nations with one voice, all the people with one King.<br/>And what a song we'll sing upon that day.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O what a song we'll sing and O what a tune we'll bear;<br/>You deserve an anthem of the highest praise.<br/>O what a joy will rise and O what a sound we'll make;<br/>You deserve an anthem of the highest praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now we see a part of this, one day we shall see in full;<br/>All the nations with one voice, all the people with one love.<br/>No one else will share Your praise, nothing else can take Your place;<br/>All the nations with one voice, all the people with one Lord.<br/>And what a song we'll sing upon that day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even now upon the earth, there's a glimpse of all to come;<br/>Many people with one voice, harmony of many tongues.<br/>We will all confess Your name, You will be our only praise;<br/>All the nations with one voice, all the people with one God.<br/>And what a song we'll sing upon that day.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>How I Love You</title>
+    </titles>
+    <authors>
+      <author type="words">Eben</author>
+      <author type="music">Eben</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3414"/>
+    </songbooks>
+    <themes>
+      <theme>gospel</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Куплет:<br/>Jesus how I love you<br/>Jesus how I love you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Припев:<br/>How can I live without Your love<br/>How can I breath without You touch<br/>D			A<br/>How can I live without Your love<br/>How I love you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How I love you, how I love you<br/>F#m 			D<br/>From my soul Shepherd of my life<br/>A		  E<br/>How l love you, How I love you<br/>How I love you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bright 1:<br/>You are more than live to me<br/>You are everything I need<br/>You are more than word can say<br/>You are You are.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bright 2:<br/>How great are you Lord<br/>How great are you Lord<br/>How great are you Lord<br/>So, great so great</lines>
+    </verse>
+  </lyrics>
+</song>

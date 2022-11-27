@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T08:34:51">
+  <properties>
+    <titles>
+      <title>Hymn 133 - Eternal God, We Raise To Thee</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are you weary, are you heavyhearted?<br/>Tell it to Jesus, tell it to Jesus;<br/>Are you grieving over joys departed?<br/>Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tell it to Jesus, tell it to Jesus,<br/>He is a friend that's well known;<br/>You've no other such a friend or brother,<br/>Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do the tears flow down your cheeks unbidden?<br/>Tell it to Jesus, tell it to Jesus;<br/>Have you sins that to men's eyes are hidden?<br/>Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do you fear the gath'ring clouds of sorrow?<br/>Tell it to Jesus, tell it to Jesus;<br/>Are you anxious what shall be tomorrow?<br/>Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Are you troubled at the thought of dying?<br/>Tell it to Jesus, tell it to Jesus;<br/>For Christ's coming kingdom are you sighing?<br/>Tell it to Jesus alone.</lines>
+    </verse>
+  </lyrics>
+</song>

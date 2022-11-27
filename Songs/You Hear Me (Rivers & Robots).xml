@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>You Hear Me</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3652"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord your ways are higher than my mind could ever reach<br/>But still you call me to come and speak with You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now I speak straight to the king above all kings<br/>And I know that You are always listening</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And You hear me<br/>Oh, I know You hear me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you give to me a crown then at Your feet I lay it down</lines>
+    </verse>
+  </lyrics>
+</song>

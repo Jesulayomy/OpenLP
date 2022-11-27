@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Beautiful Collision</title>
+    </titles>
+    <copyright>2005 worshiptogether.com songs | sixsteps Music | Inot Music</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+      <author type="words">Jack Parker</author>
+      <author type="music">Jack Parker</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The breaking makes a sound<br/>I never knew could be<br/>So beautiful and loud. Fury filled and we collide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So courageous until now, fumbling and scared.<br/>So afraid You'll find me out, alone here with my doubt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Here it comes; a beautiful collision<br/>Is happening now.<br/>There seems no end to where you begin<br/>And there I am now you and I collide.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Something circling inside.<br/>Spaciously you fly,<br/>Infinite and wide. Like the moon and sky collide.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Yeah, yeah, yeah.<br/>Here it comes, here it comes, here it comes now. (3X)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Collide...<br/>Here it comes, here it comes now, You and I (2X)<br/>Here it comes, here it comes, here it comes now.<br/>Feel it comin' on, feel it comin' on.<br/>Here it comes now, here it comes,<br/>Here it comes, here it comes now.</lines>
+    </verse>
+  </lyrics>
+</song>

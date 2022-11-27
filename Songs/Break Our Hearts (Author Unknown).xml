@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Break Our Hearts</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Break our hearts, oh God.<br/>Break our hearts.<br/>Break our hearts, oh God.<br/>Break our hearts.<br/>For the sin in our lives, break our hearts.<br/>For the sin in our lives, break our hearts.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We cry out, we need Your help.<br/>Come back to our land.<br/>We confess, we've lived in sin.<br/>Please show us Your power once again.</lines>
+    </verse>
+  </lyrics>
+</song>

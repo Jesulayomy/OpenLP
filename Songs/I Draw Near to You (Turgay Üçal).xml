@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>I Draw Near to You</title>
+    </titles>
+    <authors>
+      <author type="translate">Turgay Üçal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Moda Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I draw near to you<br/>I have strayed from your ways<br/>Do not leave me in my shame<br/>My Lord and my God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my Lord God<br/>My King and my Master</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teach me your paths<br/>Give me your direction<br/>Put to death my selfishness<br/>My Lord and my God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My hope is in you<br/>My rebellion is with you<br/>Your great mercy is on me<br/>My Lord and my God</lines>
+    </verse>
+  </lyrics>
+</song>

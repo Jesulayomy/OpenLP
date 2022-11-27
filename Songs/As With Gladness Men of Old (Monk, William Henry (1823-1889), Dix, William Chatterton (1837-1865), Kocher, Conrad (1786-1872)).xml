@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>As With Gladness Men of Old</title>
+    </titles>
+    <authors>
+      <author type="music">Kocher, Conrad (1786-1872)</author>
+      <author type="music">Monk, William Henry (1823-1889)</author>
+      <author type="words">Dix, William Chatterton (1837-1865)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As with gladness, men of old Did the guiding star behold As with joy they hailed its light Leading onward, beaming bright So, most glorious Lord, may we Evermore be led to Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As with joyful steps they sped To that lowly manger bed There to bend the knee before Him whom Heav'n and earth adore; So may we with willing feet Ever seek Thy mercy seat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As they offered gifts most rare At that manger rude and bare; So may we with holy joy, Pure and free from sin's alloy, All our costliest treasures bring, Christ, to Thee, our heav'nly King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy Jesus, ev'ry day Keep us in the narrow way; And, when earthly things are past, Bring our ransomed souls at last Where they need no star to guide, Where no clouds Thy glory hide.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In the heav'nly country bright, Need they no created light; Thou its Light, its Joy, its Crown, Thou its Sun which goes not down; There forever may we sing Alleluias to our King!</lines>
+    </verse>
+  </lyrics>
+</song>

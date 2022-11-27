@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>It Is Well With My Soul</title>
+      <title>When Peace Like a River</title>
+    </titles>
+    <authors>
+      <author type="music">Bliss, Philip Paul (1838-1876)</author>
+      <author type="words">Spafford, Horatio Gates (1828-1888)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When peace like a river attendeth my way,<br/>When sorrows like sea billows roll;<br/>Whatever my lot, Thou hast taught me to say,<br/>"It is well, it is well with my soul."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It is well, (it is well,)<br/>With my soul, (with my soul,)<br/>It is well, it is well with my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though Satan should buffet, though trials should come,<br/>Let this blest assurance control,<br/>That Christ has regarded my helpless estate,<br/>And hath shed his own blood for my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My sin, oh the bliss of this glorious thought!<br/>My sin, not in part but the whole<br/>Is nailed to the cross, and I bear it no more,<br/>Praise the Lord, praise the Lord, O my soul!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And, Lord, haste the day when my faith shall be sight,<br/>The clouds be rolled back as a scroll;<br/>The trump shall resound, and the Lord shall descend,<br/>Even so, it is well with my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

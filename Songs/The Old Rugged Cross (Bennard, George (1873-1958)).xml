@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>The Old Rugged Cross</title>
+    </titles>
+    <authors>
+      <author type="words">Bennard, George (1873-1958)</author>
+      <author type="music">Bennard, George (1873-1958)</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On a hill far away stood an old rugged cross, The emblem of suff'ring and shame;<br/>And I love that old cross where the dearest and best, For a world of lost sinners was slain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So I'll cherish the old rugged cross,<br/>Till my trophies at last I lay down;<br/>I will cling to the old rugged cross,<br/>And exchange it some day for a crown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh that old rugged cross, so despised by the world, Has a wondrous attraction for me;<br/>For the dear Lamb of God left His glory above, To bear it to dark Calvary.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>So I'll cherish the old rugged cross,<br/>Till my trophies at last I lay down;<br/>I will cling to the old rugged cross,<br/>And exchange it some day for a crown.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the old rugged cross, stained with blood so divine, A wondrous beauty I see;<br/>For twas on that old cross Jesus suffered and died, To pardon and sanctify me.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>So I'll cherish the old rugged cross,<br/>Till my trophies at last I lay down;<br/>I will cling to the old rugged cross,<br/>And exchange it some day for a crown.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To the old rugged cross I will ever be true, Its shame and reproach gladly bear;<br/>Then He'll call me some day to my home far away, Where his glory forever I'll share.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>So I'll cherish the old rugged cross,<br/>Till my trophies at last I lay down;<br/>I will cling to the old rugged cross,<br/>And exchange it some day for a crown.<br/>I will cling to the old rugged cross,<br/>And exchange it some day for a crown.</lines>
+    </verse>
+  </lyrics>
+</song>

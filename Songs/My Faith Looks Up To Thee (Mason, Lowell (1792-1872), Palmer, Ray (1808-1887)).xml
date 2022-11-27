@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>My Faith Looks Up To Thee</title>
+      <title>My Faith Looks Trustingly</title>
+    </titles>
+    <authors>
+      <author type="music">Mason, Lowell (1792-1872)</author>
+      <author type="words">Palmer, Ray (1808-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My faith looks up to Thee, Thou Lamb of Calvary, Savior divine! Now hear me while I pray, take all my guilt away, O let me from this day be wholly Thine!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May Thy rich grace impart Strength to my fainting heart, my zeal inspire! As Thou hast died for me, O may my love to Thee, Pure warm, and changeless be, a living fire!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>While life's dark maze I tread, And griefs around me spread, be Thou my Guide; Bid darkness turn to day, wipe sorrow's tears away, Nor let me ever stray from Thee aside.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When ends life's transient dream, When death's cold sullen stream over me roll; Blest Savior, then in love, fear and distrust remove; O bear me safe above, a ransomed soul!</lines>
+    </verse>
+  </lyrics>
+</song>

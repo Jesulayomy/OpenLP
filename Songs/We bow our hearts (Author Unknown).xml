@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>We bow our hearts</title>
+      <title>Adoration</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We bow our hearts, we lift our hands<br/>We turn our eyes to You again<br/>And we surrender to the truth<br/>That all we need is found in You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Receive our adoration<br/>Jesus, Lamb of God<br/>Receive our adoration<br/>How wonderful You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We choose to leave it all behind<br/>And turn our eyes towards the prize<br/>The upward call of God in Christ<br/>You have our hearts Lord, take our lives</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Every soul You've saved sings out<br/>Everything You've made resounds<br/>All Creation's standing now<br/>Lifting up Your Name<br/>We're caught up in the angels' song<br/>We're gathered to Your ancient throne<br/>Children in our Father's arms<br/>Shouting out Your praise</lines>
+    </verse>
+  </lyrics>
+</song>

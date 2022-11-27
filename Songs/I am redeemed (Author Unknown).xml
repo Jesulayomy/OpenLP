@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>I am redeemed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am redeemed,<br/>bought with a price.<br/>Jesus has changed my whole life.<br/>If anybody ask you just who I am,<br/>tell them I am redeemed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where there was hate,<br/>love now abounds.<br/>Where there was strife,<br/>peace now reigns.<br/>I'm walking with my Saviour,<br/>I'm a child of the King,<br/>all because I am redeemed.</lines>
+    </verse>
+  </lyrics>
+</song>

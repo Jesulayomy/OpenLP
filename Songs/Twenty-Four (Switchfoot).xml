@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Twenty-Four</title>
+    </titles>
+    <authors>
+      <author type="words">Switchfoot</author>
+      <author type="music">Switchfoot</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Twenty four oceans... Twenty four skies...<br/>Twenty four failures... Twenty four tries...<br/>Twenty four finds me... In twenty-fourth place<br/>Twenty four drop outs... At the end of the day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Life is not what I thought it was...<br/>Twenty four hours ago.<br/>Still I'm singing Spirit take me up in arms with You.<br/>And I'm not who I thought I was twenty four hours ago.<br/>Still I'm singing Spirit take me up in arms with You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twenty four reasons to admit that I'm wrong<br/>With all my excuses still twenty four strong.<br/>See I'm not copping out, not copping out, not copping out<br/>When You're raising the dead in me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, oh I am the second man.<br/>Oh, oh I am the second man now.<br/>Oh, I am the second man now.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And You're raising these twenty four voices...<br/>With twenty four hearts<br/>With all of my symphonies...<br/>In twenty four parts.<br/>But I wanna be one today...<br/>Centered and true.<br/>I'm singing Spirit take me up in arms with You.<br/>You're raising the dead in me.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Oh, oh I am the second man<br/>Oh, oh I am the second man now<br/>Oh, I am the second man now<br/>And You're raising the dead in me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I want to see miracles, see the world change.<br/>Wrestled the angel, for more than a name,<br/>For more than a feeling, for more than a cause.<br/>I'm singing Spirit take me up in arms with You<br/>And You're raising the dead in me.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Twenty four voices (Oh, oh I am the second man)<br/>With twenty four hearts (Oh, oh I am the second man now)<br/>With all of my symphonies (Oh, I am the second man now)<br/>In twenty four parts. (And You're raising the dead I me)<br/>Life is not what I thought it was (Oh, oh I am the second man)<br/>Twenty four hours ago (Oh, oh I am the second man now)<br/>Still I'm singin (Oh, I am the second man now)<br/>Spirit take me up in arms  (And You're raising the dead in me)<br/>I'm not copping out. Not copping out. Not copping out.</lines>
+    </verse>
+  </lyrics>
+</song>

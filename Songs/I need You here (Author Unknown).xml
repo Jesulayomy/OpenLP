@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>I need You here</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need You here<br/>I need You here<br/>You're like the rain that falls<br/>Fall on this heart and make me new</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I look to You<br/>I look to You<br/>You're king king above the earth<br/>And You have put heaven in my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I only want to be where You are</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy, holy is the Lord king of glory<br/>Forever saviour of the world</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Though mountains may be moved<br/>And fall into the raging seas<br/>You'll never let me fall<br/>You hold me in Your nail-scared hands</lines>
+    </verse>
+  </lyrics>
+</song>

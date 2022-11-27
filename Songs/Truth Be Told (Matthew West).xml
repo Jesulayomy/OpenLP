@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>Truth Be Told</title>
+    </titles>
+    <authors>
+      <author type="words">Matthew West</author>
+      <author type="music">Matthew West</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lie number one you're supposed to have it all together<br/>And when they ask how you're doing<br/>Just smile and tell them, "Never better"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lie number 2 everybody's life is perfect except yours<br/>So keep your messes and your wounds<br/>And your secrets safe with you behind closed doors</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Truth be told<br/>The truth is rarely told, now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I say I'm fine, yeah I'm fine oh I'm fine, hey I'm fine but I'm not<br/>I'm broken<br/>And when it's out of control I say it's under control but it's not<br/>And you know it<br/>I don't know why it's so hard to admit it<br/>When being honest is the only way to fix it<br/>There's no failure, no fall<br/>There's no sin you don't already know<br/>So let the truth be told</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's a sign on the door, says, "Come as you are" but I doubt it<br/>'Cause if we lived like it was true, every Sunday morning pew would be crowded</lines>
+    </verse>
+    <verse name="v6">
+      <lines>But didn't you say the church should look more like a hospital<br/>A safe place for the sick, the sinner and the scarred and the prodigals<br/>Like me<br/>    Can I really stand here unashamed<br/>    Knowin' that Your love for me won't change?<br/>    Oh God if that's really true<br/>    Then let the truth be told</lines>
+    </verse>
+  </lyrics>
+</song>

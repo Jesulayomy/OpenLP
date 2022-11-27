@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:05">
+  <properties>
+    <titles>
+      <title>Under His Wings</title>
+    </titles>
+    <authors>
+      <author type="music">Sankey, Ira David (1840-1908)</author>
+      <author type="words">Cushing, William Orcutt (1823-1902)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>kids</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Under His wings I am safely abiding, Though the night deepens and tempests are wild, Still I can trust Him; I know He will keep me, He has redeemed me, and I am His child. Under His wings, under His wings, Who from His love can sever? Under His wings my soul shall abide, Safely abide forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Under His wings, what a refuge in sorrow! How the heart yearningly turns to His rest! Often when earth has no balm for my healing, There I find comfort, and there I am blessed. Under His wings, under His wings, Who from His love can sever? Under His wings my soul shall abide, Safely abide forever.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Under His wings, oh, what precious enjoyment! There will I hide till life's trials are o'er; Sheltered, protected, no evil can harm me, Resting in Jesus, I'm safe evermore. Under His wings, under His wings, Who from His love can sever? Under His wings my soul shall abide, Safely abide forever.</lines>
+    </verse>
+  </lyrics>
+</song>

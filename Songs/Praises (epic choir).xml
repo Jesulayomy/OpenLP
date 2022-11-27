@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:43">
+  <properties>
+    <titles>
+      <title>Praises</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>The sun comes up <br/>Its a new dawn<br/>Its time to sing your song again<br/>Whatever may past and whatever lies before me<br/>Let me be singing till the evening comes</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>i have zoe <br/>i have zoe<br/> The spirit of God <br/>Lives inside of me<br/>I have Zoe<br/> I have Zoe<br/>The life of God is what we have</lines>
+    </verse>
+  </lyrics>
+</song>

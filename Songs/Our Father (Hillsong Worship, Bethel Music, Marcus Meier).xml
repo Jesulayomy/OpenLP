@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Our Father</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+      <author type="words">Marcus Meier</author>
+      <author type="music">Marcus Meier</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1310"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>V1</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The words of Christ<br/>Passed down through generations<br/>The Son of God teaching us to pray<br/>Echoed words<br/>Father have Your will, Your way in me<br/>Completely</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2<br/>We wholly trust<br/>You're faithful in provision<br/>Amazing grace, mercy for our sins<br/>May we forgive<br/>The way that You've forgiven us, oh Lord<br/>So we can sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS<br/>Our Father<br/>Hallowed be Your Name<br/>Forever our God be exalted<br/>Your kingdom come and in us<br/>Let Your will  be done<br/>Our Father</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE 3<br/>Lead us from the valley of temptation<br/>Deliver us from the evil one<br/>Lord You reign and here we stand<br/>Victorious in Your Name<br/>Together we pray</lines>
+    </verse>
+    <verse name="v6">
+      <lines>BRIDGE<br/>Yours is the kingdom and power and glory<br/>God of authority, ancient of days<br/>Yours is the wisdom and honour<br/>Forever and always and always<br/>Yours is the kingdom and power and glory<br/>God of authority, ancient of days<br/>Yours is the wisdom and honour<br/>Forever and always we pray</lines>
+    </verse>
+  </lyrics>
+</song>

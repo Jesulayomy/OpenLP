@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:39">
+  <properties>
+    <titles>
+      <title>A NA M ENYE GI EKELE</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A na m enye gi ekele<br/>omemma eh<br/>omemma eh<br/>I worship you</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>you've been so good to me <br/>Faithful God <br/>you so good<br/>you are so kind<br/>King of all kings<br/>Lord of all Lords<br/>champion of champions<br/>I am giving you the praise</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ana m enye gi ekele<br/>Omemma eh<br/>Omemma eh <br/>I worship you</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Idiighi agbanwe agbanwe<br/>Omemma<br/>I juru obi m eju<br/>Obioma<br/>Ka m bulie gi elu<br/>Otito diri gi<br/>Eze ndi eze<br/>Ana m enye gi  ekele</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Ana m enye gi ekele<br/>Omemma eh<br/>Omemma eh<br/>I worship you</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Ekele<br/>Ekele<br/>Omemma<br/>Ekele<br/>I worship you </lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Ekele <br/>Ekele<br/>Ekele<br/>Ekele <br/>Ekele<br/>Ekele<br/>I worship you</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O The Deep, Deep Love of Jesus</title>
+    </titles>
+    <authors>
+      <author type="music">Williams, Thomas J. (1869-1944)</author>
+      <author type="words">Francis, Samuel Trevor (1834-1925)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O the deep, deep love of Jesus, vast, unmeasured, boundless, free! Rolling as a mighty ocean in its fullness over me! Underneath me, all around me, is the current of Thy love Leading onward, leading homeward to Thy glorious rest above!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O the deep, deep love of Jesus, spread His praise from shore to shore! How He loveth, ever loveth, changeth never, nevermore! How He watches o'er His loved ones, died to call them all His own; How for them He intercedeth, watcheth o'er them from the throne!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O the deep, deep love of Jesus, love of every love the best! 'Tis an ocean full of blessing, 'tis a haven giving rest! O the deep, deep love of Jesus, 'tis a heav'n of heav'ns to me; And it lifts me up to glory, for it lifts me up to Thee!</lines>
+    </verse>
+  </lyrics>
+</song>

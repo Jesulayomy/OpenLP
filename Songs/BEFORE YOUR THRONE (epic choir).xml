@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:40">
+  <properties>
+    <titles>
+      <title>BEFORE YOUR THRONE</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Only you deserve my praise<br/>Its for you alone<br/>I will praise you<br/>I will worship you<br/>Only you deserve my praise</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yahweh Yahweh<br/>I glorify your name<br/>Yahweh<br/>I bow</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Before your throne<br/>I glorify your name<br/>Before your throne<br/>I bow</lines>
+    </verse>
+  </lyrics>
+</song>

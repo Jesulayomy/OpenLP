@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>God's love song to the world</title>
+      <title>God's love song</title>
+    </titles>
+    <authors>
+      <author type="words">Philip Moolman</author>
+      <author type="music">Philip Moolman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You came to settle all the scores<br/>Long before I was even born<br/>And You called me by my name<br/>And told me I am Your's</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Two thousand years ago<br/>It was finished, it was done<br/>And as I grew up I could learn<br/>You're the Holy One<br/>And now I got to know<br/>The One who loves me so</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I'm forever grateful that I got to know You<br/>And to have learned that You have known me all along<br/>And that for every step I took You were beside me<br/>Now forever I will praise You in a song</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus Christ to the world<br/>God's Love song to the world<br/>To every man and woman every boy and every girl<br/>God's Love song  to the world</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When people ask me to explain my job description<br/>Why am I so passionate and smitten<br/>I say: I'm a songwriter<br/>And I love to write songs ...........(HANG)<br/>About the greatest Love song ever written</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jesus Christ to the world<br/>God's Love song to the world<br/>To every man and woman every boy and every girl<br/>God's Love song  to the world</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Whatever I do, Wherever I go<br/>Music comes pouring out of me - I'm in the flow<br/>I am a part of God's love song to the world</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Jesus Christ to the world<br/>God's Love song to the world<br/>To every man and woman every boy and every girl<br/>God's Love song  to the world</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Whatever you do, wherever you go<br/>Come join the party now - get into the flow<br/>Become a part of God's Love song to the world</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Jesus Christ to the world<br/>God's Love song to the world<br/>To every man and woman every boy and every girl<br/>God's Love song  to the world<br/>God's Love song  to the world</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Worthy is the Lamb</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>gospel</theme>
+      <theme>easter</theme>
+      <theme>lords-supper</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>heaven</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+      <theme>thanksgiving</theme>
+      <theme>grace</theme>
+      <theme>sacrifice</theme>
+      <theme>victory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank you for the cross, Lord<br/>Thank you for the price You paid<br/>Bearing all my sin and shame<br/>In love You came<br/>And gave amazing grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thank you for this love, Lord<br/>Thank you for the nail pierced hands<br/>Washed me in your cleansing flow<br/>Now all I know<br/>Your forgiveness and embrace</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Worthy is the Lamb<br/>Seated on the throne<br/>Crown you now with many crowns<br/>You reign victorious<br/>High and lifted up<br/>Jesus Son of God<br/>The Darling of Heaven crucified<br/>Worthy is the Lamb<br/>Worthy is the Lamb</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Worthy is the Lamb<br/>Worthy is the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

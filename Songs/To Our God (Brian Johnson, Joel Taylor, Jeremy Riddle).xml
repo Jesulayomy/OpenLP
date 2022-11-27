@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>To Our God</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Taylor</author>
+      <author type="music">Joel Taylor</author>
+      <author type="words">Jeremy Riddle</author>
+      <author type="music">Jeremy Riddle</author>
+      <author type="words">Brian Johnson</author>
+      <author type="music">Brian Johnson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1863"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Up from the ashes Your love has brought us<br/>Out of the darkness into the light<br/>Lifting our sorrows<br/>Bearing our burdens healing our hearts</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To our God we lift up one voice<br/>To our God we lift up one song<br/>To our God we lift up one voice<br/>Singing Hallelujah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chains have been broken eyes have been opened<br/>An army of dry bones is starting to rise<br/>Death is defeated<br/>We are victorious for You are alive<br/>Hallelujah Hallelujah (repeat)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>We'll make His praise glorious glorious, glorious<br/>For His name is glorious, glorious, glorious<br/>Make His praise glorious, glorious, glorious<br/>Shout His name Glorious, Glorious, Glorious</lines>
+    </verse>
+  </lyrics>
+</song>

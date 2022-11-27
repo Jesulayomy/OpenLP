@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:50">
+  <properties>
+    <titles>
+      <title>I have decided to follow Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Folk Melody</author>
+      <author type="music">Folk Melody</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>response</theme>
+      <theme>piano</theme>
+      <theme>kids</theme>
+      <theme>praise</theme>
+      <theme>commitment</theme>
+      <theme>longing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have decided  to follow Jesus,<br/>I have decided  to follow Jesus,<br/>I have decided  to follow Jesus,<br/>No turning back, no turning back.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The world behind me,  the cross before me,<br/>The world behind me,  the cross before me,<br/>The world behind me,  the cross before me,<br/>No turning back, no turning back.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though none go with me,  still I will follow,<br/>Though none go with me,  still I will follow,<br/>Though none go with me,  still I will follow,<br/>No turning back, no turning back.</lines>
+    </verse>
+  </lyrics>
+</song>

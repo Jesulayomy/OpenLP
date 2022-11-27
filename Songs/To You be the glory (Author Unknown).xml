@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>To You be the glory</title>
+      <title>It's Your blood that saved me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's Your blood that saved me<br/>It's Your blood that never fails<br/>Your sacrifice for all, made perfect on the cross<br/>You opened up the way to eternal life</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To You be the glory<br/>To You be the praise<br/>As we crown You with glory<br/>We declare, God of heaven, You reign</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You alone are worthyYou deserve the highest praiseIn awe we stand amazed that You would take ourplaceYou opened up the way to eternal life</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Forever, forever<br/>Forever You shall reign<br/>x4</lines>
+    </verse>
+  </lyrics>
+</song>

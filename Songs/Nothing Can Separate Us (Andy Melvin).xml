@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Nothing Can Separate Us</title>
+    </titles>
+    <authors>
+      <author type="words">Andy Melvin</author>
+      <author type="music">Andy Melvin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Neither life nor death nor angels<br/>Can ever separate us from Your love.<br/>No principalities nor present things nor things to come nor power.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nothing can separate us, nothing can separate us from Your<br/>Nothing can separate us, nothing can separate us from Your love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No tribulation can keep us down,<br/>Because in you we know we'll overcome.<br/>Neither height nor depth<br/>Nor anything created<br/>Can ever separate us from the love of God.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>In all these things we are more than conquerors.<br/>For in all these things we are more than conquerors<br/>Because of You and because You love us.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Where There Is Faith</title>
+    </titles>
+    <authors>
+      <author type="words">4Him</author>
+      <author type="music">4Him</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe in faithfulness, I believe in giving of myself,<br/>For someone else;<br/>I believe in peace and love, I believe in honesty and trust,<br/>but it's not enough;<br/>For all that I believe may never change the way it is,<br/>unless I believe Jesus lives.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Where there is faith, there is a voice calling,<br/>"Keep walking, you're not alone in this world;"<br/>Where there is faith, there is a peace like a child sleeping<br/>hope everlasting in He<br/>Who is able to bear every burden to heal every hurt in my heart;<br/>It is a wonderful, powerful place: where there is faith.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a man across the sea, never heard the sound of freedom ring,<br/>Only in his dreams;<br/>There's a lady dressed in black, in a motorcade of Cadillacs,<br/>Daddy's not coming back;<br/>And our hearts begin to fall and our stability grows weak,<br/>But Jesus meets our needs if we only believe.</lines>
+    </verse>
+  </lyrics>
+</song>

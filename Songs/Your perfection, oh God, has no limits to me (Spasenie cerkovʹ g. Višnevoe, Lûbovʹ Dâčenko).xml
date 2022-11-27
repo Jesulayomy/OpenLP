@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Your perfection, oh God, has no limits to me</title>
+    </titles>
+    <authors>
+      <author type="words">Lûbovʹ Dâčenko</author>
+      <author type="music">Lûbovʹ Dâčenko</author>
+      <author type="words">Spasenie cerkovʹ g. Višnevoe</author>
+      <author type="music">Spasenie cerkovʹ g. Višnevoe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="1239"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your perfection, oh God, has no limits to me<br/>Every moment I live with You is a treasure.<br/>When I cry, when I'm weak You wash away all my tears,<br/>Flood my life with the faith that has no measures</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I'm standing here to worship Your Glory,<br/>I'm not afraid to lift up my hands because You are worthy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All sufficient God, give You all my praise.<br/>Overshadow me with Your holiness.<br/>Lord, I need Your strength and I need Your warmth<br/>There is nothing compares to Your, oh God, precious love.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>I'm overwhelmed by Your beauty and Glory,<br/>I'm not afraid to lift up my praise because You are worthy</lines>
+    </verse>
+  </lyrics>
+</song>

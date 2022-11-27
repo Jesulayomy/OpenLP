@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>Though in the Midst of Life We Be</title>
+      <title>In the Midst of Earthly Life, In the Very Midst of Life, In the Midst of Life We Are</title>
+    </titles>
+    <authors>
+      <author type="music">Medieval</author>
+      <author type="music">Luther, Martin (1483-1546)</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though in midst of life we be, Snares of death surround us; Where shall we for succor flee, Lest our foes confound us? To Thee alone, our Savior. We mourn our grievous sin which hath Stirr'd the fire of Thy fierce wrath. Holy and gracious God! Holy and mighty God! Holy and all\merciful Savior! Thou eternal God! Save us, Lord, from sinking In the deep and bitter flood. Kyrie eleison.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whilst in midst of death we be, Hell's grim jaws o'ertake us; Who from such distress will free. Who secure will make us? Thou only, Lord, canst do it! It moves Thy tender heart to see Our great sin and misery. Holy and gracious God! Holy and mighty God! Holy and all\merciful Savior! Thou eternal God! Let not hell dismay us With its deep and burning flood. Kyrie eleison.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Into hell's fierce agony Sin doth headlong drive us: Where shall we for succor flee, Who, O, who will hide us? Thou only, blessed Saviour. Thy precious blood was shed to win Peace and pardon for our sin. Holy and gracious God! Holy and mighty God! Holy and all\merciful Savior! Let us not, we pray, From the true faith's comfort Fall in our last need away. Kyrie eleison.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Isn't He wonderful</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isn't He wonderful,<br/>wonderful, wonderful?<br/>Isn't Jesus my Lord wonderful?<br/>Eyes have seen, ears have heard,<br/>what's recorded in God's Word.<br/>Isn't Jesus my Lord wonderful?</lines>
+    </verse>
+  </lyrics>
+</song>

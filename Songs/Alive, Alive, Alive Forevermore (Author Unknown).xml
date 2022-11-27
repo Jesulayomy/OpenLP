@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:58">
+  <properties>
+    <titles>
+      <title>Alive, Alive, Alive Forevermore</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>kids</theme>
+      <theme>praise</theme>
+      <theme>easter</theme>
+      <theme>resurrection</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alive, alive, alive forevermore<br/>Jesus is alive, alive forevermore<br/>Alive, alive, alive forevermore<br/>Jesus is alive</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sing hallelujah, sing hallelujah<br/>Jesus is alive forevermore<br/>Sing hallelujah, sing hallelujah<br/>He is alive forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

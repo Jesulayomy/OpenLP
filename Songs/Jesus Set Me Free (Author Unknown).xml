@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>Jesus Set Me Free</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm so glad Jesus set me free,<br/>I'm so glad Jesus set me free,<br/>I'm so glad Jesus set me free,<br/>Singing, glory, hallelujah,<br/>Jesus set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm so glad Jesus lifted me,<br/>I'm so glad Jesus lifted me,<br/>I'm so glad Jesus lifted me,<br/>Singing, glory, hallelujah,<br/>Jesus set me free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm on my way to Heaven,<br/>Shouting "victory"<br/>I'm on my way to Heaven,<br/>Shouting "victory"<br/>I'm on my way to Heaven,<br/>Shouting "victory"<br/>Singing, glory, hallelujah,<br/>Jesus set me free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Satan had me bound,<br/>But Jesus set me free,<br/>Satan had me bound,<br/>But Jesus set me free,<br/>Satan had me bound,<br/>But Jesus set me free,<br/>Singing, glory, hallelujah,<br/>Jesus set me free.</lines>
+    </verse>
+  </lyrics>
+</song>

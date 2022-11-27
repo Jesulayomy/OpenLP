@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>O Heavens, O Earth</title>
+    </titles>
+    <authors>
+      <author type="words">Turgay Üçal</author>
+      <author type="music">Turgay Üçal</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O heavens, O earth<br/>Our God is worthy of our praise<br/>We were all sinful at heart<br/>We owe all to wondrous grace<br/>Through the Savior<br/>Who came down from on high<br/>We received grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O heavens, O earth<br/>We are all saved by his true grace<br/>We were all sinful at heart<br/>We were starved, craving love<br/>Through his love that<br/>Came to us from above<br/>We reached God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O heavens, O earth<br/>Our God's pow'r 's enough for anything<br/>We were all sinful at heart<br/>We were mired deep in sin<br/>Through his pardon<br/>That came from heav'n above<br/>Grace cleansed us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O heavens, O earth<br/>Our way leads to eternity</lines>
+    </verse>
+  </lyrics>
+</song>

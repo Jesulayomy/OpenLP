@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:51">
+  <properties>
+    <titles>
+      <title>You did not wait for me</title>
+      <title>Forever Grateful</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Altrogge</author>
+      <author type="music">Mark Altrogge</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You did not wait for me to draw near to You<br/>But You clothed Yourself with frail humanity<br/>You did not wait for me to cry out to You<br/>But You let me hear Your voice calling me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I'm forever grateful to You<br/>I'm forever grateful for the cross<br/>I'm forever grateful to You<br/>That You came to seek and save the lost</lines>
+    </verse>
+  </lyrics>
+</song>

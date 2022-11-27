@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Lay Me Down</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4109"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 verse:<br/>With this heart open wide from the depths, from the heights<br/>I will bring a  sacrifice<br/>With these hands lifted high Hear my song, hear my cry<br/>I will bring a sacrifice<br/>I will bring a  sacrifice</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I Lay me down I'm not my own, I belong to you alone<br/>Lay me down, lay me down,<br/>Hand on my heart this much is true there's no life apart from you<br/>Lay me down, lay me down</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse:<br/>Letting go of my pride giving up all my rights<br/>Take this life and let it shine, shine, shine<br/>Take this life and let it shine</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>It will be my joy to say, Your will your way<br/>It will be my joy to say, Your will your way<br/>It will be my joy to say, Your will your way always</lines>
+    </verse>
+  </lyrics>
+</song>

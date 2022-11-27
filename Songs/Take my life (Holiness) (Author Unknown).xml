@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Take my life (Holiness)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rightiousness, Rightiousness,<br/>is what I long for<br/>Rightiousness is what I need<br/>Rightiousness, Rightiousness<br/>is what you want from me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>So take my heart and form it<br/>Take my mind and transform it<br/>Take my will and conform it<br/>To Yours, to Yours lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holiness, Holiness,<br/>is what I long for<br/>Holiness is what i need<br/>Holiness, Holiness<br/>Is what you want from me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Faithfulness, Faithfulness<br/>is what I long for<br/>Faithfulness is what i need<br/>Faithfulness, Faithfulness<br/>Is what you want from me</lines>
+    </verse>
+  </lyrics>
+</song>

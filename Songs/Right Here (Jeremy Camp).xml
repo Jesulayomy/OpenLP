@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Right Here</title>
+    </titles>
+    <authors>
+      <author type="words">Jeremy Camp</author>
+      <author type="music">Jeremy Camp</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the world is watching.<br/>All the world does care.<br/>Even when the world weighs on my shoulder now,<br/>These feelings I can bear<br/>Because I know that You're here.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Everywhere I go, I know You're not far away.<br/>You're right here. You're right here. (2X)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All these thoughts I've wasted,<br/>All these thoughts I've feared,<br/>Even when these thoughts are faded,<br/>I still know that You hear,<br/>And I can rest my hope in You.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>The many times that I have felt alone,<br/>The many times that I have felt the world was crashing down upon me,<br/>You always stood here by my side.<br/>You were always there.</lines>
+    </verse>
+  </lyrics>
+</song>

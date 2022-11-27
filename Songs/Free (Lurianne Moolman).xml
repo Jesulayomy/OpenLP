@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Free</title>
+      <title>From the hilltops</title>
+    </titles>
+    <authors>
+      <author type="words">Lurianne Moolman</author>
+      <author type="music">Lurianne Moolman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>...All around me,... and inside me<br/>...How I long for Your sweet embrace<br/>...To the place where ... our spirit<br/>...Intertwine to set me free (Repeat X2)</lines>
+    </verse>
+    <verse name="p1">
+      <lines>... Free to hunger, ... free to run to<br/>Free to express my love for Thee<br/>Free to shout out</lines>
+    </verse>
+    <verse name="c1">
+      <lines>... From the hilltops, ... over mountains<br/>I'll proclaim that You're my Lord<br/>....From the hilltops,... over mountains<br/>I'll look up to see my Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>...With His presence ... all around me<br/>....Elevated, a higher place<br/>....And His glory<br/>......Manifesting<br/>In my faith He sets me free</lines>
+    </verse>
+    <verse name="p2">
+      <lines>... Free to hunger, ... free to run to<br/>Free to express my love for Thee<br/>Free to shout out</lines>
+    </verse>
+    <verse name="c2">
+      <lines>... From the hilltops, ... over mountains<br/>I'll proclaim that You're my Lord<br/>....From the hilltops,... over mountains<br/>I'll look up to see my Lord<br/>I'll look up to see my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

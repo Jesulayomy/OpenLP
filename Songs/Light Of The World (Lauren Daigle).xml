@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Light Of The World</title>
+    </titles>
+    <authors>
+      <author type="words">Lauren Daigle</author>
+      <author type="music">Lauren Daigle</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1428"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>The world waits for a miracle the heart longs for a little bit of hope<br/>O come O come Emmanuel<br/>A child prays for peace on earth and Shes calling out from a sea of hurt<br/>O come O come Emmanuel</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And Can    you  hear the angels    singing</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Glory       to the light of the world<br/>Glory       the light of the world is here</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>The drought breaks with the tears of a mother a babys cry is the sound of love come down<br/>Come down come down Emmanuel<br/>He is the song for the suffering he is Messiah, the prince of peace<br/>Has come He has come Emmanuel</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>Glory       to the light of the world<br/>Glory       to the light of the world<br/>Glory       to the light of the world<br/>Glory       to the light of the world</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>For all who wait for all who hunger<br/>For all whove pained for all who wonder<br/>Behold your King behold Messiah<br/>Emmanuel, Emmanuel</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Chorus:<br/>Glory       to the light of the world<br/>Glory       to the light of the world<br/>Glory       to the light of the world</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Behold your King behold Messiah<br/>Emmanuel, Emmanuel</lines>
+    </verse>
+    <verse name="v3">
+      <lines>End:<br/>The world waits for a miracle the heart longs for a little bit of hope<br/>O come O come Emmanuel</lines>
+    </verse>
+  </lyrics>
+</song>

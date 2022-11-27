@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>Glorious Ruins</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+      <author type="words">Matt Crocker</author>
+      <author type="music">Matt Crocker</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1957"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>salvation</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>When the mountains fall and the tempest roars<br/>You are with me<br/>When creation falls still my soul will soar<br/>On Your mercy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>I'll walk through the fire with my head lifted high<br/>And my spirit revived in Your story<br/>I'll look to the cross as my failure is lost<br/>In the light of Your glorious grace</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Let the ruins come to life in the beauty of Your name<br/>Rising up from the ashes God forever You reign<br/>And my soul will find refuge in the shadow of Your wings<br/>I will love You forever and forever I'll sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>When the world caves in still my hope will cling<br/>To Your promise<br/>When my courage ends let my heart find strength<br/>In Your presence</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Others:<br/>Whoa oh whoa oh<br/>Whoa oh whoa oh</lines>
+    </verse>
+  </lyrics>
+</song>

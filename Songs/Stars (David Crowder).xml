@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Stars</title>
+    </titles>
+    <copyright>2003 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You should see the stars tonight,<br/>How they shimmer, shine so bright.<br/>Against the black, they look so white,<br/>Coming down from such a height<br/>To reach me now; You reach me now.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You should see the moon in flight,<br/>Cutting 'cross the misty night,<br/>Softly dancing in sunshine.<br/>Reflections of it's light<br/>Reach me now; You reach me now.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And how could such a thing<br/>shine it's light on me<br/>And make ev'rything<br/>beautiful again?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You should feel the sun in spring,<br/>Coming out after a rain.<br/>Suddenly, all is green,<br/>Sunshine on ev'rything.<br/>I can feel it now; I feel You now.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You should hear the angels sing,<br/>All gathered 'round their King,<br/>More beautiful than you could dream.<br/>I've been quietly listening.<br/>You can hear them now; I hear them now.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And how could such a King<br/>shine His light on me<br/>And make ev'rything<br/>beautiful again?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>And how could such a King shine His light on me<br/>And make ev'rything beautiful?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I want to shine; I want to be light.<br/>I want to tell You, 'it'll be alright.'<br/>And I want to shine, and I want to fly,<br/>Just to tell You, 'now it'll be alright.'<br/>It'll be alright; It'll be alright.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>'Cause I've got nothing of my own to give to You.<br/>But this light that shines on me shines on You<br/>And makes ev'rything beautiful again.<br/>It'll be alright; It'll be alright.</lines>
+    </verse>
+  </lyrics>
+</song>

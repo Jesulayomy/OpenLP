@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Love Song for a Savior</title>
+    </titles>
+    <copyright>1995 Pogostick Music | Bridge Building Music, Inc.</copyright>
+    <authors>
+      <author type="words">Dan Haseltine</author>
+      <author type="music">Dan Haseltine</author>
+      <author type="words">Charlie Lowell</author>
+      <author type="music">Charlie Lowell</author>
+      <author type="words">Matt Bronleewe</author>
+      <author type="music">Matt Bronleewe</author>
+      <author type="words">Stephen Mason</author>
+      <author type="music">Stephen Mason</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In open fields of wild flowers, she breathes the air and flies away.<br/>She thanks her Jesus for the daisies and the roses in no simple language.<br/>Someday she'll understand the meaning of it all.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>He is more than the laughter or the stars in the heavens,<br/>As close as a heartbeat or song on her lips.<br/>Someday she'll trust Him, learn how to see Him.<br/>Someday He'll call her and she will come running<br/>And fall in His arms, the tears will fall down and she'll pray,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I want to fall in love with You.<br/>I want to fall in love with You.<br/>I want to fall in love with You.<br/>I want to fall in love with You-<br/>hoo-hoo! Ooo-hoo! You-hoo-hoo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sitting silent wearing Sunday best.  The sermon echoes thru the walls;<br/>A great salvation thru it calls to the people<br/>who stare into nowhere,<br/>Can't feel the chains on their souls.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>He is more than the laughter or the stars in the heavens,<br/>As close as a heartbeat or song on our lips.<br/>Someday we'll trust Him, learn how to see Him.<br/>Someday He'll call us and we will come running<br/>And fall in His arms, the tears will fall down and we'll pray,</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ooo-hoo! You...<br/>We want to pray! Hi-gh!<br/>La la la la la la la, a<br/>La la la, la la la,<br/>La la la la la la la,<br/>La la la-ah.<br/>It seems too easy to call You Savior, not close enough to call You "God".<br/>So as I sit and think of the words I can mention to show my devotion,</lines>
+    </verse>
+  </lyrics>
+</song>

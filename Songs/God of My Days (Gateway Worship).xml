@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>God of My Days</title>
+    </titles>
+    <authors>
+      <author type="words">Gateway Worship</author>
+      <author type="music">Gateway Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You awaken my heart from slumbering<br/>Meet me in mourning,<br/>And You speak to my grief<br/>You're the light in my darkness<br/>The delight of my eyes<br/>The hope of the daybreak<br/>When the sun's slow to rise<br/>I trust that every moment's in Your hands</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're the God of my days<br/>The King of my nights<br/>Lord of my laughter, sovereign in sorrow<br/>You're the prince of my praise<br/>The love of my life<br/>You never leave me, You are faithful<br/>God of my days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You unveil my eyes, help me to see<br/>The arms of my Father encircling me<br/>You're a constant companion<br/>I am never alone<br/>Your love is the banner<br/>That's leading me home<br/>I trust that every moment's in Your hands</lines>
+    </verse>
+  </lyrics>
+</song>

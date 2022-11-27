@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:42">
+  <properties>
+    <titles>
+      <title>My Faith Has Found A Resting Place</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My faith has found a resting place, <br/>Not in a man made creed, <br/>I trust the Ever-living one, <br/>That he died for me will plead</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I need no other evidence, <br/>I need no other plea, <br/>It is enough that Jesus died, <br/>And rose again for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Enough for me that Jesus saves, <br/>This ends my fear and doubt; <br/>A sinful soul I come to Him, <br/>He will not cast me out.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My great Physician heals the sick,<br/>The lost He came to save; <br/>For me His precious blood He shed, <br/>For me His life He gave</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My soul is resting on the Word, <br/>The living Word of God, <br/>Salvation in my saviors name, <br/>Salvation through His blood.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Let All Mortal Flesh Keep Silence</title>
+    </titles>
+    <authors>
+      <author type="translate">Moultrie, Gerard (1829-1885)</author>
+      <author type="words">from Liturgy of St. James</author>
+      <author type="music">French</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>worship</theme>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let all mortal flesh keep silence,<br/>And with fear and trembling stand;<br/>Ponder nothing earthly minded,<br/>For with blessing in His hand,<br/>Christ our God to earth descendeth,<br/>Our full homage to de-mand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King of kings, yet born of Mary,<br/>As of old on earth He stood,<br/>Lord of lords, in human vesture,<br/>In the body and the blood;<br/>He will give to all the faith-ful<br/>His own self for heav'nly food.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rank on rank the host of heaven<br/>Spreads its vanguard on the way,<br/>As the Light of light descendeth<br/>From the realms of endless day,<br/>That the pow'rs of hell may van-ish<br/>As the darkness clears away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At His feet the six winged seraph,<br/>Cherubim with sleepless eye,<br/>Veil their faces to the presence,<br/>As with ceaseless voice they cry:<br/>Alleluia, Alleluia<br/>Alleluia, Lord Most High!</lines>
+    </verse>
+  </lyrics>
+</song>

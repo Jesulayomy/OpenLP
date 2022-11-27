@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:40">
+  <properties>
+    <titles>
+      <title>choir ministration</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are who are yesterday <br/>Today and forever more <br/>What You say is what You do <br/>You never fail You never change <br/>You are faithful till the end <br/>Faithful God, I worship You <br/>I worship You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You’re too Faithful to fail me <br/>You’re too Faithful<br/>To disappoint me <br/>You’ve Proven Yourself in my life <br/>And I’ve come to Realize <br/>You are too Faithful to fail me(x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You’re too loving to leave me  Too loving <br/>You’re too loving to leave me halfway <br/>What You start You always finish <br/>Lord I’ve come to realize <br/>That You’re too loving to leave me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You’re are too committed to leave me <br/>You’re too consistent<br/>To leave me halfway <br/>What You start You always finish <br/>Lord I’ve come to realize <br/>You’re too faithful to fail me </lines>
+    </verse>
+  </lyrics>
+</song>

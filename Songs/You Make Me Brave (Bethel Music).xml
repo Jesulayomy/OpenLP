@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>You Make Me Brave</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="912"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>I stand before You now<br/>The greatness of your renown<br/>I have heard the majesty and wonder of you<br/>King of Heaven, in humility, I bow</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>As Your love, in wave after wave<br/>Crashes over me, crashes over me<br/>For You are for us<br/>You are not against us<br/>Champion of Heaven<br/>You made a way for all to enter in</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>I have heard You calling my name<br/>I have heard the song of love that You sing<br/>So I will let You draw me out beyond the shore<br/>Into Your grace<br/>Into Your grace</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>You make me brave<br/>You make me brave<br/>You call me out beyond the shore into the waves<br/>You make me brave<br/>You make me brave<br/>No fear can hinder now the love that made a way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You make me brave<br/>You make me brave<br/>You call me out beyond the shore into the waves<br/>You make me brave<br/>You make me brave<br/>No fear can hinder now the promises You make</lines>
+    </verse>
+  </lyrics>
+</song>

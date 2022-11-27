@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Open the Eyes of My Heart Lord</title>
+    </titles>
+    <copyright>1997 Integrity's Hosanna! Music</copyright>
+    <authors>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3306"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>prayer</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Open the eyes of my heart, Lord.<br/>Open the eyes of my heart.<br/>I want to see You. I want to see You. (2X)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To see You high and lifted up,<br/>Shining in the light of Your glory;<br/>Pour out Your power and love,<br/>As we sing holy, holy, holy.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Holy, holy, holy...<br/>Holy, holy, holy...<br/>Holy, holy, holy...<br/>I want to see You.</lines>
+    </verse>
+  </lyrics>
+</song>

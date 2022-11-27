@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Beautiful</title>
+    </titles>
+    <authors>
+      <author type="words">Phil Wickham</author>
+      <author type="music">Phil Wickham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see Your face in every sunrise<br/>The colors of the morning are inside Your eyes<br/>The world awakens in the light of the day<br/>I look up to the sky and say<br/>You're beautiful</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see Your power in the moonlit night<br/>Where planets are in motion and galaxies are bright<br/>We are amazed in the light of the stars<br/>It's all proclaiming who You are<br/>You're beautiful, You're beautiful</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I see you there hanging on a tree<br/>You bled and then you died and then you rose again for me<br/>Now you are sitting on Your heavenly throne<br/>Soon we will be coming home<br/>You're beautiful, you're beautiful</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When we arrive at eternity's shore<br/>Where death is just a memory and tears are no more<br/>We'll enter in as the wedding bells ring<br/>Your bride...</lines>
+    </verse>
+  </lyrics>
+</song>

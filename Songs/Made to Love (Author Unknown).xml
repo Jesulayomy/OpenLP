@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Made to Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="1550"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The dream is fading, now I'm staring at the door<br/>I know its over cause my feet have hit the cold floor<br/>Check my reflection, I ain't feelin what I see<br/>It's no mystery.<br/>Whatever happened to a passion I could live for<br/>What became of the flame that made me feel more<br/>And when did I forget that?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I was made to love You I was made to find You<br/>I was made just for You Made to adore You<br/>I was made to love And be loved by You<br/>You were here before me You were waiting on me<br/>And You said you'd keep me<br/>Never would You leave me I was made to love and be loved by You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The dream's alive with my eyes opened wide<br/>Back in the ring You've got me swinging for the grand prize<br/>I feel the haters spitting vapors on my dreams<br/>But I still believe<br/>I'm reaching out, reaching up, reaching over<br/>I feel a breeze cover me called Jehovah<br/>And Daddy I'm on my way Cause I was made to love...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Was made to love You<br/>I was made to find You<br/>I was made just for You<br/>Made to adore You<br/>I was made to love<br/>And be loved by You<br/>You were here before me<br/>You were waiting on me<br/>And You said you'd keep me<br/>Never would You leave me I was made to love and be loved by You.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Anything I would give up for You<br/>Everything, I'd give it all away.<br/>Anything I would give up for You<br/>Everything, I'd give it, I'd give it all away, Oh yeah!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cause I was made to love You (I was made to love You)<br/>Yeah I was made to love You (I was made to find You)<br/>Cause I was made to love You (I was made to adore You, made just for You)<br/>I was made to love You (I was made to adore You, made just for You)</lines>
+    </verse>
+  </lyrics>
+</song>

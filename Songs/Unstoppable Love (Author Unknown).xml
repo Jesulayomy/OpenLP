@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Unstoppable Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3309"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unstoppable Love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Try to stop Your love and You would wage a war<br/>Try to take the very thing You gave Your life for<br/>And You would come running tear down every wall<br/>All the while shouting My love you're worth it all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God You pursue me with power and glory<br/>Unstoppable love that never ends<br/>You're unrelenting with passion and mercy<br/>Unstoppable love that never ends</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You broke into the silence and sang a song of hope<br/>A melody resounding in the deep of my soul<br/>You have come running You tore down every wall<br/>All the while shouting My love you're worth it all</lines>
+    </verse>
+    <verse name="b1">
+      <lines>No sin no shame no past no pain<br/>Can separate me from Your love<br/>No height no depth no fear no death<br/>Can separate me from Your love</lines>
+    </verse>
+  </lyrics>
+</song>

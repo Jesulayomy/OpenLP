@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Thy Hand O God Has Guided</title>
+    </titles>
+    <authors>
+      <author>Edward Hayes Plumptre</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thy Hand, O God has guided<br/>Thy flock, from age to age;<br/>The wondrous tale is written,<br/>Full clear on every page.<br/>Our fathers owned Thy goodness,<br/>And we their deeds record;<br/>And both of this bear witness:<br/>One Church, one Faith, one Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy heralds brought glad tidings<br/>To greatest as to least;<br/>They bade them rise and hasten<br/>To share the great King’s feast.<br/>And this was all their teaching<br/>In every deed and word;<br/>To all alike proclaiming:<br/>One Church, one Faith, one Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through many a day of darkness,<br/>Through many a scene of strife,<br/>The faithful few fought bravely<br/>To guard the nation’s life.<br/>Their gospel of redemption,<br/>Sin pardoned, man restored,<br/>Was all in this enfolded:<br/>One Church, one Faith, one Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thy mercy will not fail us,<br/>Nor leave Thy work undone;<br/>With Thy right hand to help us,<br/>The victory shall be won.<br/>And then, by men and angels,<br/>Thy name shall be adored,<br/>And this shall be their anthem:<br/>One Church, one Faith, one Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>A world undone</title>
+      <title>Only</title>
+    </titles>
+    <authors>
+      <author type="words">Dan Smith</author>
+      <author type="music">Dan Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A world undone, choked by sin<br/>We were dead, we needed Him<br/>From a place of endless love<br/>Came the Son</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All hail the Lamb<br/>He is worthy, only<br/>All eyes on Him<br/>His the glory, only</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In our place, blood was shed<br/>Flesh was torn and cruelly bled<br/>Hideous and glorious<br/>Died the Son</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Death undone, victory claimed<br/>He was dead but lives again<br/>By the Spirit now in us<br/>Rose the Son</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Only He is worthy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He'll return, clothed in light<br/>Every eye drawn to the sight<br/>With final authority<br/>Comes the Son</lines>
+    </verse>
+  </lyrics>
+</song>

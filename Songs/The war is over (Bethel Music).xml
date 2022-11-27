@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>The war is over</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2625"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>easter</theme>
+      <theme>forgiveness</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>The war is over, turn around<br/>Lay your weapons on the ground<br/>The smoke is fading before the light<br/>The dead are coming back to life</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>He has made a way for us<br/>Born for glory, out of dust<br/>Children held within the arms of peace<br/>He has made a way for all<br/>Mercy waits where sinners fall<br/>He is our victor - y</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>The war is over, His love has come<br/>To call us daughters and sons<br/>No longer orphans, without a home<br/>We have found where we belong</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>It is finished it is done<br/>The blood of Jesus overcomes<br/>It is finished   He has won<br/>He has won</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It is finished i It is done<br/>The blood of Jesus overcomes<br/>It is finished He has won<br/>He has won</lines>
+    </verse>
+    <verse name="v5">
+      <lines>End:<br/>He is our victor - y<br/>He is our victor - y<br/>He is our victor - y</lines>
+    </verse>
+  </lyrics>
+</song>

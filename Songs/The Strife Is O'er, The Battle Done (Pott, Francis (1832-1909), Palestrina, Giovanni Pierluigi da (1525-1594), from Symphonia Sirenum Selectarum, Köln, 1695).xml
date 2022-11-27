@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The Strife Is O'er, The Battle Done</title>
+    </titles>
+    <authors>
+      <author type="music">Palestrina, Giovanni Pierluigi da (1525-1594)</author>
+      <author type="words">from Symphonia Sirenum Selectarum, Köln, 1695</author>
+      <author type="translate">Pott, Francis (1832-1909)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia, Alleluia, Alleluia. The strife is o'er, the battle done; The triumph of the Lord is won; O Let the song of praise be sung: Alleluia! Alleluia, Alleluia, Alleluia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluia, Alleluia, Alleluia. The pow'rs of death have done their worst; and Jesus hath His foes dispersed; Let shouts of praise and joy outburst: Alleluia! Alleluia, Alleluia, Alleluia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluia, Alleluia, Alleluia. On that third morn He rose again In glorious majesty to reign; O let us swell the joyful strain. Alleluia! Alleluia, Alleluia, Alleluia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluia, Alleluia, Alleluia. He closed the yawning gates of hell; The bars from heav'ns high portals fell; Let songs of joy His triumphs tell. Alleluia! Alleluia, Alleluia, Alleluia.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alleluia, Alleluia, Alleluia. Lord, by the stripes which wounded Thee, From death's dread sting Thy servants free, That we may live, and sing to Thee. Alleluia! Alleluia, Alleluia, Alleluia.</lines>
+    </verse>
+  </lyrics>
+</song>

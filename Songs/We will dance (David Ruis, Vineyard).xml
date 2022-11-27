@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:52">
+  <properties>
+    <titles>
+      <title>We will dance</title>
+      <title>Sing a song of celebration</title>
+    </titles>
+    <copyright>1993 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Vineyard</author>
+      <author type="words">David Ruis</author>
+      <author type="music">David Ruis</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing a song of celebration; lift up a shout of praise,<br/>For the Bridegroom will come, the Glorious One.<br/>And oh, we will look on His face.<br/>We'll go  to a much better place.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dance with all your might; lift up your hands and clap for joy.<br/>The time's drawing near when He will appear.<br/>And, oh, we will stand by His side,<br/>A strong, pure spotless bride.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We will dance on the streets that are golden,<br/>The glorious Bride and the great Son of Man;<br/>From ev'ry tongue and tribe and nation will join<br/>In the song of the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

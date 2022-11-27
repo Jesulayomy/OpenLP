@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Forever My Love</title>
+    </titles>
+    <authors>
+      <author type="words">Richard Cimino</author>
+      <author type="music">Richard Cimino</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The nails in your hands<br/>The nails in your feet<br/>They tell me how much<br/>You love me<br/>The thorns on your brow<br/>They tell me how<br/>You bore so much pain<br/>To love me<br/>And when the heavens pass away<br/>All your scars will still remain<br/>And forever they will say<br/>Just how much you love me, so I want to say</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Forever my love, forever my heart, forever my life is yours<br/>Forever my love, forever my heart, forever my life is yours<br/>Forever my love</lines>
+    </verse>
+  </lyrics>
+</song>

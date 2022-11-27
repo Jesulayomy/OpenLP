@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Holy Moment</title>
+    </titles>
+    <copyright>2000 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As we come today<br/>We remind ourselves of what we do<br/>That these songs are not just songs<br/>But signs of love for You<br/>This is a holy moment now<br/>Something of heaven touches earth<br/>Voices of angels all resound,<br/>We join their song</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come, come, come,<br/>Let us worship God<br/>With our hands held high,<br/>And our hearts bowed down.<br/>We will run, run, run,<br/>Through Your gates, O God,<br/>With a shout of love,<br/>With a shout of love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, with confidence<br/>We come before Your throne of grace.<br/>Not that we deserve to come<br/>But You have paid the way.<br/>You are the holy King of all,<br/>Heaven and earth are in Your hands,<br/>All of the angels sing Your song,<br/>We join them now.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>This is a holy moment now</lines>
+    </verse>
+  </lyrics>
+</song>

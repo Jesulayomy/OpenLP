@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Mercy</title>
+    </titles>
+    <authors>
+      <author type="words">Amanda Cook</author>
+      <author type="music">Amanda Cook</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3580"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse 1]<br/>My past embraced<br/>My sin forgiven<br/>I'm blameless in Your sight<br/>My history rewritten</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Chorus]<br/>'Cause You delight in showing mercy<br/>And mercy triumphs over judgment<br/>You delight in showing mercy<br/>And mercy triumphs over judgment</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Verse 2]<br/>Oh, love great love<br/>Fear cannot be found in You<br/>And there will never be a day<br/>You're uncertain of the ones You choose</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Chorus]<br/>'Cause You delight in showing mercy<br/>And mercy triumphs over judgment<br/>You delight in showing mercy<br/>And mercy triumphs judgment</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Bridge]<br/>So I will awake and spend my days<br/>Loving the One who has raised me up<br/>From death to life, from wrong to right<br/>You're making all things beautiful</lines>
+    </verse>
+  </lyrics>
+</song>

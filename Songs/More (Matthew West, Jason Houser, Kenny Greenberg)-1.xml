@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>More</title>
+    </titles>
+    <copyright>2002, 2003 Westies, In. Music Publishing | Word Music, LLC | Greenberg Music | Extreme Writers Music, LLC</copyright>
+    <authors>
+      <author type="words">Matthew West</author>
+      <author type="music">Matthew West</author>
+      <author type="words">Jason Houser</author>
+      <author type="music">Jason Houser</author>
+      <author type="words">Kenny Greenberg</author>
+      <author type="music">Kenny Greenberg</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="b1">
+      <lines>Shine for Me.  You shine for Me.<br/>You shine on. You shine on. You shine for Me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I love you more than the sun<br/>And the stars that I taught how to shine.<br/>You are mine, and you shine for me too.<br/>I love you yesterday and today and tomorrow;<br/>I'll say it again and again:<br/>I love you more than the sun<br/>And the stars that I taught how to shine.<br/>You are mine, and you shine for me too.<br/>I love you yesterday and today, through the joy and the pain,<br/>I'll say it again and again:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>I love you more.<br/>I love you more.<br/>And I see you, and I made you,<br/>And I love you more than you can imagine,<br/>More than you can fathom.<br/>I love you more than the sun,<br/>and you shine for Me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>What Child is This</title>
+    </titles>
+    <authors>
+      <author>William Chatterton Dix</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What child is this, who, laid to rest<br/>On Mary’s lap is sleeping:<br/>Whom angels greet with anthems sweet,<br/>While shepherds watch are keeping?<br/>This, this is Christ the King,<br/>Whom shepherds guard and angels sing:<br/>Haste, haste, to bring Him praise,<br/>The babe, the Son of Mary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Why lies He in such mean estate,<br/>Where ox and ass are feeding?<br/>Good Christians, fear, for sinners here<br/>The silent Word is pleading.<br/>Nails, spear shall pierce Him through,<br/>The cross be borne for me, for you.<br/>Hail, hail the Word made flesh,<br/>The babe, the Son of Mary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So bring Him incense, gold and myrrh,<br/>Come, peasant, king, to own Him;<br/>The King of kings salvation brings,<br/>Let loving hearts enthrone Him.<br/>Raise, raise a song on high,<br/>The virgin sings her lullaby.<br/>Joy, joy for Christ is born,<br/>The babe, the Son of Mary.</lines>
+    </verse>
+  </lyrics>
+</song>

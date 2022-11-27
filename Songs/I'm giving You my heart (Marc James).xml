@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>I'm giving You my heart</title>
+      <title>Surrender</title>
+    </titles>
+    <copyright>2000 Vineyard Songs (UK/Eire)</copyright>
+    <authors>
+      <author type="words">Marc James</author>
+      <author type="music">Marc James</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm giving You my heart<br/>And all that is within<br/>I lay it all down<br/>For the sake of You my King<br/>I'm giving You my dreams<br/>Laying down my rights<br/>I'm giving up my pride<br/>For the promise of new life</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I surrender<br/>All to You, all to You<br/>And I surrender<br/>All to You, all to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm singing You this song<br/>Waiting at the cross<br/>And all the world holds dear<br/>I count it all as loss<br/>For the sake of knowing You<br/>The glory of Your Name<br/>To know the lasting joy<br/>Even sharing in Your pain</lines>
+    </verse>
+  </lyrics>
+</song>

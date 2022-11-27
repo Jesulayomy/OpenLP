@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Lord, I Lift Your Name On High</title>
+    </titles>
+    <copyright>1989 Maranatha Praise, Inc.</copyright>
+    <authors>
+      <author type="words">Rick Founds</author>
+      <author type="music">Rick Founds</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2552"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>crucifixion</theme>
+      <theme>easter</theme>
+      <theme>lords-supper</theme>
+      <theme>heaven</theme>
+      <theme>meditation</theme>
+      <theme>youth</theme>
+      <theme>oud</theme>
+      <theme>grace</theme>
+      <theme>sacrifice</theme>
+      <theme>resurrection</theme>
+      <theme>saz</theme>
+      <theme>gods-faithfulness</theme>
+      <theme>rubob</theme>
+      <theme>ney</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I lift Your name on high.<br/>Lord, I love to sing Your praises.<br/>I'm so glad You're in my life.<br/>I'm so glad You came to save us.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You came from heaven to earth<br/>To show the way;<br/>From the earth to the cross, my debt to pay.<br/>From the cross to the grave,<br/>From the grave to the sky.<br/>Lord I lift Your name on high.</lines>
+    </verse>
+  </lyrics>
+</song>

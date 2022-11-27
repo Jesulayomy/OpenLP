@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Peace in the Valley original</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas A Dorsey</author>
+      <author type="music">Thomas A Dorsey</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am tired and so weary but I must toil on<br/>Till the Lord comes to call, call me away, o yes<br/>Where the morning's so bright and the Lamb is the light<br/>And the night, night is as fair as the day</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There will be peace in the valley for me some day<br/>There will be peace in the valley for me I pray<br/>No more sorrow and sadness or trouble, trouble I'll see<br/>There will be peace in the valley for me, for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where the bear will be gentle and the wolves will be tame<br/>And the lion shall lay down by the lamb, oh yes<br/>And the beasts from the wild shall be led by a child<br/>And I'll be changed from this creature that I am, oh yes</lines>
+    </verse>
+    <verse name="c2">
+      <lines>There will be peace in the valley for me some day<br/>There will be peace in the valley for me I pray<br/>No more sorrow and sadness or trouble, trouble I'll see<br/>There will be peace in the valley for me</lines>
+    </verse>
+    <verse name="c3">
+      <lines>No more sorrow and sadness or trouble, trouble I'll see<br/>There will be peace in the valley for me</lines>
+    </verse>
+  </lyrics>
+</song>

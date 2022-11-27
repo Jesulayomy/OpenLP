@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:59">
+  <properties>
+    <titles>
+      <title>Praise To The Lord, The Almighty</title>
+    </titles>
+    <authors>
+      <author type="music">from Ander Theil des Erneuerten Gesangbuch</author>
+      <author type="words">Neander, Joachim (1650-1680)</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise to the Lord, the Almighty, the King of creation.<br/>O my soul praise Him, for He is thy health and salvation.<br/>All ye who hear, now to His temple draw near.<br/>Join me in glad adoration.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise to the Lord who o'er all things so wondrously reigneth.<br/>Shelters thee under His wings, yea, so gently sustaineth<br/>Hast thou not seen how thy desires e're have been<br/>Granted in what He ordaineth?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise to the Lord, who doth prosper thy work and defend thee.<br/>Surely His goodness and mercy here daily attend thee.<br/>Ponder anew what the Almighty can do<br/>If with His love He befriend thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise to the Lord, o let all that is in me adore Him.<br/>All that hath life and breath, come now with praises before Him.<br/>Let the amen sound from His people again,<br/>Gladly for aye we adore Him.</lines>
+    </verse>
+  </lyrics>
+</song>

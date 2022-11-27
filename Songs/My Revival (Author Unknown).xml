@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>My Revival</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4878"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will run and not grow weary<br/>I will walk, I will not faint<br/>I will soar on wings like eagles<br/>Find my rest in your everlasting name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are my revival<br/>Jesus on you I wait<br/>And I'll lean on your promise<br/>You will renew my strength</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will run and not grow weary<br/>I will walk, I will not faint<br/>I will soar on wings like eagles<br/>Find my rest in your everlasting name</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You are my revival<br/>Jesus on you I wait<br/>And I'll lean on your promise<br/>You will renew my strength</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Oh, you are my revival<br/>Jesus on you I wait<br/>I'll lean on your promise<br/>You will renew my strength<br/>Oh, you are my revival<br/>Jesus on you I wait<br/>I'll lean on your promise<br/>You will renew my strength<br/>Oh, you will renew my strength<br/>Oh, you will renew my strength</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will run and not grow weary<br/>I will walk, I will not faint<br/>I will soar on wings like eagles<br/>Find my rest in your everlasting name</lines>
+    </verse>
+    <verse name="c4">
+      <lines>You are my revival<br/>Jesus on you I wait<br/>And I'll lean on your promise<br/>You will renew my strength</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Jireh</title>
+    </titles>
+    <copyright>2000 Dances of Freedom</copyright>
+    <authors>
+      <author type="words">Jonathan Gulley</author>
+      <author type="music">Jonathan Gulley</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jehovah Jireh, won't You come and give us life?<br/>Jehovah Rophe, won't You come and heal us now?<br/>He will breathe and restore the weary heart.<br/>He will restore our souls. He will restore our souls!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ay Yah, Ay Yah. Ay Yah, Ay Ay Ay Yah! (2X)<br/>He will restore their souls. He will restore their souls!</lines>
+    </verse>
+  </lyrics>
+</song>

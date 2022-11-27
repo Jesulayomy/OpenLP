@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Praise Him</title>
+    </titles>
+    <copyright>1984 New Spring</copyright>
+    <authors>
+      <author type="words">Twila Paris</author>
+      <author type="music">Twila Paris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise Him<br/>Praise Him<br/>Praise Him with your song<br/>Praise Him<br/>Praise Him<br/>Praise Him all day long</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For the Lord is worthy<br/>Worthy to receive our praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise Him<br/>Praise Him<br/>Praise Him with your heart<br/>Praise Him<br/>Praise Him<br/>Give Him all you are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise Him<br/>Praise Him<br/>Praise Him with your life<br/>Praise Him<br/>Praise Him<br/>Lift His name up high</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise Him<br/>Praise Him<br/>Praise Him with your song<br/>Praise Him<br/>Praise Him<br/>He'll receive our praise</lines>
+    </verse>
+  </lyrics>
+</song>

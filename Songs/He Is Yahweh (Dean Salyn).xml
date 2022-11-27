@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>He Is Yahweh</title>
+    </titles>
+    <copyright>2001 Vineyard Songs Canada</copyright>
+    <authors>
+      <author type="words">Dean Salyn</author>
+      <author type="music">Dean Salyn</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is moving on the waters? Who is holding up the moon?<br/>Who is peeling back the darkness, with the burning light of noon?<br/>Who is standing on the mountains? Who is on the earth below?<br/>Who is bigger than the heavens, and the Lover of my soul?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is He that makes me happy? Who is He that gives me peace?<br/>Who is He that brings me comfort,  and turns the bitter into sweet?<br/>Who is stirring up my passion?  Who is rising up in me?<br/>Who is filling up my hunger,  with everything I need?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Creator God, He is Yahweh, The Great I Am, He is Yahweh,<br/>The Lord of All, He is Yahweh;<br/>Rose of Sharon, He is Yahweh, The Righteous Son, He is Yahweh,<br/>The Three-in-one, He is Yahweh.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are holy and eternal, and forever You will reign;<br/>Every knee will bow before You, every tongue will confess Your name;<br/>All the angels give You glory, as they stand before Your throne,<br/>And here on earth we gather, to declare Your name alone.</lines>
+    </verse>
+  </lyrics>
+</song>

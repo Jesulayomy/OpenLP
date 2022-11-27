@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>You are God alone</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are not a God<br/>Created by human hands<br/>You are not a god<br/>Dependent on any mortal man<br/>You are not a god<br/>In need of anything we can give<br/>By Your plan, that's just the way it is</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>You are God alone<br/>From before time began<br/>You were on Your throne<br/>You are God alone<br/>And right now In the good times and bad<br/>You are on Your throne<br/>You are God alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the only God whose power<br/>none can contend<br/>You're the only God<br/>Whose name and praise will never end<br/>You're the only God<br/>Who's worthy of everything we can give<br/>You are God<br/>And that's just the way it is</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Unchangeable<br/>Unshakable<br/>Unstoppable<br/>That's what You are (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

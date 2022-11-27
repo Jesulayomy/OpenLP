@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>Bambelela</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bambelela, Bambelela (x4)<br/>We hold on to Jesus, Bambelela (x4)<br/>Ku Jesu Bambelela, Bambelela (x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>From Nazareth</title>
+    </titles>
+    <authors>
+      <author type="music">Praetorius, Michael (1571-1621)</author>
+      <author type="words">Sangster, Margaret Elizabeth Munson (1838-1912)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Comes any good from Nazareth? The scornful challenge as of old Is flung on many'a jeering breath From cloistered cells and marts of gold.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Comes any good from Nazareth? Behold, the mighty Nazarene, The Lord of life, the Lord of death, Through warring ages walks serene.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One touch upon His garment's fringe Still heals the hurt of bitter years. Before Him yet the demons cringe, He gives the wine of joy for tears.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O city of the Carpenter, Upon the hill slope old and gray, The world among its pain and stir Turns yearning eyes on thee today.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For He who dwelt in Nazareth, And wrought with toil of hand and brain, Alone gives victory to faith Until the day He come again.</lines>
+    </verse>
+  </lyrics>
+</song>

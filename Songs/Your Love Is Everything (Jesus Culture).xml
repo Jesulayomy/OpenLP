@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Your Love Is Everything</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2567"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>When I'm dry and thirsty Lord,<br/>And I'm crying out for more,<br/>I know I can trust in your love.<br/>In the darkness in the night,<br/>When I'm starving for the light,<br/>I know I can trust in your love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You keep no record of my sin<br/>You don't remember all my shame</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Your love, heals every disease<br/>Your love, fulfills my every need<br/>Your love, is everything to me<br/>Your love, is everything</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I will not forget, I won't forget your promises<br/>I will not forget, I won't forget your love     (x4)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will not forget, nothing impossible<br/>I will not forget, I won't forget your love     (x4)</lines>
+    </verse>
+  </lyrics>
+</song>

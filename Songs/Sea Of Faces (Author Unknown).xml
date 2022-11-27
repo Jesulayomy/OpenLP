@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Sea Of Faces</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2575"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the city lights all around me<br/>Everyone's obscure<br/>Ten million people each with their problems<br/>Why should anyone care</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And in Your eyes I can see</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am not just a man, vastly lost in this world<br/>Lost in a Sea of Faces<br/>Your body's the bread, Your blood is the wine<br/>Because you traded Your life for mine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes my life it feels so trivial<br/>Immersed in the greatness of space<br/>Yet somehow you still find the time for me<br/>It's then You show me Your love</lines>
+    </verse>
+    <verse name="p2">
+      <lines>And In Your eyes I can see<br/>And in Your arms I will be</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I am not just a man, vastly lost in this world<br/>Lost in a Sea of Faces<br/>Your body's the bread, Your blood is the wine<br/>Because you traded Your life for mine</lines>
+    </verse>
+    <verse name="b1">
+      <lines>If only my one heart<br/>Was all you'd gain from all it cost<br/>Well I know you would have still been a man<br/>With a reason to willingly offer your life</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I am not just a man, vastly lost in this world<br/>Lost in a Sea of Faces<br/>Your body's the bread, Your blood is the wine<br/>Because you traded Your life for mine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>End:<br/>Just one in a million faces</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>Behold the Servant of the Lord</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold the servant of the Lord:<br/>I wait Thy guiding eye to feel,<br/>To hear and keep Thy every word,<br/>To prove and do Thy perfect will;<br/>Joyful from my own works to cease,<br/>Glad to fulfil all righteousness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me if Thy grace vouchsafe to use,<br/>Meanest of all Thy creatures, me.<br/>The deed, the time, the manner choose:<br/>Let all my fruit be found of Thee.<br/>Let all my works in Thee be wrought,<br/>By Thee to full perfection brought.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My every weak though good design<br/>O’errule or change, as seems Thee meet:<br/>Jesus, let all my work be Thine –<br/>Thy work, O Lord, is all complete,<br/>And pleasing in Thy Father’s sight;<br/>Thou only hast done all things right.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Here then to Thee Thine own I leave;<br/>Mould as Thou wilt Thy passive clay;<br/>But let me all Thy stamp receive,<br/>But let me all Thy words obey,<br/>Serve with a single heart and eye,<br/>And in Thy glory live and die.</lines>
+    </verse>
+  </lyrics>
+</song>

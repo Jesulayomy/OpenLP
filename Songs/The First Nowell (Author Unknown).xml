@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>The First Nowell</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The first nowell the angel did say<br/>Was to certain poor shepherds in fields as they lay;<br/>In fields where they lay keeping their sheep,<br/>On a cold winter’s night that was so deep.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nowell, nowell, nowell, nowell,<br/>Born is the King of Israel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They looked up and saw a star<br/>Shining in the east, beyond them far,<br/>And to the earth it gave great light,<br/>And so it continued both day and night.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And by the light of that same star<br/>Three wise men came from country far;<br/>To seek for a King was their intent,<br/>And to follow the star wherever it went.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This star drew nigh to the north-west;<br/>Over Bethlehem it took its rest,<br/>And there it did both stop and stay<br/>Right over the place where Jesus lay.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Then entered in those wise men three<br/>Full reverently upon their knee,<br/>And offered there in His presence<br/>Their gold, and myrrh, and frankincense.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Then let us all with one accord<br/>Sing praises to our heavenly Lord,<br/>That hath made heaven and earth of nought,<br/>And with His blood mankind hath bought.</lines>
+    </verse>
+  </lyrics>
+</song>

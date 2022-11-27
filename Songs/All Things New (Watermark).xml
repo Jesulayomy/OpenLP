@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>All Things New</title>
+    </titles>
+    <copyright>2000 Sweeter Weather Music</copyright>
+    <authors>
+      <author type="words">Watermark</author>
+      <author type="music">Watermark</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blue skies that take me back to being a child.<br/>Trees with leaves that turn the colors I love.<br/>A heart that's beating to Your melodies ringing...<br/>And I am a miracle, 'cause heaven is a part of me,<br/>And You are the song that I'm singin'.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Come and Fill Me Up</title>
+    </titles>
+    <copyright>1990 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>longing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can feel you flowin' thru me.<br/>Holy Spirit, come and fill me up.<br/>Come and fill me up.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love and mercy fill my senses.<br/>I am thirsty for your presence, Lord.<br/>Come and fill me up.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, let your mercy<br/>wash away all of my sin.<br/>Fill me completely<br/>with your love once again.<br/>I need you,<br/>I want you,<br/>I love your presence.<br/>I need you,<br/>I want you,<br/>I love your presence.</lines>
+    </verse>
+  </lyrics>
+</song>

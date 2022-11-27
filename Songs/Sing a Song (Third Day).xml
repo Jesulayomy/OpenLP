@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Sing a Song</title>
+    </titles>
+    <copyright>2003 Essential Records</copyright>
+    <authors>
+      <author type="words">Third Day</author>
+      <author type="music">Third Day</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to sing a song for You, Lord<br/>Lord, for You I want to sing a song<br/>And I want to lift my voice to Heaven<br/>And listen to the angels sing along</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to live my life for You, Lord<br/>Lord, for You I want to live my life<br/>And I want to praise the name of Jesus<br/>And Pray above all things You're glorified</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A song of Your faithfulness, A song of Your grace<br/>And of Your loving kindness To the glory of your Name<br/>With everything that's in me, Lord, Listen to me say<br/>I want to sing a song for You, I want to sing a song</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I sing about Your mercy<br/>And I sing about Your love<br/>Your goodness, Lord<br/>Your righteousness<br/>I want to sing....</lines>
+    </verse>
+    <verse name="b2">
+      <lines>And we'll sing holy, holy, holy<br/>We'll sing holy, holy, holy<br/>We'll shout holy, holy<br/>Are You Lord almighty</lines>
+    </verse>
+  </lyrics>
+</song>

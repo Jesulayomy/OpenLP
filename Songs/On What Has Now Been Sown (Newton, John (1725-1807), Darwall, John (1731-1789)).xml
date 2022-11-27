@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>On What Has Now Been Sown</title>
+    </titles>
+    <authors>
+      <author type="music">Darwall, John (1731-1789)</author>
+      <author type="words">Newton, John (1725-1807)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On what has now been sown Thy blessing, Lord, bestow; The pow'r is Thine alone To make it spring and grow. Do Thou in grace the harvest raise, And Thou alone shalt have the praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To Thee our wants are known, From Thee are all our pow'rs; Accept what is Thine own And pardon what is ours. Our praises, Lord, and prayers receive And to Thy Word a blessing give.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, grant that each of us Now met before Thee here May meet together thus When Thou and Thine appear And follow Thee to Heav'n, our home. E'en so, Amen, Lord Jesus, come!</lines>
+    </verse>
+  </lyrics>
+</song>

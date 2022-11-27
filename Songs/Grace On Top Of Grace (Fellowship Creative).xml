@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Grace On Top Of Grace</title>
+    </titles>
+    <authors>
+      <author type="words">Fellowship Creative</author>
+      <author type="music">Fellowship Creative</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord how You've loved me, I don't deserve<br/>Grace on top of grace<br/>More than I've asked for, more than I'm worth<br/>Grace on top of grace</lines>
+    </verse>
+    <verse name="p1">
+      <lines>How sweet the sound<br/>Once lost, now found<br/>Heaven came down<br/>And grace rescued me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah I am free<br/>From my sin and penalty<br/>At the cross You took my place<br/>With Your grace on top of grace</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oooh Oh Oooh Oh Oooh Oh Oooh<br/>Oooh Oh Oooh Oh Oooh Oh Oooh</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amazing Grace, how sweet the sound<br/>That saved a wretch like me<br/>I once was lost, but now I'm found<br/>Was blind, but now I see</lines>
+    </verse>
+  </lyrics>
+</song>

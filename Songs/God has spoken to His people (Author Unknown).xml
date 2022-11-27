@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:50">
+  <properties>
+    <titles>
+      <title>God has spoken to His people</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God has spoken to His people,<br/>Alleluia!<br/>And His words are words of wisdom,<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Open your ears, O Christian people,<br/>Open your ears, and hear good news.<br/>Open your ears, O royal priesthood,<br/>God has come to you,<br/>God has come to you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He who has ears to hear His message,<br/>He who has ears then let him hear.<br/>He who would learn<br/>the way of wisdom,<br/>Let him hear God's word,<br/>Let him hear God's word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Israel comes to greet the Saviour,<br/>Judah is glad to see His day.<br/>From East and West the peoples travel,<br/>He will show the way,<br/>He will show the way.</lines>
+    </verse>
+  </lyrics>
+</song>

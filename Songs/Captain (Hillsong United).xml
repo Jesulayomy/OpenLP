@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Captain</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2615"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Intro]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Verse 1]<br/>Through waters uncharted my soul will embark<br/>I'll follow Your voice straight into the dark<br/>And if from the course You intend I depart<br/>Speak to the sails of my wandering heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Chorus]<br/>Like the wind<br/>You'll guide<br/>Clear the skies before me<br/>And I'll glide this o - pen   sea</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Like the stars<br/>Your Word<br/>Will align my voyage<br/>And remind me where I've been<br/>And where I am going</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Verse 2]<br/>Lost in the shallows amidst fear and fog<br/>Your truth is the compass that points me back north<br/>Jesus My Captain<br/>My soul's trusted Lord<br/>All my allegiance is rightfully Yours</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Chorus]<br/>Like the wind<br/>You'll guide<br/>Clear the skies before me<br/>And I'll glide this o - pen   sea</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Like the stars<br/>Your Word<br/>Will align my voyage<br/>And remind me where I've been<br/>And where I am going</lines>
+    </verse>
+    <verse name="v8">
+      <lines>[Chorus]<br/>Like the wind<br/>You'll guide<br/>Clear the skies before me<br/>And I'll glide this o - pen   sea</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Like the stars<br/>Your Word<br/>Will align my voyage<br/>And remind me where I've been<br/>And where I am going</lines>
+    </verse>
+    <verse name="v10">
+      <lines>[Verse 3]<br/>Jesus My Captain<br/>My soul's trusted Lord<br/>All my allegiance is rightfully Yours</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Come and dine</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus has a table spread where the saints<br/>of God are fed,<br/>He invites His chosen people "Come and<br/>me;"<br/>With His manna He doth feed and<br/>supplies our every need;<br/>O, 'tis sweet to sup with Jesus all the<br/>time!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>"Come and dine," the Master calleth,<br/>"Come and dine;"<br/>You may feast at Jesus' table all the<br/>time;<br/>He who fed the multitude, turned the<br/>water into wine,<br/>To the hungry calleth now, "Come and<br/>dine."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The disciples came to land, thus obeying<br/>Christ's command,<br/>For the Master called to them, "Come<br/>and dine;"<br/>There they found their hearts' desire,<br/>bread and fish upon the fire;<br/>Thus He satisfies the hungry every time.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Soon the Lamb will take His bride to<br/>be ever at His side,<br/>All the host of heaven will assembled be;<br/>O, 'twill be a glorious sight, all the<br/>saints in spotless white;<br/>And with Jesus they will feast eternally.</lines>
+    </verse>
+  </lyrics>
+</song>

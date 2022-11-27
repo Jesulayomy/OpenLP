@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>You're the Source</title>
+    </titles>
+    <copyright>1996 Matt Frazier</copyright>
+    <authors>
+      <author type="words">Matt Frazier</author>
+      <author type="music">Matt Frazier</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You've kept watch over me<br/>since I was a child.<br/>You've stayed close when my heart<br/>has gone running wild.<br/>You've welcomed me back<br/>again and again.<br/>You've offered Your kindness,<br/>forgiven my sin.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're the source of all the good gifts I know;<br/>No one else can equal the love You show.<br/>Though my praise for You often comes so slow,<br/>How I long for my life with You to grow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Your actions, You show<br/>the proof of Your care.<br/>In Your presence comes comfort;<br/>You're ev'rywhere.<br/>In Your mercy, I find<br/>hope that will last.<br/>In Your second life,<br/>I am saved from my past.</lines>
+    </verse>
+  </lyrics>
+</song>

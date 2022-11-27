@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>I Feel Like Traveling On</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heavenly home<br/>Is bright and fair,<br/>I feel like traveling on,<br/>No pain, nor death<br/>Can enter there,<br/>I feel like traveling on.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yes, I feel like traveling on,<br/>I feel like traveling on;<br/>My heavenly home<br/>Is bright and fair,<br/>I feel like traveling on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Its glittering towers<br/>the sun outshine,<br/>I feel like traveling on;<br/>That heavenly mansion<br/>shall be mine,<br/>I feel like traveling on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let others seek a home below,<br/>I feel like traveling on;<br/>Which flames devour,<br/>Or waves o'er flow,<br/>I feel like traveling on.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord has been so<br/>good to me,<br/>I feel like traveling on;<br/>Until that blessed home I see,<br/>I feel like traveling on.</lines>
+    </verse>
+  </lyrics>
+</song>

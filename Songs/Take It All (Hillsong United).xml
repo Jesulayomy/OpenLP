@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>Take It All</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Searching the world<br/>The lost will be found<br/>In freedom we live<br/>As one we cry out<br/>You carried the cross<br/>You died and rose again<br/>My God, I'll only ever give my all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You sent Your Son<br/>From Heaven to earth<br/>You delivered us all<br/>It's eternally heard<br/>I searched for truth<br/>And all I found was You<br/>My God, I'll only ever give my all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, we're living for Your Name<br/>We'll never be ashamed of You<br/>Our praise and all we are today<br/>Take, take, take it all<br/>Take, take, take it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You sent Your Son<br/>From heaven to earth<br/>You delivered us all<br/>It's eternally heard<br/>I searched for truth<br/>And all I found was You<br/>My God, I'll only ever give my all</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Running to the One<br/>Who heals the blind<br/>Following the shining light<br/>In Your hands<br/>The power to save the world<br/>And My life (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

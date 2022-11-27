@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Wholly Yours</title>
+    </titles>
+    <copyright>2005 worshiptgether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am full of Earth. You are heaven's worth.<br/>I am stained with dirt, prone to depravity.<br/>You are everything that is bright and clean.<br/>The antonym of me,<br/>You are divinity.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>But a certain sign of grace is this:<br/>From the broken earth, flowers come up,<br/>Pushing through the dirt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are holy, holy, holy.<br/>All heaven cries holy, holy, God.<br/>You are holy, holy, holy.<br/>I want to be holy like You are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are everything that is bright and clean,<br/>And You're covering me with your majesty.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>And the truest sign of grace was this:<br/>From wounded hands, redemption fell down, liberating man.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>But the harder I try, the more clearly can I<br/>Feel the depth of our fall and the weight of it all.<br/>And so this might could be<br/>The most impossible thing:<br/>Your grandness in me making me clean.<br/>Glory, hallelujah,<br/>Glory, glory, hallelujah...</lines>
+    </verse>
+    <verse name="b2">
+      <lines>So here I am, all of me, finally, everything,<br/>Wholly, wholly, wholly.<br/>I am wholly, wholly, wholly,<br/>I am wholly, wholly, wholly Yours.<br/>I am wholly Yours.<br/>And I am full of earth and dirt and You.<br/>Here I am, everything.</lines>
+    </verse>
+  </lyrics>
+</song>

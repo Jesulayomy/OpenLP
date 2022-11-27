@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>Never Let Me Down</title>
+    </titles>
+    <authors>
+      <author type="words">Jake Hamilton</author>
+      <author type="music">Jake Hamilton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4238"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>or</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 1<br/>I've been left alone<br/>I've been pushed away<br/>I've been tried and tested but I'll<br/>Never go astray</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus: 1<br/>Cause I found something worth more then the comfort of my days<br/>I've found...</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>The King of Glory always comes at midnight<br/>I'll be burning that oil in my light<br/>They can mock me abuse me hate me<br/>but I know that You'll never let me down</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse: 2<br/>I have lived in fear<br/>Have my share of scars<br/>Shook my fist at heaven while I'm<br/>Screaming at the stars</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pre chorus: 2<br/>But I've found something worth more than my angry selfish ways<br/>I've found...</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I can see the stars declaring<br/>(the Lord wont let me down)<br/>I can hear the rocks are crying<br/>(the Lord wont let me down)<br/>I can hear the church bells ringing<br/>(the Lord wont let me down)<br/>I can feel the earth is groaning<br/>(the Lord wont let me down)<br/>I can hear the people shouting<br/>(the Lord wont let me down)<br/>And all the cities are screaming<br/>(the Lord wont let me down)<br/>While all the preachers are preaching<br/>(the Lord wont let me down)<br/>While all the kings are bowing down<br/>[I know]</lines>
+    </verse>
+  </lyrics>
+</song>

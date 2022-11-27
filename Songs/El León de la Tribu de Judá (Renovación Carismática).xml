@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>El León de la Tribu de Judá</title>
+    </titles>
+    <authors>
+      <author type="translate">Renovación Carismática</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El León de la Tribu de Judá<br/>Jesús venció las cadenas y nos liberó<br/>El es nuestra antorcha de victoria<br/>Nuestra fortaleza en tiempo de flaqueza<br/>Una Torre en tiempo de guerra<br/>Oh La Esperanza de Israel</lines>
+    </verse>
+  </lyrics>
+</song>

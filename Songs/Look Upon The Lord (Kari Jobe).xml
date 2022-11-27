@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Look Upon The Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Kari Jobe</author>
+      <author type="music">Kari Jobe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1687"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Look upon the Lord, stand in awe of his beauty<br/>Look upon the Lord, seated high, He is holy<br/>Let the glory of our God from heaven come down<br/>Let the house of the Lord be filled with the cloud</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>You are good and Your mercy will endure<br/>You are good and, forever we are Yours<br/>Hallelujah, hallelujah<br/>Hallelujah, hallelujah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Listen for the Lord, hear the voice of His Spirit<br/>Call upon His name; He is near, He is with us<br/>Let the glory of our God from heaven come down<br/>Let the house of the Lord be filled with the cloud</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge: 3x<br/>Holy, holy<br/>With one voice<br/>Heaven and earth are singing<br/>Holy, holy<br/>Lord God, Almighty</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Ending:<br/>Let the glory of our God from heaven come down<br/>Let the house of the Lord be filled with the cloud</lines>
+    </verse>
+  </lyrics>
+</song>

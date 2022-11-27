@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Strong In Us (feat: Brian Johnson)</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1873"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>easter</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When darkness rises all around us<br/>We will see His glory breaking through the night<br/>The King in all His wonder fills us with His power<br/>Christ in us, the answer, A hope for all the world</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our God is strong in us<br/>His love has overcome<br/>He is alive in us, He is the Risen One<br/>The same power that raised Him up<br/>Is the power that lives in us<br/>Our God is strong in us, Our God is strong in us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His promise stands throughout the ages<br/>He will never leave us, We are not alone<br/>Greater than our weakness, He is strong to save us<br/>We will stand victorious, A hope for all the world</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lift Him up, let the whole world see<br/>We will never stop singing<br/>Lift Him up, let the whole world hear<br/>We will never stop shouting<br/>Lift Him up, every voice in praise<br/>Everyone lift Him up</lines>
+    </verse>
+  </lyrics>
+</song>

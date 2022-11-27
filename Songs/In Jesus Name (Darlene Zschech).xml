@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>In Jesus Name</title>
+    </titles>
+    <authors>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2858"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is fighting for us, God is on our side<br/>He has overcome yes, he has overcome<br/>We will not be shaken, we will not be moved<br/>Jesus you are here</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Carrying our burdens, covering our shame<br/>He has overcome yes, he has overcome<br/>We will not be shaken, we will not be moved<br/>Jesus You are here</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will live, I will not die<br/>The resurrection power of Christ alive in me<br/>G D (C D) to verse 2<br/>And I am free in Jesus Name-&gt;verse 2<br/>I will live, I will not die<br/>I will declare and lift You high, Christ revealed<br/>And I am healed in Jesus Name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>God is fighting for us, pushing back the darkness<br/>Lighting up the Kingdom that cannot be shaken<br/>In the Name of Jesus, enemy's defeated<br/>And we will shout it out; shout it out (repeat x4)</lines>
+    </verse>
+  </lyrics>
+</song>

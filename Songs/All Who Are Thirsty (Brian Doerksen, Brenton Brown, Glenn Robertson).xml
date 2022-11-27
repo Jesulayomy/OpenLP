@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>All Who Are Thirsty</title>
+    </titles>
+    <copyright>1998 Vineyard Songs</copyright>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+      <author type="words">Brenton Brown</author>
+      <author type="music">Brenton Brown</author>
+      <author type="words">Glenn Robertson</author>
+      <author type="music">Glenn Robertson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>guitar</theme>
+      <theme>appeal</theme>
+      <theme>worship</theme>
+      <theme>longing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All who are thirsty, all who are weak,<br/>Come to the fountain,<br/>Dip your heart in the stream  of   life.<br/>Let the pain and the sorrow be washed away<br/>In the waves of his mercy<br/>As deep cries out  to   deep</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come, Lord Jesus, come! (2x)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Holy Spirit, come!  (2x)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>As deep cries out  to   deep...(3x)</lines>
+    </verse>
+  </lyrics>
+</song>

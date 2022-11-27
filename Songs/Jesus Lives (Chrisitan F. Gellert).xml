@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Jesus Lives</title>
+    </titles>
+    <authors>
+      <author>Chrisitan F. Gellert</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus lives! thy terrors now<br/>Can, O death, no more appal us;<br/>Jesus lives! by this we know,<br/>Thou, O grave, canst not enthral us.<br/>Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus lives! henceforth is death<br/>But the gate of life immortal;<br/>This shall calm our trembling breath,<br/>When we pass its gloomy portal.<br/>Hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus lives! for us He died;<br/>Then, alone to Jesus living,<br/>Pure in heart may we abide,<br/>Glory to our Saviour giving.<br/>Hallelujah!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus lives! our hearts know well,<br/>Naught from us His love shall sever;<br/>Life, nor death, nor powers of hell,<br/>Tear us from His keeping ever.<br/>Hallelujah!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus lives! to Him the throne<br/>Over all the world is given:<br/>May we go where He is gone,<br/>Rest and reign with Him in heaven.<br/>Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Joy</title>
+    </titles>
+    <copyright>2000 Soylent Tunes | Ariose Music</copyright>
+    <authors>
+      <author type="words">Peter Furler</author>
+      <author type="music">Peter Furler</author>
+      <author type="words">Steve Taylor</author>
+      <author type="music">Steve Taylor</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You give me joy that's unspeakable<br/>And I like it, and I like it.<br/>Your love for me's irrestible;<br/>I can't fight it, I can't fight it.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If life is water, I was dry as the Tucson dirt.<br/>If it's a gamble, I'd already lost my shirt.<br/>If it's a journey, I was dazed without a clue.<br/>I flipped a "U" back to the first love I ever knew.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You give me joy that's unspeakable<br/>And I like it, and I like it.<br/>Your love for me's irrestible;<br/>I can't fight it, I can't fight it.<br/>You carried the cross and took my shame;<br/>I believe it, I believe it.<br/>You shine your light of amazing grace;<br/>I receive it, I receive it.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If life's a battle, the invasion is complete.<br/>If it's a rhythm, I have found the perfect beat.<br/>If it's a Renaissance, I've got a new birthday.<br/>The world don't give it and the world can't take it away.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'm bowed and broken, everything's new.<br/>All that I need, you're like water to seed.<br/>And how your love rights everything wrong,<br/>In my weakness you're ever stronger,<br/>Pulling me back where I belong.</lines>
+    </verse>
+  </lyrics>
+</song>

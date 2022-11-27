@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O Lord My Soul Convicted</title>
+      <title>Here Lord My Soul Convicted</title>
+    </titles>
+    <authors>
+      <author type="music">from "Musikalisches Handbuch", Hamburg, 1690</author>
+      <author type="words">Maxwell, James</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, my soul convicted stands Of breaking all Thy ten commands: And on me justly might'st Thou pour Thy wrath in one eternal show'r.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But thanks to God, its loud alarms Have warn'd me of approaching harms; And now, O Lord, my wants I see, Lost and undone, I come to Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know my fig leaf righteousness Can ne'er Thy broken law redress; Yet in the gospel plan I see, There's hope of pardon e'en for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There, I behold with wonder, Lord! That Christ hath to Thy law restor'd Those honors on th'atoning day, Which guilty sinners took away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amazing wisdom, pow'r and love, Display'd to rebels from above! Do Thou, O Lord, my faith increase To love and trust Thy plan of grace.</lines>
+    </verse>
+  </lyrics>
+</song>

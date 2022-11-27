@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>There Is No One Like You</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3263"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Intro]<br/>| Cm /// | ///  D# / | A# /// | ///  D# / |<br/>| G# /// | ///  D# / | A# /// | ///  |</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>When I'm at my weakest<br/>Your grace is at its strongest<br/>Your light is at its brightest<br/>Filling me with hope</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>Your love is overwhelming<br/>Your spirit is compelling<br/>And Jesus, I surrender<br/>Every part of me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>I breathe You in and I have life again<br/>Your praises fill my lungs, I sing again</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>So let everything that's in me<br/>Sing Your praise and give You glory<br/>Jesus, You are strong and mighty<br/>And there is no one like You<br/>Yeah, there is no one like You<br/>Yeah, there is no one like You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verse: 3<br/>Even in the darkness<br/>When I'm at my lowest<br/>I know You are with me<br/>Showing me the way</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pre Chorus:<br/>I breathe You in and I have life again<br/>Your praises fill my lungs, I sing again</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Chorus:<br/>So let everything that's in me<br/>Sing Your praise and give You glory<br/>Jesus, You are strong and mighty<br/>And there is no one like You<br/>Yeah, there is no one like You<br/>Yeah, there is no one like You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Post Chorus:<br/>Yeah, there is no one like You<br/>Yeah, there is no one like You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Unfailing love, this I know<br/>For all my days, I'll behold<br/>The goodness of Your overflow<br/>There is no one like You<br/>You're the One surrounding me<br/>And You provide my every need<br/>I trust in You and I believe<br/>There is no one like You<br/>Oh, there is no one like You<br/>Yeah, there is no one like You, ooh<br/>There is no one like You, yeah-eh-eh-ehh</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Outro:<br/>Yeah, there is no one like You<br/>Yeah, there is no one like You<br/>Yeah</lines>
+    </verse>
+  </lyrics>
+</song>

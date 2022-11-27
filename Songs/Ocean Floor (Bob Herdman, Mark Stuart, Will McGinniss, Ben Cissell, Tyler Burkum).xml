@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Ocean Floor</title>
+    </titles>
+    <copyright>2001 Up In The Mix Music | Flicker USA Publishing</copyright>
+    <authors>
+      <author type="words">Mark Stuart</author>
+      <author type="music">Mark Stuart</author>
+      <author type="words">Ben Cissell</author>
+      <author type="music">Ben Cissell</author>
+      <author type="words">Bob Herdman</author>
+      <author type="music">Bob Herdman</author>
+      <author type="words">Tyler Burkum</author>
+      <author type="music">Tyler Burkum</author>
+      <author type="words">Will McGinniss</author>
+      <author type="music">Will McGinniss</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The mistakes I've made<br/>That caused pain<br/>I could have done without.<br/>All my selfish thoughts,<br/>All my pride, the things I hide,<br/>You have forgot about.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>They're all behind you.<br/>They'll never find you.<br/>They're on the ocean floor.<br/>Your sins are forgotten.<br/>They're on the bottom<br/>Of the ocean floor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My misdeeds, all my greed,<br/>All the things that haunt me now,<br/>They're not a pretty sight to see.<br/>But they're wiped away<br/>By a mighty, mighty wave,<br/>A mighty, mighty wave, yeah!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Your sins are erased.<br/>And they are no more.<br/>They're out on the ocean floor.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Take them away, to return no more.<br/>Take them away to the ocean floor.<br/>To the ocean floor.<br/>To the ocean floor.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Your sins are forgotten.<br/>They're on the bottom<br/>Of the ocean floor.<br/>Your sins are erased<br/>And they are no more.<br/>They're out on the ocean floor.<br/>CHORDS:<br/>Am2 = 003010<br/>C = 332010<br/>G = 320033<br/>Dm = 557765<br/>F = 133211<br/>Am = 002210<br/>C7sus4 = 335373</lines>
+    </verse>
+  </lyrics>
+</song>

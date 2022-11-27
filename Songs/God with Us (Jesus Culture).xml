@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>God with Us</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1596"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>easter</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>You are matchless in grace and mercy<br/>There is nowhere we can hide from Your love<br/>You are steadfast, never failing, You are faithful<br/>All creation is in awe of who You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the healer of the sick and the broken<br/>You are comfort for every heart in loss<br/>Our King and our Savior forever<br/>For eternity we will sing of all You've done<br/>For eternity we will sing of all You've done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>God with us, God for us<br/>Nothing can come against, no one can stand between us<br/>God with us, God for us<br/>Nothing can come against, no one can stand between us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse: 2<br/>Your heart, it moves with compassion<br/>There is life, there is healing in Your love<br/>You're the Father, the Son, the Holy Spirit<br/>For eternity we will sing of all You've done</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We sing</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Where there was death, You brought life, Lord<br/>Where there was fear, You brought courage<br/>When I was afraid, You were with me<br/>And You lifted me up, and You lifted me up</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:<br/>And You lifted me up, and You lifted me up!<br/>And You lifted me up, and You lifted me up!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We sing</lines>
+    </verse>
+  </lyrics>
+</song>

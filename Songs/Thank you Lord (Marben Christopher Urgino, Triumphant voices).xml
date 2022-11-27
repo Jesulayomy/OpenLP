@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Thank you Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Triumphant voices</author>
+      <author type="music">Triumphant voices</author>
+      <author type="music">Marben Christopher Urgino</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank you Lord<br/>With all my Heart ohh<br/>Lord<br/>I Sing You Praise<br/>Before the Gods ohh<br/>Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I face your Holy Temple<br/>Bow Down and Praise your Name<br/>I Face your Holy Temple<br/>Ohhh God<br/>Ohh God<br/>Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your Constant Love<br/>And Faithfulness<br/>Your Constant Love<br/>And Faithfulness<br/>Ohh God..<br/>Jesus, Jesus, Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

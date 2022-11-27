@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>The Cross Has Said It All</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The cross has said it all,<br/>The cross has said it all.<br/>I can't deny what You have shown,<br/>The cross speaks of a God of love;<br/>there displayed for all to see,<br/>Jesus Christ, our only hope,<br/>a message of the Father's heart:<br/>"Come, my children, come on home."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As high as the heavens are above the earth,<br/>so high is the measure of Your great love;<br/>as far as the east is from the west,<br/>so far have You taken our sins from us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The cross has said it all,<br/>the cross has said it all.<br/>I never recognized Your touch<br/>until I met You at the cross.<br/>We are fallen, dust to dust;<br/>how could You do this for us?<br/>son of God shed precious blood;<br/>who can comprehend this love?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How high, how wide, how deep (x2)<br/>How high!</lines>
+    </verse>
+  </lyrics>
+</song>

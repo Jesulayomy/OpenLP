@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Trust In You</title>
+    </titles>
+    <authors>
+      <author type="words">Lauren Daigle</author>
+      <author type="music">Lauren Daigle</author>
+      <author type="words">Michael Farren</author>
+      <author type="music">Michael Farren</author>
+      <author type="words">Paul Mabury</author>
+      <author type="music">Paul Mabury</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2640"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>christian-living</theme>
+      <theme>commitment</theme>
+      <theme>devotion</theme>
+      <theme>gods-faithfulness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Letting go of every single dream I lay each one down at your feet<br/>Every moment of my wandering Never changes what you see<br/>I've tried to win this war I confess My hands are weary I need your rest<br/>Mighty warrior king of the fight No matter what I face you're by my side</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>When you don't move the mountains I'm needing you to move<br/>When you don't part the waters I wish I could walk through<br/>When you don't give the answers as I cry out to you<br/>I will trust I will trust I will trust in you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Truth is you know what tomorrow brings There's not a day ahead you have not seen<br/>So in all things be my life and breath I want what you want lord and nothing less</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>When you don't move the mountains I'm needing you to move<br/>When you don't part the waters I wish I could walk through<br/>When you don't give the answers as I cry out to you<br/>I will trust I will trust I will trust in you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my strength and comfort You are my steady hand<br/>You are my firm foundation The rock on which I stand<br/>Your ways are always higher Your plans are always good<br/>There's not a place where I'll go you've not already stood</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>When you don't move the mountains I'm needing you to move<br/>When you don't part the waters I wish I could walk through<br/>When you don't give the answers as I cry out to you<br/>I will trust I will trust I will trust in you</lines>
+    </verse>
+  </lyrics>
+</song>

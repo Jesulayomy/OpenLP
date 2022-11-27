@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Worlds Apart</title>
+    </titles>
+    <copyright>1995 Pogostick Music | Bridge Building Music, Inc.</copyright>
+    <authors>
+      <author type="words">Dan Haseltine</author>
+      <author type="music">Dan Haseltine</author>
+      <author type="words">Charle Lowell</author>
+      <author type="music">Charle Lowell</author>
+      <author type="words">Matt Odmark</author>
+      <author type="music">Matt Odmark</author>
+      <author type="words">Stephen Mason</author>
+      <author type="music">Stephen Mason</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am the only one to blame for this.<br/>Somehow it all ends up the same.<br/>Soaring on the wings of selfish pride,<br/>I flew too high and like Icharus I collide.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>With a world I try so hard to leave behind,<br/>To rid myself of all but love, to give and die.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To turn away and not become<br/>Another nail to pierce the skin of one who loves<br/>More deeply than the oceans, more abundant than the tears<br/>Of a world embracing every heartache.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Can I be the one to sacrifice<br/>Or grip the spear and watch the blood and water flow?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(To love you) Take my world apart.<br/>(To need you) I am on my knees.<br/>(To love you) Take my world apart.<br/>(To need you) Broken on my knees.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All said and done I stand alone<br/>Amongst remains of a life I should not own.<br/>It takes all I am to believe<br/>In the mercy that covers me.</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Did you really have to die for me?<br/>All I am for all you are<br/>because what I need<br/>And what I believe are worlds apart.<br/>And I pray...</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(To love you) Take my world apart.<br/>(To need you) I am on my knees.<br/>(To love you) Take my world apart.<br/>(To need you) Broken on my knees.<br/>On my knees.</lines>
+    </verse>
+    <verse name="b4">
+      <lines>I look beyond the empty cross,<br/>Forgetting what my life has cost.<br/>I wipe away the crimson stains<br/>And all the nails that still remain.<br/>More and more I need you now.<br/>I owe you more each passing hour.<br/>The battle between grace and pride<br/>I gave up not so long ago.<br/>So steal my heart and take the pain<br/>And wash the feet and cleanse my pride.<br/>Take the selfish, take the weak,<br/>And all the things I cannot hide.<br/>Take the beauty, take my tears,<br/>My sinful, soil'd heart, make it pure.<br/>Take my world, it all is yours.<br/>Take it now, take it now.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>(To love you)<br/>To serve the ones that I despise,<br/>Take my world apart<br/>Speak the words I can't deny,<br/>    (To need you)<br/>And watch the world I used to know<br/>I am on my knees<br/>Fall to dust and blow away.<br/>    (To love you)<br/>I look beyond the empty cross,<br/>Take my world apart<br/>Forgetting what my life has cost.<br/>    (To need you)<br/>So wipe away the crimson stains<br/>Broken on my knees<br/>And all the nails that still remain.<br/>    <br/>    (To need you)<br/>And steal my heart and take the pain,<br/>    And take the selfish, take the weak,<br/>(To need you)<br/>And all the things I cannot hide.<br/>    Take the beauty, take my tears,<br/>On my knees (To need you)<br/>Take my world apart.<br/>    Take my world apart.<br/>(To need you)<br/>And I do pray,<br/>    And I pray, and I pray,<br/>On my knees<br/>    Take my world apart.</lines>
+    </verse>
+    <verse name="b5">
+      <lines>My worlds apart.</lines>
+    </verse>
+  </lyrics>
+</song>

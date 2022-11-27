@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>A Child Of The King</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Father is rich in<br/>houses and lands,<br/>He holdeth the wealth of<br/>the world in His hands!<br/>Of rubies and diamonds,<br/>of silver and gold<br/>His coffers are full,<br/>He has riches untold.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>I'm a child of the King!<br/>A child of the King!<br/>With Jesus my Saviour,<br/>I'm a child of the King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Father's own Son,<br/>the Saviour of men,<br/>Once wandered o'er earth<br/>as the poorest of them;<br/>But now He is reigning<br/>forever on high,<br/>And will give me a home<br/>in heav'n by and by.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I once was an outcast,<br/>stranger on earth,<br/>A sinner by choice,<br/>and an alien by birth!<br/>But I've been adopted,<br/>my name's written down,<br/>An heir to a mansion,<br/>a robe, and a crown.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A tent or a cottage,<br/>why should I care?<br/>They're building a palace<br/>for me over there!<br/>Though exiled from home,<br/>yet still I may sing:<br/>All glory to God,<br/>I'm a child of the King!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>For All the Saints</title>
+    </titles>
+    <authors>
+      <author>W. W. How</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For all the saints, who from their labours rest,<br/>Who Thee by faith before the world confessed,<br/>Thy name, O Jesus, be forever blest.<br/>Hallelujah! Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou wast their Rock, their fortress, and their might;<br/>Thou, Lord, their Captain in the well-fought fight;<br/>Thou in the darkness drear their one true light.<br/>Hallelujah! Hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O may Thy soldiers, faithful, true and bold,<br/>Fight as the saints who nobly fought of old,<br/>And win, with them, the victor’s crown of gold!<br/>Hallelujah! Hallelujah!<br/>O blest communion, fellowship divine!<br/>We feebly struggle, they in glory shine;<br/>Yet all are one in Thee, for all are Thine.<br/>Hallelujah! Hallelujah!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when the strife is fierce, the warfare long,<br/>Steals on the ear the distant triumph song,<br/>And hearts are brave again, and arms are strong.<br/>Hallelujah! Hallelujah!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The golden evening brightens in the west;<br/>Soon, soon to faithful warriors cometh rest;<br/>Sweet is the calm of paradise the blest.<br/>Hallelujah! Hallelujah!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>But lo! there breaks a yet more glorious day;<br/>The saints triumphant rise in bright array;<br/>The King of glory passes on His way.<br/>Hallelujah! Hallelujah!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>From earth’s wide bounds, from ocean’s farthest coast,<br/>Through gates of pearl streams in the countless host,<br/>Singing to Father, Son and Holy Ghost.<br/>Hallelujah! Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Stir in Me</title>
+    </titles>
+    <copyright>2000 Deeper Music</copyright>
+    <authors>
+      <author type="words">Todd Proctor</author>
+      <author type="music">Todd Proctor</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stir in me a fire that the world cannot explain;<br/>I come to worship You.<br/>Stir in me passion that my heart cannot contain;<br/>I come to worship You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hold me, break me, mold me<br/>And make me more and more like You;<br/>I come to worship You.<br/>To love You, fear You,<br/>Draw ever near You as I worship You;<br/>I come to worship You oh Lord.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Keeper of my heart,<br/>Author of my days,<br/>Shaper of my dreams,<br/>Shepherd of my way,<br/>Take this sacrifice,<br/>Take my yielded life,<br/>I come to worship You, oh Lord.<br/>I'm here to worship You, oh Lord.<br/>So,</lines>
+    </verse>
+  </lyrics>
+</song>

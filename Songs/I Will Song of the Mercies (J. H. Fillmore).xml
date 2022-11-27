@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>I Will Song of the Mercies</title>
+    </titles>
+    <authors>
+      <author>J. H. Fillmore</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing of the mercies of the Lord for ever,<br/>I will sing, I will sing.<br/>I will sing of the mercies of the Lord for ever,<br/>I will sing of the mercies of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With my mouth will I make known<br/>Thy faithfulness, Thy faithfulness.<br/>With my mouth will I make known<br/>Thy faithfulness to all generations.</lines>
+    </verse>
+  </lyrics>
+</song>

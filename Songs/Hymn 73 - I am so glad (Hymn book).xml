@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T08:18:05">
+  <properties>
+    <titles>
+      <title>Hymn 73 - I am so glad</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am so glad that our <br/>Father in heaven<br/>Tells of his love in the book<br/>He has given<br/>Wonderful things in the bible I see<br/>This is the dearest that <br/>Jesus loves me;</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am so glad that Jesus loves me<br/>Jesus loves me, Jesus loves me<br/>I am so glad that Jesus loves me<br/>Jesus loves even me;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tho' I forget him and wander away<br/>Still he doth love me wherever I stray<br/>Back to his dear loving arms<br/>Would I flee<br/>When I remember that <br/>Jesus loves me;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, if there's only one song I can sing<br/>When in his beauty I see<br/>The great king <br/>This shall my song in eternity be<br/>Oh, what a wonder that<br/>Jesus loves me;</lines>
+    </verse>
+  </lyrics>
+</song>

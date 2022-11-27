@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>You Reign</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Over this moment<br/>In every season<br/>This is Your promise<br/>Jesus You reign<br/>Jesus You reign<br/>Over this city<br/>Over our families<br/>Under Your covering<br/>Jesus You reign<br/>Jesus You reign</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Our God reigns<br/>Our God reigns<br/>Hallelujah Hallelujah<br/>Our God Reigns</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Over the nations<br/>With all creation<br/>You own the heavens<br/>Jesus You reign<br/>Jesus You reign<br/>You own the victory<br/>Over the enemy<br/>With all authority<br/>Jesus You reign<br/>Jesus You reign</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sickness will bow<br/>Idols fall down<br/>It's happening now<br/>At the name of Jesus<br/>Darkness will run<br/>Hell's overcome<br/>It's already done<br/>At the name of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

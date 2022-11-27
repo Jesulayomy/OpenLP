@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Rescue</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5923"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are not hidden<br/>There's never been a moment You were forgotten<br/>You are not hopeless<br/>Though you have been broken Your innocence stolen</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I hear you whisper underneath your breath<br/>I hear your SOS, your SOS</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will send out an army to find You<br/>In the middle of the darkest night<br/>It's true, I will rescue you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is no distance<br/>That cannot be covered over and over<br/>You're not defenseless<br/>I'll be your shelter I'll be your armor</lines>
+    </verse>
+    <verse name="p2">
+      <lines>I hear you whisper underneath Your breath<br/>I hear your SOS, your SOS</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I will send out an army to find You<br/>In the middle of the darkest night<br/>It's true, I will rescue you<br/>I will never stop marching to reach you<br/>In the middle of the hardest fight<br/>It's true, I will rescue you</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I hear the whisper underneath Your breath<br/>I hear you whisper, you have nothing left</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I will send out an army to find You<br/>In the middle of the darkest night<br/>It's true, I will rescue you<br/>I will never stop marching to reach you<br/>In the middle of the hardest fight<br/>It's true, I will rescue you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, I will rescue you</lines>
+    </verse>
+  </lyrics>
+</song>

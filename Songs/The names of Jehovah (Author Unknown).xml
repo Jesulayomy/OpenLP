@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:17">
+  <properties>
+    <titles>
+      <title>The names of Jehovah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I want to take the time<br/>Just to praise your holy name<br/>Because you´ve been<br/>Been so good to me<br/>So from the rising of the sun<br/>Until the going down of the same<br/>Lord your name alone<br/>Is worthy to be praised</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Jehovah Nissi, the Lord our banner<br/>Jehovah Rapha, the Lord our healer<br/>Jehovah Shalom, the Lord our peace<br/>Jehovah Shammah, the Lord is present<br/>Jehovah Raah, the Lord our shepherd<br/>Jehovah Tsidkenu, the Lord our righteousness<br/>Jehovah Shalom, the Lord our Peace<br/>Jehovah Jireh, he provideth all our needs</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the great I Am, that I Am<br/>The God that was, is and is to come<br/>Prophet, Priest and King<br/>Eagle, Lamb and Lion<br/>Son of Man, Son of God and Son of David</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the Rose of Sharon<br/>You´re the Lily of the valley<br/>You´re the bright and morning star<br/>That´s who you are<br/>The mighty Conqueror<br/>That´s been unconquered by tradition<br/>The Lord God Jehovah is His name</lines>
+    </verse>
+  </lyrics>
+</song>

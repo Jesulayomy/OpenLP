@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Kindness</title>
+    </titles>
+    <copyright>2000 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Louie Giglio</author>
+      <author type="music">Louie Giglio</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Open up the skies of mercy.<br/>Rain down the cleansing flood.<br/>Healing waters rise around us.<br/>Hear our cries, Lord; let 'em rise.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It's Your kindness, Lord, that leads us to repentance.<br/>Your favor, Lord, is our desire.<br/>It's Your beauty, Lord, that makes us stand in silence<br/>And Your love, Your love is better than life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We can feeel Your mercy falling.<br/>You are turning our hearts back again.<br/>Hear our praises rise to heaven.<br/>Draw us near, Lord, meet us here.</lines>
+    </verse>
+  </lyrics>
+</song>

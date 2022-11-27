@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>God Is Great</title>
+      <title>All Creation Cries to You</title>
+    </titles>
+    <copyright>2001 Hillsong Music Publishing</copyright>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Nehir Kilisesi"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All creation cries to You<br/>Worshipping in spirit and in truth<br/>Glory to the Faithful One<br/>Jesus Christ, God's Son</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All creation gives You praise<br/>You alone are truly great<br/>You alone are God who reigns<br/>For eternity</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God is great and His praise fills the earth fills the heavens<br/>And Your name will be praised through all the world<br/>God is great, sing His praise all the earth all the heavens<br/>Cause we're living for the glory of Your name<br/>The glory of Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All to You o God we bring<br/>Jesus teach us how to live<br/>Let your fire burn in us<br/>That all may hear and all may see</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Holy is the Lord, the whole earth sings<br/>The whole earth sings</lines>
+    </verse>
+  </lyrics>
+</song>

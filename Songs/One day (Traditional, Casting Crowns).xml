@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>One day</title>
+      <title>Living he loved me</title>
+    </titles>
+    <authors>
+      <author type="music">Casting Crowns</author>
+      <author type="words">Traditional</author>
+      <author type="music">Traditional</author>
+    </authors>
+    <themes>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One day when heaven was filled with His praises,<br/>One day when sin was as black as could be,<br/>Jesus came forth to be born of a virgin-<br/>Dwelt among men, my example is He!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Living, He loved me; dying, He saved me;<br/>Buried, He carried my sins far away;<br/>Rising, He justified freely forever:<br/>One day He's coming-O glorious day!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One day they led Him up Calvary's mountain,<br/>One day they nailed Him to die on the tree;<br/>Suffering anguish, despised and rejected;<br/>Bearing our sins, my Redeemer is He.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One day they left Him alone in the garden,<br/>One day He rested, from suffering free;<br/>Angels came down o'er His tomb to keep vigil;<br/>Hope of the hopeless, my Savior is He.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One day the grave could conceal Him no longer,<br/>One day the stone rolled away from the door;<br/>Then He arose, over death He had conquered;<br/>Now is ascended, my Lord evermore.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>One day the trumpet will sound for His coming,<br/>One day the skies with His glory will shine;<br/>Wonderful day, my beloved ones bringing;<br/>Glorious Savior, this Jesus is mine!</lines>
+    </verse>
+  </lyrics>
+</song>

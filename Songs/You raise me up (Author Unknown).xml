@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>You raise me up</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I am down and all my soul so weary<br/>When troubles come and my heart burdened be<br/>Then I am still and wait here in the silence<br/>Until you come and sit awhile with me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You raise me up so I can stand on mountains<br/>You raise me up to walk on stormy seas<br/>I am strong when I am on your shoulders<br/>You raise me up to more than I can be</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is no life, no life without its hunger<br/>Each restless heart beats so imperfectly<br/>But when you come and I am filled with wonder<br/>Sometimes I think I glimpse eternity</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You raise me up so I can stand on mountains<br/>You raise me up to walk on stormy seas<br/>I am strong when I am on your shoulders<br/>You raise me up to more than I can be</lines>
+    </verse>
+  </lyrics>
+</song>

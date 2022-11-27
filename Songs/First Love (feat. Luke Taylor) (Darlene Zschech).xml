@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>First Love (feat. Luke Taylor)</title>
+    </titles>
+    <authors>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3953"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Every fear overtaken Every wall comes crashing down<br/>I am free in Your presence, whoa-oh-oh-ohh<br/>You have lifted my burdens  You surround me with Your grace<br/>Full of hope in Your presence, whoa-oh-oh-ohh</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>And I, I can't stop singing 'bout Your love<br/>I can't stop singing 'bout Your love<br/>My heart is o-o-overcome (oh-oh oh-ohh)<br/>And I, I can't stop singing 'bout Your love<br/>For everything that You've done<br/>My heart is o-o-overcome</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>I see the kingdom of heaven Pierce the dark with endless light<br/>We're alive in Your presence, whoa-oh-oh-ohh<br/>You have won our salvation At the cross, one sacrifice<br/>So secure in Your presence, whoa-oh-oh-ohh</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>I praise You forever  Your love goes on and  on<br/>I sing to You Jesus  You are my first love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing hallelujah You are my first love<br/>Sing hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

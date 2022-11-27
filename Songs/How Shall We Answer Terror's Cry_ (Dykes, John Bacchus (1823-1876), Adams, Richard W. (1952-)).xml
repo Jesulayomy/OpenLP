@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>How Shall We Answer Terror's Cry?</title>
+    </titles>
+    <authors>
+      <author type="music">Dykes, John Bacchus (1823-1876)</author>
+      <author type="words">Adams, Richard W. (1952-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How shall we answer terror's cry, The cunning blade, the flaming sky? When murderous spite knocks down our door And violence breaks upon our shore, O let us come and look to You To know Your will what shall we do?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When Satan whispers, 'Hate your foe, Now take your vengeance draw the bow,' Protect us from the tempter's guile, The lying voice, the evil smile. O let us come in trust to You, To hear the word we know is true.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When executioners hung You high You turned Your prayer up to the sky, And pled the Father to forgive, You asked that cruel men might live. O let us Your example take, And pray for sinners as we ache.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We pray that You their hearts will turn; And light a holy fire to burn Their dross away, so they may be Like gold refined, eternally. O let us pray that they become, Like us, with You forever one.</lines>
+    </verse>
+  </lyrics>
+</song>

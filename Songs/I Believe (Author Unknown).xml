@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>I Believe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3610"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 verse<br/>In a land far away time stood still long ago<br/>There were shepherds in fields<br/>Or at least this is how the story goes<br/>The story goes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 verse<br/>Woman with child and an inn with no room<br/>Born in a manger foretelling a tomb<br/>This is how the story goes</lines>
+    </verse>
+    <verse name="p1">
+      <lines>But it's more than a fable, and it's more than a fairytale<br/>And more than my mind can conceive</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I believe the wise men saw<br/>The baby born the angels called the son of God<br/>Heaven's child, the Great I Am<br/>Born to take away my sins through nail-pierced hands<br/>Emmanuel has come, I believe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Two thousand years, still the story lives on<br/>God's gift to us, sent to earth wrapped in flesh<br/>His only Son, His only Son</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pre-Chorus<br/>And the heartbeat of heaven confounded our wisdom<br/>But it's still the simple truth that sets me free</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I believe the people saw<br/>The man who lived the angels called the son of God<br/>Heaven's child, the Great I Am<br/>Came to take away my sins through nail-pierced hands<br/>Emmanuel has come, and I believe</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Precious Lord, how can it be that<br/>God's great plan for history<br/>Would send you to the lonely tree<br/>That you would come for one like me</lines>
+    </verse>
+    <verse name="c3">
+      <lines>LastI believe in a cross<br/>I believe he came for one, he came for all<br/>The Son of God, the Great I Am<br/>Gave his life for me and then He rose again<br/>I believe, I believe, oh I believe<br/>Jesus lives in me, I believe</lines>
+    </verse>
+  </lyrics>
+</song>

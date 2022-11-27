@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Shepherd Of My Soul</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3489"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of the mountains and sea<br/>You are treading a path set for me<br/>God of the seasons and sky<br/>You have always been holding my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And Lord, You are the shepherd of my soul<br/>So I lay down my plans, I give up my rights<br/>And let You take control of this surrendered life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So I put my trust in the one<br/>Who created the stars and the sun<br/>You are eternally kind<br/>Always faithful and endlessly wise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You comfort, You sustain<br/>In shaking You remain<br/>Unmoved and unafraid<br/>Forever and always<br/>You lead me by still waters<br/>Lead me through the valleys<br/>Lead me in Your wisdom<br/>Shepherd of my soul</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Through valleys of shadow and death I am not afraid<br/>By my Father's breath every star in the sky was made<br/>And who can I fear when You're standing right here by my side?<br/>Always leading, protecting and guarding my left and my right</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Father You make all things new<br/>Great God of creation<br/>Father You will always be my rock and salvation</lines>
+    </verse>
+  </lyrics>
+</song>

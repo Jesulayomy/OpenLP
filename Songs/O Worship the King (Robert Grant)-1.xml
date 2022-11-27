@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:43">
+  <properties>
+    <titles>
+      <title>O Worship the King</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Robert Grant</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O worship the King,<br/>All glorious above; <br/>O gratefully sing <br/>His power and His love: <br/>Our Shield and Defender, <br/>The Ancient of Days, <br/>Pavilioned in splendour <br/>And girded with praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O tell of His might, <br/>O sing of His grace, <br/>Whose robe is the light, <br/>Whose canopy space; <br/>His chariots of wrath <br/>The deep thunder-clouds form, <br/>And dark is His path <br/>On the wings of the storm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The earth, with its store <br/>Of wonders untold, <br/>Almighty, Thy power <br/>Hath founded of old; <br/>Hath ’stablished it fast, <br/>By a changeless decree, <br/>And round it hath cast, <br/>Like a mantle, the sea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thy bountiful care <br/>What tongue can recite? <br/>It breathes in the air, <br/>It shines in the light; <br/>It streams from the hills, <br/>It descends to the plain, <br/>And sweetly distils <br/>In the dew and the rain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Frail children of dust, <br/>And feeble as frail, <br/>In Thee do we trust, <br/>Nor find Thee to fail; <br/>Thy mercies how tender, <br/>How firm to the end, <br/>Our Maker, Defender, <br/>Redeemer, and Friend!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O measureless might!<br/>Ineffable love!<br/>While angels delight<br/>To the hymn above,<br/>The humble creation<br/>Though feeble their lays,<br/>With true adoration<br/>Shall sing to their praise.</lines>
+    </verse>
+  </lyrics>
+</song>

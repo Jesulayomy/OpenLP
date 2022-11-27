@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Echo (feat. Tauren Wells)</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5934"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>When night has fallen when fear is common still You're calling me<br/>When faith is lost and my hope exhausted You will be my strength</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>When my mind says I'm not good enough<br/>God, You're enough for me<br/>I've decided I'm not giving up<br/>'Cause You won't give up on me, You won't give up on me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Your love is holding on and it won't let go<br/>I feel it breaking out like an echo<br/>Your love is holding on and it won't let go<br/>I feel it breaking out like an echo</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Post Chorus:<br/>Echo in my so-o-o-o-oul</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse:<br/>In every season You keep repeating promises to me<br/>Now there's no stopping what you have started Until it is complete</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Another In The Fire</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a grace when the heart is under fire<br/>Another way when the walls are closing in<br/>And when I look at the space between<br/>Where I used to be and this reckoning<br/>I know I will never be alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There was another in the fire<br/>Standing next to me<br/>There was another in the waters<br/>Holding back the seas<br/>And should I ever need reminding<br/>Of how I've been set free<br/>There is a cross that bears the burden<br/>Where another died for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my debt left for dead beneath the waters<br/>I'm no longer a slave to my sin anymore<br/>And should I fall in the space between<br/>What remains of me and this reckoning<br/>Either way I won't bow<br/>To the things of this world<br/>And I know I will never be alone</lines>
+    </verse>
+    <verse name="c2">
+      <lines>There is another in the fire<br/>Standing next to me<br/>There is another in the waters<br/>Holding back the seas<br/>And should I ever need reminding<br/>What power set me free<br/>There is a grave that holds no body<br/>And now that power lives in me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I can see the light in the darkness<br/>As the darkness bows to Him<br/>I can hear the roar in the heavens<br/>As the space between wears thin<br/>I can feel the ground shake beneath us<br/>As the prison walls cave in<br/>Nothing stands between us<br/>Nothing stands between us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no other name<br/>But the Name that is Jesus<br/>He who was and still is<br/>And will be through it all<br/>So come what may in the space between<br/>All the things unseen and this reckoning<br/>I know I will never be alone</lines>
+    </verse>
+    <verse name="c3">
+      <lines>There'll be another in the fire<br/>Standing next to me<br/>There'll be another in the waters<br/>Holding back the seas<br/>And should I ever need reminding<br/>How good You've been to me<br/>I'll count the joy come every battle</lines>
+    </verse>
+  </lyrics>
+</song>

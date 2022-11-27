@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Dear Christians, One and All Rejoice</title>
+    </titles>
+    <authors>
+      <author type="music">from Klug's Geistliche Lieder, Wittenberg, 1533</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dear Christians, one and all rejoice, With exultation springing, And with united heart and voice And holy rapture singing, Proclaim the wonders God hath done, How his right arm the vict'ry won; Right dearly it hath cost him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fast bound in Satan's chains I lay. Death brooded darkly o'er me; Sin was my torment night and day, Therein my mother bore me. Deeper and deeper still I fell, Life was become a living hell, So firmly sin possessed me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My good works could avail me naught, For they with sin were stainéd; Freewill against God's judgment fought, And dead to good remainéd. Grief drove me to despair, and I Had nothing left me but to die, To hell I fast was sinking.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God saw, in his eternal grace, My sorrow out of measure; He thought upon his tenderness To save was his good pleasure. He turn'd to me a Father's heart\Not small the cost to heal my smart He gave his best and dearest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He spake to his beloved Son: 'Tis time to take compassion; Then go, bright jewel of my crown, And bring to man salvation; From sin and sorrow set him free, Slay bitter death for him, that he May live with thee forever.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The Son delighted to obey, And born of Virgin mother,<br/>Awhile on this low earth did stay That he might be my brother.<br/>His mighty power he hidden bore,<br/>A servant's form like mine he wore, To bind the devil captive.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>To me he spake : cling fast to me, Thou'lt win a triumph worthy:<br/>I wholly give myself for thee, I strive and wrestle for thee;<br/>For I am thine, thou mine also;<br/>And where I am thou art. The foe Shall never more divide us.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>For he shall shed my precious blood, Me of my life bereaving;<br/>All this I suffer for thy good; Be steadfast and believing.<br/>My life from death the day shall win,<br/>My righteousness shall bear thy sin, So art thou blest forever.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Now to my Father I depart, From earth to heaven ascending;<br/>Thence heavenly wisdom to impart, The Holy Spirit sending.<br/>He shall in trouble comfort thee,<br/>Teach thee to know and follow me, And to the truth conduct thee.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>What I have done and taught, do thou To do and teach endeavor;<br/>So shall my kingdom flourish now, And God be praised forever.<br/>Take heed lest men with base alloy<br/>The heavenly treasure should destroy. This counsel I bequeath thee.</lines>
+    </verse>
+  </lyrics>
+</song>

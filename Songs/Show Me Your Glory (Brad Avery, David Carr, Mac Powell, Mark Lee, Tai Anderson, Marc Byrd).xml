@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Show Me Your Glory</title>
+    </titles>
+    <copyright>2001 New Spring Publishing, Inc.</copyright>
+    <authors>
+      <author type="words">Mac Powell</author>
+      <author type="music">Mac Powell</author>
+      <author type="words">Brad Avery</author>
+      <author type="music">Brad Avery</author>
+      <author type="words">David Carr</author>
+      <author type="music">David Carr</author>
+      <author type="words">Marc Byrd</author>
+      <author type="music">Marc Byrd</author>
+      <author type="words">Mark Lee</author>
+      <author type="music">Mark Lee</author>
+      <author type="words">Tai Anderson</author>
+      <author type="music">Tai Anderson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Caught a glimpse of Your splendor in the corner of my eye,<br/>The most beautiful thing I'd ever seen;<br/>It was like a flash of lightning reflected off the sky,<br/>And I know I'll never be the same.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Show me Your glory,<br/>Send down Your presence, I wanna see Your face;<br/>Show me Your glory,<br/>Majesty shines about You and I can't go on without You, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I climb down the mountain and get back to my life,<br/>I won't settle for ordinary things;<br/>I'm gonna follow You forever, for all of my days;<br/>I won't rest until I see You again.</lines>
+    </verse>
+  </lyrics>
+</song>

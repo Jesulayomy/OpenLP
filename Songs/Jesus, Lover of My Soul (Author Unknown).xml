@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Jesus, Lover of My Soul</title>
+      <title>It's all about you</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5057"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>commitment</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, lover of my soul,<br/>All consuming fire is in Your gaze.<br/>Jesus, I want You to know<br/>I will follow You all my days.<br/>For no-one else in history is like You,<br/>And history itself belongs to You.<br/>Alpha and Omega, You have loved me,<br/>And I will share eternity with You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It's all about you, Jesus,<br/>And all this is for You,<br/>For Your glory and Your fame.<br/>It's not about me,<br/>As if You should do things my way;<br/>You alone are God, and I surrender<br/>To Your ways.</lines>
+    </verse>
+  </lyrics>
+</song>

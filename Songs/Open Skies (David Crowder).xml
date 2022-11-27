@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Open Skies</title>
+      <title>Praise Him under open skies</title>
+    </titles>
+    <copyright>2003 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise Him under open skies,<br/>ev'rything breathing, praising God<br/>In the company of all who love the King.<br/>I will dance. I will sing. It could be heavenly.<br/>Turn the music loud, lift my voice and shout.<br/>From where I am, from where I've been,<br/>He's been there with me, He's built a monument:<br/>His very people, so let His people sing, sing sing.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And it's so wonderful just to be here now.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise Him under open skies,<br/>ev'rything breathing, praising God<br/>In the company of all who love the King. (2X)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise Him under open skies,<br/>ev'rything breathing, praising God<br/>In the company of all who love the King.<br/>Let us dance. Let us sing. It could be heavenly.<br/>Turn the music loud and sing.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lift your voice to heaven.<br/>Lift up your head and sing<br/>To the One who gave His love;<br/>this is our offering.<br/>Lift your voice to heaven.<br/>Lift up your head and sing<br/>To the One who gave His Son;<br/>Here our lives we bring.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>From wherever you are, wherever you've been,<br/>He's been there, so let His people sing. (3X)<br/>And it's so wonderful to be here now.<br/>Wherever you are, wherever you've been,<br/>He's been there.</lines>
+    </verse>
+  </lyrics>
+</song>

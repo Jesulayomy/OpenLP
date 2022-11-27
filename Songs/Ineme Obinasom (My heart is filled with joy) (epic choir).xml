@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-10-03T10:48:22">
+  <properties>
+    <titles>
+      <title>Ineme Obinasom (My heart is filled with joy)</title>
+    </titles>
+    <verseOrder>v1 c1 v3 v4 c1 v5 v6 c1</verseOrder>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>See the way you love me see <br/>the way you care for me<br/>You carry my matter for your head oh<br/>Ihineme obinasom <br/>Like a little baby<br/>You watch over me oh you no <br/>dey carry me dey play oh<br/>Ihineme obinasom</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ah ha ha ha<br/>Ah ha ha ha<br/>Obinasom ooh ooh ooh<br/>Ihineme obinasom</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus Ihineme obinasom oh<br/>Obinasom ooh ooh ooh obinasom ooh ooh<br/>Obinasom ooh ooh obinasom ooh ooh<br/>Ihineme obinasom</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Because of Jesus because of Jesus <br/>I've got I’ve got joy overflow<br/>Unlimited favour it's like a river in my soul<br/>Because of Jesus Christ eh because of <br/>Jesus Christ I've got I've got joy overflow<br/>Unlimited favour it's like a river in my soul</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus Ihineme obina som som <br/>som som som som obinasom ooh ooh<br/>Obinasom ooh ooh obinasom ooh ooh<br/>Ihineme obinasom</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You made everything brand new <br/>everything brand new uh uh<br/>Butterflies in my belly belly<br/>Obinasom ooh ooh ooh<br/>Ihineme obinasom</lines>
+    </verse>
+  </lyrics>
+</song>

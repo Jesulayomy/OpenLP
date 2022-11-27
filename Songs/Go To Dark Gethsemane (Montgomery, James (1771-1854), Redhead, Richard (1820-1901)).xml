@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Go To Dark Gethsemane</title>
+    </titles>
+    <authors>
+      <author type="music">Redhead, Richard (1820-1901)</author>
+      <author type="words">Montgomery, James (1771-1854)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Go to dark Gethsemane, ye that feel the tempter's pow'r; Your Redeemer's conflict see, watch with Him one bitter hour, Turn not from His griefs away; learn from Jesus Christ to pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Follow to the judgment hall, view the Lord of Life arraigned; O the wormwood and the gall! O the pangs His soul sustained! Shun not suff'ring, shame, or loss; learn from Christ to bear the cross.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Calv'ry's mournful mountain climb; there, adoring at His feet, Mark that miracle of time, God's own sacrifice complete. "It is finished!" hear Him cry; learn from Jesus Christ to die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Early hasten to the tomb where they laid His breathless clay; All is solitude and gloom. Who has taken Him away? Christ is ris'n! He meets our eyes; Savior, teach us so to rise.</lines>
+    </verse>
+  </lyrics>
+</song>

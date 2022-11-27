@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O Lord, I Am Not Worthy</title>
+    </titles>
+    <authors>
+      <author type="music">traditional</author>
+      <author type="words">from Landshuter Gesangbuch</author>
+      <author type="translate">unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, I am not worthy That Thou should'st come to me, But speak the words of comfort, My spirit healed shall be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Lord, Thou art all holy, The angels Thee adore; How, then, ought I sincerely My wrongs and sins deplore!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But when Thou soon wilt enter My heart, my sinful heart, Then heal me, be my shelter, For Thou my Savior art.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Lord, how can I thank Thee For such a gift as this? A gift which truly filleth My soul with heav'nly bliss!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I praise Thee, I extol Thee, I love Thee O my Sire, Till once in joy and glory, In heav'n I Thee admire.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Son of God</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+    <themes>
+      <theme>guitar</theme>
+      <theme>salvation</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>light</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro: D Dsus A D x2<br/>Hold my hand and walk with me<br/>You're the Light that makes me see<br/>On this path my soul You lead<br/>O my Shepherd walk with me<br/>Verse 2:<br/>I need You more then breath<br/>You're my hope in You I live<br/>Angels worship at Your throne<br/>Power and Glory to You alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My Saviour, Glorious One,<br/>My Redeemer, Living in my heart<br/>Now and forever Your Kingdom come<br/>Jesus Son of God...(x2 at the end)<br/>Jesus Son of God</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jesus,O Jesus, Holy is The Lamb of God<br/>Jesus,O Jesus, Worthy is The Lamb of God.</lines>
+    </verse>
+  </lyrics>
+</song>

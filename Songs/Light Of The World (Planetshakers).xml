@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Light Of The World</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4106"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 verse:<br/>Years ago, in the darkness of the night<br/>There was a glow, the radiance of a light<br/>Led to the One, the one and only Son<br/>For unto us a child is born, He will be called-</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>Wonderful, Mighty God, Prince of Peace</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>You are the light of the world, shining brighter than the sun<br/>You are the light of the world, Jesus, Jesus<br/>You bring life to the world, You're the joy of everyone<br/>You bring life to the world, Jesus, Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 verse:<br/>From the very start, You were the brightest star<br/>There was nothing that could stop You, from letting all Your love shine through<br/>From the beginning to the very end, when You come down when You ascend<br/>You will always be the greatest, You will always shine the brightest</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pre chorus:<br/>Wonderful, Mighty God, Prince of Peace</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Chorus:<br/>You are the light of the world, shining brighter than the sun<br/>You are the light of the world, Jesus, Jesus (You bring life, yeah)<br/>You bring life to the world, You're the joy of everyone<br/>You bring life to the world Jesus, Jesus (Jesus, You bring me life, yeah)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the light of the world, Jesus<br/>It feels real good</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Pre chorus:<br/>'Cause You are wonderful You are Mighty God Prince of Peace<br/>(Yes, You are) (You are the Prince of Peace, yeah)</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Chorus:<br/>You are the light of the world, shining brighter than the sun<br/>You are the light of the world, Jesus, Jesus<br/>You bring life to the world, You're the joy of everyone<br/>You bring life to the world, Jesus, Jesus (Yeah, yeah, yeah, yeah, wooh, huh)<br/>It feels real good Yeah, yeah</lines>
+    </verse>
+  </lyrics>
+</song>

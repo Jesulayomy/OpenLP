@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>I give you my heart</title>
+      <title>This is my Desire</title>
+    </titles>
+    <copyright>1995 Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="words">Hillsong</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>response</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is my desire, to honour You<br/>Lord, with all my heart, I worship You<br/>All I have within me, I give You praise<br/>All that I adore is in You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, I give You my heart<br/>I give You my soul<br/>I live for You alone<br/>Ev'ry breath that I take<br/>Ev'ry moment I'm awake<br/>Lord, have Your way in me</lines>
+    </verse>
+  </lyrics>
+</song>

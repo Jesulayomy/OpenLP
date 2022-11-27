@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>You Know My Name</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3527"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>You've numbered every hair on my head<br/>You know my every thought You know my every thought<br/>My name is on the palm of your hand<br/>And your hands they hold the stars Your hands they hold the stars</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>Though you're infinite in wisdom<br/>Powerful and mighty still you call me your friend<br/>Though you're seated in the heavens<br/>King over creation still you call me your friend</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I have cried out and you have heard me<br/>You Am know my name You know my name<br/>I was lost and then you came and found me<br/>You Am know my name You know my name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>Your perfect love is better than life<br/>And Your mercy never ends and Your mercy never ends<br/>Like a Father You have opened Your arms<br/>And You've called me back again and You've called me back again</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>You see me You hear me<br/>You know me God and your thoughts can not be numbered<br/>You see me You hear me<br/>You know me God and your thoughts can not be numbered</lines>
+    </verse>
+  </lyrics>
+</song>

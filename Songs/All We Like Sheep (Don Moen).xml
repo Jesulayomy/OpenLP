@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>All We Like Sheep</title>
+    </titles>
+    <authors>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+    </authors>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>gospel</theme>
+      <theme>repentance</theme>
+      <theme>forgiveness</theme>
+      <theme>prayer</theme>
+      <theme>bible</theme>
+      <theme>gods-holiness</theme>
+      <theme>grace</theme>
+      <theme>cleansing</theme>
+      <theme>easy</theme>
+      <theme>healer</theme>
+      <theme>sacrifice</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All we like sheep<br/>Have gone astray<br/>Each of us turning our<br/>Own seperate way<br/>We have all sinned and<br/>Fallen short of Your glory<br/>But Your glory is what we desire to see<br/>And in Your presence is where<br/>We long to be</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh Lord<br/>Show us your mercy and grace<br/>Take us to Your holy place<br/>Forgive our sin and heal our land<br/>We long to live<br/>In Your presence once again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Taking our sickness<br/>Taking our pain<br/>Jesus the sacrifice lamb<br/>Has been slain<br/>He was despised, rejected<br/>By men He took our sin<br/>Draw us near to You Father<br/>Through Jesus Your son<br/>Let us worship before You<br/>Cleansed by Your Blood</lines>
+    </verse>
+  </lyrics>
+</song>

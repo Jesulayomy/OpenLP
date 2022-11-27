@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Lions</title>
+    </titles>
+    <authors>
+      <author type="words">Слово Жизни Music</author>
+      <author type="music">Слово Жизни Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1248"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>protection</theme>
+      <theme>gods-holiness</theme>
+      <theme>devotion</theme>
+      <theme>peace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>Find me here at Your place<br/>I am forever Yours, Jesus<br/>At Your Name I bow to my knees<br/>I am forever Yours, Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>As lions we are brave because<br/>of Your great sthrenth You gave to us<br/>You find us here and gave us life<br/>And, Jesus, forever we cry out</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, Holy<br/>Is the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>Lord of all You give me peace<br/>I am forever Yours, Jesus<br/>You hold me in Your wings<br/>I am forever Yours, Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Come, Jesus, come<br/>Fill our hearts with Your Spirit<br/>Come, Jesus, come<br/>Let Your Love be with us</lines>
+    </verse>
+  </lyrics>
+</song>

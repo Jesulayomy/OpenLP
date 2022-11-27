@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>We'll walk in the light</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All ye saints of light proclaim,<br/>Jesus, the light of the world;<br/>Life and mercy in His name,<br/>Jesus, the light of the world.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We'll walk in the light, beautiful light,<br/>Come where the dewdrops of mercy are bright;<br/>Shine all around us by day and by night,<br/>Jesus, the light of the world.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hear the Saviour's earnest call,<br/>Jesus, the light of the world;<br/>Send the Gospel truth to all,<br/>Jesus, the light of the world.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Why not seek Him then today,<br/>Jesus, the light of the world;<br/>Go with truth the narrow way,<br/>Jesus, the light of the world.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come, confess Him as your King,<br/>Jesus, the light of the world;<br/>Then the bells of heaven will ring,<br/>Jesus, the light of the world.</lines>
+    </verse>
+  </lyrics>
+</song>

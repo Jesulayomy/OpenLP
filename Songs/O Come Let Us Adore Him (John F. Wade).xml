@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>O Come Let Us Adore Him</title>
+    </titles>
+    <authors>
+      <author type="words">John F. Wade</author>
+      <author type="music">John F. Wade</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O come, let us adore Him,<br/>O come, let us adore Him,<br/>O come, let us adore Him,<br/>Christ the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You alone are worthy,<br/>for You alone are worthy;<br/>For You alone are worthy,<br/>Christ the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We give You all the glory,<br/>we give You all the glory;<br/>We give You all the glory,<br/>Christ the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We'll praise Your name for ever,<br/>we'll praise Your name for ever;<br/>We'll praise Your name for ever,<br/>Christ the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

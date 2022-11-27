@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>This Is Amazing Grace</title>
+    </titles>
+    <authors>
+      <author type="words">Phil Wickham</author>
+      <author type="music">Phil Wickham</author>
+      <author type="words">Josh Farro</author>
+      <author type="music">Josh Farro</author>
+      <author type="words">Jeremy Riddle</author>
+      <author type="music">Jeremy Riddle</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3089"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>hope</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who breaks the power of sin and darkness<br/>Whose love is mighty and so much stronger<br/>The King of Glory, the King above all kings<br/>Who shakes the whole earth with holy thunder<br/>Who leaves us breathless in awe and wonder<br/>The King of Glory, the King above all kings</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is amazing grace<br/>This is unfailing love<br/>That You would take my place<br/>That You would bear my cross<br/>You would lay down Your life<br/>That I would be set free<br/>Ohhh Jesus, I sing for<br/>All that You've done for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who brings our chaos back into order<br/>Who makes the orphan a son and daughter<br/>The King of Glory, the King above all kings<br/>Who rules the nations with truth and justice<br/>Shines like the sun in all of its brilliance<br/>The King of Glory, the King above all kings</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Worthy is the Lamb who was slain<br/>Worthy is the King who conquered the grave<br/>Worthy is the Lamb who was slain<br/>Worthy is the King who conquered the grave</lines>
+    </verse>
+  </lyrics>
+</song>

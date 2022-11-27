@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>One thing I ask</title>
+    </titles>
+    <copyright>1987 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Andy Park</author>
+      <author type="music">Andy Park</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One thing I ask, one thing I seek,<br/>That I may dwell in Your house, oh Lord.<br/>All of my days, all of my life,<br/>That I may see You, Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>One thing I ask, one thing I desire,<br/>Is to see You, is to see You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hear me, oh Lord, hear me when I cry.<br/>Lord, do not hide Your face from me.<br/>You have been my strength,<br/>You have been my shield,<br/>And You will lift me up.</lines>
+    </verse>
+  </lyrics>
+</song>

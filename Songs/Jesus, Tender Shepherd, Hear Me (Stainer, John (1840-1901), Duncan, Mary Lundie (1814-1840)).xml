@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Jesus, Tender Shepherd, Hear Me</title>
+    </titles>
+    <authors>
+      <author type="music">Stainer, John (1840-1901)</author>
+      <author type="words">Duncan, Mary Lundie (1814-1840)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, tender Shepherd, hear me; Bless Thy little lamb tonight; Through the darkness be Thou near me; Watch my sleep till morning light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All this day thy hand has led me, And I thank Thee for Thy care; Thou hast clothed me, warmed and fed me, Listen to my evening prayer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let my sins be all forgiven; Bless the friends I love so well; Take me, when I die, to heaven, Happy there with Thee to dwell.</lines>
+    </verse>
+  </lyrics>
+</song>

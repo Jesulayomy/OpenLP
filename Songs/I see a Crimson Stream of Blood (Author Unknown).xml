@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>I see a Crimson Stream of Blood</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 On Cal'vry's hill of sorrow<br/>Where sin's demands were paid,<br/>And rays of hope for tomorrow<br/>Across our path were laid.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I see a crimson stream of blood,<br/>It flows from Calvary,<br/>Its waves which reach the throne of God,<br/>Are sweeping over me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 Today no condemnation<br/>Abides to turn away<br/>My soul from His salvation,<br/>He's in my heart to stay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3 When gloom and sadness whisper<br/>You've sinned, no use to pray,<br/>I look away to Jesus,<br/>And He tells me to say:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4 And when we reach the portal<br/>Where life forever reigns,<br/>The ransomed hosts grand final,<br/>Will be this glad refrain.</lines>
+    </verse>
+  </lyrics>
+</song>

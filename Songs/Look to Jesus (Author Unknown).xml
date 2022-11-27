@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Look to Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the devil comes in, comes in like a flood,<br/>When darkness surrounds you and cannot look up,<br/>When heartache and sorrow will never seem done,<br/>Look to Jesus, who's already run.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Look to Jesus, who's already run.<br/>Look to Jesus, the Glorified Son.<br/>Look to Jesus, who said, 'It is done.'<br/>Look to Jesus, who's already won.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As witnesses call us again to go on<br/>To a life that will count for eternity on,<br/>Move forward by faith and lay the sin aside,<br/>Look to Jesus, who's already run.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Can you see him in glory, on His throne of grace?<br/>Have you seen our Lord suffering, despising the shame?<br/>Consider the cost in redeeming the lost?<br/>Look to Jesus, who finished His race.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Look to Jesus, the author of faith.<br/>Look to Jesus, the giver of grace.<br/>Look to Jesus, and finish your race.<br/>Look to Jesus, who's already won.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Look to Jesus, who sits on the throne.<br/>Look to Jesus, who calls me His own.<br/>Look to Jesus and heaven, our home.<br/>Look to Jesus, who's already won.</lines>
+    </verse>
+  </lyrics>
+</song>

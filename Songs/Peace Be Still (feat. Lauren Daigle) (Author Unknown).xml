@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Peace Be Still (feat. Lauren Daigle)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4979"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I don't want to be afraid every time I face the waves<br/>I don't want to be afraid, I don't want to be afraid<br/>I don't want to fear the storm just because I hear the roar<br/>I don't want to fear the storm, I don't want to fear the storm</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Peace be still say the word and I will<br/>Set my feet upon the sea, till I'm dancing in the deep<br/>Peace be still You are here so it is well<br/>Even when my eyes can't see, I will trust the voice that speaks</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm not gonna be afraid 'cause these waves are only waves<br/>I'm not gonna be afraid, I'm not gonna be afraid<br/>I'm not gonna fear the storm You are greater than it's roar<br/>I'm not gonna fear the storm I'm not gonna fear at all</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Peace be still say the word and I will<br/>Set my feet upon the sea, till I'm dancing in the deep<br/>Peace be still You are here so it is well<br/>Even when my eyes can't see, I will trust the voice that speaks</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Peace, peace over me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let faith, rise up oh heart, Believe, let faith rise up in me<br/>Let faith, rise up oh heart, Believe, let faith rise up in me<br/>Let faith, rise up oh heart, Believe let faith rise up in me<br/>Let faith, rise up oh heart, Believe let faith rise up in me</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Peace be still say the word and I will<br/>Set my feet upon the sea, till I'm dancing in the deep<br/>Peace be still You are here so it is well<br/>Even when my eyes can't see, I will trust the voice that speaks</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Peace, peace over me<br/>Peace, peace over me</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Let faith, rise up oh heart, Believe, let faith rise up in me<br/>Let faith, rise up oh heart, Believe, let faith rise up in me<br/>Let faith, rise up oh heart, Believe let faith rise up in me<br/>Let faith, rise up oh heart, Believe let faith rise up in me</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Peace be still say the word and I will<br/>Set my feet upon the sea, till I'm dancing in the deep<br/>Peace be still You are here so it is well<br/>Even when my eyes can't see, I will trust the voice that speaks</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Peace, peace over me<br/>Peace, peace over me</lines>
+    </verse>
+  </lyrics>
+</song>

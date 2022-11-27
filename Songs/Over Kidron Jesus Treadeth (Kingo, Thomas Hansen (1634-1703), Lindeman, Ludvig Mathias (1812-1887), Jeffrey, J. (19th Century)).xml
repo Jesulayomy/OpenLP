@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Over Kidron Jesus Treadeth</title>
+      <title>Over Kedron Jesus Treadeth, Over Cedron Jesus Treadeth</title>
+    </titles>
+    <authors>
+      <author type="music">Lindeman, Ludvig Mathias (1812-1887)</author>
+      <author type="words">Kingo, Thomas Hansen (1634-1703)</author>
+      <author type="translate">Jeffrey, J. (19th Century)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Over Kidron Jesus treadeth To His passion for us all; Every human eye be weeping, Tears of bitter grief let fall! Round His Spirit flock the foes, Place their shafts and bend their bows, Aiming at the Savior solely, While the world forsakes Him wholly.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>David once, with heart afflicted, Crossed the Kidron's narrow strand, Clouds of gloom and grief about him When an exile from his land. But, O Jesus, blacker now Bends the cloud above Thy brow, Hasting to death's dreary portals For the shame and sin of mortals.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See how, anguish struck, He falleth Prostrate, and with struggling breath, Three times on His God He calleth, Praying that the bitter death And the cup of doom may go, Still He cries, in all His woe: "Not My will, but Thine, O Father!" And the angels round Him gather.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>See how, in that hour of darkness, Battling with the evil pow'r, Agonies untold assail Him, On His soul the arrows show'r; All the garden flow'rs are wet With the drops of bloody sweat, From His anguished frame distilling\World's redemption thus fulfilling!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But, O flow'rs, so sadly watered By this pure and precious dew, In some blessed hour your blossoms 'Neath the olive shadows grew! Eden's garden did not bear Aught that can with you compare, For the blood, thus freely given, Makes my soul the heir of heaven.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When as flow'rs themselves I wither, When I droop and fade like grass,<br/>When the life-streams through my pulses Dull and ever duller pass,<br/>When at last they cease to roll, Then, to cheer my sinking soul,<br/>Grace of Jesus, be Thou given- Source of triumph! pledge of heaven!</lines>
+    </verse>
+  </lyrics>
+</song>

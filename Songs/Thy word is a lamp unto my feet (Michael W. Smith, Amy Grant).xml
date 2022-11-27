@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Thy word is a lamp unto my feet</title>
+    </titles>
+    <copyright>1984 Word Music, LLC, Meadowgreen Music &amp; Bug And Bear Music</copyright>
+    <authors>
+      <author type="words">Michael W. Smith</author>
+      <author type="music">Michael W. Smith</author>
+      <author type="words">Amy Grant</author>
+      <author type="music">Amy Grant</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>protection</theme>
+      <theme>bible</theme>
+      <theme>meditation</theme>
+      <theme>devotion</theme>
+      <theme>gods-faithfulness</theme>
+      <theme>light</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Thy Word is a lamp unto my feet and a light unto my path. (2x)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>When I feel afraid, think I've lost my way,<br/>Still You're there right beside me.<br/>And nothing will I fear as long as You are near.<br/>Please be near me to the end.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will not forget Your love for me and yet<br/>My heart forever is wandering.<br/>    Jesus be my guide, and hold me to Your side,<br/>I will love You to the end.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Thy Word is a lamp unto my feet and a light unto my path.<br/>And a light unto my path.<br/>You're the light unto my path.</lines>
+    </verse>
+  </lyrics>
+</song>

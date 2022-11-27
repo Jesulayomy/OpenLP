@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-01T09:14:01">
+  <properties>
+    <titles>
+      <title>Every Praise</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Hezekiah Walker</author>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every praise is to our God<br/>Every word of worship with one accord<br/>Every praise, every praise is to our God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God my Savior<br/>God my Healer<br/>God my Deliverer<br/>Yes He is, yes He is</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every praise is to our God<br/>Every word of worship with one accord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every praise, every praise <br/>Is to our God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing hallelujah to our God<br/>Glory hallelujah is due our God<br/>Every praise, every praise is to our God</lines>
+    </verse>
+  </lyrics>
+</song>

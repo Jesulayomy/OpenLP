@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>You Led Me</title>
+    </titles>
+    <authors>
+      <author type="words">BarlowGirl</author>
+      <author type="music">BarlowGirl</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Good morning; the night is over and gone.<br/>I thought once this dark would last for so long.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Feel the sunlight on my face.<br/>You have brought me through this place.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, Jesus, You found me.<br/>Through the long night, you led me;<br/>You set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do you seejust what You've done in my life?<br/>You gave memore than I hoped for; now I...</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Feel Your sunlight on my face.<br/>You have brought me through this place.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Good morning; the night is over and gone.</lines>
+    </verse>
+  </lyrics>
+</song>

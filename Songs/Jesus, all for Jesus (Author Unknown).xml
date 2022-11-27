@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Jesus, all for Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, all for Jesus,<br/>All I am and have<br/>and ever hope to be.<br/>Jesus, all for Jesus,<br/>All I am and have<br/>and ever hope to be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All of my ambitions, hopes and plans<br/>I surrender these into Your hands.<br/>All of my ambitions, hopes and plans<br/>I surrender these into Your hands.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For it's only in Your will that I am free,<br/>For it's only in Your will that I am free,<br/>Jesus, all for Jesus,<br/>All I am and have<br/>and ever hope to be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, alt for Jesus<br/>Alt jeg er og har<br/>og håper på å bli<br/>Jesus, alt for Jesus<br/>Alt jeg er og har<br/>og håper på å bli</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alle mine drømmer, håp og mål<br/>se, jeg legger alt ned for din fot.<br/>Alle mine drømmer, håp og mål<br/>se, jeg legger alt ned for din fot.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Det er bare i Din vilje; jeg er fri<br/>Det er bare i Din vilje; jeg er fri<br/>Jesus, alt for Jesus,<br/>alt jeg er og har,<br/>og håper på å bli.</lines>
+    </verse>
+  </lyrics>
+</song>

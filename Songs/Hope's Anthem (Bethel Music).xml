@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Hope's Anthem</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1859"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's awakening the hope in me<br/>By calling forth my destiny<br/>He's breathing life into my soul<br/>I will thirst for Him, and him alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He has come like the rain<br/>That showers on the barren plain<br/>So my heart and tongue confess<br/>Jesus Christ, the hope of man</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My hope is in you, God<br/>I am steadfast, I will not be moved<br/>I'm anchored, never shaken<br/>All my hope is in you</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>He's bringing hope to the hopeless<br/>And giving his heart to the broken<br/>And sharing his home with the orphan</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is the joy, He is my joy</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He is the hope of the nations<br/>The Father's heart we're embracing<br/>He is the song we're declaring<br/>He is the joy, He is my joy</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You're bringing hope to the hopeless<br/>And giving your heart to the broken<br/>And sharing your home with the orphan<br/>You are the joy, You are my joy</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are the hope of the nations<br/>The Father's heart we're embracing<br/>You are the song we're declaring<br/>You are the joy, You are my joy<br/>Why so downcast oh, oh my soul<br/>Put your hope in God alone</lines>
+    </verse>
+  </lyrics>
+</song>

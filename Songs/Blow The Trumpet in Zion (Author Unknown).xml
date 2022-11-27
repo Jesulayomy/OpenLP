@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Blow The Trumpet in Zion</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>jewish</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They rush on the city; they run on the wall.<br/>Great is the army that carries out His Word<br/>They rush on the city; they run on the wall<br/>Great is the army that carries out His Word<br/>The Lord utters His voice before His army.<br/>The Lord utters His voice before His army.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Blow the trumpet in Zion, Zion.<br/>Sound the alarm on my holy mountain.<br/>Blow the trumpet in Zion, Zion.<br/>Sound the alarm.</lines>
+    </verse>
+  </lyrics>
+</song>

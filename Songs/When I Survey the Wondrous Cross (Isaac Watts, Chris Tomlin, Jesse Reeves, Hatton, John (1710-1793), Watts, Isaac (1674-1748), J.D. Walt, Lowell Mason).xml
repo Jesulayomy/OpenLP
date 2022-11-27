@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>When I Survey the Wondrous Cross</title>
+      <title>The Wonderful Cross</title>
+    </titles>
+    <copyright>2000 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="music">Hatton, John (1710-1793)</author>
+      <author type="words">Watts, Isaac (1674-1748)</author>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Isaac Watts</author>
+      <author type="music">Isaac Watts</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">J.D. Walt</author>
+      <author type="music">J.D. Walt</author>
+      <author type="words">Lowell Mason</author>
+      <author type="music">Lowell Mason</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>crucifixion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I survey the wondrous cross on which the Prince of Glory died,<br/>My richest gain I count but loss and pour contempt on all my pride.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See from His head, His hands, His feet, sorrow and love flow mingled down.<br/>Did e'er such love and sorrow meet, or thorns compose so rich a crown?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh the wonderful cross, oh the wonderful cross,<br/>Bids me come and die and find that I may truly live.<br/>Oh the wonderful cross, oh the wonderful cross,<br/>All who gather here by grace draw near and bless Your name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Were the whole realm of nature mine, that were an offering far too small;<br/>Love so amazing, so divine, demands my soul, my life, my all!</lines>
+    </verse>
+  </lyrics>
+</song>

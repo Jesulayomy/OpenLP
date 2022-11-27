@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>A Love so Amazing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A love so amazing has come to save me<br/>And this love changes everything<br/>Father You found me,<br/>Your goodness surrounds me<br/>I'm Yours for eternity</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And You will always be<br/>The King on the throne<br/>Now Your praise will always be on my tongue<br/>No one else could do<br/>The things that You've done in my life<br/>There's no greater love that's ever been shown<br/>Now Your song in me just has to be sung<br/>No one else could do the things that You've done In my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your ways are faithful, Your works are beautiful<br/>Your word sets the captive free<br/>Your hand upon me, heals and restores me<br/>Your grace fills my every need</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You said if I follow You<br/>I'll know the truth and do the things You do<br/>Yours is the kingdom and the power<br/>Forever Lord You will always be my God</lines>
+    </verse>
+  </lyrics>
+</song>

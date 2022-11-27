@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>He Erased It</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2591"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ever since Eden death has been waiting<br/>Every life is measured out in years<br/>I've known its' sorrow i've felt its' shadow<br/>And I have fought my fears</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know it comes for each of us<br/>Yet I have hope in knowing that when it does</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In the garden Jesus faced it and He chose His Father's will<br/>The next day He embraced it with open arms on Calvary's Hill<br/>And death thought it had won until God's only Son<br/>Left the grave alive again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the garden He faced it on Calvary He embraced it<br/>And I praise God, three days later He erased it</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>I have a Savior, what reassurance<br/>Knowing that He did what I could not<br/>He fought the battle, now I don't have to<br/>His grace is all I've got</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm not a victim anymore<br/>For death is not an ending, its just a door</lines>
+    </verse>
+    <verse name="c2">
+      <lines>In the garden Jesus faced it and He chose His Father's will<br/>The next day He embraced it with open arms on Calvary's Hill<br/>And death thought it had won until God's only Son<br/>Left the grave alive again</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In the garden He faced it on Calvary He embraced it<br/>And I praise God, three days later He erased it</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Death's hold has ended, its' strength is gone<br/>Though I'll go through it, I'll live on</lines>
+    </verse>
+    <verse name="c3">
+      <lines>In the garden Jesus faced it and He chose His Father's will<br/>The next day He embraced it with open arms on Calvary's Hill<br/>And death thought it had won until God's only Son<br/>Left the grave alive again</lines>
+    </verse>
+    <verse name="v7">
+      <lines>In the garden He faced it on Calvary He embraced it<br/>And I praise God, three days later He erased it (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

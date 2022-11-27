@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Glimmer In The Dust</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5234"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>I was lost in a moment<br/>A glimmer in time<br/>Like a child chasing shadows<br/>My back to the light<br/>I was lost in a fog till<br/>You caught my eye<br/>Through the smoke and the mirrors<br/>A glimmer of life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>I know there's a place I belong<br/>Where I'll see the fullness of love<br/>A child face to face with my God Lost in<br/>Your awesome wonder While I wait<br/>I will not be afraid<br/>My faith will remain all the same<br/>My hope in the things not yet seen<br/>Found in the greatest of these</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2<br/>I found love in a moment<br/>Exploding in light<br/>At the cross where the curtains<br/>Were ripped from my eyes<br/>I found heaven in pieces<br/>In glimmer and dust<br/>Broken glass in reflection<br/>Till we shine like the sun</lines>
+    </verse>
+    <verse name="v4">
+      <lines>BRIDGE<br/>I know that You love me I know that<br/>You love me Your love never fails<br/>Your love never fails<br/>When all's said and done<br/>All that matters is love<br/>So let love take over<br/>Not just in part<br/>But in all that You are<br/>Let Your love take over</lines>
+    </verse>
+  </lyrics>
+</song>

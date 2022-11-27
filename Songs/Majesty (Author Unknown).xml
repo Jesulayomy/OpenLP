@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Majesty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Majesty, worship His majesty,<br/>Unto Jesus be all glory, power, and<br/>praise.<br/>Majesty, kingdom, authority<br/>Flow from His throne unto His own,<br/>His anthem raise. So exalt, lift up<br/>on high the name of Jesus.<br/>Magnify, come glorify Christ Jesus,<br/>the King,<br/>Majesty, worship His majesty.<br/>Jesus, who died, now glorified,<br/>King of all Kings.</lines>
+    </verse>
+  </lyrics>
+</song>

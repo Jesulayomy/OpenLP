@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>In the Bleak Midwinter</title>
+    </titles>
+    <authors>
+      <author>Christina G. Rosetti</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the bleak midwinter,<br/>Frosty wind made moan;<br/>Earth stood hard as iron,<br/>Water like a stone.<br/>Snow had fallen, snow on snow,<br/>Snow on snow;<br/>In the bleak midwinter,<br/>Long ago.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our God, heaven cannot hold Him,<br/>Nor earth sustain,<br/>Heaven and earth shall flee away<br/>When He comes to reign.<br/>In the bleak midwinter<br/>A stable-place sufficed<br/>The Lord God Almighty,<br/>Jesus Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Angels and archangels<br/>May have gathered there,<br/>Cherubim and seraphim<br/>Thronged the air.<br/>But His mother only,<br/>In her maiden bliss,<br/>Worshipped the Beloved<br/>With a kiss.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What can I give Him,<br/>Poor as I am?<br/>If I were a shepherd,<br/>I would bring a lamb.<br/>If I were a wise man,<br/>I would do my part;<br/>Yet what I can I give Him --<br/>Give my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

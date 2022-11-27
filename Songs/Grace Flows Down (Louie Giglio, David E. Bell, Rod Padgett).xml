@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Grace Flows Down</title>
+    </titles>
+    <copyright>2000 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">David E. Bell</author>
+      <author type="music">David E. Bell</author>
+      <author type="words">Louie Giglio</author>
+      <author type="music">Louie Giglio</author>
+      <author type="words">Rod Padgett</author>
+      <author type="music">Rod Padgett</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace,  how sweet the sound;<br/>Amazing love,  now flowing down<br/>From hands and feet<br/>That were nailed to a tree.<br/>As grace flows down and covers me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It covers me.<br/>It covers me.<br/>It covers me.<br/>And covers me.</lines>
+    </verse>
+  </lyrics>
+</song>

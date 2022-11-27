@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Take My Life</title>
+    </titles>
+    <copyright>1996 New Spring | Vandura 2500 Songs</copyright>
+    <authors>
+      <author type="words">Third Day</author>
+      <author type="music">Third Day</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How many times have I turned away?<br/>The number is the same as the sand on the shore.<br/>Every time, you've taken me back,<br/>And now I pray you do it once more.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Please take from me my life,<br/>When I don't have the strength<br/>To give it away to you.<br/>Please take from me my life,<br/>When I don't have the strength<br/>To give it away to you, Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How many times have I gone astray?<br/>The number is the same as the stars in the sky.<br/>But every time you've taken me back,<br/>And now I pray you do it tonight.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>To give it away to you Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>I Shall Not Be Moved</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is my Saviour,<br/>I shall not be moved;<br/>In His love and favour,<br/>I shall not be moved;<br/>Just like a tree that's planted<br/>by the waters,<br/>I shall not be moved.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>I shall not be,<br/>I shall not be moved,<br/>I shall not be,<br/>I shall not be moved;<br/>Just like a tree that's planted<br/>by the waters,<br/>I shall not be moved.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In my Christ abiding,<br/>I shall not be moved;<br/>In His love I'm hiding,<br/>I shall not be moved;<br/>Just like a tree that's planted<br/>by the waters,<br/>I shall not be moved.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If I trust Him ever,<br/>I shall not be moved:<br/>He will fail me never,<br/>I shall not be moved;<br/>Just like a tree that's planted<br/>by the waters,<br/>I shall not be moved.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On His word I'm feeding,<br/>I shall not be moved,<br/>He's the One that's leading,<br/>I shall not be moved,<br/>Just like a tree that's planted<br/>by the waters,<br/>I shall not be moved.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Glory hallelujah,<br/>I shall not be moved;<br/>Anchored in Jehovah,<br/>I shall not be moved;<br/>Just like a tree that's planted by<br/>the waters,<br/>I shall not be moved.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In His love abiding,<br/>I shall not be moved;<br/>And in Him confiding,<br/>I shall not be moved:<br/>Just like a tree that's planted<br/>by the waters,<br/>I shall not be moved.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Though all hell assail me,<br/>I shall not be moved;<br/>Jesus will not fail me,<br/>I shall not be moved;<br/>Just like a tree that's planted<br/>by the waters,<br/>I shall not be moved.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Though the tempest rages,<br/>I shall not be moved,<br/>On the Rock of Ages,<br/>I shall not be moved;<br/>Just like a tree that's planted<br/>by the waters,<br/>I shall not be moved.</lines>
+    </verse>
+  </lyrics>
+</song>

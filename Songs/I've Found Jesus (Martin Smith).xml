@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>I've Found Jesus</title>
+    </titles>
+    <copyright>1994 Curious? Music UK</copyright>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well, I hear they're singing in the streets<br/>That Jesus is alive,<br/>And all creation shouts aloud<br/>That Jesus is alive.<br/>Now surely we can all be changed<br/>'Cause Jesus is alive,<br/>And everybody here can know<br/>That Jesus is alive.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And I will live for all my days<br/>To raise a banner of truth and light,<br/>To sing about my Saviour's love<br/>And the best thing that happened:<br/>It was the day I met You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I've found Jesus,<br/>I've found Jesus,<br/>I've found Jesus,<br/>I've found Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well, I feel like dancing in the streets<br/>'Cause Jesus is alive,<br/>To join with all who celebrate<br/>That Jesus is alive.<br/>The joy of God is in this town<br/>'Cause Jesus is alive;<br/>For everybody's seen the truth,<br/>That Jesus is alive.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Well, you lifted me from where I was,<br/>Set my feet upon a rock.<br/>Humbled that you even know about me.<br/>Now I have chosen to believe,<br/>Believing that you've chosen me;<br/>I was lost but now I've found...</lines>
+    </verse>
+  </lyrics>
+</song>

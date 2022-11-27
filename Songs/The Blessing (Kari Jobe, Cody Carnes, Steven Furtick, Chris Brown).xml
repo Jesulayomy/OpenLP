@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>The Blessing</title>
+    </titles>
+    <authors>
+      <author type="words">Cody Carnes</author>
+      <author type="music">Cody Carnes</author>
+      <author type="words">Kari Jobe</author>
+      <author type="music">Kari Jobe</author>
+      <author type="words">Steven Furtick</author>
+      <author type="music">Steven Furtick</author>
+      <author type="words">Chris Brown</author>
+      <author type="music">Chris Brown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord bless you<br/>And keep you<br/>Make His face shine upon you<br/>And be gracious to you<br/>The Lord turn His<br/>Face toward you<br/>And give you peace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amen, amen, AMEN (2X)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May His favor be upon you<br/>And a thousand generations<br/>And your family and your children<br/>And their children, and their children</lines>
+    </verse>
+    <verse name="v5">
+      <lines>May His presence go before you<br/>And behind you, and beside you<br/>All around you, and within you<br/>He is with you, He is with you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In the morning, in the evening<br/>In your coming, and your going<br/>In your weeping, and rejoicing<br/>He is for you, He is for you</lines>
+    </verse>
+    <verse name="v7">
+      <lines>He is for you, He is for you<br/>He is for you, He is for you</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The King Shall Come</title>
+    </titles>
+    <authors>
+      <author type="music">Wyeth, John (1770-1858)</author>
+      <author type="words">unknown</author>
+      <author type="translate">Brownlie, John (1857-1925)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The King shall come when morning dawns, And light triumphant breaks; When beauty gilds the eastern hills, And life to joy awakes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not as of old a little child To bear, and fight, and die, But crowned with glory like the sun That lights the morning sky.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O brighter than the rising morn When He, victorious, rose, And left the lonesome place of death, Despite the rage of foes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O brighter than that glorious morn Shall this fair morning be, When Christ, our King, in beauty comes, And we His face shall see.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The King shall come when morning dawns, And earth's dark night is past; O haste the rising of that morn, The day that aye shall last.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And let the endless bliss begin,<br/>By weary saints foretold,<br/>When right shall triumph over wrong,<br/>And truth shall be extolled.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>The King shall come when morning dawns,<br/>And light and beauty brings:<br/>Hail, Christ the Lord! Thy people pray,<br/>Come quickly, King of kings.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Home</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2505"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro<br/>| E /// | G#m7 ///  | C#m7 /// | A ///  |<br/>Verse 1<br/>This world is not what it was meant to be<br/>All this pain, all this suffering<br/>There?s a better place waiting for me in heaven<br/>Every tear will be wiped away<br/>Every sorrow and sin erased<br/>We'll dance on seas of amazing grace in heaven<br/>In heaven, I'm going</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus<br/>Home where the streets are golden<br/>Every chain is broken<br/>Oh I wanna go, oh I wanna go<br/>Home where every fear is gone I'm in Your open arms<br/>Where I belong<br/>Home<br/>Turnaround<br/>E /// H | C#m7 ///  A | E /// H | C#m7 ///  A</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2<br/>Lay down my burdens, I lay down my past<br/>I run to Jesus no turning back<br/>Thank God Almighty I'll be free at last in heaven<br/>In heaven, I'm going<br/>Chorus 2<br/>Home where the streets are golden<br/>Every chain is broken<br/>Oh I wanna go, oh I wanna go<br/>Home where every fear is gone I'm in Your open arms<br/>Where I belong<br/>Bridge<br/>Blinded eyes will finally see<br/>The dead will rise on the shores of eternity<br/>The trump will sound the angels will sing<br/>Hallelujah, hallelujah!<br/>I am goin?<br/>REPEAT Chorus<br/>Outro<br/>Where I belong<br/>Where I belong<br/>I'm going home<br/>I'm going home<br/>I'm on my way home!<br/>I'm goin home!        |</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Holy Holy Holy Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, holy, holy Lord,<br/>God of power and might,<br/>Heaven and earth are filled with Your glory.<br/>Holy, holy, holy Lord,<br/>God of power and might,<br/>Heaven and earth are filled with Your glory.<br/>Hosanna, hosanna in the highest!<br/>Hosanna, hosanna in the highest!</lines>
+    </verse>
+  </lyrics>
+</song>

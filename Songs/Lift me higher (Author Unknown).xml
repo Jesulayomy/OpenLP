@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Lift me higher</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift me higher, lift me higher<br/>I will unfold my wings<br/>like an eagle.<br/>In this earthly darkness<br/>I'll not be,<br/>It's a higher place for me.<br/>My desire; lift me higher!</lines>
+    </verse>
+  </lyrics>
+</song>

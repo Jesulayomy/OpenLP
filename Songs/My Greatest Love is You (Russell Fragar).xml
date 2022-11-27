@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:57">
+  <properties>
+    <titles>
+      <title>My Greatest Love is You</title>
+    </titles>
+    <authors>
+      <author type="words">Russell Fragar</author>
+      <author type="music">Russell Fragar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every new day Your glory unfolds<br/>Filling my eyes with Your treasures untold<br/>The beauty of holiness brings worship anew<br/>My greatest love is You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Call me deeper into Your grace<br/>The river that flows from the Holy Place<br/>Wash over me, cleansing me through<br/>My greatest love is You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wash over me, cleansing me through<br/>My greatest love is You<br/>Wash over me, cleansing me through<br/>My greatest love is You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Oh Lord our Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Evan Rogers</author>
+      <author type="music">Evan Rogers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Yaşam Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord our Lord, You're wonderful<br/>Lord there is none, Lord there is none like You<br/>Oh Lord our Lord, so powerful<br/>Lord there is none, Lord there is none like You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// How majestic is Your Name  //<br/>In all the Earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord our Lord, You're merciful<br/>Lord there is none, Lord there is none like You<br/>Oh Lord our Lord, You're faithful<br/>Lord there is none, Lord there is none like You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jesus, Jesus God our saviour,<br/>Jesus, Jesus God our maker<br/>Jesus, Jesus Name above all names</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>Make Me An Instrument</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Make me an instrument, an instrument of worship<br/>I lilt up my hands in Your Name.<br/>Make me an instrument, an instrument of Worship<br/>I lift up my hands in Your Name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tune me Your instrument ,<br/>Your instrument of worship.<br/>I lift up my hands in Your Name.<br/>Tune me Your instrument,<br/>Your instrument of worship.<br/>I lift up my hands in Your Name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Play me Your instrument,<br/>Your instrument of worship.<br/>I lift up my hands in Your Name<br/>Play me Your instrument,<br/>Your instrument of worship.<br/>I lift up my hands in Your Name</lines>
+    </verse>
+  </lyrics>
+</song>

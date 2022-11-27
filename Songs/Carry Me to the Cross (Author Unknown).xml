@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Carry Me to the Cross</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3321"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the path is daunting<br/>And every step exhausting<br/>I'm not alone I'm not alone no no</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I feel You draw me closer<br/>All these burdens on my shoulder<br/>I'm not alone I'm not alone<br/>You pull me from this place</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah! You carry me every day<br/>You carry me all the way<br/>Hallelujah! You carry me to the,<br/>You carry me to the cross</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How Your love has moved me yeah<br/>To the foot of all Your glory<br/>I'm not alone I'm not alone<br/>I'm not alone</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All of these cities You have built<br/>And every cathedral You have filled<br/>To all of creation You gave life with Your hands<br/>And with those hands you comfort me<br/>You lift me up from my knees and carry me<br/>You carry me</lines>
+    </verse>
+  </lyrics>
+</song>

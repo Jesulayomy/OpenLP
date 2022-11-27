@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Happy Day</title>
+      <title>The greatest day in history</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+      <author type="words">Tim Hughes</author>
+      <author type="music">Tim Hughes</author>
+      <author type="words">Ben Cantelon</author>
+      <author type="music">Ben Cantelon</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+      <theme>salvation</theme>
+      <theme>easter</theme>
+      <theme>baptism</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The greatest day in history, death is beaten, you have rescued me,<br/>Sing it out, Jesus is alive!<br/>The empty cross, the empty grave, Life eternal, you have won the day,<br/>Shout it out, Jesus is alive! He's alive!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, happy day, happy day, You washed my sin away<br/>Oh, happy day, happy day, I'll never be the same<br/>D  G<br/>Forever I am changed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I stand in that place, free at last, meeting face to face,<br/>I am yours, Jesus you are mine, Endless joy, perfect peace,<br/>Earthly pain finally will cease, Celebrate, Jesus is alive,<br/>He's alive!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>// Oh, what a glorious day, what a glorious way<br/>That you have saved me! Oh, what a glorious day<br/>What a glorious name, Jesus  //</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Thank You Lord you love us</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Thank You, Lord, You love us<br/>Thank You, Lord, You care<br/>Thank You, Lord, You made us<br/>Thank You, Lord, You're there<br/>Thank You for forgiveness<br/>Your gift of life to me<br/>Thank You for Your faithfulness<br/>You're always, always, always Always good to me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>So we really want to say 'We love You,'<br/>We really want to shout 'You're the best!'<br/>We're gonna bring our praise to You<br/>King of kings and my best friend<br/>We really want to say 'We love You,'<br/>We really want to shout 'You're the best!'<br/>We're gonna bring our praise to You<br/>King of kings and my best friend<br/>Oh yeah!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:02">
+  <properties>
+    <titles>
+      <title>Blest Be The Tie That Binds</title>
+    </titles>
+    <authors>
+      <author type="music">Mason, Lowell (1792-1872)</author>
+      <author type="words">Fawcett, John (1740-1817)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>testimony</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blest be the tie that binds Our hearts in Christian love; The fellowship of kindred minds Is like to that above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Before our Father's throne We pour our ardent prayers; Our fears, our hopes, our aims are one Our comforts and our cares.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We share each other's woes, Our mutual burdens bear; And often for each other flows The sympathizing tear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When we asunder part, It gives us inward pain; But we shall still be joined in heart, And hope to meet again.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This glorious hope revives Our courage by the way; While each in expectation lives, And longs to see the day.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>From sorrow, toil and pain,<br/>And sin, we shall be free,<br/>And perfect love and friendship reign<br/>Through all eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

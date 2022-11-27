@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Oh The Glory Of His Presence</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>gods-holiness</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>thanksgiving</theme>
+      <theme>longing</theme>
+      <theme>sacrifice</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>O the glory of Your presence<br/>We Your temple give You rev'rence<br/>Come and rise from Your rest<br/>And be blessed by our praise<br/>As we glory in Your embrace<br/>As Your presence now fills this place</lines>
+    </verse>
+  </lyrics>
+</song>

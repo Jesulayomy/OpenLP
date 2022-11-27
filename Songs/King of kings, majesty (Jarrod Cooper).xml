@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>King of kings, majesty</title>
+    </titles>
+    <authors>
+      <author type="words">Jarrod Cooper</author>
+      <author type="music">Jarrod Cooper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>King of kings, majesty<br/>God of heaven living in me<br/>Gentle Saviour, closest friend<br/>Strong deliverer, beginning and end</lines>
+    </verse>
+    <verse name="p1">
+      <lines>All within me falls at Your throne</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your majesty, I can but bow<br/>I lay my all before You now<br/>In royal robes I don't deserve<br/>I live to serve Your majesty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Earth and heaven worship You<br/>Love eternal, faithful and true<br/>Who bought the nations, ransomed souls<br/>Brought this sinner near to Your throne</lines>
+    </verse>
+    <verse name="p2">
+      <lines>All within me cries out in praise</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Your majesty, I can but bow<br/>I lay my all before You now<br/>In royal robes I don't deserve<br/>I live to serve Your majesty</lines>
+    </verse>
+  </lyrics>
+</song>

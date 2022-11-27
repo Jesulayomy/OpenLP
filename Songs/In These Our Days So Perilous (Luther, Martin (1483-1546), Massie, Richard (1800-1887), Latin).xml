@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>In These Our Days So Perilous</title>
+      <title>Grant Peace, We Pray, in Mercy, Lord, Grant Peace in Mercy, Lord, We Pray</title>
+    </titles>
+    <authors>
+      <author type="music">Luther, Martin (1483-1546)</author>
+      <author type="words">Latin</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In these our days so perilous, Lord, peace in mercy send us; No God but Thee can fight for us, No God but Thee defend us; Thou our only God and Savior.</lines>
+    </verse>
+  </lyrics>
+</song>

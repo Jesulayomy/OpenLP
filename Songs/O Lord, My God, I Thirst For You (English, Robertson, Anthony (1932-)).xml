@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O Lord, My God, I Thirst For You</title>
+    </titles>
+    <authors>
+      <author type="music">English</author>
+      <author type="words">Robertson, Anthony (1932-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, my God, I thirst for You, I long to see your face, Just as the hunted deer is stressed I falter in the race; My heart cries out, my tears run down, I am in deep distress, 'Where is your God?' men say to me, They taunt me and oppress.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, when will I be helped by You, I struggle day and night? O hear my prayer, enable me to stand in your great might; I look back on those days gone by when, Lord, You were so near, when in your house with festive throng I praised your Name so dear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So why am I cast down, O Lord, and why should I feel low? You are my God, my Savior strong, Your praise from me shall flow; I think of all your works, O Lord, Your saving pow'r of old, So when beset and overwhelmed, I will your strength take hold.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your loving\kindness fills my days, Your song at night I sing, And when my fears assail again to You I'll tightly cling; My hope is fixed on God, my Rock, His own He won't forget; Be still my soul, my face will shine And I will praise Him yet.</lines>
+    </verse>
+  </lyrics>
+</song>

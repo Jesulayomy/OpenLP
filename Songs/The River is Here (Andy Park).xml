@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>The River is Here</title>
+    </titles>
+    <authors>
+      <author type="words">Andy Park</author>
+      <author type="music">Andy Park</author>
+    </authors>
+    <themes>
+      <theme>joy</theme>
+      <theme>response</theme>
+      <theme>guitar</theme>
+      <theme>meditation</theme>
+      <theme>longing</theme>
+      <theme>holy-spirit</theme>
+      <theme>creation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down the mountain the river flows<br/>And it brings refreshing wherever it goes<br/>Through the valleys and over the fields<br/>The river is rushing and the river is here</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The river of God sets our feet a-dancing<br/>The river of God fills our hearts with cheer<br/>The river of God fills our mouths with laughter<br/>And we rejoice for the river is here</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The river of God is teeming with life<br/>And all who touch it can be revived<br/>And those who linger on this river's shore<br/>Will come back thirsting for more of the Lord</lines>
+    </verse>
+    <verse name="c2">
+      <lines>The river of God sets our feet a-dancing<br/>The river of God fills our hearts with cheer<br/>The river of God fills our mouths with laughter<br/>And we rejoice for the river is here</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Up to the mountain we love to go<br/>To find the presence of the Lord<br/>Along the banks of the river we run<br/>We dance with laughter giving praise to the Son</lines>
+    </verse>
+    <verse name="c3">
+      <lines>The river of God sets our feet a-dancing<br/>The river of God fills our hearts with cheer<br/>The river of God fills our mouths with laughter<br/>And we rejoice for the river is here</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Down the mountain the river flows<br/>And it brings refreshing wherever it goes<br/>Through the valleys and over the fields<br/>The river is rushing and the river is here</lines>
+    </verse>
+    <verse name="c4">
+      <lines>The river of God sets our feet a-dancing<br/>The river of God fills our hearts with cheer<br/>The river of God fills our mouths with laughter<br/>And we rejoice for the river is here<br/>We rejoice for the river is here</lines>
+    </verse>
+  </lyrics>
+</song>

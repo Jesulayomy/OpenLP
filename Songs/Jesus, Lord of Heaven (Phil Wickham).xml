@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>Jesus, Lord of Heaven</title>
+    </titles>
+    <copyright>2005 Phil Wickham | Thirsty Mon River Publishing</copyright>
+    <authors>
+      <author type="words">Phil Wickham</author>
+      <author type="music">Phil Wickham</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Lord of heaven,<br/>I did not deserve<br/>The grace that You have given<br/>Or the promise of Your Word.<br/>Lord, I stand in wonder<br/>Of the sacrifice You made.<br/>With mercy beyond measure,<br/>My debt You freely paid.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your love is deeper than the oceans,<br/>Higher than the heavens,<br/>Reaches beyond the stars in the sky.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jesus, Your love has no bounds.</lines>
+    </verse>
+  </lyrics>
+</song>

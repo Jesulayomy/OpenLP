@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>Within the Father's House</title>
+    </titles>
+    <authors>
+      <author type="music">König, Johann Balthasar (1691-1758)</author>
+      <author type="words">Woodford, James Russell (1820-1885)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Within the Father's house The Son hath found His home; And to His temple suddenly The Lord of Life hath come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The doctors of the law Gaze on the wondrous child, And marvel at His gracious words Of wisdom undefiled.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yet not to them is giv'n The mighty truth to know, To lift the fleshly veil which hides Incarnate God below.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The secret of the Lord Escapes each human eye, And faithful pond'ring hearts await The full epiphany.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, vis-it Thou our souls, And teach us by Thy grace Each dim revealing of Thyself With loving awe to trace;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Till from our darkened sight<br/>The cloud shall pass away,<br/>And on the cleansèd soul shall burst<br/>The everlasting day.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Till we behold Thy face,<br/>And know, as we are known,<br/>Thee, Father, Son, and Holy Ghost,<br/>Co-equal Three in One.</lines>
+    </verse>
+  </lyrics>
+</song>

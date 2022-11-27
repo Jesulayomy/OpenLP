@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:49">
+  <properties>
+    <titles>
+      <title>Only by Grace can we Enter</title>
+    </titles>
+    <authors>
+      <author type="words">Gerrit Gustafson</author>
+      <author type="music">Gerrit Gustafson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Only by grace can we enter<br/>Only by grace can we stand<br/>Not by our human endeavor<br/>But by the blood of the lamb<br/>Into your presence You call us<br/>You call us to come<br/>Into your presence You draw us<br/>And now by your grace we come<br/>Now by your grace we come</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord if you mark our transgressions<br/>Who will stand<br/>Thanks to your grace<br/>We are cleansed by the blood of the lamb<br/>Lord if you mark our transgressions<br/>Who will stand<br/>Thanks to your grace<br/>We are cleansed by the blood of the lamb</lines>
+    </verse>
+  </lyrics>
+</song>

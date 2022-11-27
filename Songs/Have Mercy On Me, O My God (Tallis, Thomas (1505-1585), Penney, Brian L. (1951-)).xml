@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Have Mercy On Me, O My God</title>
+    </titles>
+    <authors>
+      <author type="words">Penney, Brian L. (1951-)</author>
+      <author type="music">Tallis, Thomas (1505-1585)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have mercy on me, O my God<br/>According to Your grace;<br/>According to Your tender Love<br/>Blot out transgressions great;<br/>For I acknowledge all my sin,<br/>Before my face they stand;<br/>Against You only have I sinned,<br/>There's evil on my hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O purge me now and I'll be clean,<br/>As clean and white as snow;<br/>O wash me in the Blood of Christ,<br/>Make me Your gladness know;<br/>Create in me a clean heart,<br/>Lord, Renew me thoroughly;<br/>Restore salvation's joy again, Uphold me tenderly.</lines>
+    </verse>
+  </lyrics>
+</song>

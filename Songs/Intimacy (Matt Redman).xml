@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Intimacy</title>
+    </titles>
+    <copyright>1998 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One thing my heart is set upon,<br/>One thing that I would ask:<br/>To know you, Lord, as close as one<br/>Could hope to on this earth.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Intimacy, O Jesus, Intimacy.<br/>My treasure will be, O Jesus, Your intimacy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To look upon Your beauty, Lord,<br/>Your glory and Your heart;<br/>To know You close and closer still<br/>Each day upon this earth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, since the day I saw You first,<br/>My soul was satisfied;<br/>And yet because I see in part,<br/>I'm searching more to find.</lines>
+    </verse>
+  </lyrics>
+</song>

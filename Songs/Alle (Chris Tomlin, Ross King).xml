@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Alle</title>
+    </titles>
+    <copyright>1997 Ross King</copyright>
+    <authors>
+      <author type="words">Ross King</author>
+      <author type="music">Ross King</author>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>May the path that I walk<br/>Be the path of righteousness.<br/>May the words of my mouth<br/>Give You praise.<br/>May my heart be Your home<br/>And a place for holiness.<br/>I will worship You in love.<br/>I will lift You, lift You up.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alle, Allelujah<br/>To the Father, to the Lord.<br/>Alle, Allelujah<br/>To the Savior forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

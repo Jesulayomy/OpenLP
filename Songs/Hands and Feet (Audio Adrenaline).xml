@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Hands and Feet</title>
+    </titles>
+    <copyright>1999 Up In The Mix Music | Sparrow Song | Andi Beat Goes On Music | Flicker USA Publishing</copyright>
+    <authors>
+      <author type="words">Audio Adrenaline</author>
+      <author type="music">Audio Adrenaline</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>An image flashed across my TV screen.<br/>Another broken heart comes into view.<br/>I saw the pain, and I turned my back.<br/>Why can't I do the things I want to?<br/>I am willing, yet I'm so afraid; You give me strength when I say...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I want to be Your hands. I want to be Your feet.<br/>I'll go where You send me, go where You send me.<br/>I want to be Your hands, I want to be Your feet.<br/>I'll go where You send me, go where You send me<br/>And I'll try, yeah I'll try to touch the world, like You touched my life,<br/>And I'll find my way to be Your hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've abandoned every selfish thought; I've surrendered everything I've got.<br/>You can have everything I am and perfect everything I'm not.<br/>I am willing, I'm not afraid. You give me strength when I say</lines>
+    </verse>
+    <verse name="b1">
+      <lines>This is the last time I turn my back from You.<br/>From now on I'll go out, send me where You want me to.<br/>I finally have a mission, I promise I'll complete.<br/>I don't need excuses when I am your hands and feet.</lines>
+    </verse>
+  </lyrics>
+</song>

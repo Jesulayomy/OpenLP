@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Confident (feat. Bobby Strand)</title>
+    </titles>
+    <authors>
+      <author type="words">Steffany Gretzinger</author>
+      <author type="music">Steffany Gretzinger</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3789"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1<br/>You're always moving in the unseen<br/>The breath You exhale sustaining me<br/>Before I call, You know my need<br/>You're always going before me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus<br/>I'm confident Your faithfulness will see me through<br/>My soul can rest, my righteousness is found in You<br/>With every moment left, in every borrowed breath<br/>Let this be true<br/>That all my heart, for all my life belongs to you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2<br/>Your laughter scatters my enemies<br/>You give me joy for my mourning<br/>You lift my head, so I can see<br/>All of Heaven surrounding me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bridge<br/>I won't win this battle with the strength of my own hands<br/>You're the Mountain Mover, and only You can<br/>I won't build my life on sinking sand<br/>You're my hope forever, the Rock where I stand</lines>
+    </verse>
+  </lyrics>
+</song>

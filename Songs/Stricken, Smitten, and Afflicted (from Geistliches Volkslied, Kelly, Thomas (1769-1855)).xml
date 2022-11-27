@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Stricken, Smitten, and Afflicted</title>
+    </titles>
+    <authors>
+      <author type="music">from Geistliches Volkslied</author>
+      <author type="words">Kelly, Thomas (1769-1855)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stricken, smitten, and afflicted, See Him dying on the tree! 'Tis the Christ by man rejected; Yes, my soul, 'tis He, 'tis He! 'Tis the long expected prophet, David's Son, yet David's Lord; Proofs I see sufficient of it: 'Tis a true and faithful Word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tell me, ye who hear Him groaning, Was there ever grief like His? Friends through fear His cause disowning, Foes insulting his distress: Many hands were raised to wound Him, None would interpose to save; But the deepest stroke that pierced Him Was the stroke that Justice gave.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ye who think of sin but lightly, Nor suppose the evil great, Here may view its nature rightly, Here its guilt may estimate. Mark the Sacrifice appointed! See Who bears the awful load! 'Tis the Word, the Lord's Anointed, Son of Man, and Son of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Here we have a firm foundation, Here the refuge of the lost. Christ the Rock of our salvation, Christ the Name of which we boast. Lamb of God for sinners wounded! Sacrifice to cancel guilt! None shall ever be confounded Who on Him their hope have built.</lines>
+    </verse>
+  </lyrics>
+</song>

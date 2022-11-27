@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Let It Echo</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1583"/>
+    </songbooks>
+    <themes>
+      <theme>gospel</theme>
+      <theme>christian-living</theme>
+      <theme>prayer</theme>
+      <theme>holy-spirit</theme>
+      <theme>church</theme>
+      <theme>harvest</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>We've only scratched the surface<br/>And only had just one glance<br/>We've tasted of Your glory<br/>But there's so much more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>We're standing on horizons<br/>Where earth collides with heaven<br/>You're longing for Your children<br/>To cry out for more<br/>We cry out for more</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Let it echo from this city<br/>To the nations the sound of praise<br/>Let the windows of the heavens<br/>Open wide and let it rain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 3<br/>Here in side Your presence<br/>Surrounded by Your Spirit<br/>We're satisfied but desp erate<br/>For even more of You, even more of You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Oh-oh-oh  let heaven<br/>Fa-a-all   as we sing<br/>Oh-oh-oh  let heaven fall<br/>Let heaven fall</lines>
+    </verse>
+  </lyrics>
+</song>

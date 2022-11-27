@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>At The Cross</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alas, and did my Savior Bleed?<br/>And did my Sovereign die?<br/>Would He devote that sacred head<br/>For such a worm as I?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>At the cross, at the cross<br/>Where I first saw the light,<br/>And the burdens of my heart,<br/>rolled away,<br/>It was there by faith,<br/>I received my sight<br/>And now I am happy all the day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Was it for crimes that I have done,<br/>He groaned upon the tree?<br/>Amazing pity! grace unknown!<br/>And love beyond degree!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Well might the sun in darkness hide,<br/>And shut His glories in,<br/>When Christ, the mighty Maker, died<br/>For man the creature's sin.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But drops of grief can ne'er repay<br/>The debt of love I owe:<br/>Here, Lord, I give myself away,<br/>Tis all that I can do!</lines>
+    </verse>
+  </lyrics>
+</song>

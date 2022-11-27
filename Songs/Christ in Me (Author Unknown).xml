@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Christ in Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Christ in me is to live, to die is to gain<br/>Christ in me is to live, to die is to gain</lines>
+    </verse>
+    <verse name="b1">
+      <lines>He's my King, He's my song,<br/>He's my life, He's my joy<br/>He's my strength, He's my sword,<br/>He's my peace, He's my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

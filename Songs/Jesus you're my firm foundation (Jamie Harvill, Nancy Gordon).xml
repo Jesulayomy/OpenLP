@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Jesus you're my firm foundation</title>
+    </titles>
+    <authors>
+      <author type="words">Nancy Gordon</author>
+      <author type="music">Nancy Gordon</author>
+      <author type="words">Jamie Harvill</author>
+      <author type="music">Jamie Harvill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jesus, You're My Firm Foundation,<br/>I Know I Can Stand Secure;<br/>Jesus, You're My Firm Foundation,<br/>I Put My Hope In Your Holy Word,<br/>I Put My Hope In Your Holy Word.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I have a Living Hope,<br/>(I have a Living Hope, )<br/>I Have a future;<br/>(I Have a future;)<br/>God Has A Plan For Me,<br/>(God Has A Plan For Me,)<br/>Of This I'm Sure,<br/>(Of This I'm Sure.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your Word is Faithful,<br/>(Your Word is Faithful,)<br/>Mighty in Power;<br/>(Mighty in Power;)<br/>God has deliver Me,<br/>(God has deliver Me,)<br/>Of This I'm Sure,<br/>(Of This I'm Sure.)</lines>
+    </verse>
+  </lyrics>
+</song>

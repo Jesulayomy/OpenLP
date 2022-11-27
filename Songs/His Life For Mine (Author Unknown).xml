@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>His Life For Mine</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>His heart was broken, mine was mended<br/>He became sin now I am clean<br/>The cross He carried bore my burden<br/>The nails that held Him set me free</lines>
+    </verse>
+    <verse name="c1">
+      <lines>His life for mine, His life for mine<br/>How could it ever be that He would die<br/>God's Son would die to save a wretch like me<br/>What love divine He gave His life for mine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His scars of suffering brought me healing<br/>He spilled His blood to fill my soul<br/>His crown of thorns made me royalty<br/>His sorrow gave me joy untold</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He was despised and rejected<br/>Stripped of His garment and oppressed<br/>I am loved and accepted<br/>And I wear a robe of righteousness</lines>
+    </verse>
+  </lyrics>
+</song>

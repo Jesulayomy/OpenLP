@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Grace Alone</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Ogden</author>
+      <author type="music">Jonathan Ogden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3754"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was an orphan, lost at the fall<br/>Running away when I'd hear You call<br/>But Father, You worked Your will<br/>I had no righteousness of my own<br/>I had no right to draw near Your throne<br/>But Father, You loved me still</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And in love, before You laid the world's foundation<br/>You predestined to adopt me as Your own<br/>You have raised me up so high above my station<br/>I'm a child of God by grace, and grace alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You left Your home to seek out the lost<br/>You knew the great and terrible cost<br/>But Jesus, Your face was set<br/>I worked my fingers down to the bone<br/>But nothing I did could ever atone<br/>But Jesus, You paid my debt</lines>
+    </verse>
+    <verse name="v4">
+      <lines>By Your blood I have redemption and salvation<br/>Lord You died that I might reap what You have sown<br/>And You rose that I might be a new creation<br/>I am born again by grace, and grace alone</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I was in darkness all of my life<br/>I never knew the day from the night<br/>But Spirit, You made me see<br/>I swore I knew the way on my own<br/>Head full of rocks, a heart made of stone<br/>But Spirit, You moved in me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And At Your touch my sleeping spirit was awakened<br/>On my darkened heart the light of Christ has shone<br/>Called into a Kingdom that cannot shaken<br/>Heaven's citizen by grace, and grace alone</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So I'll stand in faith by grace, and grace alone<br/>I will run the race by grace, and grace alone<br/>I will slay my sin by grace, and grace alone<br/>I will reach the end by grace, and grace alone</lines>
+    </verse>
+  </lyrics>
+</song>

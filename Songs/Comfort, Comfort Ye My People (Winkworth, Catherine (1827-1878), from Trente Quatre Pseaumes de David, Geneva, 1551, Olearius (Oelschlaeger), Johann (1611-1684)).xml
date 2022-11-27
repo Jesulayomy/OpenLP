@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Comfort, Comfort Ye My People</title>
+    </titles>
+    <authors>
+      <author type="music">from Trente Quatre Pseaumes de David, Geneva, 1551</author>
+      <author type="words">Olearius (Oelschlaeger), Johann (1611-1684)</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Comfort, comfort ye My people, Speak ye peace, thus saith our God; Comfort those who sit in darkness, Mourning 'neath their sorrow's load; Speak ye to Jerusalem Of the peace that waits for them; Tell her that her sins I cover, And her warfare now is over.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the herald's voice is crying In the desert far and near, Bidding all men to repentance, Since the kingdom now is here. O that warning cry obey! Now prepare for God a way! Let the valleys rise to meet Him, And the hills bow down to greet Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yea, her sins our God will pardon, Blotting out each dark misdeed; All that well deserved His anger He will no more see nor heed. She has suffered many a day, Now her griefs have passed away, God will change her pining sadness Into ever springing gladness.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Make ye straight what long was crooked, Make the rougher places plain: Let your hearts be true and humble, As befits His holy reign, For the glory of the Lord O'er the earth is shed abroad, And all flesh shall see the token That His Word is never broken.</lines>
+    </verse>
+  </lyrics>
+</song>

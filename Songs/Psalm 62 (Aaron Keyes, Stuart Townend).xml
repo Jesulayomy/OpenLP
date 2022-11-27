@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Psalm 62</title>
+    </titles>
+    <copyright>2007 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Aaron Keyes</author>
+      <author type="music">Aaron Keyes</author>
+      <author type="words">Stuart Townend</author>
+      <author type="music">Stuart Townend</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My soul finds rest in God alone,<br/>my Rock and my salvation,<br/>A fortress strong against my foes,<br/>and I will not be shaken.<br/>Though lips may bless and hearts may curse,<br/>and lies like arrows pierce me,<br/>I'll fix my heart on righteousness,<br/>I'll look to Him who hears me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O praise Him, hallelujah, my Delight and my Reward;<br/>Everlasting, never failing, my Redeemer, my God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Find rest, my soul, in God alone,<br/>amid the world's temptations.<br/>When evil seeks to take a hold,<br/>I'll cling to my salvation.<br/>Though riches come and riches go,<br/>don't set your heart upon them.<br/>The fields of hope in which I sow<br/>are harvested in heaven.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll set my gaze on God alone<br/>and trust in Him completely,<br/>With every day pour out my soul,<br/>and He will prove His mercy.<br/>Though life is but a fleeting breath,<br/>a sigh too brief to measure,<br/>My King has crushed the curse of death,<br/>and I am His forever.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>O praise Him, O praise Him.<br/>Alleluia!, Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Glory to Glory</title>
+      <title>Created from Dust</title>
+    </titles>
+    <copyright>Glory to Glory lyrics © Universal Music Publishing Group</copyright>
+    <authors>
+      <author type="words">Lauren K. Evans / William Irvin Matthews / Richard Oscar Seibold</author>
+      <author type="music">Lauren K. Evans / William Irvin Matthews / Richard Oscar Seibold</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5832"/>
+    </songbooks>
+    <themes>
+      <theme>gospel</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Created from dust<br/>You came and You lived among us<br/>Taken on our frame, You walked in our pain<br/>And now You're taking us higher</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You stepped into time<br/>You laid down Your life to save us<br/>You took on our shame on the cross it was laid<br/>And now You're taking us higher</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We go from glory to glory to glory<br/>We'll never be the same, never be the same<br/>We go from glory to glory to glory<br/>We're forever changed, forever changed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You called Your friend<br/>Brought into Your endless kingdom<br/>By the blood I was made, no longer a slave<br/>And now You're taking us higher</lines>
+    </verse>
+    <verse name="c2">
+      <lines>We go from glory to glory to glory<br/>We'll never be the same, never be the same<br/>We go from glory to glory to glory<br/>We're forever changed, forever changed</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Until we reach the day love conquers everything<br/>We'll cry an anthem singing holy, holy<br/>And when we see that day we're standing face to face<br/>We'll shout an anthem singing holy, holy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You took on the grave<br/>So not even death can shake us<br/>See the victor has won and Heaven has come<br/>Now You're taking us higher<br/>Now You're taking us higher</lines>
+    </verse>
+    <verse name="c3">
+      <lines>We go from glory to glory to glory<br/>We'll never be the same, never be the same<br/>You take us higher and higher and higher<br/>We're forever changed, forever changed</lines>
+    </verse>
+  </lyrics>
+</song>

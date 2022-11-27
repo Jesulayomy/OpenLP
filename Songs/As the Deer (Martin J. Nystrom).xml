@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>As the Deer</title>
+    </titles>
+    <copyright>1984 Maranatha Praise, Inc.</copyright>
+    <authors>
+      <author type="words">Martin J. Nystrom</author>
+      <author type="music">Martin J. Nystrom</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>protection</theme>
+      <theme>bible</theme>
+      <theme>worship</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+      <theme>peace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As the deer pants for the water,<br/>So my soul longs after You.<br/>You alone are my heart's desire<br/>And I long to worship You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You alone are my strength, my shield,<br/>To You alone may my spirit yield.<br/>You alone are my heart's desire<br/>And I long to worship You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want You more than gold or silver,<br/>Only You can satisfy.<br/>You alone are the real joy-giver<br/>And the apple of my eye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're my Friend and You are my Brother,<br/>Even though You are a King.<br/>I love You more than any other,<br/>So much more than anything.</lines>
+    </verse>
+  </lyrics>
+</song>

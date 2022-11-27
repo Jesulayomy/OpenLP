@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Ascribe To the Lord Honor</title>
+    </titles>
+    <authors>
+      <author type="music">Yoruba</author>
+      <author type="words">Ilori, 'Bola Omodun. (1950-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ascribe to the Lord, honor, And glory due His Name Worship in His holiness, Worthy is His pow'r and fame.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord of glory thunders O'er great and mighty seas; His voice is so majestic, It breaks cedar to pieces.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His voice like a mighty flash, Shakes the desert of Kadesh, It makes bare the thick forest No other voice is its match.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord sits upon His throne, That's set upon the flood. He gives strength to His people, Who put their trust in His word.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ascribe to the Lord, honor, And glory due His Name, Worship Him in holiness Worthy is His might and fame.</lines>
+    </verse>
+  </lyrics>
+</song>

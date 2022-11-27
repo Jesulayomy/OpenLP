@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Jesus Grant That Balm and Healing</title>
+    </titles>
+    <authors>
+      <author type="music">König, Johann Balthasar (1691-1758)</author>
+      <author type="words">Heermann, Johann (1585-1647)</author>
+      <author type="translate">composite</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, grant that balm and healing In Thy holy wounds I find, Every hour that I am feeling, Pains of body and of mind. Should some evil thought within Tempt my treacherous heart to sin, Show the peril, and from sinning Keep me ere its first beginning.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Should some lust or sharp temptation Prove too strong for flesh and blood, Let me think upon Thy Passion, And the breach is soon made good. Or should Satan press me hard, Let me then be on my guard, Saying, "Christ for me was wounded," That the tempter flee confounded.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If the world my heart entices On the broad and easy road With its mirth and luring vices, Let me think upon the load Thou didst carry and endure That I flee all thoughts impure, Banishing each wild emotion, Calm and blest in my devotion.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every wound that pains or grieves me, By Thy stripes, Lord, is made whole; When I'm faint, Thy cross revives me, Granting new life to my soul. Yea, Thy comfort renders sweet Every bitter cup I meet; For Thy all atoning Passion Has procured my soul's salvation.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O my God, my Rock and Tower, Grant that in Thy death I trust, Knowing death has lost his power Since Thou trodd'st him in the dust. Savior, let Thine agony Ever help and comfort me; When I die, be my Protection, Light and Life and Resurrection.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus, grant that balm and healing In Thy holy wounds I find,<br/>Every hour that I am feeling, Pains of body and of mind.<br/>And when I this world must leave, Grant that, Lord, to Thee I cleave,<br/>In Thy wounds find consolation And obtain my soul's salvation</lines>
+    </verse>
+  </lyrics>
+</song>

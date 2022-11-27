@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Thou Whose Almighty Word</title>
+    </titles>
+    <authors>
+      <author>John Marriott</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou, whose almighty word<br/>Chaos and darkness heard,<br/>And took their flight;<br/>Hear us, we humbly pray,<br/>And where the gospel-day<br/>Sheds not its glorious ray,<br/>Let there be light!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou who didst come to bring,<br/>On Thy redeeming wing,<br/>Healing and sight;<br/>Health to the sick in mind,<br/>Sight to the inly blind,<br/>O now to all mankind<br/>Let there be light!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit of truth and love,<br/>Life-giving, holy Dove,<br/>Speed forth Thy flight;<br/>Move on the waters’ face,<br/>Bearing the lamp of grace,<br/>And in earth’s darkest place<br/>Let there be light!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blessed and holy Three,<br/>Glorious Trinity,<br/>Wisdom, love, might;<br/>Boundless as ocean’s tide<br/>Rolling in fullest pride,<br/>Through the world far and wide<br/>Let there be light!</lines>
+    </verse>
+  </lyrics>
+</song>

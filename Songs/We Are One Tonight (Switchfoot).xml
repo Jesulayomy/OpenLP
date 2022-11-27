@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>We Are One Tonight</title>
+    </titles>
+    <authors>
+      <author type="words">Switchfoot</author>
+      <author type="music">Switchfoot</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All rise, all fall.<br/>I'll fail you all.<br/>We built these cities to stand so tall.<br/>We've lost our walls.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I don't want to lose you, coming down,<br/>With the whole world upside-down.<br/>I don't have a soul to trust in now,<br/>With the whole world upside-down.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We are one, tonight!<br/>And we're singing it out!<br/>We are one, tonight!<br/>And we're dreaming out loud!<br/>Though the world is flawed,<br/>These scars will heal.<br/>We are one, tonight!<br/>Tonight!<br/>Tonight!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Two eyes, one tongue.<br/>I've come undone.<br/>I'm no victim, I've paid these dues.<br/>I came to lose.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>I don't want to fight about it now,<br/>With the whole world upside-down.<br/>I don't have a soul to trust in, now,<br/>With the whole world upside-down.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I don't want to lose the common ground,<br/>With the whole world upside-down.<br/>I don't want to fight about it now,<br/>In a world that's burning out.<br/>Let's slow the evening down.<br/>Slow it down.<br/>Slow down.<br/>Please slow down,<br/>Down, down.<br/>The stars are comin' out!</lines>
+    </verse>
+  </lyrics>
+</song>

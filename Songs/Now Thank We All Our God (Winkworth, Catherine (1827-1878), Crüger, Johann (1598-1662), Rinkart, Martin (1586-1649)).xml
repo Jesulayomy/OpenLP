@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Now Thank We All Our God</title>
+    </titles>
+    <authors>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+      <author type="words">Rinkart, Martin (1586-1649)</author>
+      <author type="music">Crüger, Johann (1598-1662)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now thank we all our God, with heart and hands and voices, Who wondrous things has done, in Whom this world rejoices; Who from our mothers' arms has blessed us on our way With countless gifts of love, and still is ours today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O may this bounteous God through all our life be near us, With ever joyful hearts and blessed peace to cheer us; And keep us in His grace, and guide us when perplexed; And free us from all ills, in this world and the next!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All praise and thanks to God the Father now be given; The Son and Him Who reigns with Them in highest Heaven; The one eternal God, Whom earth and Heav'n adore; For thus it was, is now, and shall be evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

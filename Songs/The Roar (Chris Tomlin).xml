@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>The Roar</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3593"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse1:<br/>I waited for the Lord<br/>He turned and heard my cry<br/>His mercy opened up my eyes<br/>When I couldn't see and my strength was failing me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I heard the roar of the lion of Judah<br/>I heard the voice that calms the raging sea<br/>He came to me, came to me<br/>When I needed the Lord<br/>I heard the roar of the lion of Judah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>I waited for the Lord<br/>He appeared in blinding light<br/>He led me through the darkest night<br/>When I couldn't see and my strength was failing me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I lifted my hands<br/>He lifted me out<br/>All praise to the Savior, all worship to God<br/>With all that I am<br/>With all in my heart<br/>All praise to the Savior, all worship to God</lines>
+    </verse>
+  </lyrics>
+</song>

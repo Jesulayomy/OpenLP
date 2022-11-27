@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Abide, O Dearest Jesus</title>
+      <title>Abide with Us, Lord Jesus, Abide Among Us with Thy Grace, Abide with Us, Our Savior, Come, Abide with Thy Grace, in Our Hearts, O Savior, Go Beside us</title>
+    </titles>
+    <authors>
+      <author type="music">Vulpius, Melchior (1560-1615)</author>
+      <author type="words">Stegmann, Joshua (1588-1632)</author>
+      <author type="translate">Crull, August (1845-1923)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abide, O dearest Jesus, Among us with Thy grace, That Satan may not harm us, Nor we to sin give place.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abide, O dear Redeemer, Among us with Thy Word, And thus now and hereafter True peace and joy afford.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abide with heav'nly brightness Among us, precious Light; Thy truth direct, and keep us From error's gloomy night.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abide with richest blessings Among us, bounteous Lord; Let us in grace and wisdom Grow daily through Thy Word.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abide with Thy protection Among us, Lord, our Strength, Lest world and Satan fell us And overcome at length.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Abide, O faithful Savior, Among us with Thy love;<br/>Grant steadfastness, and help us To reach our home above.</lines>
+    </verse>
+  </lyrics>
+</song>

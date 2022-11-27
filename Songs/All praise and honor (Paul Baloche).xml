@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>All praise and honor</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the day You've made<br/>So I will lift my voice and give You praise<br/>This is the day You've made<br/>So I will lift my voice and give You praise<br/>You are worthy<br/>You are worthy<br/>You are worthy<br/>You are worthy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord when You are glorified<br/>My heart is satisfied to know<br/>All praise and honor are Yours<br/>And when all creation sings<br/>To You the King of Kings we know<br/>All praise and honor are Yours</lines>
+    </verse>
+  </lyrics>
+</song>

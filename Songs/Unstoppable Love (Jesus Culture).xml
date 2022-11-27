@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:21">
+  <properties>
+    <titles>
+      <title>Unstoppable Love</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4918"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>salvation</theme>
+      <theme>easter</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Try to stop Your love and You would wage a war<br/>Try to take the very thing You gave Your life for<br/>You would come running  tear down every wall<br/>All the while You're shouting  "My Love, you're worth it all".</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>God you pursue me with power and glory<br/>Unstoppable Love that never ends<br/>You're unrelenting with passion and mercy<br/>Unstoppable Love that never ends</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>You broke into the silence and sang a song of hope<br/>A melody, a sound in the deep of my soul<br/>You have come running You tore down every wall<br/>All the while you're shouting, "My Love you're worth it all"</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>No sin, no shame, no past, no pain<br/>Can separate me from Your love<br/>No height, no depth, no fear, no death<br/>Can separate me from Your love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Try to stop Your love and You would wage a war</lines>
+    </verse>
+  </lyrics>
+</song>

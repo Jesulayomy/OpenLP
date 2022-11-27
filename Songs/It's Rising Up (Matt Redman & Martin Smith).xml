@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>It's Rising Up</title>
+    </titles>
+    <copyright>1995 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman &amp; Martin Smith</author>
+      <author type="music">Matt Redman &amp; Martin Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's rising up from coast to coast,<br/>From north to south, and east to west;<br/>The cry of hearts that love Your name,<br/>Which with one voice we will proclaim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The former things have taken place,<br/>Can this be the new day of praise?<br/>A heav'nly song that comes to birth,<br/>And reaches out to all the earth</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Oh let the cry to nations ring,<br/>That all may come and all may sing:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>'Holy is the Lord'<br/>(Every heart sing)<br/>'Holy is the Lord'<br/>(With one voice sing)<br/>'Holy is the Lord'<br/>(All the earth sing)<br/>'Holy is the Lord'</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And we have heard the lion's roar,<br/>That speaks of heaven's love and power.<br/>Is this the time, is this the call<br/>That ushers in Your kingdom rule?<br/>Oh let the cry to nations ring,<br/>That all may come and all may sing:</lines>
+    </verse>
+    <verse name="c2">
+      <lines>'Jesus is alive'<br/>(Every heart sing)<br/>'Jesus is alive'<br/>(With one voice sing)<br/>'Jesus is alive'<br/>(All the earth sing)<br/>'Jesus is alive'</lines>
+    </verse>
+  </lyrics>
+</song>

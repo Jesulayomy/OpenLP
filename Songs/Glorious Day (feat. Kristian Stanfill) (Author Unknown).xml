@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Glorious Day (feat. Kristian Stanfill)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4912"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was buried beneath my shame<br/>Who could carry that kind of weight<br/>It was my tomb<br/>Till I met You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was breathing, but not alive<br/>All my failures I tried to hide<br/>It was my tomb<br/>Till I met You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You called my name and I ran out of that grave<br/>Out of the darkness into Your glorious day<br/>You called my name and I ran out of that grave<br/>Out of the darkness into Your glorious day</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now Your mercy has saved my soul<br/>Now Your freedom is all I know<br/>The old made new<br/>Jesus, when I met You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You called my name and I ran out of that grave<br/>Out of the darkness into Your glorious day<br/>You called my name and I ran out of that grave<br/>Out of the darkness into Your glorious day</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I needed rescue my sin was heavy<br/>But chains break at the weight of Your glory<br/>I needed shelter I was an orphan<br/>But You call me a citizen of heaven<br/>When I was broken You were my healing<br/>Your love is the air that I'm breathing<br/>I have a future my eyes are open<br/>'Cause when You called my name</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I ran out of that grave<br/>Out of the darkness into Your glorious day<br/>You called my name and I ran out of that grave<br/>Out of the darkness into Your glorious day</lines>
+    </verse>
+  </lyrics>
+</song>

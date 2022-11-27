@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Stand up, Stand up for Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">George J. Webb</author>
+      <author type="music">George J. Webb</author>
+      <author type="words">George Duffield</author>
+      <author type="music">George Duffield</author>
+      <author type="words">C. Barny Robertson</author>
+      <author type="music">C. Barny Robertson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stand up, stand up for Jesus,<br/>Ye soldiers of the cross;<br/>Lift high his royal banner,<br/>It must not suffer loss.<br/>From victory unto victory<br/>His army shall he lead,<br/>Till every foe is vanquished,<br/>And Christ is Lord indeed.<br/>Stand up, stand up for Jesus,<br/>Stand in his strength alone;<br/>The arm of flesh will fail you,<br/>Ye dare not trust your own.<br/>Put on the gospel armor,<br/>Each piece put on with prayer;<br/>Where duty calls or danger,<br/>Be never wanting there.<br/>Stand up, stand up for Jesus,<br/>The strife will not be long;<br/>This day the noise of battle,<br/>The next the victor's song.<br/>To those who vanquish evil<br/>A crown of life shall be;<br/>They with the King of Glory<br/>Shall reign eternally.</lines>
+    </verse>
+  </lyrics>
+</song>

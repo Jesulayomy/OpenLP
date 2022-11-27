@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:45">
+  <properties>
+    <titles>
+      <title>YOU ARE WHO YOU ARE</title>
+    </titles>
+    <authors>
+      <author type="words">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You are who you are yesterday, Today and <br/>forever more <br/>What you say is what you do<br/>You never fail you never change <br/>you are faithful to the end....<br/>faithful God i worship you.....</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You are too faithful to fail me <br/>You are too faithful to disappoint me <br/>you've proven yourself in my life and have come to realize <br/>That you are too faithful to fail me </lines>
+    </verse>
+  </lyrics>
+</song>

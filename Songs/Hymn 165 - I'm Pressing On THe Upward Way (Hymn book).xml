@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-07T17:12:07">
+  <properties>
+    <titles>
+      <title>Hymn 165 - I'm Pressing On THe Upward Way</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>provision</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm pressing on the upward way,<br/>New heights I'm gaining every day;<br/>Still praying as I'm onward bound,<br/>"Lord plant my feet on higher ground."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, lift me up and let me stand<br/>By faith on heaven's table-land;<br/>A higher plane than I have found<br/>Lord, plant my feet on higher ground.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My heart has no desire to stay<br/>Where doubts arise and fears dismay;<br/>Tho' some may dwell where these abound,<br/>My prayer, my aim, is higher ground.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Lord, lift me up and let me stand<br/>By faith on heaven's table-land;<br/>A higher plane than I have found<br/>Lord, plant my feet on higher ground.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I want to live above the world,<br/>Tho' Satan's darts at me are hurled;<br/>For faith has caught the joyful sound,<br/>The song of saints on higher ground.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Lord, lift me up and let me stand<br/>By faith on heaven's table-land;<br/>A higher plane than I have found<br/>Lord, plant my feet on higher ground.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I want to scale the utmost height<br/>And catch a gleam of glory bright;<br/>But still I'll pray 'till heav'n I've found,<br/>"Lord lead me on to higher ground."</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Lord, lift me up and let me stand<br/>By faith on heaven's table-land;<br/>A higher plane than I have found<br/>Lord, plant my feet on higher ground.</lines>
+    </verse>
+  </lyrics>
+</song>

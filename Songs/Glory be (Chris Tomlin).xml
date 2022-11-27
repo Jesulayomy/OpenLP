@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Glory be</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4088"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>There's a song that's on my lips, from the moment that I rise<br/>To the One who rescued me and brought me life<br/>Praise awaits You at the dawn, praise awaits You in the night<br/>With the heavens I will sing and lift You high</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>Glory be to God, the Father<br/>Glory be to God, the Son<br/>Glory be to God, the Spirit<br/>All glory to the One<br/>Glory to the Lord Almighty<br/>Glory to the King Most High<br/>Glory be to God forever<br/>All glory to the One</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2<br/>Praise awaits You at the dawn, praise awaits You in the night<br/>With the heavens I will sing and lift You high</lines>
+    </verse>
+    <verse name="v4">
+      <lines>BRIDGE<br/>As it was, and is and ever shall be, amen, amen<br/>As it was, and is and ever shall be, amen, amen<br/>As it was, and is and ever shall be, amen, amen<br/>As it was, and is and ever shall be, amen<br/>Glory be to God</lines>
+    </verse>
+  </lyrics>
+</song>

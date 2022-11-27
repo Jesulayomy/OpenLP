@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Victory</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong College</author>
+      <author type="music">Hillsong College</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2861"/>
+    </songbooks>
+    <themes>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Born into the hands of sin<br/>Crippled by the shame within<br/>Broken heart and restless soul<br/>Lost out on the open road</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Beaten on that bloody day<br/>On His back a world of pain<br/>Clinging to that cursed tree<br/>Jesus bled and died for me<br/>Jesus bled and died for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Victory Victory<br/>Conquered death set me free<br/>Victory Victory<br/>Jesus alive in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 3<br/>Three days on the stone gives way<br/>Ain't nothing but an empty grave<br/>Gather all the sinners 'round<br/>Tell them what great love we've found<br/>Tell them what great lovewe've found</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Interlude: (x2)<br/>La la la la lalalalala (x2)<br/>Ooh Ooh OohOoh Ooh OohOohOohOohOoh (x2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verse: 4<br/>Lead me to the water deep<br/>In the gracious current I'll sink<br/>I will rise dead to my sin<br/>Christ in me and I in him<br/>Christ in me and I in him<br/>Christ in me and I in him</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Interlude: (x2)<br/>La la la la lalalalala La la la la lalalalala<br/>La la la la lalalalala La la la la lalalalala</lines>
+    </verse>
+  </lyrics>
+</song>

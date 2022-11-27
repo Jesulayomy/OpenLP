@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>When Tears Fall</title>
+    </titles>
+    <authors>
+      <author type="words">Newsboys</author>
+      <author type="music">Newsboys</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've had questions without answers.<br/>I've known sorrow. I have known pain.<br/>But there's one thing that I'll cling to:<br/>You are faithful. Jesus, You're true.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When hope is lost,<br/>I'll call You Savior.<br/>When pain surrounds, I'll call You Healer.<br/>When silence falls, You'll be the song within my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the lone hour of my sorrow,<br/>Through the darkest night of my soul,<br/>You surround me and sustain me,<br/>My Defender, forevermore.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I will praise You, I will praise You.<br/>When the tears fall, still I will sing to You.<br/>And I will praise You, Jesus, praise You.<br/>Through the suffering, still I will sing.</lines>
+    </verse>
+  </lyrics>
+</song>

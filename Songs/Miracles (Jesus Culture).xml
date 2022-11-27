@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Miracles</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5288"/>
+    </songbooks>
+    <themes>
+      <theme>gospel</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>The One who made the blind to see<br/>Is moving here in front of me, moving here in front of me<br/>The One who made the deaf to hear<br/>Is silencing my every fear, silencing my every fear</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I believe in You, I believe in You<br/>You're the God of miracles<br/>I believe in You, I believe in You<br/>You're the God of miracles</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>The One who does impossible<br/>Is reaching out to make me whole reaching out to make me whole<br/>The One who put death in its place<br/>His life is flowing through my veins His life is flowing through my veins</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>The God who was and is to come<br/>The power of the Risen One<br/>The God who brings the dead to life<br/>You're the God of miracles! You're the God of miracles!</lines>
+    </verse>
+  </lyrics>
+</song>

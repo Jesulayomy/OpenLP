@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Indescribable</title>
+    </titles>
+    <copyright>2004 worshiptogether.com songs | sixsteps Music | Gleaning Publishing</copyright>
+    <authors>
+      <author type="words">Laura Story</author>
+      <author type="music">Laura Story</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the highest of heights to the depths of the sea,<br/>Creation's revealing Your majesty.<br/>From the colors of fall to the fragrance of spring,<br/>Every creature unique in the song that it sings,<br/>All exclaiming:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Indescribable, uncontainable,<br/>You placed the stars in the sky and You know them by name.<br/>You are amazing God.<br/>All powerful, untameable,<br/>Awestruck we fall to our knees as we humbly proclaim:<br/>You are amazing God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who has told every lightning bolt where it should go?<br/>Or seen heavenly storehouses laden with snow?<br/>Who imagined the sun and gave source to its light?<br/>Yet conceals it to bring us the coolness of night?<br/>None can fathom.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are amazing, God.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Indescribable, uncontainable,<br/>You placed the stars in the sky and You know them by name.<br/>You are amazing God.<br/>Incomparable, unchangeable,<br/>You've seen the depths of my heart and You love me the same.<br/>You are amazing God.<br/>You are amazing God.</lines>
+    </verse>
+  </lyrics>
+</song>

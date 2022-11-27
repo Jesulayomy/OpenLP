@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>In Your Presence, In your Presence</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Your Presence,<br/>In Your Presence there is peace.<br/>In Your Presence,<br/>in Your Presence there is joy.<br/>I will linger, I will stay in Your Presence<br/>Day by day, 'till your likeness may be seen in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Carried away, carried away, with my Lord,<br/>Carried away, carried away, with my Lord.<br/>Let me linger, let me stay in Your Presence<br/>Day by day, 'till your likeness may be seen in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy, holy, holy, holy is my Lord.<br/>Holy, holy, holy, holy is my Lord.<br/>I will linger, I will stay in Your Presence<br/>Day by day, 'till your likeness may be seen in me.</lines>
+    </verse>
+  </lyrics>
+</song>

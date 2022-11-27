@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>In Peace and Joy I Now Depart</title>
+      <title>The Song of Simeon: Nunc Dimitis</title>
+    </titles>
+    <authors>
+      <author type="music">from Walter's Geistliche Gesangbüchlein, 1524</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Bacon, Leonard Woolsey (1830-1907)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In peace and joy I now depart At God's disposing; For full of comfort is my heart, Soft reposing. So the Lord hath promised me, And death is but a slumber.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Tis Christ that wrought this work for me, My faithful Savior, Whom Thou hast made mine eyes to see By Thy favor. Now I know He is my Life, My Help in need and dying.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Him Thou hast unto all set forth Their great Salvation And to His kingdom called the earth, Every nation, By Thy dear and wholesome Word, In every place resounding.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is the Hope and saving Light Of lands benighted; By Him are they who dwelt in night Fed and lighted. He is Israel's Praise and Bliss, Their Joy, Reward, and Glory.</lines>
+    </verse>
+  </lyrics>
+</song>

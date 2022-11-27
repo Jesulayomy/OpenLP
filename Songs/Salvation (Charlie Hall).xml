@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Salvation</title>
+    </titles>
+    <copyright>2000 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Charlie Hall</author>
+      <author type="music">Charlie Hall</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salvation, spring up from the ground.<br/>Lord, rend the heavens and come down.<br/>Seek the lost and heal the lame.<br/>Jesus, bring glory to Your name.<br/>Let all the prodigals run home.<br/>All of creation waits and groans.<br/>Lord, we've heard of Your great fame.<br/>Father, cause all to shout Your name.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Stir up our hearts, O God.<br/>Open our spirits to awe who You are.<br/>Put a cry in us so deep inside<br/>That we cannot find the words we need<br/>We just weep  and cry out to You.</lines>
+    </verse>
+  </lyrics>
+</song>

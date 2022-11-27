@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Gabriella Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is now that my life is mine<br/>I've got this short time on earth<br/>And my longing has brought me here<br/>All I lacked and all I gaint</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And yet it's the way that I chose<br/>My trust was far beyond words<br/>That has shown me a little bit<br/>Of the heaven I've never found</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to feel I'm alive<br/>All my living days<br/>I will live as I desire<br/>I want to feel I'm alive<br/>Knowing I was good enough</lines>
+    </verse>
+    <verse name="p1">
+      <lines>(Instrumental)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have never lost who I was<br/>I have only left it sleeping<br/>Maby I never had a choice<br/>Just the will to stay alive</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All I want is to be happy being who I am<br/>To be strong and to be free<br/>To see the day arise from night</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I am here and my life is only mine<br/>And the heaven I thought was here<br/>I'll discover it there somewhere</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I want to feel that I've lived my life</lines>
+    </verse>
+  </lyrics>
+</song>

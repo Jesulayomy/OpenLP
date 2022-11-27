@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>I Waited For The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>I awaited<br/>For the Lord on High<br/>I awaited,<br/>And He heard my cry. (repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>He pulled me out of my despair<br/>And showed me where to walk:<br/>From fear into security<br/>From quicksand into rock.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>I sing to let the people know<br/>That I have been restored.<br/>So they will kneel and understand<br/>To return and trust in the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>All I Have is Christ</title>
+    </titles>
+    <authors>
+      <author type="words">Kovčeg cerkovʹ Dnepropetrovsk</author>
+      <author type="music">Kovčeg cerkovʹ Dnepropetrovsk</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4428"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+      <theme>salvation</theme>
+      <theme>forgiveness</theme>
+      <theme>grace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I once was lost in darkest night yet thought I knew the way<br/>The sin that promised joy and life had led me to the grave<br/>I had no hope that you would own a rebel to your will<br/>And if you had not loved me first I would refuse you still</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But as I ran my hell-bound race indifferent to the cost<br/>You looked upon my helpless state and led me to the cross<br/>And I beheld Gods love displayed you suffered in my place<br/>You bore the wrath reserved for me now all I know is grace</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah all I have is Christ Hallelujah Jesus is my life<br/>Hallelujah all I have is Christ Hallelujah Jesus is my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now Lord I would be yours alone and live so all might see<br/>The strength to follow your commands could never come from me<br/>O father use my ransomed life in any way you choose<br/>And let my song forever be my only boast is you</lines>
+    </verse>
+  </lyrics>
+</song>

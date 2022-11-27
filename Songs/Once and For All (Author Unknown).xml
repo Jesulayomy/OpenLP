@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Once and For All</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4896"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God I give You all I can today<br/>These scattered ashes that I hid away<br/>I lay them all at Your feet<br/>From the corners of my deepest shame<br/>The empty places where I've worn Your name<br/>Show me the love I say I believe</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Oh Help me to lay it down<br/>Oh Lord I lay it down</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh let this be where I die<br/>My lord with thee crucified<br/>Be lifted high as my Kingdom's fall<br/>Once and for all, once and for all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is victory in my Saviors loss<br/>And In the crimson flowing from the cross<br/>Pour over me, pour over me yes<br/>Oh let this be where I die<br/>My lord with thee crucified<br/>Be lifted high as my Kingdom's fall<br/>Once and for all, once and for all</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Oh Lord I lay it down<br/>Oh Lord I lay it down<br/>Help me to lay it down<br/>Oh Lord I lay it down</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Oh let this be where I die<br/>My Lord with thee crucified<br/>Be lifted high as my Kingdom's fall<br/>Once and for all<br/>Once and for all<br/>Oh once and for all<br/>Once and for all</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Lord You Have My Heart</title>
+    </titles>
+    <copyright>1992 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+      <author type="words">Delirious?</author>
+      <author type="music">Delirious?</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, you have my heart,<br/>And I will search for Yours;<br/>Jesus, take my life and lead me on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, you have my heart,<br/>And I will search for yours;<br/>Let me be to you a sacrifice.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will praise you, Lord.<br/>And I will sing of love come down.<br/>And as you show your face,<br/>We'll see your  glory here.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And I will praise you, Lord.<br/>    (I  will  praise you, Lord)<br/>And I will sing of love come down.<br/>    (I  will  sing of love come down)<br/>And as you show your face,<br/>    (Show your face)<br/>We'll see your  glory here.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We'll see your  glory here.<br/>We'll see your  glory here.</lines>
+    </verse>
+  </lyrics>
+</song>

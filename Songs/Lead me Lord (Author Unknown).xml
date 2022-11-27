@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Lead me Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's hard to take the first step<br/>When I don't know the way<br/>Each turn is so uncertain<br/>I learn to walk by faith<br/>But you gave me a promise<br/>That you would never leave<br/>You will lead and guide me<br/>Lord, I do believe</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>Lead me Lord, I will follow<br/>Lead me Lord, I will go<br/>You have called me<br/>I will answer<br/>Lead me Lord, I will go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your plans for me are perfect<br/>I never need to fear<br/>For though in times I feel alone<br/>I know that You are near<br/>My heart just wants to follow<br/>I'm willing to obey<br/>Take my hand and lead me<br/>I'll follow all the way!</lines>
+    </verse>
+  </lyrics>
+</song>

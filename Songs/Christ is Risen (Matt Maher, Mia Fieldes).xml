@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>Christ is Risen</title>
+    </titles>
+    <copyright>2009 Thankyou Music, spiritandsong.com</copyright>
+    <authors>
+      <author type="words">Matt Maher</author>
+      <author type="music">Matt Maher</author>
+      <author type="words">Mia Fieldes</author>
+      <author type="music">Mia Fieldes</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>easter</theme>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let no one caught in sin remain<br/>Inside the lie of inward shame,<br/>But fix our eyes upon the cross<br/>And run to Him who showed great love<br/>And bled for us.<br/>Freely You've bled for us.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Christ is risen from the dead,<br/>Trampling over death by death.<br/>Come awake! Come awake!<br/>Come and rise up from the grave!<br/>Christ is risen from the dead,<br/>We are one with Him again.<br/>Come awake! Come awake!<br/>Come and rise up from the grave!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beneath the weight of all our sin,<br/>You bowed to none but heaven's will.<br/>No scheme of hell, no scoffer's crown,<br/>No burden great can hold You down.<br/>In strength, You reign.<br/>Forever let Your church proclaim:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>O, death where is your sting?<br/>O, hell where is your victory?<br/>O, church come stand in the light!<br/>The glory of God has defeated the night!<br/>Singing O, death where is your sting?<br/>O, hell where is your victory?<br/>O, church come stand in the light!<br/>Our God is not dead! He's alive! He's alive!</lines>
+    </verse>
+  </lyrics>
+</song>

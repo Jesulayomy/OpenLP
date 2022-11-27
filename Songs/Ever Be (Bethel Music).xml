@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>Ever Be</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4827"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love is devoted like a ring of solid gold<br/>Like a vow that is tested like a covenant of old<br/>Your love is enduring through the winter rain<br/>And beyond the horizon with mercy for today</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Faithful You have been and faithful you will be<br/>You pledge yourself to me and it's why I sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your praise will ever be on my lips, ever be on my lips<br/>Your praise will ever be on my lips, ever be on my lips<br/>Your praise will ever be on my lips, ever be on my lips<br/>Your praise will ever be on my lips, ever be on my lips</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You Father the orphan<br/>Your kindness makes us whole<br/>And you shoulder our weakness<br/>And your strength becomes our own<br/>Now you're making me like you<br/>Clothing me in white<br/>Bringing beauty from ashes<br/>For You will have Your bride</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Free of all her guilt and rid of all her shame<br/>And known by her true name and it's why I sing</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You will be praised You will be praisedWith angels and saints we sing worthy are You Lord<br/>You will be praised You will be praised<br/>With angels and saints we sing worthy are You Lord<br/>And it's why I sing</lines>
+    </verse>
+  </lyrics>
+</song>

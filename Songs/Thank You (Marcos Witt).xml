@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Thank You</title>
+    </titles>
+    <authors>
+      <author type="words">Marcos Witt</author>
+      <author type="music">Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You took me into Your arms<br/>And You've shown me truest love<br/>You have given me such mercy<br/>I'm unworthy of</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, Your mercy everlasting<br/>I could never understand<br/>for all the love and grace You've shown<br/>I just want to say:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Thank You, thank You Dear Lord<br/>Thank You from the bottom of my heart<br/>Thank You, thank You Dear Lord<br/>Thank You from the bottom of my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>At the cross You gave your life for me<br/>As a gift of Your great love<br/>It was the gift of everlasting life<br/>From above</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can boldly come before your throne<br/>Through Your blood I've been set free<br/>I'm going to shout it to the heavens<br/>I've been redeemed!</lines>
+    </verse>
+  </lyrics>
+</song>

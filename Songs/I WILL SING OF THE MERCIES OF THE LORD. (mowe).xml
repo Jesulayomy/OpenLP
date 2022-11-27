@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:41">
+  <properties>
+    <titles>
+      <title>I WILL SING OF THE MERCIES OF THE LORD.</title>
+    </titles>
+    <authors>
+      <author>mowe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I will sing of the mercies of the Lord Forever  I will sing of the mercies of the Lord</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>With my mouth will I make known<br/>Thy faithfulness<br/>Thy faithfulness<br/>With my mouth will I make known </lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Thy faithfulness to all<br/>Generation.</lines>
+    </verse>
+  </lyrics>
+</song>

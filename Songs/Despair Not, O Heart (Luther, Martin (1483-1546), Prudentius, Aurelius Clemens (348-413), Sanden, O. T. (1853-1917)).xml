@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Despair Not, O Heart</title>
+    </titles>
+    <authors>
+      <author type="music">Luther, Martin (1483-1546)</author>
+      <author type="words">Prudentius, Aurelius Clemens (348-413)</author>
+      <author type="translate">Sanden, O. T. (1853-1917)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Despair not, O heart, in thy sorrow, But hope from God's promises borrow Beware in thy sorrow, of sinning For death is of life the beginning.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The body is shrouded in mourning; The garlands, the casket adorning, Are emblems of hope that betoken, O Death, that thy power is broken.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A dearly belov'd one hath left us; God hath in His Wisdom bereft us; But He will not leave us forsaken,We know that the dead shall awaken.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When dawneth the glorious morrow, This body that we view with sorrow, A glorified form shall be given, Restored to its spirit in heaven.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The seed that in springtime is planted, Is hid in the ground, but if granted A measure of sunshine and showers, Will spring into fruitage and flowers;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A gift to the churchyard we tender,<br/>As dust to the dust we surrender;<br/>Returning the clay to its Maker,<br/>We lay it to rest in God's acre.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A soul in that body abided,<br/>A soul that in Jesus confided,<br/>A soul that hath longed for salvation,<br/>And now hath found hope's consummation.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>O earth, we consign to thy keeping<br/>This body with sorrow and weeping;<br/>In peace to await resurrection,<br/>When it shall arise in perfection.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>O Christ, our soul's Maker and Lover;<br/>When time and earth's travail are over,<br/>Thou closest the grave's mournful story,<br/>And callest Thine own to Thy glory.</lines>
+    </verse>
+  </lyrics>
+</song>

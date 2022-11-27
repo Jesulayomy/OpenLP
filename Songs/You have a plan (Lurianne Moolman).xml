@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>You have a plan</title>
+      <title>For I know You have a plan</title>
+    </titles>
+    <authors>
+      <author type="words">Lurianne Moolman</author>
+      <author type="music">Lurianne Moolman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I gather you know these changing times<br/>I gather You know my fears inside<br/>I bring You it all, an offering<br/>I cling to Your word and praise and sing</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A future filled with Ho-ly Joy<br/>A future strenghth and Spirit filled<br/>A future Home to see Your face<br/>My friend, not to be alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For I know You have a plan<br/>A plan of hope, to see me through<br/>Yes, (I-have) faith in Your plan<br/>Not one to harm, but give me Hope</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As Wisdom You made so many things<br/>Your love so unfailing as our King<br/>The earth come alive, and as a being<br/>I cling to Your word and praise and sing</lines>
+    </verse>
+    <verse name="b2">
+      <lines>A future filled with Ho-ly Joy<br/>A future strenghth and Spirit filled<br/>A future Home to see Your face<br/>My friend, not to be alone</lines>
+    </verse>
+    <verse name="c2">
+      <lines>For I know You have a plan<br/>A plan of hope, to see me through<br/>Yes, (I-have) faith in Your plan<br/>Not one to harm, but give me Hope</lines>
+    </verse>
+    <verse name="b3">
+      <lines>A future filled with Ho-ly Joy<br/>A future strength and Spirit filled<br/>A future Home to see Your face<br/>My friend, not. to be alone</lines>
+    </verse>
+    <verse name="c3">
+      <lines>For I know You have a plan<br/>A plan of hope, to see me through<br/>Yes, (I-have) faith in Your plan<br/>Not one to harm, but give me Hope<br/>Give me hope, Give me hope<br/>Give me hope</lines>
+    </verse>
+  </lyrics>
+</song>

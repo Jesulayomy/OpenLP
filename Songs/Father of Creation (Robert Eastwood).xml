@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Father of Creation</title>
+    </titles>
+    <copyright>1995, 1996 Hillsong Music Publishing</copyright>
+    <authors>
+      <author type="words">Robert Eastwood</author>
+      <author type="music">Robert Eastwood</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2044"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We come into Your presence<br/>To sing a song to You<br/>A song of praise and honour<br/>For all the things you helped us through</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You gave a life worth living<br/>A life in love in with You<br/>And now I just love giving<br/>All my praises back to You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You're the Father of Creation<br/>The risen Lamb of God<br/>You're the One who walked away<br/>From the empty tomb that day<br/>And You set your people free<br/>With love and liberty<br/>And I can walk with you<br/>Every night and every day</lines>
+    </verse>
+  </lyrics>
+</song>

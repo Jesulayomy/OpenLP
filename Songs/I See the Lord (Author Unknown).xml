@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>I See the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the Lord, I see the Lord,<br/>He is high and lifted up<br/>And His train fills the temple.<br/>He is high and lifted up<br/>And His train fills the temple.<br/>The angels cry, Holy,<br/>The angels cry, Holy,<br/>The angels cry, Holy is the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

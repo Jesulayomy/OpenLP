@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Say So</title>
+    </titles>
+    <copyright>2006 Vertical Worship Songs | New Breed Extended | Integrity's Praise! Music | Sound of the New Breed</copyright>
+    <authors>
+      <author type="words">Israel Houghton</author>
+      <author type="music">Israel Houghton</author>
+      <author type="words">Michael Gungor</author>
+      <author type="music">Michael Gungor</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What does it mean to be saved?<br/>Isn't it more than just a prayer to pray,<br/>More than just a way to Hea-ven?</lines>
+    </verse>
+    <verse name="p1">
+      <lines>What does it mean to be His?<br/>To be formed in His Likeness,<br/>Know that we have a purpose:<br/>To be salt and light in the world, in the world,<br/>To be salt and light in the world!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let the redeemed of the Lord say so,<br/>Let the redeemed of the Lord say so,<br/>Let the redeemed of the Lord say so, say so, say so! (2X)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh that the church would arise Oh that we would see with Jesus' eyes<br/>We could show the world heaven</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Show what it means to be His: To be formed in His Likeness<br/>Show them they have a purpose:<br/>To be salt and light in the world, in the world, to be salt and light in the world!<br/>To be salt and light in the world, in the world, to be salt and light in the world!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am redeemed, I am redeemed, I am redeemed, I am redeemed<br/>I am redeemed, I am redeemed (2X)</lines>
+    </verse>
+  </lyrics>
+</song>

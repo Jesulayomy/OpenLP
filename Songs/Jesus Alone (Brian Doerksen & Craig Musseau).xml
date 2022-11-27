@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Jesus Alone</title>
+    </titles>
+    <copyright>1992 Vineyard Songs Canada</copyright>
+    <authors>
+      <author type="words">Brian Doerksen &amp; Craig Musseau</author>
+      <author type="music">Brian Doerksen &amp; Craig Musseau</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, open up our eyes to see Jesus alone<br/>Spirit, give us ears to hear the words of Jesus alone<br/>For we have put out hope in mortal man<br/>But we will turn back to you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, we fix our eyes on you<br/>You are head of the Church, Chief Cornerstone<br/>The Only Foundation<br/>Lord, we fix our eyes on you<br/>You're the Mighty Commander, King of all Kings<br/>Lord of Glory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, there is no one else full of wisdom and grace<br/>Jesus, there is no one else<br/>Who could ever take your place<br/>For we have put our hope in mortal man<br/>But we will turn back to you</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You will lead the armies of God on a white horse<br/>Your eyes are blazing like fire<br/>The Word of God, Faithful and True</lines>
+    </verse>
+  </lyrics>
+</song>

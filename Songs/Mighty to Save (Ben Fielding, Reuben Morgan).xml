@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Mighty to Save</title>
+      <title>Saviour</title>
+    </titles>
+    <copyright>2006 Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>salvation</theme>
+      <theme>forgiveness</theme>
+      <theme>bible</theme>
+      <theme>worship</theme>
+      <theme>gods-might</theme>
+      <theme>easy</theme>
+      <theme>resurrection</theme>
+      <theme>victory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everyone needs compassion<br/>A love that's never failing<br/>Let mercy fall on me<br/>Everyone needs forgiveness<br/>A kindness of a Savior<br/>The hope of nations</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Saviour<br/>He can move the mountains<br/>My God is Mighty to save<br/>He is Mighty to save<br/>Forever<br/>Author of salvation<br/>He rose and conquered the grave<br/>Jesus conquered the grave</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You take me as You find me<br/>All my fears and failures<br/>Fill my life again<br/>I give my life to follow to everything I believe in<br/>Now I surrender.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Shine your light and let the whole world see<br/>We're singing for the glory of the risen King... Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>გვჭირდება თანაგრძონბა<br/>სამუდამოდ სიყვარული<br/>და წყალობა მისი<br/>გვჭირდება მიტევება და<br/>სიკეთე მხსნელისა<br/>ჩვენი იმედი<br/>ღმერთი, ის ყველაფერს შეძლებს<br/>ძლიერი არის ჩვენი<br/>დიდებული მხსნელი<br/>გამარჯვებული არის ის ცოცხალი<br/>იესო, შემოქმედი<br/>ხსნის და გამარჯვების<br/>არ ვარ სრულყოფილი<br/>მაგრამ მაინც ვარ მიღებული<br/>იესოს წყალობით<br/>გადავცემ ჩემს ცხოვრებას<br/>მთელი ჩემი ნებით<br/>და მას ვნებდები<br/>გაანათე, შენი სინათლე<br/>ვიმღერებთ მის დიდებას<br/>იესო მეფეა, სამუდამოდ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>gvchʼirdeba tanagrdzonba<br/>samudamod siqʼvaruli<br/>da tsʼqʼaloba misi<br/>gvchʼirdeba mitʼeveba da<br/>sikʼete mkhsnelisa<br/>chveni imedi<br/>ghmerti, is qʼvelapers shedzlebs<br/>dzlieri aris chveni<br/>didebuli mkhsneli<br/>gamarjvebuli aris is tsotskhali<br/>ieso, shemokmedi<br/>khsnis da gamarjvebis<br/>ar var srulqʼopili<br/>magram maints var mighebuli<br/>iesos tsʼqʼalobit<br/>gadavtsem chems tskhovrebas<br/>mteli chemi nebit<br/>da mas vnebdebi<br/>gaanate, sheni sinatle<br/>vimgherebt mis didebas<br/>ieso mepea, samudamod</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:52">
+  <properties>
+    <titles>
+      <title>I give you all the glory</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Tuttle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I give You all the honour<br/>And praise that's  due Your name,<br/>For You are the King of glory,<br/>The Creator of all things.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I worship You,<br/>I give my life to You,<br/>I fall  - down on my knees.<br/>Yes, I worship You,<br/>I give my life to You,<br/>I fall down on my knees.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As Your Spirit moves upon me now<br/>You meet my deepest need,<br/>And I lift my hands up to Your throne,<br/>Your mercy I've received.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You have broken chains that bound me,<br/>You've set this captive free;<br/>I will lift my voice to praise Your name<br/>For all eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

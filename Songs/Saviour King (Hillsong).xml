@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Saviour King</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro: Bm D x2<br/>Let now the weak say "I have strength"<br/>By the spirit of power, that raised Christ from the dead<br/>let now the poor stand and confess<br/>that my portion is him, and I'm more than blessed</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Let now our hearts burn with a flame<br/>A fire consuming all for your son's holy name<br/>And with the heavens we declare, you are our King</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We love you lord, we worship you you are our god, you alone are good</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let now your church shine as your bride<br/>that you saw in your heart, as you offered up your life<br/>let now the lost be welcomed home<br/>by the saved and redeemed, those adopted as your own</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You asked your son, to carry this<br/>The heavy cross, our weight of sin<br/>I love you Lord, I worship you<br/>Hope which was lost, Now stands renewed<br/>I give my life, to honor this<br/>The love of Christ, the Savior King</lines>
+    </verse>
+  </lyrics>
+</song>

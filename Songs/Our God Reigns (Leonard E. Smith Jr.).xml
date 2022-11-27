@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Our God Reigns</title>
+    </titles>
+    <copyright>1974,1978 New Jerusalem Music</copyright>
+    <authors>
+      <author type="words">Leonard E. Smith Jr.</author>
+      <author type="music">Leonard E. Smith Jr.</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How lovely on the mountains are the feet of Him,<br/>Who brings good news, good news;<br/>Announcing peace, proclaiming news of happiness,<br/>Our God reigns, our God reigns!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Our God reigns, our God reigns,<br/>Our God reigns, our God reigns!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You watchmen lift your voices joyfully as one,<br/>Shout for your King, shout for your King;<br/>See eye to eye, the Lord restoring Zion,<br/>Our God reigns, our God reigns!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Out of the tomb, He came with grace and majesty,<br/>He is alive, He is alive;<br/>God loves us so, see here His hands, His feet, His side,<br/>Yes we know, He is alive.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Nothing but the Blood</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">Robert Lowry (Music by Jars of Clay)</author>
+      <author type="music">Robert Lowry (Music by Jars of Clay)</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What can wash away my sin? What can make me whole again?<br/>For my pardon this I see. For my cleasing this my plea.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh precious is the flow,<br/>That makes me white as snow;<br/>No other fount I know,<br/>Nothing, nothing, nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing can for sin atone, (nothing but the blood of Jesus)<br/>Naught of good that I have done (nothing but the blood of Jesus)<br/>This is all my hope and peace (nothing but the blood of Jesus)<br/>This is all my righteousness (nothing but the blood of Jesus)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nothing, nothing, nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now by this I'll overcome<br/>Now by this I'll reach my home<br/>Glory, glory, this I see (nothing but the blood of Jesus)<br/>All my praise for this I bring (nothing but the blood of Jesus) (last line 3x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Since I Have Been Redeemed</title>
+    </titles>
+    <authors>
+      <author type="words">Edwin O. Excell</author>
+      <author type="music">Edwin O. Excell</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have a song I love to sing, since I have been redeemed;<br/>Of my Redeemer, Savior, King, since I have been redeemed.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Since I have been redeemed, since I have been redeemed I will glory in His name;<br/>Since I have been redeemed, I will glory in my Savior's name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have a Christ Who satisfies, since I have been redeemed;<br/>To do His will my highest prize, since I have been redeemed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have a witness bright and clear, since I have been redeemed;<br/>Dispelling every doubt and fear, since I have been redeemed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I have a home prepared for me, since I have been redeemed;<br/>Where I shall dwell eternally, since I have been redeemed.</lines>
+    </verse>
+  </lyrics>
+</song>

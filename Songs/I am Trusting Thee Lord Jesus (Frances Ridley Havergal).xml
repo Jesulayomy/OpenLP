@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>I am Trusting Thee Lord Jesus</title>
+    </titles>
+    <authors>
+      <author>Frances Ridley Havergal</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am trusting Thee, Lord Jesus,<br/>Trusting only Thee!<br/>Trusting Thee for full salvation,<br/>Great and free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am trusting Thee for pardon,<br/>At Thy feet I bow;<br/>For Thy grace and tender mercy,<br/>Trusting now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am trusting Thee for cleansing<br/>In the crimson flood;<br/>Trusting Thee to make me holy,<br/>By Thy blood.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am trusting Thee for power,<br/>Thine can never fail;<br/>Words which Thou Thyself shalt give me<br/>Must prevail.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I am trusting Thee to guide me,<br/>Thou alone shalt lead;<br/>Every day and hour supplying<br/>All my need.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I am trusting Thee, Lord Jesus;<br/>Never let me fall;<br/>I am trusting Thee for ever,<br/>And for all.</lines>
+    </verse>
+  </lyrics>
+</song>

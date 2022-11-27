@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Fill Us Up and Send Us Out</title>
+    </titles>
+    <copyright>1995 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have you not said as we pass though water,<br/>You will be with us?<br/>And you have said when we walk though fire,<br/>We will not be burned.<br/>We are not afraid, for You are with us;<br/>We will testify<br/>to the honour of Your name.<br/>We are witnesses,<br/>You have shown us<br/>You are the One who can save</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fill us up and send us out in the power of Your name<br/>Fill us up and send us out in the power of Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bring them from the west, sons and daughters,<br/>Call them for Your praise.<br/>Gather from the east all Your children,<br/>Coming home again.<br/>Bring them from afar, all the nations,<br/>From the north and south,<br/>drawing all the peoples in.<br/>Corners of the earth,<br/>come to see there's<br/>only one Saviour and King</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Fill us up<br/>Fill us up<br/>Fill us up<br/>Fill us up</lines>
+    </verse>
+  </lyrics>
+</song>

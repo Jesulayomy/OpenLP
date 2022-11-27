@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>These Thousand Hills</title>
+    </titles>
+    <copyright>1990 Broken Songs</copyright>
+    <authors>
+      <author type="words">Third Day</author>
+      <author type="music">Third Day</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>These thousand hills roll ever on: footprints of a Mighty God;<br/>They bring me to my knees in praise, amazing love, amazing grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was on a hill my Savior died, a broken heart and bleeding side;<br/>Hill of the Skull, Mount Calvary, the blood He shed, He shed for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When Heaven's hills at last I roam, forever settled in my home;<br/>I'll join the saints around Your throne, Your kingdom, Lord, rolls ever on.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>These thousand hills roll ever on: ripples of a coming storm;<br/>The morning star precedes the dawn, these thousand hills roll ever on.</lines>
+    </verse>
+  </lyrics>
+</song>

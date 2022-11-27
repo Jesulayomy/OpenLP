@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>You Carried Me</title>
+    </titles>
+    <authors>
+      <author type="words">Building 429</author>
+      <author type="music">Building 429</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been so busy, I missed the reasons<br/>I missed your love, I nearly missed it all<br/>Still you've loved me, And you've healed me<br/>You've given all and it brought me to your cross</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I stand only because<br/>You've given me grace to walk<br/>Only because</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You've carried me<br/>You carried me<br/>You carried me through it all<br/>And I believe<br/>Yes, I believe<br/>You'll carry me<br/>All the way home<br/>Mercy covers all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know the scripture<br/>I've known the songs<br/>I sang the words<br/>From my hollowed Heart<br/>You've spoken softly<br/>Through the storm<br/>I've heard your voice<br/>And felt the calm</lines>
+    </verse>
+    <verse name="p2">
+      <lines>I stand only because<br/>You've given me faith to walk</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I know that you love me<br/>I'll never doubt it I can't live without it<br/>Your mercy has found me<br/>I'll never doubt it I can't live without it</lines>
+    </verse>
+  </lyrics>
+</song>

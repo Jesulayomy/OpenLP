@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Promises Never Fail</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson</author>
+      <author type="music">Brian Johnson</author>
+      <author type="words">Jason Ingram</author>
+      <author type="music">Jason Ingram</author>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+      <author type="words">Joel Taylor</author>
+      <author type="music">Joel Taylor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are with me<br/>What can separate us<br/>You are for me<br/>What can stand against us<br/>Your love it won't let go<br/>I know it won't</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Darkness, shadows<br/>Have no power over me<br/>Fear is empty<br/>Shame has no authority<br/>Your love it won't let go<br/>I know it won't</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I know Your thoughts Your plans for me are good<br/>I know You hold My future and my hope<br/>Your promises never fail<br/>Your promises never fail</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Healing and freedom<br/>As You speak favor over me<br/>Faith is breaking<br/>All impossibility<br/>Your name has overcome<br/>Your name alone</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am standing on every promise that You make<br/>I will see it come to pass in Your name, in Your name<br/>Jesus I will trust every word I hear You say<br/>I will see it come to pass in Your name, in Your name</lines>
+    </verse>
+  </lyrics>
+</song>

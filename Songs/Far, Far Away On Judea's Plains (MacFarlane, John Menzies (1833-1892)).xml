@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Far, Far Away On Judea's Plains</title>
+    </titles>
+    <authors>
+      <author type="words">MacFarlane, John Menzies (1833-1892)</author>
+      <author type="music">MacFarlane, John Menzies (1833-1892)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Far, far away on Judea's plains, Shepherds of old heard the joyous strains: Glory to God, glory to God, Glory to God in the Glory to God Glory to God in the highest in the Glory to God in the highest Glory to God in the highest; Peace on earth, good will to men; Peace on earth, good will to men.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sweet are these strains of redeeming love, Message of mercy from heaven above: Glory to God, glory to God, Glory to God in the Glory to God Glory to God in the highest in the Glory to God in the highest Glory to God in the highest; Peace on earth, good will to men; Peace on earth, good will to men.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, with the angels we too would rejoice; Help us to sing with the heart and voice: Glory to God, glory to God, Glory to God in the Glory to God Glory to God in the highest in the Glory to God in the highest Glory to God in the highest; Peace on earth, good will to men; Peace on earth, good will to men.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hasten the time when, from every clime, Men shall unite in the strains sublime: Glory to God, glory to God, Glory to God in the Glory to God Glory to God in the highest in the Glory to God in the highest Glory to God in the highest; Peace on earth, good will to men; Peace on earth, good will to men.</lines>
+    </verse>
+  </lyrics>
+</song>

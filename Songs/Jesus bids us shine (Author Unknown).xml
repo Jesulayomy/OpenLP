@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:02">
+  <properties>
+    <titles>
+      <title>Jesus bids us shine</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus bids us shine with a clear, pure light,<br/>Like a little candle burning in the night;<br/>In this world of darkness, we must shine,<br/>You in your small corner and I in mine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus bids us shine, then, for all around<br/>Many kinds of darkness in this world abound<br/>Sin and want and sorrow; we must shine,<br/>You in your small corner, and I in mine.</lines>
+    </verse>
+  </lyrics>
+</song>

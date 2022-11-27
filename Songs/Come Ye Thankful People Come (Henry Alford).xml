@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>Come Ye Thankful People Come</title>
+    </titles>
+    <authors>
+      <author>Henry Alford</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, ye thankful people, come,<br/>Raise the song of harvest home!<br/>All is safely gathered in<br/>Ere the winter storms begin;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God, our Maker, doth provide<br/>For our needs to be supplied;<br/>Come to God’s own temple, come,<br/>Raise the song of harvest-home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All the world is God’s own field,<br/>Fruit unto His praise to yield;<br/>Wheat and tares together sown,<br/>Unto joy or sorrow grown;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>First the blade, and then the ear,<br/>Then the full corn shall appear:<br/>Lord of harvest, grant that we<br/>Wholesome grain and pure may be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For the Lord our God shall come<br/>And shall take His harvest home,<br/>From His field shall in that day<br/>All offences purge away,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Give His angels charge at last<br/>In the fire the tares to cast,<br/>But the fruitful ears to store<br/>In His garner evermore.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Even so, Lord, quickly come,<br/>Bring Thy final harvest home;<br/>Gather Thou Thy people in,<br/>Free from sorrow, free from sin;</lines>
+    </verse>
+    <verse name="v8">
+      <lines>There, forever purified,<br/>In Thy garner to abide:<br/>Come, with all Thine angels, come,<br/>Raise the glorious harvest-home.</lines>
+    </verse>
+  </lyrics>
+</song>

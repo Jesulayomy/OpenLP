@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>No Greater Love</title>
+      <title>Lord I come to receive Your love</title>
+    </titles>
+    <authors>
+      <author type="words">Philip Moolman</author>
+      <author type="music">Philip Moolman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I come to receive Your Love<br/>In Your Love there is no fear<br/>You're everything I am in need of<br/>In everything I need You near</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've tried to find the kind of love You give<br/>In the world it's not easy to be found<br/>My heart is ready to receive<br/>The love only You can give</lines>
+    </verse>
+    <verse name="p1">
+      <lines>There's a hole in my soul<br/>That no-one else can fill, but You<br/>No-one in the world<br/>Could ever love the way You do - only You</lines>
+    </verse>
+    <verse name="p2">
+      <lines>There's no greater Love<br/>No greater love<br/>There's no greater love<br/>Than the love of God - in Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>No greater love<br/>No greater love<br/>No greater love<br/>Than the love of Jesus ......(Chorus X2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I come to receive Your Love<br/>In Your Love there is no fear<br/>You're everything I am in need of<br/>In everything I need You near</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There's a hole in my soul<br/>That no-one else can fill, but You<br/>No-one in the world<br/>Could ever love the way You do - only You</lines>
+    </verse>
+    <verse name="p3">
+      <lines>There's no greater Love<br/>No greater love<br/>There's no greater love<br/>Than the love of God - in Jesus ........(pre-chorus X2)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>No greater love<br/>No greater love<br/>No greater love<br/>Than the love of Jesus ......(Chorus X4)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>...Jesus<br/>Jesus<br/>Jesus<br/>No greater Love</lines>
+    </verse>
+  </lyrics>
+</song>

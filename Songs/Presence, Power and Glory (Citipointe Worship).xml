@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Presence, Power and Glory</title>
+    </titles>
+    <authors>
+      <author type="words">Citipointe Worship</author>
+      <author type="music">Citipointe Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Strip me back<br/>Of all my pride<br/>My possesions<br/>Till all I want<br/>And all I seek<br/>Is Your presence</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Awake in me<br/>A fire and a zeal<br/>A fire full of love<br/>Heaven open up</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come and fill this place<br/>With Your mercy with Your grace<br/>Holy Spirit, Holy Spirit<br/>With power and with Love<br/>All consuming fire come<br/>Holy Spirit, Holy Spirit</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We want more of Your presence<br/>We want more of Your power<br/>We want more of Your glory<br/>We want to know You</lines>
+    </verse>
+  </lyrics>
+</song>

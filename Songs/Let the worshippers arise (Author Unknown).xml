@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Let the worshippers arise</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father I see that you are drawing a line in the sand<br/>And I want to be standing on your side,<br/>holding your hand<br/>So let your kingdom come, let it live in me<br/>This is my prayer, this is my plea</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Let the worshippers arise<br/>Let the sons and the daughters sing<br/>I surrender in my all<br/>I surrender to the King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father I hear it growing louder<br/>The song of your redeemed<br/>As the saints of every nation<br/>Are awakening to sing<br/>From our hearts there comes an anthem<br/>Oh, hear the heavens ring<br/>This is our song, a song to our King!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:43">
+  <properties>
+    <titles>
+      <title>OPEN UP</title>
+    </titles>
+    <authors>
+      <author type="words">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Open Up!<br/>Let it Flow Now<br/>Open Up!<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Out of the Mundane<br/>To where I’m Ordained<br/>For things that were made<br/>Were made from things Unseen<br/>There are Realms of Glory<br/>For my world to see<br/>Dimensions found only<br/>In Jesus Christ the Son</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Channels of my Spirit, Open Up!<br/>I am with the Father, Open Up!<br/>No Boundaries No Limits, Open Up!<br/>Let Deep call unto Deep,<br/>Open Up!<br/>Channels of my Spirit, Open Up!<br/>I am with the Father, Open Up!<br/>No Boundaries No Limits, Open Up!<br/>Let Deep call unto Deep,<br/>Open Up!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Out of the Mundane<br/>To where I’m Ordained<br/>For things that were made<br/>Were made from things Unseen<br/>There are Realms of Glory<br/>For my world to see<br/>Dimensions found only<br/>In Jesus Christ the Son</lines>
+    </verse>
+    <verse name="v1d">
+      <lines> Channels of my Spirit (Open Up!)<br/>I am with the Father (Open Up!)<br/>No Boundaries No Limits,<br/>(Open Up!)<br/>Let Deep call unto Deep, (Open Up!)<br/>Channels of my Spirit (Open Up!)<br/>I am with the Father (Open Up!)<br/>No Boundaries No Limits, (Open Up!)<br/>Let Deep call unto Deep,<br/>(Open Up!) </lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Out of my Belly shall Flow<br/>Rivers of Living Water<br/>Out of my Belly shall Flow<br/>Out of my Belly shall Flow<br/>Rivers of Living Water</lines>
+    </verse>
+  </lyrics>
+</song>

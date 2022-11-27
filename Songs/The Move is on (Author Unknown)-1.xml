@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>The Move is on</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>The move is on, my Lord,<br/>the move is on;<br/>The move is on, my Lord,<br/>the move is on.<br/>I can hear the rustle<br/>in the mulberry trees,<br/>and I know, I know, I know<br/>the move is on.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Move on brother,<br/>move on sister,<br/>this is the moving day.<br/>Move a little closer,<br/>where the streams are flowing,<br/>move on brother, move on.</lines>
+    </verse>
+  </lyrics>
+</song>

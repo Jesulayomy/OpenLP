@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Our God is a Great Big God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Our God is a great big God<br/>Our God is a great big God<br/>Our God is a great big God<br/>And He holds us in His hands</lines>
+    </verse>
+    <verse name="v1">
+      <lines>He's higher than a skyscraper<br/>And deeper than a submarine<br/>He's wider than the universe<br/>And beyond my wildest dreams<br/>And He's known me and He's loved me<br/>Since before the world began<br/>How wonderful to be a part of<br/>God's amazing plan!</lines>
+    </verse>
+  </lyrics>
+</song>

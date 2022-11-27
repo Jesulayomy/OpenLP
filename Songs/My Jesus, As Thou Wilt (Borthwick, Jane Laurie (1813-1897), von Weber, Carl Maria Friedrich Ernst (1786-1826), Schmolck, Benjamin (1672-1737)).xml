@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>My Jesus, As Thou Wilt</title>
+    </titles>
+    <authors>
+      <author type="music">von Weber, Carl Maria Friedrich Ernst (1786-1826)</author>
+      <author type="words">Schmolck, Benjamin (1672-1737)</author>
+      <author type="translate">Borthwick, Jane Laurie (1813-1897)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Jesus, as Thou wilt! Oh, may Thy will be mine! Into Thy hand of love I would my all resign; Through sorrow, or through joy, conduct me as Thine own, And help me still to say, my Lord, Thy will be done!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Jesus, as Thou wilt! If needy here and poor, Give me Thy people's bread, their portion rich and sure. The manna of Thy Word Let my soul feed upon; And if all else should fail, my Lord, thy will be done!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My Jesus, as Thou wilt! Though seen through many'a tear, Let not my star of hope grow dim or disappear; Since Thou on earth hast wept, and sorrowed oft alone, If I must weep with Thee, my Lord, Thy will be done!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My Jesus, as Thou wilt! All shall be well for me; Each changing future scene I gladly trust with Thee: Straight to my home above I travel calmly on, And sing, in life or death, my Lord, Thy will be done!</lines>
+    </verse>
+  </lyrics>
+</song>

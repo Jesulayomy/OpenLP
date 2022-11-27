@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-29T08:34:51">
+  <properties>
+    <titles>
+      <title>Hymn 21 - Forth in Thy Name, O Lord, I Go</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Forth in Thy name, O Lord, I go,<br/>My daily labour to pursue,<br/>Thee, only Thee, resolved to know<br/>In all I think, or speak, or do.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The task Thy wisdom hath assigned<br/>O let me cheerfully fulfil;<br/>In all my works Thy presence find,<br/>And prove Thy acceptable will.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thee may I set at my right hand,<br/>Whose eyes my inmost substance see;<br/>And labour on at Thy command,<br/>And offer all my works to Thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Give me to bear Thy easy yoke,<br/>And every moment watch and pray,<br/>And still to things eternal look,<br/>And hasten to Thy glorious day.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For Thee delightfully employ<br/>Whate'er Thy bounteous grace hath given,<br/>And run my course with even joy,<br/>And closely walk with Thee to heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

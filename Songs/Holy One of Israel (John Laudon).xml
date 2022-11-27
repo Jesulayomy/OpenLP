@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>Holy One of Israel</title>
+    </titles>
+    <authors>
+      <author type="words">John Laudon</author>
+      <author type="music">John Laudon</author>
+    </authors>
+    <themes>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>protection</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+      <theme>devotion</theme>
+      <theme>truth</theme>
+      <theme>peace</theme>
+      <theme>gods-word</theme>
+      <theme>gods-faithfulness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy One of Israel, that was sacrificed for me;<br/>Lamb of God, the Messiah, Jesus, our Prince of Peace.<br/>I will bow down to worship You, oh Lord! For You are the King of kings.<br/>I will bow down to worship You, my God! Precious Jesus, our Prince of Peace.</lines>
+    </verse>
+  </lyrics>
+</song>

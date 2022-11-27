@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Holy Holy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, Holy,<br/>Holy is the Lord God Almighty.<br/>Holy, Holy,<br/>Holy is the Lord God Almighty.<br/>Who was and is and is to come,<br/>Who was and is and is to come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift up His name with the sound of singing,<br/>Lift up His name in all the earth.<br/>Lift up your voice and give Him glory,<br/>For He is worthy to be praised.</lines>
+    </verse>
+  </lyrics>
+</song>

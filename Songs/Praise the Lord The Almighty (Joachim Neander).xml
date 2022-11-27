@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Praise the Lord The Almighty</title>
+    </titles>
+    <authors>
+      <author>Joachim Neander</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise to the Lord, the Almighty, the King of creation!<br/>O my soul, praise Him, for He is thy health and salvation!<br/>All ye who hear,<br/>Brothers and sisters, draw near,<br/>Praise Him in glad adoration.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise to the Lord, who doth prosper thy work and defend thee;<br/>Surely His goodness and mercy here daily attend thee:<br/>Ponder anew<br/>What the Almighty can do,<br/>Who with His love doth befriend thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise to the Lord, who doth nourish thy life and restore thee,<br/>Fitting thee well for the tasks that are ever before thee,<br/>Then to thy need<br/>He like a mother doth speed,<br/>Spreading the wings of grace o’er thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise to the Lord, who when tempests their warfare are waging,<br/>Who, when the elements madly around thee are raging,<br/>Biddeth them cease,<br/>Turneth their fury to peace,<br/>Whirlwinds and waters assuaging.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praise to the Lord, who, when darkness of sin is abounding,<br/>Who, when the godless do triumph, all virtue confounding,<br/>Sheddeth His light,<br/>Chaseth the horrors of night,<br/>Saints with His mercy surrounding.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Praise to the Lord! O let all that is in me adore Him!<br/>All that hath life and breath, come now with praises before Him!<br/>Let the Amen<br/>Sound from His people again:<br/>Gladly for aye we adore Him.</lines>
+    </verse>
+  </lyrics>
+</song>

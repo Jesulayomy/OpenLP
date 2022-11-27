@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>As With Gladness</title>
+    </titles>
+    <authors>
+      <author>W. C. Dix</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As with gladness men of old<br/>Did the guiding star behold;<br/>As with joy they hailed its light,<br/>Leading onward, beaming bright,<br/>So, most gracious God, may we<br/>Evermore be led by Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As with joyful steps they sped,<br/>Saviour, to Thy lowly bed,<br/>There to bend the knee before<br/>Thee whom heaven and earth adore,<br/>So may we with willing feet<br/>Ever seek Thy mercy-seat.<br/>As they offered gifts most rare<br/>At Thy cradle rude and bare,<br/>So may we with holy joy,<br/>Pure, and free from sin’s alloy,<br/>All our costliest treasures bring,<br/>Christ, to Thee, our heavenly King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Jesus, every day<br/>Keep us in the narrow way;<br/>And, when earthly things are past,<br/>Bring our ransomed souls at last<br/>Where they need no star to guide,<br/>Where no clouds Thy glory hide.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the heavenly country bright<br/>Need they no created light;<br/>Thou its light, its joy, its crown,<br/>Thou its sun, which goes not down.<br/>There forever may we sing<br/>Hallelujahs to our King.</lines>
+    </verse>
+  </lyrics>
+</song>

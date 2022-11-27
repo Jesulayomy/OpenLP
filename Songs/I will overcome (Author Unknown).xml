@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>I will overcome</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the battle that I'm fighting<br/>Brings me to my knees<br/>When I feel alone and stranded<br/>And no one seems to see<br/>I won't let this valley steal my faith<br/>Satan won't have victory<br/>I will stand upon the word of God<br/>I will overcome with him</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will triumph in the trials<br/>I will glory in the cross<br/>I will stand upon the mountain<br/>Walk through the fire untouched<br/>Though the world may rise against me<br/>My strength is in the Lord<br/>I will be an overcomer, for he has overcome the world.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Problems may be great<br/>But my God is greater still<br/>So I'll walk out of this valley<br/>And proclaim the Fathers will<br/>When it feels just like the end<br/>He will open up a door<br/>I know that I shall overcome<br/>And be much stronger than before.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>In Your Presence That's Where I Belong</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>longing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Your presence<br/>That's where I am strong<br/>In Your presence<br/>O Lord my God<br/>In Your presence<br/>That's where I belong<br/>Seeking Your face<br/>Touching Your grace<br/>In the cleft of the Rock<br/>In Your presence O God</lines>
+    </verse>
+  </lyrics>
+</song>

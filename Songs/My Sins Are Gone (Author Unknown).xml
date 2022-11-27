@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>My Sins Are Gone</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You ask me why I'm happy<br/>So I'll just tell you why,<br/>Because my sins are gone;<br/>And when I meet the scoffers<br/>Who ask me where they are,<br/>I say, my sins are gone.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>They're underneath the Blood,<br/>Of the Cross of Calvary,<br/>As far removed as darkness<br/>is from dawn;<br/>In the sea of God's forgetfulness,<br/>That's good enough for me,<br/>Praise God, my sins are gone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Twas at the old-time altar<br/>Where God came in my heart,<br/>And now my sins are gone;<br/>The Lord took full possession,<br/>The devil did depart,<br/>I'm glad my sins are gone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When Satan comes to tempt me<br/>And tries to make me doubt,<br/>I say, my sins are gone;<br/>You got me into trouble,<br/>But Jesus got me out,<br/>I'm glad my sins are gone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm living now for Jesus,<br/>I'm happy night and day,<br/>Because my sins are gone;<br/>My soul is filled with music,<br/>With all my heart I say,<br/>I know my sins are gone.</lines>
+    </verse>
+  </lyrics>
+</song>

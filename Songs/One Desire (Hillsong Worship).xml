@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>One Desire</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You gave it all for me<br/>My soul desire, my everything<br/>All I am is devoted to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How could I fail to see<br/>You are the love that rescued me<br/>All I am is devoted to You</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Oh, how could I not be moved?<br/>Lord here with You<br/>So have your way in me<br/>Cause Lord there is just one thing<br/>That I will seek</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is my cry my one desire<br/>To be where you are Lord<br/>Now and forever<br/>More than a song<br/>My one desire<br/>Is to be with You<br/>Is to be with You<br/>Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>The one thing<br/>The one thing<br/>That I ask is to be with you</lines>
+    </verse>
+  </lyrics>
+</song>

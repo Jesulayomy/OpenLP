@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Stand and Die</title>
+    </titles>
+    <copyright>2000 Photon Music</copyright>
+    <authors>
+      <author type="words">Clear</author>
+      <author type="music">Clear</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Steadfast Stephen saw his chance to open wide unveiling lies;<br/>Delivering his skin and bones upon the hate-filled battle cries;<br/>They rushed him and they stoned him, but his sights were set on the open skies.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm in the wake of martyrs gone before me waiting to be tried;<br/>Is the strength and trust I have in You enough that I would stand and die?<br/>Stand and die.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Caught in Cassie was a candle burning from the wick of life;<br/>She had found it when she finally turned to You, that graceful night;<br/>When they asked her if she knew You, what else could she reply?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Now it's nearly twenty hundred years since You were crucified;<br/>With my heart and soul and all You gave to me I would give my life.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>From Ashes to Beauty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The spirit of the sovereign Lord<br/>Is on me now<br/>To love, to speak, to heal, to preach<br/>The spirit of the sovereign Lord<br/>Is on me now<br/>Giving Life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You turn ashes to beauty<br/>Mourning to dancing<br/>Anguish to songs of praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pour your spirit over me<br/>Let your love rain down<br/>Would you take these hands of mine<br/>And use me<br/>Pour your spirit over me<br/>Let your love rain down<br/>Would you take these feet of mine<br/>And lead me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The spirit of the sovereign Lord<br/>Is on me now<br/>To go, to free, to give, to feed<br/>The spirit of the sovereign Lord<br/>Is on me now<br/>Spreading love</lines>
+    </verse>
+  </lyrics>
+</song>

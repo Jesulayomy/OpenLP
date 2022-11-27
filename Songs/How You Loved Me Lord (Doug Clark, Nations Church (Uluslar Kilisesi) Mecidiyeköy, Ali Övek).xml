@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>How You Loved Me Lord</title>
+    </titles>
+    <authors>
+      <author type="translate">Doug Clark</author>
+      <author type="translate">Nations Church (Uluslar Kilisesi) Mecidiyeköy</author>
+      <author type="words">Ali Övek</author>
+      <author type="music">Ali Övek</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// How You loved me, Lord!<br/>How You sought me, Lord!<br/>Gave your only Son just for me  //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// While still lost in sin<br/>In the night of sin<br/>Jesus died for me and for you  //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// Your great plan completed there!<br/>All my sin white as snow!<br/>On the cross all things<br/>have been made new!   //</lines>
+    </verse>
+  </lyrics>
+</song>

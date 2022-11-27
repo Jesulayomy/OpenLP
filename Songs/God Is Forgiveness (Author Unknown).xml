@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>God Is Forgiveness</title>
+    </titles>
+    <copyright>Ateliers et Presses de Taizé</copyright>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is forgiveness,<br/>Dare to forgive and<br/>God will be with you<br/>God is forgiveness,<br/>Love and do not fear.</lines>
+    </verse>
+  </lyrics>
+</song>

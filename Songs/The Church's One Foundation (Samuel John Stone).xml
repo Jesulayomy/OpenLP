@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>The Church's One Foundation</title>
+    </titles>
+    <authors>
+      <author>Samuel John Stone</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The church's one foundation<br/>Is Jesus Christ, her Lord;<br/>She is His new creation<br/>By water and the word;<br/>From heaven He came and sought her<br/>To be His holy bride,<br/>With His own blood He bought her,<br/>And for her life He died.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elect from every nation,<br/>Yet one o’er all the earth,<br/>Her charter of salvation—<br/>One Lord, one faith, one birth;<br/>One holy name she blesses,<br/>Partakes one holy food,<br/>And to one hope she presses<br/>With every grace endued.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though with a scornful wonder<br/>Men see her sore oppressed,<br/>By schisms rent asunder,<br/>By heresies distressed,<br/>Yet saints their watch are keeping,<br/>Their cry goes up, ‘How long?’<br/>And soon the night of weeping<br/>Shall be the morn of song.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>’Mid toil, and tribulation,<br/>And tumult of her war,<br/>She waits the consummation<br/>Of peace forever more;<br/>Till with the vision glorious<br/>Her longing eyes are blessed,<br/>And the great church victorious<br/>Shall be the church at rest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yet she on earth hath union<br/>With God the Three in One,<br/>And mystic sweet communion<br/>With those whose rest is won:<br/>O happy ones and holy!<br/>Lord, give us grace that we,<br/>Like them, the meek and lowly,<br/>On high may dwell with Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>In the Garden</title>
+    </titles>
+    <authors>
+      <author type="words">C. Austin Miles</author>
+      <author type="music">C. Austin Miles</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4886"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I come to the garden alone, While the dew is still on the roses;<br/>And the voice I hear falling on my ear, The Son of God discloses.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And He walks with me, and He talks with me,<br/>And He tells me I am His own;<br/>And the joy we share as we tarry there,<br/>None other has ever known.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He speaks, and the sound of His voice Is so sweet the birds hush their singing;<br/>And the melody that He gave to me, Within my heart is ringing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'd stay in the garden with Him, Though the night around me be falling;<br/>But He bids me go; thru the voice of woe, His voice to me is calling.</lines>
+    </verse>
+  </lyrics>
+</song>

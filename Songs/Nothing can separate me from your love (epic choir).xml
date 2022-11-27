@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:43">
+  <properties>
+    <titles>
+      <title>Nothing can separate me from your love</title>
+    </titles>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nothing can separate me <br/>from your love <br/>Oh Lord no be lie<br/>Say na only you change<br/>my life uh uh eh<br/>Your love is unfakeable<br/>blessings are uncountable<br/>Everything that you do Lord<br/>I can not tell it all<br/>Let me count.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Everything has changed<br/>E don change o<br/>E don change, oh-oh-oh<br/>Everything has changed<br/>E don change o<br/>E don change, oh-oh-oh<br/>In the name of Jesus<br/>In the name of Jesus<br/>I can never be the <br/>same again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory be to Your name o<br/>To Your name<br/>To Your name, oh-oh<br/>Adoration to Your name o<br/>To Your name<br/>To Your name</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Oh-oh-oh<br/>Oh-oh-oh-oh-oh<br/>Oh-oh-oh-oh-oh-oh-oh<br/>Oh-oh-oh<br/>Oh-oh-oh-oh-oh<br/>Oh-oh-oh-oh-oh-oh-oh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the name of Jesus <br/>(settled)<br/>In the name of Jesus <br/>(settled)<br/>In the name of Jesus<br/>I can never be the <br/>same again</lines>
+    </verse>
+  </lyrics>
+</song>

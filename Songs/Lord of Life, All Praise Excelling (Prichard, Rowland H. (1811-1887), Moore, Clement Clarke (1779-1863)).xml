@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lord of Life, All Praise Excelling</title>
+    </titles>
+    <authors>
+      <author type="music">Prichard, Rowland H. (1811-1887)</author>
+      <author type="words">Moore, Clement Clarke (1779-1863)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of life, all praise excelling, Thou, in glory unconfined, Deignst to make Thy humble dwelling With the poor of humble mind. As Thy love, through all creation, Beams like Thy diffusive light; So the high and humble station Both are equal in Thy sight.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thus Thy care, for all providing, Warmed Thy faithful prophet's tongue; Who, the lot of all deciding, To Thy chosen Israel sung. When Thy harvest yields Thee pleasure, Thou the golden sheaf shalt bind; To the poor belongs the treasure Of the scattered ears behind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Still we read Thy Word declaring Mercy, Lord, Thine own decree; Mercy ev'ry sorrow sharing, Warms the heart resembling Thee. Still the orphan and the stranger, Still the widow owns Thy care; Screened by Thee in ev'ry danger, Heard by Thee in ev'ry prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

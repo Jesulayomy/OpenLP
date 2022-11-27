@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>There Is None Like You</title>
+    </titles>
+    <authors>
+      <author type="words">Lenny LeBlanc</author>
+      <author type="music">Lenny LeBlanc</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>response</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+      <theme>longing</theme>
+      <theme>rubob</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>There is none like You<br/>No one else can touch my heart like You do<br/>I could search for all eternity long and find<br/>There is none like You</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Your mercy flows like a river wide<br/>And healing comes from your hands<br/>Suffering children are safe in your arms<br/>There is none like You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When low in spirit I called on your name<br/>and you heard my prayer<br/>You lifted me up and you set me free.<br/>There is none like you.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>That's Why We Praise Him</title>
+    </titles>
+    <copyright>1999 Doulos Publishing\We Mobile Music</copyright>
+    <authors>
+      <author type="words">Tommy Walker</author>
+      <author type="music">Tommy Walker</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He came to live, live a perfect life.<br/>He came to be the Living Word, our light.<br/>He came to die so we'd be reconciled.<br/>He came to rise to show His power and might.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>That's why we praise Him, that's why we sing.<br/>That's why we offer Him our everything.<br/>That's why we bow down and worship this King.<br/>'Cause He gave His everything.<br/>'Cause He gave His everything.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He came to live, live again in us.<br/>He came to be our conquering King and Friend.<br/>He came to heal and show the lost ones His love.<br/>He came to go prepare a place for us.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Halle, Hallelujah!<br/>Halle, Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

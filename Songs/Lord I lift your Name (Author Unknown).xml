@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>Lord I lift your Name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, my heart can grow, so far away and cold;<br/>And yet for me Your love is still the same<br/>Lord, I bend my knee in awe and fear of Thee<br/>My head bowed down in rev'rence to Your name.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I lift Your name, Your Holy name,<br/>Jehovah God, Elohim<br/>The Great I Am, the Risen Lamb<br/>My Comforter and King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, my heart's desire is<br/>to be filled with the Spirit Fire,<br/>My purpose is to worship You alone.<br/>Open up my soul to worship and adore,<br/>To be a fragrane offered to Your throne.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Praises</title>
+    </titles>
+    <copyright>2000 Dawn Treader Music/Warner Sojourner Music</copyright>
+    <authors>
+      <author type="words">Newsboys</author>
+      <author type="music">Newsboys</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tears have fallen. Water beads.<br/>Wipe the floor with my regrets.<br/>In the crevice, tiny seeds<br/>Spring to life from pardoned debts.<br/>And all I have, all I have is</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praises on my tongue from my heart<br/>For our God who became flesh.<br/>For us all, unto you<br/>I will sing my praises,<br/>Sing forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the quiet, I lament<br/>Every nail, my sin did buy.<br/>And I wonder why you spent<br/>Lavish blood on such as I.<br/>When all I have, all I have is</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh, for a thousand tongues to sing,<br/>To sing aloud, sing aloud.<br/>Oh, to the Glory of my God and King,<br/>To sing aloud, sing aloud. (2X)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Praises on my tongue from my heart<br/>For our God who became flesh.<br/>For us all, unto you<br/>I will ever sing my, ever sing my</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Praises on my tongue from my heart<br/>For our God who became flesh.<br/>For us all, unto you<br/>I will ever sing these</lines>
+    </verse>
+    <verse name="b2">
+      <lines>This is the truth<br/>Of God and man and life.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Faithful To The End</title>
+    </titles>
+    <authors>
+      <author type="words">Cory Asbury</author>
+      <author type="music">Cory Asbury</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1696"/>
+    </songbooks>
+    <themes>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>The promise of Your coming light<br/>It burns so brightly in my mind<br/>All creation groans and waits<br/>For the dawning of that Day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I believe</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>You will come riding on the clouds<br/>With justice in Your heart, And a sword upon Your side<br/>All will see the glory of Your name<br/>Fire in Your eyes, You're jealous for Your bride</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>He's faithful to the end, faithful to my heart<br/>He's faithful to the end, He will come and marry me.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Glory to the Righteous One</lines>
+    </verse>
+  </lyrics>
+</song>

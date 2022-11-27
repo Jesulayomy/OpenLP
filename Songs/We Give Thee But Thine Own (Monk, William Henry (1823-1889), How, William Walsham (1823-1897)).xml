@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>We Give Thee But Thine Own</title>
+    </titles>
+    <authors>
+      <author type="music">Monk, William Henry (1823-1889)</author>
+      <author type="words">How, William Walsham (1823-1897)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We give Thee but Thine own, Whate'er the gift may be; All that we have is Thine alone, A trust, O Lord, from Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May we Thy bounties thus As stewards true receive, And gladly, as Thou blessest us, To Thee our firstfruits give.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O hearts are bruised and dead, And homes are bare and cold, And lambs for whom the Shepherd bled Are straying from the fold.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To comfort and to bless, To find a balm for woe, To tend the lone and fatherless Is angels' work below.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The captive to release, To God the lost to bring, To teach the way of life and peace? It is a Christlike thing.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And we believe Thy Word,<br/>Though dim our faith may be;<br/>Whate'er for Thine we do, O Lord,<br/>We do it unto Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

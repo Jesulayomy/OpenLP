@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Take my Life and Let it Be</title>
+    </titles>
+    <authors>
+      <author>Frances Ridley Havergal</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take my life, and let it be<br/>Consecrated, Lord, to Thee; <br/>Take my moments and my days, <br/>Let them flow in ceaseless praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take my hands, and let them move <br/>At the impulse of Thy love; <br/>Take my feet, and let them be <br/>Swift and beautiful for Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take my voice, and let me sing <br/>Always, only, for my King; <br/>Take my lips, and let them be <br/>Filled with messages from Thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take my silver and my gold, <br/>Not a mite would I withhold; <br/>Take my intellect, and use <br/>Every power as Thou shalt choose.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Take my will, and make it Thine; <br/>It shall be no longer mine: <br/>Take my heart, it is Thine own; <br/>It shall be Thy royal throne.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Take my love; my Lord, I pour <br/>At Thy feet its treasure store: <br/>Take myself, and I will be <br/>Ever, only, all for Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

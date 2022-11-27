@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Hills and Valleys</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've walked among the shadows<br/>You wiped my tears away<br/>And I've felt the pain of heartbreak<br/>And I've seen the brighter days<br/>And I've prayed prayers to heaven from my lowest place<br/>And I have held the blessings<br/>God, you give and take away</lines>
+    </verse>
+    <verse name="b1">
+      <lines>No matter what I have, Your grace is enough No matter where I am, I'm standing in Your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On the mountains, I will bow my life To the one who set me there<br/>In the valley, I will lift my eyes to the one who sees me there<br/>When I'm standing on the mountain aft, didn't get there on my own<br/>When I'm walking through the valley end, no I am not alone!<br/>You're God of the hills and valleys! Hills and Valleys! God of the hills and valleys<br/>And I am not alone!</lines>
+    </verse>
+  </lyrics>
+</song>

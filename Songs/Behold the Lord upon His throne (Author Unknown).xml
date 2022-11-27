@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:52">
+  <properties>
+    <titles>
+      <title>Behold the Lord upon His throne</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>meditation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold the Lord upon His throne;<br/>His face is shining like the sun.<br/>With eyes blazing fire, and feet glowing bronze,<br/>His voice like mighty water roars.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy, holy, Lord God Almighty.<br/>Holy, holy, we stand in awe of You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The First, the Last, the Living One<br/>Laid down His life for all the world;<br/>Behold He now lives forevermore,<br/>And holds the keys of death and hell.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Holy, holy, Lord God Almighty;<br/>Holy, holy, we bow before Your throne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So let our praises ever ring<br/>To Jesus Christ, our glorious King.<br/>All Heaven and Earth resound as we cry:<br/>Worthy  is the Son of God!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Holy, holy, Lord God Almighty;<br/>Holy, holy, we fall down at Your feet.</lines>
+    </verse>
+  </lyrics>
+</song>

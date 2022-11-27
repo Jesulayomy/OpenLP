@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>Great Is Thy Faithfulness</title>
+    </titles>
+    <copyright>1923 Renewed 1951 Hope Publishing Company</copyright>
+    <authors>
+      <author type="words">Thomas O. Chisholm</author>
+      <author type="music">Thomas O. Chisholm</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is Thy faithfulness, O God my Father,<br/>There is no shadow of turning with Thee;<br/>Thou changest not, Thy compassions they fail not;<br/>As Thou hast been, Thou forever will be.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great is Thy faithfulness! Great is Thy faithfulness!<br/>Morning by morning new mercies I see;<br/>All I have needed, Thy hands hath provided<br/>Great is Thy faithfulness, Lord unto me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Summer and winter and springtime and harvest,<br/>Sun, moon and stars in their courses above<br/>Join with all nature in manifold witness<br/>To Thy great faithfulness, mercy and love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pardon for sin and a peace that endureth,<br/>Thy own dear presence to cheer and to guide;<br/>Strength for today and bright hope for tomorrow,<br/>Blessings all mine with ten thousands beside.</lines>
+    </verse>
+  </lyrics>
+</song>

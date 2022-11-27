@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:10">
+  <properties>
+    <titles>
+      <title>All Creatures of our God and King</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>St. Francis of Assisi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All creatures of our God and King,<br/>Lift up your voice and with us sing:<br/>Hallelujah, hallelujah!<br/>Thou burning sun with golden beam,<br/>Thou silver moon with softer gleam:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O praise Him, O praise Him,<br/>Hallelujah, hallelujah, hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou rushing wind that art so strong,<br/>Ye clouds that sail in heaven along,<br/>O praise Him, hallelujah!<br/>Thou rising morn, in praise rejoice,<br/>Ye lights of evening, find a voice:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou flowing water, pure and clear,<br/>Make music for thy Lord to hear,<br/>Hallelujah, hallelujah!<br/>Thou fire so masterful and bright,<br/>That givest man both warmth and light:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And all ye men of tender heart,<br/>Forgiving others, take your part,<br/>O sing ye, hallelujah!<br/>Ye who long pain and sorrow bear,<br/>Praise God and on Him cast your care:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let all things their Creator bless,<br/>And worship Him in humbleness,<br/>O praise Him, hallelujah!<br/>Praise, praise the Father, praise the Son,<br/>And praise the Spirit, Three-in-One:</lines>
+    </verse>
+  </lyrics>
+</song>

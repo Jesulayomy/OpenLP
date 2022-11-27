@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>You gave light its speed</title>
+      <title>Magnificent</title>
+    </titles>
+    <authors>
+      <author type="words">Dan Smith</author>
+      <author type="music">Dan Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You gave light its speed, You are Lord<br/>You said "Let it be" and it was<br/>You made it all, all that we see is Your work<br/>The universe is held by Your powerful Word</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are magnificent<br/>The stars, just a sign of Your radiance<br/>The sun, just a glimpse of Your pow'r<br/>Heaven and earth bow down (1st time go to Verse 2)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Great in humility<br/>Obedient even to Calvary<br/>Praise in the highest, resounds<br/>Crown Him with many crowns!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reconciled and free, we are Yours<br/>What a mystery, what a cost<br/>You gave it all, Your blood restores and redeems<br/>You are the Lord, Jesus the King of all Kings</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Crown Him with blessing<br/>Crown Him with glory<br/>Crown Him with wisdom and with thanks<br/>Crown Him forever<br/>Crown Him with honour<br/>Crown Him with power and might</lines>
+    </verse>
+  </lyrics>
+</song>

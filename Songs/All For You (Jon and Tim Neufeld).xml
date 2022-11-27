@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>All For You</title>
+    </titles>
+    <copyright>Birdwing Music</copyright>
+    <authors>
+      <author type="words">Jon and Tim Neufeld</author>
+      <author type="music">Jon and Tim Neufeld</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nothing compares to<br/>Life I have in You;<br/>Nothing of this world satisfies.<br/>So I want to let go,<br/>I want to let You know<br/>All that I have to give is Yours.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Here I am, as gold to the fire<br/>I will surrender to Your hand.<br/>To this place,<br/>Lord, I have come<br/>Ready for Your touch.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It's all for You.<br/>It's all for You.<br/>I'm letting go.<br/>I'm letting go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What is it in me<br/>That hangs on for so long?<br/>Why do I fight the tears that come?<br/>I work so hard to<br/>Keep in control when<br/>All that I want is to let go.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I'll take this life<br/>And lay it down;<br/>I'm letting go.<br/>I'm letting go.<br/>My hopes and dreams,<br/>Here at Your feet;<br/>I'm letting go.<br/>I'm letting go.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I am ready for Your life.<br/>And I am ready for You now.</lines>
+    </verse>
+  </lyrics>
+</song>

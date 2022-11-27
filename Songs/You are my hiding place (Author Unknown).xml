@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>You are my hiding place</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my hiding place, O Lord<br/>You saved me from distress<br/>You are my hiding place<br/>You saved me from distress<br/>You surround my soul<br/>With cries of deliverance</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus<br/>You are my hiding place, O Lord<br/>You gaze into the secrets of my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let every good man pray to you<br/>In his hour of need<br/>Flood waters may reach high<br/>But him they shall not reach<br/>Let every good man pray<br/>In his hour of need</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A hidden secret wastes my frame<br/>I groan through the night<br/>And cry through the day<br/>I will confess my sin<br/>My guilt I will not hide<br/>I will confess my pride<br/>And God wil forgive</lines>
+    </verse>
+  </lyrics>
+</song>

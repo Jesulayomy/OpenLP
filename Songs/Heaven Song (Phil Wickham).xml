@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Heaven Song</title>
+    </titles>
+    <authors>
+      <author type="words">Phil Wickham</author>
+      <author type="music">Phil Wickham</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You wrote a letter and You signed Your name<br/>I read ever word Read it page by page<br/>You said that You'd be coming<br/>Coming for me soon<br/>Oh my God I'll be ready for You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>('Cause) I want to run on greener pastures<br/>I want to dance on higher hills<br/>I want to drink from sweeter waters<br/>In the misty morning chill<br/>And my soul is getting restless<br/>For the place where I belong<br/>I can't wait to join the angels and sing my heaven song</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I hear Your voice and I catch my breath<br/>Well done my child enter in and rest<br/>As tears of joy roll down my cheek<br/>Oh it's beautiful beyond my wildest dreams</lines>
+    </verse>
+  </lyrics>
+</song>

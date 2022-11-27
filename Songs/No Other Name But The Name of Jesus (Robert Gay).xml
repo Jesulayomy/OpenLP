@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>No Other Name But The Name of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Gay</author>
+      <author type="music">Robert Gay</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>// No other name but the name of Jesus,<br/>No other name but the name of the Lord;<br/>No other name but the name of Je-e-e-sus<br/>Is worthy of glory,<br/>And worthy of honor,<br/>And worthy of power and all praise! //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>His name is ex-alted far above the earth;<br/>His name is high above the heavens.<br/>His name is ex-alted far above the earth;<br/>Give glory and honor and praise unto His name!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>No other name but the name of Jesus,<br/>No other name but the name of the Lord;<br/>No other name but the name of Je-e-e-sus<br/>Is worthy of glory,<br/>And worthy of honor,<br/>And worthy of power and all praise!</lines>
+    </verse>
+  </lyrics>
+</song>

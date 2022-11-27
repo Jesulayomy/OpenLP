@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-07-17T09:04:35">
+  <properties>
+    <titles>
+      <title>Hymn 118 - What a Friend we Have in Jesus</title>
+    </titles>
+    <authors>
+      <author>Joseph M. Scriven</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a friend we have in Jesus,<br/>All our sins and griefs to bear!<br/>What a privilege to carry<br/>Everything to God in prayer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O what peace we often forfeit!<br/>O what needless pain we bear!<br/>All because we do not carry<br/>Everything to God in prayer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Have we trials and temptations?<br/>Is there trouble anywhere?<br/>We should never be discouraged;<br/>Take it to the Lord in prayer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Can we find a friend so faithful<br/>Who will all our sorrows share?<br/>Jesus knows our every weakness;<br/>Take it to the Lord in prayer.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Are we weak and heavy-laden,<br/>Cumbered with a load of care?<br/>Precious Saviour, still our refuge,<br/>Take it to the Lord in prayer.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Do thy friends despise, forsake thee?<br/>Take it to the Lord in prayer;<br/>In His arms He’ll take and shield thee,<br/>Thou wilt find a solace there.</lines>
+    </verse>
+  </lyrics>
+</song>

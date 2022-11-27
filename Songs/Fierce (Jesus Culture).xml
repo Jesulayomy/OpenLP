@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Fierce</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4899"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Before I call, before I ever cry<br/>You answer me from where the thunder hides<br/>I cannot run, this heart I'm tethered to<br/>With every step I collide with You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Like a tidal wave crashing over me<br/>Rushing in to meet me here your love is fierce!<br/>Like a hurricane that I can't escape<br/>Tearing through the atmosp here your love is fierce!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>You cannot fail, the only thing I've found<br/>Is through it all You never let me down<br/>You don't hold back, relentless in pursuit<br/>And every turn I come face to face with You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>You chase me down, You seek me out<br/>How could I be lost when You have called me found?</lines>
+    </verse>
+  </lyrics>
+</song>

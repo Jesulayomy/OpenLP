@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>There's a pageant of triumph in glory</title>
+    </titles>
+    <authors>
+      <author type="words">Dave Fellingham</author>
+      <author type="music">Dave Fellingham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a pageant of triumph in glory,<br/>As Jesus the King takes His throne.<br/>The shame of the cross is exchanged for a crown,<br/>And heaven applauds the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Son has the Father's approval,<br/>He perfectly followed the plan<br/>To suffer and die for the sins of the world,<br/>He poured out His love for our shame.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let God arise with shouts of joy,<br/>With songs of praise and trumpet sound;<br/>Let music play and hearts be free,<br/>Let God arise!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Death could not keep Him in prison,<br/>He burst through the shackles of hell;<br/>He settled the score with the evil one,<br/>And heaven applauds the King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The fullness of Christ is my treasure,<br/>I've cast off the past with its shame.<br/>The power of the Father has raised me to life,<br/>I'm a son, I'm forgiven and free.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>O Be Glad All Nations on Earth</title>
+    </titles>
+    <authors>
+      <author type="music">Welsh</author>
+      <author type="words">Penney, Brian L. (1951-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O be glad, all nations on Earth, Come let Jesus' Name be praised; He is crowned, the King of glory, At God's right hand He is raised. Angels bowing down before Him, Singing with the heav'nly throng; Elders casting crowns before Him, Singing an eternal song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great and marvelous are Your works, Just and true are all Your ways; All the nations bow in worship, King of kings, Your Name they praise. Angels bowing down before Him, Singing with the heav'nly throng; Elders casting crowns before Him, Singing an eternal song.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When shall Heav'n and Earth together, Walk before the Lamb, its Light? When shall all the saints be gathered, and that Day shall end the night? Angels bowing down before Him, Singing with the heav'nly throng; Elders casting crowns before Him, Singing an eternal song.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lo, that day shall come with glory, When Christ comes with trumpet sound; Then the saints will cease their groaning, Never more by death's chains bound. Let us all bow down before Him, Sing, O sing th'eternal song; Work in hope until we meet Him, And we join the heav'nly throng.</lines>
+    </verse>
+  </lyrics>
+</song>

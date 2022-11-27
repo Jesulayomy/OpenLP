@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Come Awake</title>
+    </titles>
+    <copyright>2005 worshiptogether.com songs | sixsteps Music | Inot Music</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+      <author type="words">Jason Solley</author>
+      <author type="music">Jason Solley</author>
+      <author type="words">Mike Hogan</author>
+      <author type="music">Mike Hogan</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are we left here on our own?<br/>Can you feel when your last breath is gone?</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Night is weighing heavy now.<br/>Be quiet and wait for a voice that will say:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come awake, from sleep arise.<br/>You were dead; become alive.<br/>Wake up, wake up; open your eyes.<br/>Climb from your grave into the light.<br/>Bring us back to life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are not the only one<br/>Who feels like the only one.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Night will soon be lifted, friend.<br/>Just be quiet, wait<br/>for a voice that will say:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Arise...<br/>Shine...</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Wake up, wake up; light will shine.</lines>
+    </verse>
+  </lyrics>
+</song>

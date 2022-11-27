@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Psalm 139:15-16</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3495"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My frame was not hidden from you,<br/>when I was being made in secret,<br/>intricately woven in the depths of the earth.<br/>Your eyes saw my unformed substance;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My frame was not hidden from you,<br/>when I was being made in secret,<br/>intricately woven in the depths of the earth.<br/>Your eyes saw my unformed substance;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>in your book were written,<br/>every one of them,<br/>the days that were formed for me,<br/>when as yet there was none of them.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>in your book were written,<br/>every one of them,<br/>the days that were formed for me,<br/>when as yet there was none of them.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>in your book were written,<br/>every one of them,<br/>the days that were formed for me,<br/>when as yet there was none of them.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>in your book were written,<br/>every one of them,<br/>the days that were formed for me,<br/>when as yet there was none of them.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>My frame was not hidden from you,<br/>when I was being made in secret,<br/>intricately woven in the depths of the earth.<br/>Your eyes saw my unformed substance;</lines>
+    </verse>
+    <verse name="v8">
+      <lines>My frame was not hidden from you,<br/>when I was being made in secret,<br/>intricately woven in the depths of the earth.<br/>Your eyes saw my unformed substance;</lines>
+    </verse>
+    <verse name="v9">
+      <lines>in your book were written,<br/>every one of them,<br/>the days that were formed for me,<br/>when as yet there was none of them.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>in your book were written,<br/>every one of them,<br/>the days that were formed for me,<br/>when as yet there was none of them.</lines>
+    </verse>
+  </lyrics>
+</song>

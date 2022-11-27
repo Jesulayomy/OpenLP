@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>To God be the Glory</title>
+      <title>How can I say thanks</title>
+    </titles>
+    <authors>
+      <author type="words">Andrae Crouch</author>
+      <author type="music">Andrae Crouch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How can I say thanks<br/>for the things you have done for me<br/>Things so undeserved<br/>Yet you give to prove your love for me<br/>The voices of a million angels<br/>Could not express my gratitude<br/>All that I am and ever hope to be<br/>I owe it all to Thee</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To God be the glory<br/>To God be the glory<br/>To God be the glory<br/>For the things He has done<br/>With His blood, He has saved me<br/>With His power, He has raised me.<br/>To God be the glory<br/>For the things he has done</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Just let me live my life<br/>Let it be pleasing, Lord to Thee<br/>Should I gain any praise,<br/>Let it go to Calvary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With His blood, He has saved me<br/>With His power, He has raised me.<br/>To God be the glory<br/>For the things he has done.</lines>
+    </verse>
+  </lyrics>
+</song>

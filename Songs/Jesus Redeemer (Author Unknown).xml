@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Jesus Redeemer</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Redeemer,<br/>Friend and King to me.<br/>My refuge, my comfort,<br/>You're everything to me.<br/>And this heart is on fire for You,<br/>Yes, this heart is on fire for You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You alone are wonderful,<br/>You alone are Counsellor,<br/>Everlasting Father, mighty in the heavens.<br/>Never to forget the love<br/>You displayed upon a cross.<br/>Son of God I thank You;<br/>Prince of Peace, I love Your name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Saviour, Healer, just and true are You.<br/>Now reigning in glory,<br/>Most high and living God.<br/>And this heart is in awe of You,<br/>Yes, this heart is in awe of You.</lines>
+    </verse>
+  </lyrics>
+</song>

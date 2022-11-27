@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Here love is impossible</title>
+    </titles>
+    <authors>
+      <author type="words">Дарина Кочанжи</author>
+      <author type="music">Дарина Кочанжи</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1172"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>lords-supper</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>Every time I think of Your name<br/>Of Your love, that I can't explain<br/>Why You died for us, Jesus Christ?<br/>I want to understand: who You are?<br/>I want to know: what is Your love?<br/>My life is like a night, I need Your light!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Here love is impossible, but You loved me!<br/>This is so incredible - your love to me!<br/>I am insignificant, but even when<br/>Whole world was invisible, you were, You were with me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>Every time I searched for Your face<br/>Your forgiveness and Your grace<br/>You were by my side - freedom for my mind<br/>Now I understand who You are<br/>Now I know, what is Your love<br/>You are in my heart Son of God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:45">
+  <properties>
+    <titles>
+      <title>You Hold All Power In Your Hand</title>
+    </titles>
+    <verseOrder>v1 v1 v2 v3 v3 v4</verseOrder>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You hold all power in your hand  <br/>Jehovah <br/>and all creation will proclaim your majesty<br/>The nations bow down at your throne <br/>Proclaiming you reign<br/>You reign</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anyi ekele ya<br/>Odironyedikagi<br/>Anyi ekele ya<br/>Odironyedika chukwu<br/>Omemma<br/>Omemma</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Agam e buru Aleluya<br/>Elu<br/>Elu<br/>Elu<br/><br/>Agam e buru Aleluya<br/>Elu<br/>Elu<br/>Elu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You’re wonderful<br/>You’re wonderful<br/>Wonderful in your way</lines>
+    </verse>
+  </lyrics>
+</song>

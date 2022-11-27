@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lift Up Your Heads, Ye Mighty Gates</title>
+    </titles>
+    <authors>
+      <author type="music">Lemke, August (1820-1913)</author>
+      <author type="words">Weissel, Georg (1590-1635)</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift up your heads, ye mighty gates! Behold, the King of glory waits; The King of kings is drawing near, The Savior of the world is here; Life and salvation doth He bring, Wherefore rejoice and gladly sing: We praise Thee, Father, now! Creator, wise art Thou!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord is just, a Helper tried, Mercy is ever at His side, His kingly crown is holiness, His scepter, pity in distress, The end of all our woe He brings; Wherefore the earth is glad and sings: We praise Thee, Savior, now! Mighty in deed art Thou!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O blest the land, the city blest, Where Christ the Ruler is confessed! O happy hearts and happy homes To whom this King in triumph comes! The cloudless Sun of joy He is, Who bringeth pure delight and bliss. O Comforter divine, What boundless grace is Thine!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fling wide the portals of your heart; Make it a temple, set apart From earthly use for heav'ns employ, Adorned with prayer and love and joy; So shall your Sovereign enter in, and new and nobler life begin; To Thee, O God, be praise, For Word, and deed, and grace!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Redeemer, come! I open wide My heart to Thee; here, Lord, abide! Let me Thy inner presence feel, Thy grace and love in me reveal. Thy Holy Spirit guide us on, Until our glorious goal be won! Eternal praise and fame We offer to Thy Name.</lines>
+    </verse>
+  </lyrics>
+</song>

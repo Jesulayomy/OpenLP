@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:02">
+  <properties>
+    <titles>
+      <title>Rescue the Perishing</title>
+    </titles>
+    <authors>
+      <author type="music">Doane, William Howard (1832-1915)</author>
+      <author type="words">Crosby, Fanny Jane (1820-1915)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>testimony</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rescue the perishing, care for the dying, Snatch them in pity from sin and the grave; Weep o'er the erring one, lift up the fallen, Tell them of Jesus, the mighty to save. Rescue the perishing, care for the dying, Jesus is merciful, Jesus will save.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though they are slighting Him, still He is waiting, Waiting the penitent child to receive; Plead with them earnestly, plead with them gently; He will forgive they should only believe. Rescue the perishing, care for the dying, Jesus is merciful, Jesus will save.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Down in the human heart, crushed by the tempter, Feelings lie buried that grace can restore; Touched by a loving heart, wakened by kindness, Chords that were broken will vibrate once more. Rescue the perishing, care for the dying, Jesus is merciful, Jesus will save.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rescue the perishing, duty demands it; Strength for thy labor the Lord will provide; Back to the narrow way patiently win them; Tell the poor wand'rer a Savior has died. Rescue the perishing, care for the dying, Jesus is merciful, Jesus will save.</lines>
+    </verse>
+  </lyrics>
+</song>

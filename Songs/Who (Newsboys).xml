@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Who</title>
+    </titles>
+    <authors>
+      <author type="words">Newsboys</author>
+      <author type="music">Newsboys</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How you gonna reckon with a God like this?<br/>When you gonna face what you can't dismiss?<br/>Whatcha gonna say to the soul kiss that is my God?<br/>Fearsome like the sag in a fat man's chair.<br/>Sweeter than a patch of Rogaine hair.<br/>How do you define what you can't compare?<br/>This is my God.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And there's no use explaining what can't be contained.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm not following a God I can lead around;<br/>I can't tame this Deity.<br/>That's why Jesus is the final answer<br/>To who I want my God to be.<br/>He's who I want my God to be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How you gonna reckon with a God this great?<br/>Why you gonna measure what you can't equate?<br/>Whatcha gonna say to the checkmate that is my God?<br/>Stronger than the burn of an aftershave.<br/>Tender as a burger in your microwave.<br/>Rarer than the air in an empty grave.<br/>This is my God.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>How we gonna work this out?<br/>To fabricate a God like this, no doubt,<br/>We'd end up worshipping a Christ of our own design.<br/>But Jesus doesn't fit that profile;<br/>His ways aren't mine.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I'm not following a God that's imagined.<br/>Can't invent this Deity.<br/>That's why Jesus is the final answer<br/>To who I want my God to be.<br/>He's who I want my God to be.</lines>
+    </verse>
+  </lyrics>
+</song>

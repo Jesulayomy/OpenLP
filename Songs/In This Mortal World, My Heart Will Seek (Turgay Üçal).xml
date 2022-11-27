@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>In This Mortal World, My Heart Will Seek</title>
+    </titles>
+    <authors>
+      <author type="translate">Turgay Üçal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Moda Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In this mortal world, my heart will seek<br/>My heart will search, my heart will burn<br/>If you are not with me<br/>My heart will seek, my heart will thirst<br/>My heart will seek, my heart will search<br/>My heart will thirst<br/>My heart will seek, my heart will search<br/>My heart will die without you, Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In this mortal world, my heart will seek<br/>My heart will search, my heart will burn<br/>My heart will ask, "What's wrong with me?"<br/>Will search and search endlessly<br/>My heart will seek, my heart will search<br/>My heart will thirst<br/>My heart will seek, my heart will search<br/>My heart will die without you, Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In this mortal world, my heart will seek<br/>Will fully burn in flames of love<br/>If He won't fill me with His love<br/>My heart will burn endlessly<br/>My heart will burn, keep burning on<br/>My heart will die<br/>My heart will burn, keep burning on<br/>My heart will die without you, Lord</lines>
+    </verse>
+  </lyrics>
+</song>

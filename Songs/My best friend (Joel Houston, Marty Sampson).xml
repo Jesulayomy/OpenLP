@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>My best friend</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+    </authors>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>crucifixion</theme>
+      <theme>forgiveness</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>eternal-life</theme>
+      <theme>sacrifice</theme>
+      <theme>god-our-father</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have you heard of the One called Saviour?<br/>Have you heard of His perfect love?<br/>Have you heard of the One in Heaven?<br/>Have you heard how He gave His Son?<br/>Well I have found this love and I believe in the Son show me your way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I believe in the one called Saviour<br/>I believe He's the risen one<br/>I believe that I'll live forever<br/>I believe that the King will come<br/>Because I have found this love and I believe in the Son show me your way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus you are my best friend and you will always be nothing will ever change that [x2]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I believe in the One called Saviour<br/>I believe He's the risen One<br/>I believe that I'll live forever<br/>I believe that the King will come<br/>Because I have found this love and I believe in the Son show me your way</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus you are my best friend and you will always be nothing will ever change that<br/>Jesus you are my best friend and you will always be nothing will ever change that<br/>Jesus you are my best friend and you will always be nothing will ever change that</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nothing will ever change that [x6]</lines>
+    </verse>
+  </lyrics>
+</song>

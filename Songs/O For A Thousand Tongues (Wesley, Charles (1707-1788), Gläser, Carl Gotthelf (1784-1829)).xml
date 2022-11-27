@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>O For A Thousand Tongues</title>
+    </titles>
+    <authors>
+      <author type="words">Wesley, Charles (1707-1788)</author>
+      <author type="music">Gläser, Carl Gotthelf (1784-1829)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>piano</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O for a thousand tongues to sing<br/>My great Redeemer's praise,<br/>The glories of my God and King,<br/>The triumphs of His grace!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My gracious Master and my God,<br/>Assist me to proclaim,<br/>To spread through all the earth abroad<br/>The honors of Thy name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus! the name that charms our fears,<br/>That bids our sorrows cease;<br/>'Tis music in the sinner's ears,<br/>'Tis life, and health, and peace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He breaks the pow'r of canceled sin,<br/>He sets the prisoner free;<br/>His blood can make the foulest clean,<br/>His blood availed for me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He speaks, and, listening to His voice,<br/>New life the dead receive, The mournful,<br/>broken hearts rejoice,<br/>The humble poor believe.</lines>
+    </verse>
+  </lyrics>
+</song>

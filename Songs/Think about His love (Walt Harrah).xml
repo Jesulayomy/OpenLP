@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>Think about His love</title>
+    </titles>
+    <authors>
+      <author type="words">Walt Harrah</author>
+      <author type="music">Walt Harrah</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Think about His love<br/>Think about His goodness<br/>Think about His grace,<br/>that has brought us through<br/>for as high as the heaven's above,<br/>so great is the mesure of our Fathers love<br/>great is the mesure of our Fathers love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How could I forget His mercy<br/>How could I forget His love<br/>He satisfies, He satisfies,<br/>He satisfies my desires<br/>great is the mesure of our Fathers love</lines>
+    </verse>
+  </lyrics>
+</song>

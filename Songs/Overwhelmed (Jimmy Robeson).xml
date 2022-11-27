@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Overwhelmed</title>
+    </titles>
+    <authors>
+      <author type="words">Jimmy Robeson</author>
+      <author type="music">Jimmy Robeson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2835"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>We have seen and heard the wonders of Your hands<br/>How You loved us first, carried us to the promised land</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Prechorus:<br/>Who is like You God?      None that we know</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>We are overwhelmed, We are overwhelmed by You<br/>Lord You came to our rescue, Now we live to worship You   (x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Turnaround:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>You have seen and heard our desperate cry for mercy<br/>You became a curse so we could live in vict'ry</lines>
+    </verse>
+  </lyrics>
+</song>

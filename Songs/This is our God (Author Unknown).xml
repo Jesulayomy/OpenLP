@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>This is our God</title>
+      <title>Your Grace is Enough</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>comfort</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your grace is enough, more than I need<br/>At Your word I will believe, I wait for you<br/>Draw near again, Let your Spirit make me new</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will fall at your feet; I will fall at your feet<br/>And I will worship you here</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your presence in me, Jesus light the way<br/>By the power of your word, I am restored<br/>I am redeemed; By Your Spirit I am free</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Freely you gave it all for us, surrendered your life upon that cross<br/>Great is the love, Poured out for all<br/>This is our God, Lifted on high from death to life<br/>Forever our God is glorified, Servant and King<br/>Rescued the world, this is our God</lines>
+    </verse>
+  </lyrics>
+</song>

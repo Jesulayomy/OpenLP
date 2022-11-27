@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>New Wine</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3240"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>hope</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+      <theme>devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse 1]<br/>In the crushing<br/>In the pressing<br/>You are making New Wine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Verse 2]<br/>In the soil I<br/>Not surrender<br/>You are breaking New Ground</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So I yield to you and to your careful hand<br/>When I trust you I don't need to understand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Chorus]<br/>Make me your vessel<br/>Make me an offering<br/>Make me whatever<br/>You want me to be</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I came here with nothing<br/>But all you have given me<br/>Jesus bring New Wine<br/>Out of me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Verse 1 Second time]<br/>In the crushing<br/>In the pressing<br/>You are making New Wine</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[Verse 2]<br/>In the soil I<br/>Not surrender<br/>You are breaking New Ground</lines>
+    </verse>
+    <verse name="v8">
+      <lines>[Chorus]<br/>Make me your vessel<br/>Make me an offering<br/>Make me whatever<br/>You want me to be</lines>
+    </verse>
+    <verse name="v9">
+      <lines>I came here with nothing<br/>But all you have given me<br/>Jesus bring New Wine<br/>Out of me<br/>Jesus bring New Wine<br/>Out of me<br/>Jesus bring New Wine<br/>Out of me</lines>
+    </verse>
+    <verse name="v10">
+      <lines>[Outro]<br/>Where there is New Wine<br/>There is new power<br/>There is new freedom<br/>The Kingdom is here<br/>I lay down my old flames<br/>To carry your new fire<br/>Today</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Where there is New Wine<br/>There is new power<br/>There is new freedom<br/>The Kingdom is here<br/>I lay down my old flames<br/>To carry your new fire<br/>Today</lines>
+    </verse>
+    <verse name="v12">
+      <lines>[Chorus]<br/>Make me your vessel<br/>Make me an offering<br/>Make me whatever<br/>You want me to be</lines>
+    </verse>
+    <verse name="v13">
+      <lines>I came here with nothing<br/>But all you have given me<br/>Jesus bring New Wine<br/>Out of me<br/>Jesus bring New Wine<br/>Out of me<br/>Jesus bring New Wine<br/>Out of me</lines>
+    </verse>
+  </lyrics>
+</song>

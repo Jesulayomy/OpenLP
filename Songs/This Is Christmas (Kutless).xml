@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>This Is Christmas</title>
+    </titles>
+    <authors>
+      <author type="words">Kutless</author>
+      <author type="music">Kutless</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1458"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>Do you find it hard to sleep tonight,<br/>Resting by the Christmas lights?<br/>Could there be something you forgot?<br/>Beyond the bows and mistletoe,<br/>The tree with presents wrapped below,<br/>There's more to this than you had ever thought.<br/>Have we lost the reason that we celebrate each year?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>What is Christmas,<br/>If there never was a Savior wrapped in a manger?<br/>What is Christmas without Christ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>Remember how the story goes:<br/>God's gift was wrapped in swaddling clothes,<br/>Beneath the star, one great and holy night.<br/>The shepherds heard the angels sing.<br/>The wise men brought an offering.<br/>Peace on Earth began in Bethlehem.<br/>Have we lost the reason that we celebrate each year?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>What is Christmas,<br/>If there never was a Savior wrapped in a manger?<br/>What is Christmas,<br/>If the angels never sang, "Glory to the newborn King"?<br/>What is Christmas without Christ?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>There'd be no<br/>Gloria<br/>In excelsis deo.<br/>Gloria<br/>In excelsis de-e-o."</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>What is Christmas,<br/>If there never was a Savior wrapped in a manger.<br/>What is Christmas without Christ?</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Final Chorus:<br/>This is Christmas!<br/>It's all about a Savior wrapped in a manger.<br/>This is Christmas,<br/>Because of Jesus Chri-ist.<br/>This is Christmas,<br/>Because of Christ,<br/>Because of Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

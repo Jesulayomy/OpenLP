@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>It Is Well</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="861"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>Grander earth has quaked before<br/>Moved by the sound of His voice<br/>Seas that are shaken and stirred<br/>Can be calmed and broken for my regard</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Through it all, through it all<br/>My eyes are on You<br/>Through it all, through it all<br/>It is well<br/>Through it all, through it all<br/>My eyes are on You<br/>It is well    with me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>Far be it for me to not believe<br/>Even when my eyes can't see<br/>And this mountain that's in front of me<br/>Will be thrown into the midst of sea</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Through it all, through it all<br/>My eyes are on You<br/>Through it all, through it all<br/>It is well<br/>Through it all, through it all<br/>My eyes are on You<br/>It is well, it is well</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>So let go my soul and trust in Him<br/>The waves and wind still know His name<br/>So let go my soul and trust in Him<br/>The waves and wind still know His name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So let go my soul and trust in Him<br/>The waves and wind still know His name<br/>The waves and wind still know His name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Outro:<br/>It is well with my soul<br/>It is well with my soul<br/>It is well with my soul<br/>It is well, it is well with my soul</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It is well, it is well with my soul<br/>It is well, it is well with my soul</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[Chorus]</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Ending:<br/>G - D - Em x2</lines>
+    </verse>
+  </lyrics>
+</song>

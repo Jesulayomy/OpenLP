@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Freedom (feat. Kim Walker-Smith)</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3512"/>
+    </songbooks>
+    <themes>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>Step out of the shadows, step out of the grave<br/>Break into the wild and don't be afraid<br/>Run into wide open spaces<br/>Grace is waiting for you<br/>Dance like the weight has been lifted<br/>Grace is waiting</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Where the Spirit of the Lord is there is freedom, there is freedom<br/>Where the Spirit of the Lord is there is freedom, there is freedom<br/>Come out of the dark, just as you are<br/>Into the fullness of His love<br/>The Spirit is here, let there be freedom<br/>Let there be freedom</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>Bring all of your burdens, bring all of your scars<br/>Come back to communion, come back to the start<br/>Run into wide open spaces<br/>Grace is waiting for you<br/>Dance like the weight has been lifted<br/>Grace is waiting</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Chains will fall, prisons shake<br/>At the sound of Jesus' name<br/>Lives made whole, hearts awake<br/>At the sound of Jesus' name</lines>
+    </verse>
+  </lyrics>
+</song>

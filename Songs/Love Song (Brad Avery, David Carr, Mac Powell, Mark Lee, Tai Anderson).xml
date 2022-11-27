@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Love Song</title>
+    </titles>
+    <copyright>1996 New Spring | Big Man Little Man Music | Gray Dot Songs</copyright>
+    <authors>
+      <author type="words">Mac Powell</author>
+      <author type="music">Mac Powell</author>
+      <author type="words">Brad Avery</author>
+      <author type="music">Brad Avery</author>
+      <author type="words">David Carr</author>
+      <author type="music">David Carr</author>
+      <author type="words">Mark Lee</author>
+      <author type="music">Mark Lee</author>
+      <author type="words">Tai Anderson</author>
+      <author type="music">Tai Anderson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've heard it said that a man would climb a mountain<br/>Just to be with the one he loves.<br/>How many times has he broken that promise -<br/>It has never been done.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I've never climbed the highest mountain,<br/>but I walked the hill of Calvary...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Just to be with you, I would do anything;<br/>There's no price I would not pay.<br/>Just to be with you, I would give everything;<br/>I would give my life away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've heard it said that a man would swim the ocean<br/>Just to be with the one he loves.<br/>Well all those dreams are an empty emotion -<br/>It can never be done.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>I never swam the deepest oceans,<br/>but I walked upon the raging sea...</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I know that you don't understand the fullness of my love,<br/>How I died upon the cross for your sins.<br/>And I know that you don't realize how much I gave you,<br/>And I promise I would do it all again.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Just to be with you, I've done everything;<br/>Theres no price I did not pay.<br/>Just to be with you, I gave everything;<br/>Yes, I gave my life away.<br/>I gave my life away.</lines>
+    </verse>
+  </lyrics>
+</song>

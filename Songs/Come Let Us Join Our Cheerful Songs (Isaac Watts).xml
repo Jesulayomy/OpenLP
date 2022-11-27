@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>Come Let Us Join Our Cheerful Songs</title>
+    </titles>
+    <authors>
+      <author>Isaac Watts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, let us join our cheerful songs,<br/>With angels round the throne;<br/>Ten thousand thousand are their tongues,<br/>But all their joys are one.<br/>‘Worthy the Lamb that died,’ they cry,<br/>‘To be exalted thus.’<br/>‘Worthy the Lamb,’ our lips reply,<br/>‘For He was slain for us.’</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is worthy to receive<br/>Honour and power divine:<br/>And blessings, more than we can give,<br/>Be, Lord, forever Thine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let all that dwell above the sky,<br/>And air, and earth, and seas,<br/>Conspire to lift Thy glories high,<br/>And speak Thine endless praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The whole creation join in one<br/>To bless the sacred name<br/>Of Him that sits upon the throne<br/>And to adore the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

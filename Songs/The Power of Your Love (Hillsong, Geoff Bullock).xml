@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>The Power of Your Love</title>
+      <title>Lord I come to You</title>
+    </titles>
+    <copyright>1992 Word, Inc.</copyright>
+    <authors>
+      <author type="words">Geoff Bullock</author>
+      <author type="music">Geoff Bullock</author>
+      <author type="words">Hillsong</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>response</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>freedom</theme>
+      <theme>prayer</theme>
+      <theme>worship</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>devotion</theme>
+      <theme>grace</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I come to You<br/>Let my heart be changed, renewed<br/>Flowing from the grace that I've found in You<br/>And Lord I've come to know<br/>The weaknesses I see in me<br/>Will be stripped away<br/>By the power of Your love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hold me close, let Your love surround me<br/>Bring me near, draw me to Your side<br/>And as I wait I'll rise up like the eagle<br/>And I will soar with You, Your Spirit leads me on<br/>By the power of Your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord unveil my eyes<br/>Let me see You face to face<br/>The knowledge of Your love as You live in me<br/>Lord renew my mind<br/>As Your will unfolds in my life<br/>In living every day<br/>By the power of Your love</lines>
+    </verse>
+  </lyrics>
+</song>

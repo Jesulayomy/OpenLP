@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Above All Else</title>
+    </titles>
+    <copyright>2001 Vineyard Songs</copyright>
+    <authors>
+      <author type="words">Vicky Beeching</author>
+      <author type="music">Vicky Beeching</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, my passion in life is to know You.<br/>May all other goals bow down to<br/>This journey of loving You more.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Hear my heart's cry,<br/>And my prayer for this life:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Above all else,<br/>Above all else,<br/>Above all else,<br/>Give me Yourself.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, You've shower'd Your goodness on me.<br/>You've given Your gifts so freely,<br/>But there's one thing I'm longing for.</lines>
+    </verse>
+  </lyrics>
+</song>

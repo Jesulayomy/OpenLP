@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Most High</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro: D A G A (x2)<br/>I want to see your face<br/>I want to know your ways<br/>Let your light shine upon us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to know your power<br/>Come fill me once again<br/>Lift me up in your hands of grace</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And put a new song in my mouth<br/>Of praise to you<br/>And the world will see and fear<br/>Your name (x2)<br/>Worthy, worthy is the Lord (x3)<br/>Most High</lines>
+    </verse>
+  </lyrics>
+</song>

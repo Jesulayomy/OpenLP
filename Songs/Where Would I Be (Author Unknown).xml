@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Where Would I Be</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your hand in every part, in my whole life from the start<br/>Jesus, You have always been with me<br/>No matter where I was You found a way to show up<br/>Jesus, You have always been with me</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Oh, there's never a season, never a place<br/>Where I am alone, where You don't show Your face<br/>Right here I remember, how could I forget<br/>Your faithfulness has never left me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Where would I be without You<br/>Where would I be without Your love<br/>I'm amazed by all You've done, oh, Jesus<br/>Where would I be without You<br/>Where would I be without Your love<br/>I can't say thank You enough</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All the ways You saved, pulled me out of the grave<br/>Jesus, You have always been for me<br/>All my life is the proof that You can make everything good<br/>Jesus, You have always been for me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Where would I be without You<br/>Where would I be without Your love<br/>I'm amazed by all You've done, oh, Jesus<br/>Where would I be without You<br/>Where would I be without Your love<br/>I can't say thank You enough</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh, there's never a season, never a place<br/>Where I am alone, where You don't show Your face<br/>Right here I remember, how could I forget<br/>Your faithfulness has never left me</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Where would I be without You<br/>Where would I be without Your love<br/>I'm amazed by all You've done, oh, Jesus<br/>Where would I be without You<br/>Where would I be without Your love<br/>I can't say thank You enough</lines>
+    </verse>
+    <verse name="c4">
+      <lines>I can't say thank You enough<br/>I can't say thank You enough</lines>
+    </verse>
+  </lyrics>
+</song>

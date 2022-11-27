@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Oh Sing</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3556"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>We come alive to magnify the praises of our God<br/>The rocks cry out if we don't shout the praises of our God<br/>There's nothing that Can stand against the praises of our God<br/>We will defeat the enemy with the praises of our God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Oh sing praise to our God  for his name is worthy, worthy<br/>Oh sing praise to our God for our God is worthy, worthy</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge: 2x<br/>His praise in us is glori-ous<br/>Shout it out make it loud make it louder<br/>No other one is like our God<br/>Lifted High Lift Him up Lift Him Higher</lines>
+    </verse>
+  </lyrics>
+</song>

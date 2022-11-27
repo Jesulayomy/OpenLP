@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>I Will Not Forget You</title>
+    </titles>
+    <copyright>1999 Corinthian Music</copyright>
+    <authors>
+      <author type="words">Ben and Robin Pasley</author>
+      <author type="music">Ben and Robin Pasley</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Many men will drink the rain<br/>And turn to thank the clouds.<br/>Many men will hear You speak;<br/>They will never turn around.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>But I will not forget You<br/>Are my God, my King.<br/>With a thankful heart I<br/>Bring my offering.<br/>And my sacrifice is<br/>Not what You can give<br/>But what I alone can<br/>Give to You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A grateful heart I give,<br/>A thankful prayer I pray,<br/>A wild dance I dance before You.<br/>A loud song I sing,<br/>A huge bell I ring,<br/>A life of praise I live before You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Many men will pour their gold<br/>And serve a thing that shines.<br/>Many men will read Your words;<br/>They will never change their minds.</lines>
+    </verse>
+  </lyrics>
+</song>

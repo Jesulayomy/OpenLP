@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>This Little Light of Mine</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">Harry Dixon Loes</author>
+      <author type="music">Harry Dixon Loes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="247"/>
+    </songbooks>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This little light of mine, I'm gonna let it shine<br/>This little light of mine, I'm gonna let it shine<br/>This little light of mine, I'm gonna let it shine<br/>Let it shine, let it shine, let it shine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The light that shines is the light of love<br/>I'm gonna let it shine<br/>The light that shines is the light of love<br/>I'm gonna let it shine<br/>The light that shines is the light of love<br/>I'm gonna let it shine<br/>Let it shine, let it shine, let it shine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It shines on me and it shines on you<br/>I'm gonna let it shine<br/>It shines on me and it shines on you<br/>I'm gonna let it shine<br/>It shines on me and it shines on you<br/>I'm gonna let it shine<br/>Let it shine, let it shine, let it shine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let it shine till Jesus comes<br/>I'm gonna let it shine<br/>Let it shine till Jesus comes<br/>I'm gonna let it shine<br/>Let it shine till Jesus comes<br/>I'm gonna let it shine<br/>Let it shine, let it shine, let it shine.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>On Monday he gave me the gift of love,<br/>Tuesday peace came from above.<br/>On Wednesday he told me to have more faith,<br/>on Thursday he gave me a little more grace.<br/>On Friday he told me just to watch and pray,<br/>on Saturday he told me just what to say,<br/>on Sunday he gave me the pow'r divine<br/>to let my little light shine.</lines>
+    </verse>
+  </lyrics>
+</song>

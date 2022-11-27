@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>For Unto us a Child is Born</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For unto us a child is born,<br/>Unto us a Son is given.<br/>And the government shall be upon His shoulder,<br/>And His name shall be called<br/>Wonderful Counsellor, the Mighty God,<br/>The Everlasting Father,<br/>And the Prince of Peace is He.</lines>
+    </verse>
+  </lyrics>
+</song>

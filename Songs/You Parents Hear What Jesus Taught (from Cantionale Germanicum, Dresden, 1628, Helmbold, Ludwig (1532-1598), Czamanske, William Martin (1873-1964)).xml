@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>You Parents Hear What Jesus Taught</title>
+    </titles>
+    <authors>
+      <author type="music">from Cantionale Germanicum, Dresden, 1628</author>
+      <author type="words">Helmbold, Ludwig (1532-1598)</author>
+      <author type="translate">Czamanske, William Martin (1873-1964)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You parents, hear what Jesus taught When little ones to him were brought: Forbid them not, but heed my plea Permitting them to come to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obey your Lord and let his truth Be taught your children in their youth That they in church and school may dwell And learn their Savior's praise to tell.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For if you love them as you ought, To Christ your children will be brought. If thus you place them in his care, All in your family well shall fare.</lines>
+    </verse>
+  </lyrics>
+</song>

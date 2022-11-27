@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>I Believe in Jesus</title>
+    </titles>
+    <copyright>1987 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Marc Nelson</author>
+      <author type="music">Marc Nelson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I  believe in Jesus,<br/>I believe He is the Son of God;<br/>I believe He died and rose again,<br/>I believe He paid for us all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I believe that He's here now, (echo: I believe You're here,)<br/>Standing in our midst;<br/>With the power to heal now, (echo: With the power to heal,)<br/>And the grace to forgive.</lines>
+    </verse>
+  </lyrics>
+</song>

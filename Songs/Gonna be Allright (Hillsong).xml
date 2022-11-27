@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Gonna be Allright</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+      <author type="music">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've found my meaning in You<br/>Your cause is the reason why I live<br/>Your grace is teaching me how to give</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I give my whole life to You<br/>Your love is the reason why I song<br/>Jesus You are my everything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every night, everyday<br/>I don't need to worry, no I celebrate<br/>All the things You've done in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And its gonna be alright, cause<br/>You are in my life<br/>Yes its gonna be alright</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gonna be, gonna be, gonna be alright<br/>And its gonna be alright,<br/>'Cause Jesus, you're my light<br/>And You have shown me the way<br/>All of my troubles, all of my life<br/>I give to You, my king</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>We Believe</title>
+    </titles>
+    <authors>
+      <author type="words">Newsboys</author>
+      <author type="music">Newsboys</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1524"/>
+    </songbooks>
+    <themes>
+      <theme>piano</theme>
+      <theme>hope</theme>
+      <theme>jesus-return</theme>
+      <theme>victory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In a time of desperation, when all we know is doubt and fear,<br/>There is only one foundation: we believe, we believe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In this broken generation, when all is dark, You help us see;<br/>There is only one salvation: we believe, we believe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We believe in God the Father, we believe in Jesus Christ,<br/>We believe in the Holy Spirit, and He's given us new life.<br/>We believe in the crucifixion, we believe that He conquered hell,<br/>We believe in His resurrection, and that He's coming back again.<br/>We believe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let our faith be more than anthems, greater than the songs we sing;<br/>In our weakness and temptations we believe, we believe.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let the lost be found and dead be raised, in the here and now, let love invade,<br/>Let the Church live loud our God will save: we believe, we believe.<br/>And the gates of hell shall not prevail, for the power of God has torn the veil,<br/>Now we know your love will never fail: we believe, we believe.</lines>
+    </verse>
+  </lyrics>
+</song>

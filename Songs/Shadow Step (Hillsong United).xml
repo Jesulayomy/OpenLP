@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Shadow Step</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2586"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>CHORUS<br/>Tracing all my steps<br/>Light up the way of Your heart<br/>Move me like You do the mountains<br/>Move me like You do the wind<br/>And I'll chase Your voice through the dark<br/>Fix my eyes on the unexpected<br/>In the wonder of Your shadow-step<br/>(Take another step)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>VERSE 1<br/>You met me at the sinners' table<br/>I found You waiting by the well<br/>Unexpected<br/>You are always there</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2<br/>You never left the lost forsaken<br/>Your mercy paves the road ahead<br/>Unexpected<br/>You are always good<br/>You are always good</lines>
+    </verse>
+    <verse name="v3">
+      <lines>POST-CHORUS<br/>And I won't be afraid<br/>In every way<br/>You never fail<br/>So have Your way here God<br/>And I'll sing Your praise<br/>Fix my heart to Yours<br/>Ready for the unexpected<br/>Ready for what You will do next</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE<br/>I can't explain Your heart<br/>Or dare to trace-out all You are<br/>But when I think about<br/>The road You took for love<br/>I know Your grace will stay the path</lines>
+    </verse>
+  </lyrics>
+</song>

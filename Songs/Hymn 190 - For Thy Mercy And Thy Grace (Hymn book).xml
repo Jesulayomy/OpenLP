@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-29T09:58:12">
+  <properties>
+    <titles>
+      <title>Hymn 190 - For Thy Mercy And Thy Grace</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For thy mercy and thy grace<br/>Faithful to us to this day<br/>Hear our song of thankfulness<br/>Father and redeemer, hear</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lo, our sins on Thee we cast<br/>Lo, to Thee we now arise<br/>And, forgetting all the past<br/>Press towards our glorious prize</lines>
+    </verse>
+  </lyrics>
+</song>

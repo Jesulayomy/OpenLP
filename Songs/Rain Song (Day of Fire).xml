@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Rain Song</title>
+    </titles>
+    <copyright>2004 Day of Fire</copyright>
+    <authors>
+      <author type="words">Day of Fire</author>
+      <author type="music">Day of Fire</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bring rivers in this wasteland, clouds into the sky.<br/>Bring springs of life into the wells that have been run dry.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Rise up in this city. Gather in this light.<br/>Pour down on your people Your glory and Your life.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Rain. Lord, we thirst for water.<br/>Rain. We are desert land.<br/>Rain on your sons and daughters.<br/>Rain. Bring your rain again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Speak dreams into this water and vision to this land.<br/>Let oceans be divided and bring forth life again.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let the tide roll in, washing over our lives.<br/>Let your water fall again.<br/>Bring rivers in this wasteland, clouds into the sky.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bring your rain again.<br/>Let your water fall down.<br/>Bring your rain again now. (2X)</lines>
+    </verse>
+  </lyrics>
+</song>

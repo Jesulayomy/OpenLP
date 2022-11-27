@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Healing In The Hands</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Schultz</author>
+      <author type="music">Mark Schultz</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3582"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My savior come, my savior come<br/>My father how my heart is longing for your love<br/>My savior breath, my savior breath<br/>My father breath your breath of life back into me<br/>For I know... where I find my home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is healing in the hands of our god, of our god<br/>There is healing in his mighty hands of grace<br/>Yes, there is mercy in the one who is love, who is love<br/>There is mercy in the one who took my place<br/>My savior come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We bow our heads, humble and weak<br/>We come before the one who knows our every need<br/>We lift our hands, we cry your name<br/>Our hearts are broken by the way of all our shame<br/>Even so... we will not loose hope</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is healing in the hands of our god, of our god<br/>There is healing in his mighty hands of grace<br/>Yes, there is mercy in the one who is love, who is love<br/>There is mercy in the one who took my place<br/>My savior come, my savior come</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are the mighty one, you are the prince of peace<br/>My father you will long, the man to set me free<br/>You are the mighty one, you are the prince of peace<br/>My father you will long, will rescue me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There is healing in the hands of our god, of our god<br/>There is healing in his mighty hands of grace<br/>Yes, there is mercy in the one who is loved, who is loved<br/>There is mercy in the one who took my place<br/>My savior come, my savior come, my savior come</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Blessed Be the Name of the Lord</title>
+      <title>A strong tower</title>
+    </titles>
+    <copyright>1989 Universal - Polygram International Publishing, Inc., 1989 Universal - Polygram International Publishing, Inc.</copyright>
+    <authors>
+      <author type="words">Clinton Utterbach</author>
+      <author type="music">Clinton Utterbach</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the name of the Lord,<br/>Blessed be the name of the Lord,<br/>Blessed be the name of the Lord, Most High;<br/>Blessed be the name of the Lord,<br/>Blessed be the name of the Lord,<br/>Blessed be the name of the Lord, Most High.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The name of the Lord is a strong tower,<br/>The righteous run into it and they are saved.<br/>The name of the Lord is a strong tower,<br/>The righteous run into it and they are saved.</lines>
+    </verse>
+  </lyrics>
+</song>

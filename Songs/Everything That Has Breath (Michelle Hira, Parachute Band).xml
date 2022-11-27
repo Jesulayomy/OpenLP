@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Everything That Has Breath</title>
+    </titles>
+    <authors>
+      <author type="words">Michelle Hira</author>
+      <author type="music">Michelle Hira</author>
+      <author type="words">Parachute Band</author>
+      <author type="music">Parachute Band</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is our God<br/>Let all creation bow<br/>The sovereign King Most Holy One<br/>He sacrificed His life<br/>Washed and cleansed within<br/>Portioned by faith<br/>We're destined to win</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Everything that has breath<br/>Praise the Lord<br/>Everything that's in me<br/>Praise the Lord<br/>I can praise Him on the highest mountain<br/>Praise Him in the lowest valley<br/>Everything that's in me<br/>Praise the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

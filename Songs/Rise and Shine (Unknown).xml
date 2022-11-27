@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Rise and Shine</title>
+    </titles>
+    <authors>
+      <author type="words">Unknown</author>
+      <author type="music">Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Rise and shine and give God the glory, glory<br/>Rise and shine and give God the glory, glory<br/>Rise and shine and give God the glory, glory<br/>Children of the Lord</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The Lord said to Noah, there's gonna be a floody, floody<br/>Lord said to Noah, there's gonna be a floody, floody<br/>Get those children out of the muddy, muddy, children of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord told Noah to build him an arky, arky<br/>The Lord told Noah to build Him an arky, arky<br/>Build it out of gopher barky, barky, children of the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The animals, the animals they came on by twosies, twosies<br/>The animals, the animals they came on by twosies, twosies<br/>Elephants and kangaroosies, 'roosies, children of the Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It rained and poured for forty daysies, daysies<br/>It rained and poured for forty daysies, daysies<br/>Almost drove those animals crazies, crazies, children of the Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The sun came out and dried up the landy, landy<br/>The sun came out and dried up the landy, landy<br/>Everything was fine and dandy, dandy, children of the Lord</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Well this is the beginning of, the beginning of my story, story<br/>This is the beginning of, the beginning of my story, story<br/>Everything is hunky-dorey, dorey, children of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

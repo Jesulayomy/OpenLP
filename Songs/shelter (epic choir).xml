@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:44">
+  <properties>
+    <titles>
+      <title>shelter</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You gave me shelter when I have no other<br/>You made a way where there's no way<br/>You turned my darkness into light<br/>Awadupe Baba<br/><br/>You put food on my table daddy<br/>You comfort me when I was down<br/>Who can be compared unto you<br/>Awadupe Baba<br/><br/>Chorus....<br/>Ese Oluwa<br/>Ese Baba o<br/>Ese Oluwa<br/>Awadupe Baba</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

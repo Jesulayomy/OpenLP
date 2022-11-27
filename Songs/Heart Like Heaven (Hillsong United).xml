@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Heart Like Heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5059"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>Holy no measure knows Your worth<br/>Face down where mercy finds me first</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>Oh whoa oh, If You sought perfection<br/>Oh whoa oh, I'd die trying to reach it<br/>Oh whoa oh, but this broken heart is all You want</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Singing holy Heart like heaven<br/>Singing holy God almighty<br/>Own this heart broke sound<br/>Singing holy is Your name<br/>Singing holy is Your name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Own the sound forever<br/>Heart and heaven together<br/>Singing holy is Your name<br/>And if it lifts You higher<br/>Burn in me Your desire<br/>A passion worthy of Your name<br/>Own the sound forever<br/>Heart and heaven together<br/>Singing holy is Your name<br/>And if it lifts You higher<br/>Burn in me Your desire<br/>A passion worthy of Your name</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pre chorus: 2<br/>Oh whoa oh, and I'll throw my weakness<br/>Oh whoa oh, into Your greatness<br/>Oh whoa oh, If this broken heart is all You want</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Ending:<br/>C#     C#maj9Csus  C#<br/>For You are wor - thy Jesus Saviour<br/>You are worthy King forever<br/>Hear my soul cry   out<br/>Singing holy is Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Outro:</lines>
+    </verse>
+  </lyrics>
+</song>

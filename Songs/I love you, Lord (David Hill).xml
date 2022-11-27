@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>I love you, Lord</title>
+      <title>Here I am again</title>
+    </titles>
+    <copyright>Word Music, Inc.</copyright>
+    <authors>
+      <author type="words">David Hill</author>
+      <author type="music">David Hill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am again dear Lord<br/>I'm calling on Your name<br/>I've done it many times before<br/>But this time's not the same<br/>'Cause I didn't come to ask You<br/>To give me something more<br/>I only came to say<br/>I love You Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I love You Lord<br/>More than tongue can ever tell<br/>And I know that You can see into<br/>The depths of my heart's well<br/>I love You Lord<br/>There's no other love like Yours<br/>I only came to say I love You Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here I am again dear Lord<br/>I hope you didn't mind<br/>Times that I kept coming back<br/>With all the same old lines<br/>But this time I came to tell you<br/>What my heart can't keep inside<br/>I came to say I love You<br/>One more time</lines>
+    </verse>
+  </lyrics>
+</song>

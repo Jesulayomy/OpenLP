@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Woah</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5204"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Woah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Breaking off every chain and the fear that held me<br/>I refuse to agree with the lies they told me</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I take up my position, speak to all my conditions<br/>Take the authority you won for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The word of the Lord in my mouth<br/>To bring about the change<br/>Full of your power I step out<br/>Declare aloud Your praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I Prophesy I Prophesy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm stepping up to become everything You've called me<br/>I believe in Your word and Your Spirit in me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'll praise You like I've never known defeat<br/>I'll praise You every second You've redeemed<br/>I'll praise You, Your power rests on me<br/>I'll praise You now for every victory<br/>I'll praise You cause Your Spirit lives in me<br/>I'll praise You, Your power rests on me</lines>
+    </verse>
+  </lyrics>
+</song>

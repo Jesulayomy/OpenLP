@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>The Passion</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3247"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1:<br/>The passion of our Saviour<br/>The mercy of our God<br/>The cross that leaves no question<br/>Of the measure of His love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Our chains are gone<br/>Our debt is paid<br/>The cross has overthrown the grave<br/>For Jesus' blood that sets us free<br/>Means death to death<br/>And life for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2:<br/>The Innocent judged guilty<br/>While the guilty one walks free<br/>Death would be His portion<br/>And our portion liberty</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>I give my whole life<br/>To honour this love<br/>By the Lamb who was slain<br/>I'm forgiven</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The sinner's Saviour<br/>Crown Him forever<br/>For the Lamb who was slain<br/>He is risen</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Words and Music by Scott Ligertwood, Brooke Ligertwood &amp; Chris Davenport<br/>© 2017 Hillsong Music Publishing<br/>CCLI: 7102399</lines>
+    </verse>
+  </lyrics>
+</song>

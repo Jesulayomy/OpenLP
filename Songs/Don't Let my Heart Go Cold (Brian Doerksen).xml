@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Don't Let my Heart Go Cold</title>
+      <title>Light the Fire Again</title>
+    </titles>
+    <copyright>1994 Mercy/Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+      <theme>protection</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>healer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don't let my love grow cold<br/>I'm calling out, light the fire again<br/>Don't let my vision die<br/>I'm calling out, light the fire again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You know my heart, my deeds<br/>I'm calling out, light the fire again<br/>I need Your discipline<br/>I'm calling out, light the fire again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am here to buy gold, refined in the fire<br/>Naked and poor, wretched and blind I come<br/>Clothe me in white<br/>So I won't be ashamed<br/>Lord light the fire again</lines>
+    </verse>
+  </lyrics>
+</song>

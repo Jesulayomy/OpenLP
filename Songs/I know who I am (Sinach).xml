@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>I know who I am</title>
+    </titles>
+    <authors>
+      <author type="words">Sinach</author>
+      <author type="music">Sinach</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2496"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Know Who I Am"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[2x]<br/>We are a chosen generation<br/>We've been called forth to show His excellence<br/>All I require for life, God has given me<br/>And I know who I am</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[2x]<br/>I know who God says I am<br/>What He says I am<br/>Where He says I'm at<br/>I know who I am</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[2x]<br/>I'm walking in power,<br/>I'm working miracles<br/>I live a life of favor,<br/>For I know who I am</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Repeat from the top]</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh oh oh, oh oh oh<br/>I know who I am<br/>[Repeat]</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I am holy,<br/>I am righteous oh...<br/>I am so rich,<br/>I am beautiful</lines>
+    </verse>
+    <verse name="v8">
+      <lines>[2x]<br/>I'm walking in power,<br/>I'm working miracles<br/>I live a life of favor,<br/>For I know who I am</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Take a look at me. I'm a wonder<br/>It doesn't matter what you see now<br/>Can you see His glory?<br/>For I know who I am<br/>[Repeat]</lines>
+    </verse>
+    <verse name="v10">
+      <lines>[2x]<br/>Oh oh oh, oh oh oh<br/>I know who I am</lines>
+    </verse>
+  </lyrics>
+</song>

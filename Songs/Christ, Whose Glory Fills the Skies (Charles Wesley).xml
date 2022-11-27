@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>Christ, Whose Glory Fills the Skies</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ, whose glory fills the skies,<br/>Christ, the true, the only light,<br/>Sun of righteousness, arise,<br/>Triumph o'er the shades of night:<br/>Day-spring from on high, be near;<br/>Day-star in my heart appear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dark and cheerless is the morn<br/>Unaccompanied by Thee;<br/>Joyless is the day's return,<br/>Till Thy mercy's beams I see;<br/>Till they inward light impart,<br/>Glad my eyes, and warm my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Visit then this soul of mine;<br/>Pierce the gloom of sin and grief;<br/>Fill me, radiancy divine;<br/>Scatter all my unbelief;<br/>More and more Thyself display,<br/>Shining to the perfect day.</lines>
+    </verse>
+  </lyrics>
+</song>

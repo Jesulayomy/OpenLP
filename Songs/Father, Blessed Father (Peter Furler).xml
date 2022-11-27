@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Father, Blessed Father</title>
+    </titles>
+    <copyright>2003 Ariose Music</copyright>
+    <authors>
+      <author type="words">Peter Furler</author>
+      <author type="music">Peter Furler</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Will you take what we have,<br/>A sacrifice unto you,<br/>Then create clean hearts<br/>And, Lord, make our spirits new.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Father, blessed Father,<br/>Lead and guide us for Your name's sake<br/>And keep us in the shelter of Your presence<br/>'Til we see Your face.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let us hear what You say.<br/>Let us know Your voice and all of Your ways.<br/>Take our hands, lead us home<br/>To the refuge that we find in You alone.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All adoration<br/>To our Lord Redeemer,<br/>To our Shepherd<br/>Who carries us forevermore.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Breathe on me, breathe, oh, Breath of Life,<br/>Breathe on me, 'til my heart is new.<br/>Oh Lord, oh Lord,<br/>'til my heart is new.</lines>
+    </verse>
+  </lyrics>
+</song>

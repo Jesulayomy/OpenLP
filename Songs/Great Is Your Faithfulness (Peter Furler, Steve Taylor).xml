@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Great Is Your Faithfulness</title>
+    </titles>
+    <copyright>2003 Ariose Music | Soylent Tunes</copyright>
+    <authors>
+      <author type="words">Peter Furler</author>
+      <author type="music">Peter Furler</author>
+      <author type="words">Steve Taylor</author>
+      <author type="music">Steve Taylor</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If I rise on wings of dawn<br/>Or drift in seas of doubt,<br/>Even there Your strong right hand<br/>Has never failed to guide me out.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great is Your faithfulness<br/>To carry on with a sinner like me.<br/>Great is Your faithfulness,<br/>Turning shame into victory.<br/>Your grace has never let me be;<br/>Your mercy's waited patiently.<br/>Oh, so great is Your faithfulness<br/>To carry on with a sinner like me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If I hide in dark and shadows,<br/>Fearful of each day,<br/>Even there Your blinding light<br/>Illuminates my pathway.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lord, Your goodness, goodness never<br/>Never fails, It never fails me.<br/>How great! How great!<br/>How great! How great!<br/>Your grace has never let me be;<br/>Your mercy's waited patiently.<br/>How great! How great!<br/>How great! How great! Oh!</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Oh, so great is Your faithfulness<br/>To carry on with a sinner like me.<br/>Oh, so great is Your faithfulness<br/>To carry on with a sinner like me.</lines>
+    </verse>
+  </lyrics>
+</song>

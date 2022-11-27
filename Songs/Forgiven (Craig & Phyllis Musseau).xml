@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Forgiven</title>
+    </titles>
+    <copyright>1992 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Craig &amp; Phyllis Musseau</author>
+      <author type="music">Craig &amp; Phyllis Musseau</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4889"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father God<br/>I need to know the truth of who I am in you<br/>Father God, I need to see myself<br/>In the same way that you see me<br/>Just as you see me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There's no need to pull away, even when I fail<br/>For you will never turn your face from me<br/>It's for freedom that you have set me free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father God, you've forgiven all my sins<br/>There's no need to repay you<br/>Father God, help me walk in what you've done<br/>Your love, your grace, and your mercy<br/>Your great mercy</lines>
+    </verse>
+  </lyrics>
+</song>

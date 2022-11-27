@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Oh My Soul</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4897"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh my soul<br/>Oh how you worry, Oh how you weary from fearing<br/>You lost control<br/>This was the one thing you didn't see coming<br/>And no one would blame you, no<br/>If you cried in private, If you tried to hide it away<br/>So no one knows<br/>No one will see if you stop believing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh my soul, you are not alone<br/>There's a place where fear<br/>Has to face the God you know<br/>One more day, He will make a way<br/>Let Him show you how you can lay this down<br/>'Cause You're not alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here and now,<br/>You can be honest, I won't try to promise<br/>That someday it all works out<br/>Cause this is the valley, and even now he is breathing<br/>On your dry bones<br/>And there will be dancing<br/>There will be beauty where beauty was ash and stone<br/>This much I know</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Oh my soul, you are not alone<br/>There's a place where fear<br/>Has to face the God you know<br/>One more day, He will make a way<br/>Let Him show you how you can lay this down</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'm not strong enough<br/>I can't take anymore<br/>(You can lay it down, you can lay it down)<br/>And my shipwrecked faith will never get me to shore<br/>(You can lay it down, you can lay it down)<br/>Can He find me here<br/>Can He keep me from going under</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Oh my soul, you are not alone<br/>There's a place where fear<br/>Has to face the God you know<br/>One more day, He will make a way<br/>Let Him show you how you can lay this down<br/>'Cause You're not alone</lines>
+    </verse>
+  </lyrics>
+</song>

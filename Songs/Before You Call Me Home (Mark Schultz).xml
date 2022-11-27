@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Before You Call Me Home</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Schultz</author>
+      <author type="music">Mark Schultz</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3581"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Black cars in line<br/>The family has arrived<br/>The church fills up<br/>They've come to say goodbye<br/>If this was my last day<br/>What would they have to say?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Did I live a life of love<br/>Did I give myself away<br/>Will my kids think of you<br/>When they speak my name<br/>Was I always full of hope<br/>Always reaching out<br/>I wanna cross the finish line<br/>And know I made it count<br/>Before you call me home<br/>Before you call me home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I wanna be a man<br/>Who builds his children up<br/>With a wife who feels<br/>Like she's been truly loved<br/>And if I've let them down<br/>Lord help me start right now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I wanna live a life of love<br/>I wanna give myself away<br/>I want my kids to think of you<br/>When they speak my name<br/>Always full of hope<br/>Always reaching out<br/>I wanna cross the finished line<br/>And know I made it count<br/>Before you call me home<br/>Before you call me home</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And when I finally close my eyes<br/>And wake up on the other side<br/>With my life laid out in the sun<br/>I wanna hear you say well done, well done</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I wanna live a life of love<br/>I wanna give myself away<br/>I want my kids to think of you<br/>When they speak my name<br/>Always full of hope<br/>Always reaching out<br/>I wanna cross the finish line<br/>And know I made it count<br/>Before you call me home<br/>Before you call me home<br/>Before you call me home<br/>Before you call me home<br/>(Before you call me home)...</lines>
+    </verse>
+  </lyrics>
+</song>

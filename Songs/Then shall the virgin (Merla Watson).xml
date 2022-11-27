@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Then shall the virgin</title>
+    </titles>
+    <authors>
+      <author type="words">Merla Watson</author>
+      <author type="music">Merla Watson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Then shall the virgin rejoice in the dance<br/>Both old men and young men together</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Li, li, li, li, li, li, li, li, li, li, li<br/>Li, li, li, li, li, li, li, li, li, li, li, li</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I will turn their mourning into joy<br/>And I will comfort them<br/>And make them rejoice, rejoice<br/>Rejoice from their sorrow<br/>And make them rejoice, rejoice<br/>Rejoice from their sorrow</lines>
+    </verse>
+  </lyrics>
+</song>

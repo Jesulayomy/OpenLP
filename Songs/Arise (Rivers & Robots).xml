@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Arise</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3534"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:  x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>We lift You up<br/>We lift You up<br/>Lord Jesus, in our worship<br/>We lift You up</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We lift You up<br/>We lift You up<br/>Lord Jesus, in the way we live<br/>We lift You up</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>For there is no-one like You<br/>There is no-one like You<br/>There is no-one like You<br/>We lift you up</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>So I arise, arise, arise<br/>And glorify Your name<br/>Glorify Your name</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I know that You're alive<br/>You paid the highest price to have me<br/>Near to Your throne</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Tag:<br/>You alone are worthy<br/>You alone are holy God</lines>
+    </verse>
+  </lyrics>
+</song>

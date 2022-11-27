@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>I know my Redeemer lives</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I know my Redeemer lives<br/>I know my Redeemer lives<br/>All of creation testify<br/>This life within me cries<br/>I know my Redeemer lives</lines>
+    </verse>
+  </lyrics>
+</song>

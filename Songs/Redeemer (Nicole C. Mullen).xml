@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Redeemer</title>
+    </titles>
+    <authors>
+      <author type="words">Nicole C. Mullen</author>
+      <author type="music">Nicole C. Mullen</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>salvation</theme>
+      <theme>celebration</theme>
+      <theme>victory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who taught the sun where to stand in the morning?<br/>Who told the ocean you can only come this far?<br/>Who showed the moon where to hide 'til evening?<br/>Whose words alone can catch a falling star?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Well, I know my Redeemer lives.<br/>I know my Redeemer lives.<br/>All of creation testify;<br/>This life within me cries.<br/>I know my Redeemer lives.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The very same God that spins things in orbit,<br/>Runs to the weary, the worn and the weak.<br/>And the same gentle hands that hold me when I'm broken,<br/>They conquered death to bring me victory.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Now, I know my Redeemer lives.<br/>I know my Redeemer lives.<br/>Let all creation testify;<br/>Let this life within me cry.<br/>I know my Redeemer, He lives...</lines>
+    </verse>
+    <verse name="b1">
+      <lines>To take away my shame.<br/>And He lives forever; I'll proclaim<br/>That the payment for my sin<br/>Was the precious life He gave,<br/>But now He's alive and<br/>There's an empty grave!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Now, I know my Redeemer lives.<br/>I know my Redeemer lives.<br/>Let all creation testify;<br/>Let this life within me cry.<br/>I know my Redeemer, He lives.<br/>I know my Redeemer, He lives.</lines>
+    </verse>
+  </lyrics>
+</song>

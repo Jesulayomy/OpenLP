@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>We Will Run</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1243"/>
+    </songbooks>
+    <themes>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>Your, Your heart is full of love and mercy<br/>Your, Your blood poured out you were broken for us<br/>We remember the price that You paid on the cross<br/>Your love is calling, love is calling</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>We will run to Your arms give everything to You<br/>We will run to You<br/>Leave our past at the cross Surrendered before You<br/>We will run to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>Your, Your eyes they blaze, they are all consuming<br/>Now our hearts are Yours, they burn for You only<br/>We remember the price that you paid on the cross<br/>Your love is calling, love is calling</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>With every heart, with all we are<br/>We give You praise, You are our Savior</lines>
+    </verse>
+  </lyrics>
+</song>

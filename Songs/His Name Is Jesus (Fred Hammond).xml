@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>His Name Is Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Fred Hammond</author>
+      <author type="music">Fred Hammond</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2860"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have come once again<br/>To the time of the year<br/>When we celebrate, yeah<br/>So let our hearts fill with holiday<br/>Let's clap and rejoice<br/>For the birth of the Lamb is why we dance</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So with gladness we proclaim<br/>The victory is won, yeah<br/>Salvation, glory, and honor<br/>God has given us His Son<br/>And His name is called</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wonderful<br/>Counselor<br/>And of His kingdom there is no end, end<br/>Mighty God<br/>Everlasting Father<br/>And he will rescue us from our sin<br/>His name is Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lead Special<br/>His name, His name,<br/>His name, His name<br/>His name, His name is Jesus<br/>Did you hear me, hey</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Shepherds, wise men and kings<br/>Laid eyes un the child<br/>They worshipped the baby<br/>So let us do the same thing<br/>Lift our hands and adore<br/>For you know that He's worthy</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So let gladness rule our heart<br/>For the victory is won, yeah<br/>Saslvation, glory, and honor<br/>God has sent to us His Son<br/>And His name is called</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Wonderful<br/>Counselor<br/>And of His kingdom there is no end, end<br/>Mighty God<br/>Everlasting Father<br/>And he will rescue us from our sin</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So let gladness rule our heart<br/>For the victory is won, yeah<br/>Salvation, glory and honor<br/>God has given us His Son<br/>And His name is called</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesus<br/>Jesus<br/>Jesus<br/>His name is called<br/>Wonderful Jesus<br/>Jesus<br/>And He will rescue us from our sin</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Rejoice<br/>Be glad<br/>His name<br/>His name is called<br/>Wonderful Jesus<br/>Jesus<br/>And He will rescue us from our sins</lines>
+    </verse>
+  </lyrics>
+</song>

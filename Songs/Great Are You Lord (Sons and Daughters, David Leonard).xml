@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>Great Are You Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Sons and Daughters</author>
+      <author type="music">Sons and Daughters</author>
+      <author type="words">David Leonard</author>
+      <author type="music">David Leonard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>You give life, You are love<br/>You bring light to the darkness<br/>You give hope, You restore<br/>Every heart that is broken</lines>
+    </verse>
+    <verse name="p1">
+      <lines>PRECHORUS<br/>Great are You, Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>It's Your breath in our lungs<br/>So we pour out our praise, We pour out our praise<br/>It's Your breath in our lungs<br/>So we pour out our praise to You only</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2<br/>You give life, You are love<br/>You bring light to the darkness<br/>You give hope, You restore<br/>Every heart that is broken</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE<br/>All the earth will shout Your praise<br/>Our hearts will cry, these bones will sing<br/>Great are You, Lord</lines>
+    </verse>
+  </lyrics>
+</song>

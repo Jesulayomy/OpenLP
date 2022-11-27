@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:21">
+  <properties>
+    <titles>
+      <title>I Could Sing of Your Love Forever</title>
+      <title>Over the mountains and the sea</title>
+    </titles>
+    <copyright>1994 Curious? Music UK</copyright>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3545"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Over the mountains and the sea<br/>Your river runs with love for me<br/>And I will open up my heart<br/>And let the healer set me free<br/>I'm happy to be in the truth<br/>And I will daily lift my hands<br/>For I will always sing of when Your love came down</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I could sing of Your love forever<br/>I could sing of Your love forever<br/>I could sing of Your love forever<br/>I could sing of Your love forever</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh I feel like dancing<br/>It's foolishness I know<br/>But when the world has seen the light<br/>They will dance with joy like we're dancing now</lines>
+    </verse>
+  </lyrics>
+</song>

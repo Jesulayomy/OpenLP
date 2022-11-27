@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Let Us Adore</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The heavens declare<br/>The glory of God<br/>And all of the world<br/>Will join the praise<br/>His wonders proclaim</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The oceans and skies<br/>Lift up their voice<br/>And all He has made<br/>Will rise to bless<br/>The King of all kings</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let us adore Him<br/>Let us adore Him<br/>Jesus Christ is the Lord<br/>Come and behold Him<br/>Bow down before Him<br/>Jesus Christ is the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

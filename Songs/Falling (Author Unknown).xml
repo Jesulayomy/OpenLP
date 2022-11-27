@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Falling</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>I would like to walk this world with you, always<br/>Never want to be apart from you, O Lord<br/>I am sometimes overwhelmed by Truth and Your ways</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Could it be that I was made for You, I'm blown away<br/>I am falling, I am falling in love<br/>I am falling in love, I am falling in love with You<br/>I am falling, I am falling in love<br/>    Esus<br/>I am falling in love,<br/>I am falling in love with You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>Would You stay and listen for awhile, please stay<br/>And let me talk of how You make me smile, oh...<br/>I would like to leave it all behind, my ways<br/>But I get caught up in myself sometimes<br/>All I can say</lines>
+    </verse>
+  </lyrics>
+</song>

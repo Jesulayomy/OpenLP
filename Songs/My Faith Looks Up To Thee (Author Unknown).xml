@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>My Faith Looks Up To Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My faith looks up to Thee,<br/>Thou Lamb of Calvary,<br/>Savior divine!<br/>Now hear me while I pray,<br/>Take all my guilt away,<br/>O let me from this day<br/>Be wholly Thine!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May Thy rich grace impart<br/>Strength to my fainting heart,<br/>My zeal inspire;<br/>As Thou hast died for me,<br/>O may my love to Thee<br/>Pure, warm, and changeless be,<br/>A living fire!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>While life's dark maze I tread,<br/>And griefs around me spread,<br/>Be Thou my Guide;<br/>Bid darkness turn to day,<br/>Wipe sorrow's tears away,<br/>Nor let me ever stray<br/>From Thee aside.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When ends life's transient dream,<br/>When death's cold, sullen stream<br/>Shall o'er me roll;<br/>Blest Savior, then, in love,<br/>Fear and distrust remove;<br/>O bear me safe above,<br/>A ransomed soul!</lines>
+    </verse>
+  </lyrics>
+</song>

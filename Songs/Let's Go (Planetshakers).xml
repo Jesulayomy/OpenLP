@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Let's Go</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2734"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE:<br/>The shadows of my yesterday<br/>Clouded up my faith to pray<br/>But You blew it all away</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2:<br/>The voices tried to pull me down<br/>And bury me into the ground<br/>But You made the greater sound</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS:<br/>And now I hear You calling me<br/>The voice of a raging sea<br/>This is your destiny</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>Let's go, let the music play<br/>It's time to celebrate<br/>'Cause it's a brand new day<br/>Let's go, we are so alive and God is on our side<br/>Oooh Oooh Oooh<br/>Oooh Oooh Oooh</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>Your glory rises like the sun<br/>Radiating life to everyone<br/>Now death is over and I'm alive<br/>I'm taking hold of this victory<br/>Now I'm running in my destiny<br/>For Your glory I will go</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Coda:<br/>Let's go</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Heaven's Child</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6327"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>She rocked her tiny baby to warm him from the cold<br/>Hardly what she pictured In the prophecies of old<br/>It seemed almost impossible to think it could be true<br/>But as she pondered in her heart She knew</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This was heaven's child, this was heaven's child<br/>In an earthen vessel wrapped in Glory, meek and mild<br/>Joseph wept with wonder as Mary sweetly smiled<br/>Because they knew this was heaven's child</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The angels must have missed Him as they sang Him to sleep<br/>But they marveled at the promises this baby came to keep<br/>His Father must have felt at once great sadness and great joy<br/>As He watched His little baby boy</lines>
+    </verse>
+    <verse name="c2">
+      <lines>This was heaven's child, this was heaven's child<br/>In an earthen vessel wrapped in Glory, meek and mild<br/>Joseph wept with wonder as Mary sweetly smiled<br/>Because they knew this was heaven's child</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Mary's little baby boy was Joseph's pride and joy<br/>Still they wished the world would see He was so much more</lines>
+    </verse>
+    <verse name="c3">
+      <lines>He was heaven's child, He was heaven's child<br/>In an earthen stable wrapped in glory, meek and mild<br/>Joseph wept with wonder as Mary sweetly smiled<br/>Because they knew this was heaven's child</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Because they knew this was heaven's child</lines>
+    </verse>
+  </lyrics>
+</song>

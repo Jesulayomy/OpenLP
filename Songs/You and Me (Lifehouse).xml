@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>You and Me</title>
+    </titles>
+    <authors>
+      <author type="words">Lifehouse</author>
+      <author type="music">Lifehouse</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What day is it?<br/>And in what month?<br/>This clock never seemed so alive.<br/>I can't keep up,<br/>And I can't back down;<br/>I've been losing so much time.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>'Cause it's you and me<br/>And all of the people<br/>With nothing to do,<br/>Nothing to lose.<br/>And it's you and me<br/>And all of the people,<br/>And I don't know why<br/>I can't keep my eyes off of you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What other things<br/>That I wanna say<br/>Just aren't coming out right.<br/>I'm tripping on words;<br/>You've got my head spinning.<br/>I don't know where to go from here.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>'Cause it's you and me<br/>And all of the people<br/>With nothing to do,<br/>Nothing to prove.<br/>And it's you and me<br/>And all of the people,<br/>And I don't know why<br/>I can't keep my eyes off of you.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Something about you now<br/>I can't quite figure out.<br/>Everything she does is beautiful,<br/>Everything she does is right.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>'Cause it's you and me<br/>And all of the people<br/>With nothing to do,<br/>Nothing to lose.<br/>And it's you and me<br/>And all of the people,<br/>And I don't know why<br/>I can't keep my eyes off of...<br/>you and me<br/>And all of the people<br/>With nothing to do,<br/>Nothing to prove.<br/>And it's you and me<br/>And all of the people,<br/>And I don't know why<br/>I can't keep my eyes off of you.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>What day is it?<br/>And in what month?<br/>This clock never seemed so alive.</lines>
+    </verse>
+  </lyrics>
+</song>

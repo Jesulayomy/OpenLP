@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>All My Life</title>
+    </titles>
+    <copyright>1999 Parachute Music | Integrity's Praise! Music</copyright>
+    <authors>
+      <author type="words">Libby and Wayne Huirua</author>
+      <author type="music">Libby and Wayne Huirua</author>
+      <author type="words">Mark DeJong</author>
+      <author type="music">Mark DeJong</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Freedom, my Reason, my Savior,<br/>That's what You are to me.<br/>You free me, complete me, my Savior<br/>That's what You are.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There's no other like You.<br/>There's no one beside You.<br/>You're more than my heart can contain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will love You all my life,<br/>For You are my Reason, the One that I live for.<br/>And I will love You all my life,<br/>For You are my Reason,<br/>You're the One that I live for.</lines>
+    </verse>
+  </lyrics>
+</song>

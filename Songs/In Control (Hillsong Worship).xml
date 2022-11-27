@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>In Control</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2165"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>♩= 70</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE: 1<br/>From heaven You can hear<br/>I know You're drawing near as I worship<br/>Held within Your love<br/>The wind and waves will come<br/>But I will stay here</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>I lift my hands to heaven<br/>Here my heart surrendered<br/>I tell my soul again, You are Lord of all<br/>Though the seas are raging<br/>You will speak and tame them<br/>In You I find my rest, You are in control</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE: 2<br/>Through valleys I will trust<br/>Your Spirit is enough to keep me walking<br/>You guide my every step, speak life to me again<br/>Lord I need You, oh, I need You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Repeat CHORUS:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE: 1<br/>I will trust in only You<br/>No one can add to Your perfection<br/>You're the beginning and the end<br/>More than I can comprehend<br/>There is no one like you, no one</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Repeat BRIDGE: 1</lines>
+    </verse>
+    <verse name="b4">
+      <lines>BRIDGE: 2<br/>I will trust in only You<br/>No one can add to Your perfection<br/>You're the beginning and the end<br/>More than I can comprehend<br/>There is no one like you, Jesus</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Repeat CHORUS: twice</lines>
+    </verse>
+    <verse name="b5">
+      <lines>TAG:<br/>In You I find my rest, You are in control</lines>
+    </verse>
+  </lyrics>
+</song>

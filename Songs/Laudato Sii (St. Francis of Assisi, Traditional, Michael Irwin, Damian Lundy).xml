@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>Laudato Sii</title>
+    </titles>
+    <authors>
+      <author type="words">St. Francis of Assisi</author>
+      <author type="music">St. Francis of Assisi</author>
+      <author type="words">Traditional</author>
+      <author type="music">Traditional</author>
+      <author type="words">Michael Irwin</author>
+      <author type="music">Michael Irwin</author>
+      <author type="words">Damian Lundy</author>
+      <author type="music">Damian Lundy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Laudato Sii, o mi Signore!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Yes, be praised in all your creatures<br/>brother sun and sister moon<br/>in the stars and in the wind,<br/>air and fire and flowing water.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For our sister mother earth,<br/>She who feeds us and sustains us;<br/>For her fruits, her grass, her flowers<br/>for the mountains and the oceans</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise for those who spread forgiveness,<br/>Those who share your peace with others,<br/>Bearing trials and sickness bravely!<br/>Even sister death won't harm them.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For our life is but a song,<br/>And the reason for our singing<br/>Is to praise you for the music;<br/>Join the dance of Your creation.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praise to You, Father Most Holy,<br/>Praise and thanks to You, Lord Jesus,<br/>Praise to You, Most Holy Spirit,<br/>Life and joy of all creation!</lines>
+    </verse>
+  </lyrics>
+</song>

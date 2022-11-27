@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>Come Let Us Sing of a Wonderul Love</title>
+    </titles>
+    <authors>
+      <author>Robert Walmsley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, let us sing of a wonderful love,<br/>Tender and true;<br/>Out of the heart of the Father above,<br/>Streaming to me and to you:<br/>Wonderful love<br/>Dwells in the heart of the Father above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, the Saviour, this gospel to tell,<br/>Joyfully came;<br/>Came with the helpless and hopeless to dwell,<br/>Sharing their sorrow and shame;<br/>Seeking the lost,<br/>Saving, redeeming at measureless cost.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is seeking the wanderers yet;<br/>Why do they roam?<br/>Love only waits to forgive and forget;<br/>Home, weary wanderer, home!<br/>Wonderful love<br/>Dwells in the heart of the Father above.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come to my heart, O Thou wonderful love,<br/>Come and abide,<br/>Lifting my life, till it rises above<br/>Envy and falsehood and pride,<br/>Seeking to be<br/>Lowly and humble, a learner of Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

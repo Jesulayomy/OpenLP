@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Jesus Christ Who Came to Save</title>
+      <title>Jesus Christ Today is Risen, Jesus Christ Our Savior True, Jesus Christ, Our Blessed Savior</title>
+    </titles>
+    <authors>
+      <author type="music">from Klug's Geistliche Lieder, Wittenberg, 1533</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Bacon, Leonard Woolsey (1830-1907)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Christ, who came to save, And overcame the grave, Is now arisen, And sin hath bound in prison. Kyri' eleison.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who withouten sin was found, Bore our transgression's wound. He is our Savior, And brings us to God's favor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Life and mercy, sin and death, All in His hands He hath; Them He'll deliver, Who trust in Him forever.</lines>
+    </verse>
+  </lyrics>
+</song>

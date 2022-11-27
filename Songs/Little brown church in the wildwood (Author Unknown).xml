@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:05">
+  <properties>
+    <titles>
+      <title>Little brown church in the wildwood</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>response</theme>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O come to the church in the Wildwood<br/>O come to the church in the Dale<br/>No place is so dear to my childhood<br/>As the little brown church in the Vale</lines>
+    </verse>
+  </lyrics>
+</song>

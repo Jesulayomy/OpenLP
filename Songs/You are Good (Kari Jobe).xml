@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>You are Good</title>
+    </titles>
+    <authors>
+      <author type="words">Kari Jobe</author>
+      <author type="music">Kari Jobe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your kindness leads me to repentance<br/>Your goodness draws me to Your side<br/>Your mercy calls me to be like You<br/>Your favor is my delight<br/>Every day, I'll a waken my praise<br/>And pour out a song from my heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are good, You are good<br/>You are good, and Your mercy is forever<br/>You are good, You are good<br/>Your are good, and Your mercy is forever</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You are good, You are good<br/>You are good, and Your mercy is forever<br/>You are good, You are good<br/>You are good, and Your mercy is forever</lines>
+    </verse>
+    <verse name="c3">
+      <lines>You are good, You are good<br/>You are good, and Your mercy is forever<br/>You are good, You are good<br/>Your are good, and Your mercy is  forever</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your kindness is forever, Your goodness is forever<br/>Your mercy is forever, forever</lines>
+    </verse>
+  </lyrics>
+</song>

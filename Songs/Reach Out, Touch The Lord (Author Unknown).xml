@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Reach Out, Touch The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Reach out and touch the Lord<br/>As He goes by,<br/>You'll find He's not too busy,<br/>To hear your heart's cry;<br/>He's passing by this moment,<br/>Your needs to supply,<br/>Reach out and touch the Lord<br/>As He goes by.</lines>
+    </verse>
+  </lyrics>
+</song>

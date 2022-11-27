@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Come And Go With Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come and go with me<br/>To my Father's House,<br/>To my Father's House,<br/>To my Father's House.<br/>Come and go with me,<br/>To my Father's House,<br/>Where There's peace, peace, peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus will be there<br/>In my Father's House<br/>In my Father's House,<br/>In my Father's House.<br/>Jesus will be there<br/>In my Father's House,<br/>Where there's peace, peace, peace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There'll be no sorrow there<br/>In my Father's House,<br/>In my Father's House,<br/>In my Father's House.<br/>There'll be no sorrow there<br/>In my Father's House.<br/>There'll be joy, real joy.</lines>
+    </verse>
+  </lyrics>
+</song>

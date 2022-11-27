@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>What the Lord has done in me</title>
+      <title>Hosanna Hosanna to the Lamb</title>
+    </titles>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="words">Hillsong</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the weak say I am strong<br/>Let the poor say I am rich<br/>Let the blind say I can see<br/>It's what the Lord has done in me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ho-sanna Hosanna<br/>To the Lamb that was slain<br/>Ho-sanna Hosanna<br/>Jesus died and rose again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Into the river I will wade<br/>There my sins are washed away<br/>From the heaven's mercy streams<br/>Of the Savior's love for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will rise from waters deep<br/>Into the saving arms of God<br/>I will sing salvation songs<br/>Jesus Christ has set me free</lines>
+    </verse>
+  </lyrics>
+</song>

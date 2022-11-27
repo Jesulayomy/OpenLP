@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Beautiful Savior</title>
+    </titles>
+    <authors>
+      <author type="music">Silesian</author>
+      <author type="words">German Jesuits</author>
+      <author type="translate">Seiss, Joseph August (1823-1904)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Beautiful Saviour<br/>God of all Majesty<br/>Risen king</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lamb of God<br/>Holy and righteous<br/>Blessed redeemer<br/>Bright morning star</lines>
+    </verse>
+    <verse name="p1">
+      <lines>All the heavens shout your praise<br/>All creation bow to wor---ship You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How wonderful, how beautiful<br/>Name above every name, ex----alted high<br/>How wonderful, how beautiful<br/>Jesus your name, name above every name, Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I will sing fore---ver, Jesus I love you, Jesus I love you x4</lines>
+    </verse>
+  </lyrics>
+</song>

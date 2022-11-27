@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>In God We Trust</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1288"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>Overwhelmed but I won't break<br/>Through the battle I will say<br/>Your grace will be enough<br/>Your grace will be enough<br/>Under fire but we won't fall<br/>We will never be alone<br/>You'll always be enough<br/>You'll always be enough</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>Now in God we trust<br/>In His Name we hope<br/>I know God will not be shaken<br/>God is here with us<br/>He's already won<br/>I know God will not be shaken</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2<br/>We will follow where You go<br/>We will trust through the unknown<br/>I know You go before<br/>I know You go before</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lead my heart now in Your ways<br/>For we're carrying Your Name<br/>Your promise never fails<br/>Your promise never fails</lines>
+    </verse>
+    <verse name="v5">
+      <lines>INSTRUMENTAL</lines>
+    </verse>
+    <verse name="v6">
+      <lines>BRIDGE<br/>You'll finish what You've begun<br/>Forever strong in Your love<br/>Your Name is sure<br/>And You will fight for us<br/>Our hope forever secure<br/>In You alone</lines>
+    </verse>
+    <verse name="v7">
+      <lines>OUTRO</lines>
+    </verse>
+  </lyrics>
+</song>

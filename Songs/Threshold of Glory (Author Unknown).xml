@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Threshold of Glory</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5902"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We push back the gates, we open the door<br/>Together we come to meet with you Lord<br/>Yes, we push back the gates, we open the door<br/>Together we come, oh to meet with you Lord</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Here we are at the threshold of glory<br/>Every eye now focused on you<br/>The heart in my chest beats wildly<br/>As each step bring us closer to you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Magnificent one merciful judge<br/>We rejoice and sing in the favor of our God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We push back the gates, we open the door<br/>Oh together we come to meet with you Lord<br/>We push back the gates, we open the door<br/>Together we come, oh to meet with you Lord</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Magnificent one merciful judge<br/>We rejoice and sing in the favor of our God<br/>Omnipotent love almighty friend<br/>You are always just You are always good<br/>Your kingdom has no end</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Magnificent one</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Magnificent, Magnificent<br/>Glorious, Glorious<br/>Magnificent, Magnificent<br/>Marvelous, Marvelous)</lines>
+    </verse>
+  </lyrics>
+</song>

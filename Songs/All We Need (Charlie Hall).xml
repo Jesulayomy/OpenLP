@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>All We Need</title>
+    </titles>
+    <copyright>2006 worshiptogether.com songs</copyright>
+    <authors>
+      <author type="words">Charlie Hall</author>
+      <author type="music">Charlie Hall</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>'Cause we have all we need in You,<br/>And all we need is You;<br/>All we need is You. (2X)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Rich or poor, God, I want You more<br/>Than anything that glitters in this world;<br/>Be my all, all consuming fire.<br/>And You can have all my hands can hold,<br/>My heart, mind, and strength, and soul;<br/>Be my all, all consuming fire.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>He's all we need.<br/>He's all we need<br/>'Cause You're all we need.<br/>All we need, all we need.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>All we need, all we need, all we need is You.<br/>All we need, all we need, all we need is You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Go down Moses</title>
+    </titles>
+    <authors>
+      <author type="words">Traditional</author>
+      <author type="music">Traditional</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2116"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+      <theme>offertory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When Israel was in Egypt's land<br/>Let my people go<br/>O-o-ppressed so hard they could not stand<br/>Let my people go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Go down, Moses, way down in Egypt's land<br/>Tell old Pharaoh, Let my people go</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thus saith the Lord, bold Moses said<br/>If not, I'll smite your first-born dead.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord told Moses what to do<br/>To lead the children of Israel through.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No more shall they in bondage toil,<br/>Let them come out with Egypt's spoil.<br/>Oh let us all from bondage flee,<br/>And let us all in Christ be free.</lines>
+    </verse>
+  </lyrics>
+</song>

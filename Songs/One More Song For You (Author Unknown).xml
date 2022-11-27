@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>One More Song For You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6207"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Staring at this old piano<br/>Playing through the memories that it holds<br/>Singing through the stories that it's told<br/>And all the prayers that have been lifted<br/>The leaps of faith, the giants slain<br/>Desperate cries, and broken praise</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Have all the songs been sung?<br/>Is there still room for one?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Maybe one more hand in the air saying, "You are holy"<br/>One more shattered heart singing, "You are good"<br/>Maybe one more voice crying out for mercy<br/>One more hungry soul declaring, "You're enough"<br/>As long as there's breath in me<br/>Lord, there will always be<br/>One more song for You<br/>One more song for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What can I offer You but weakness?<br/>All my life I tried to hide<br/>You brought it all into the light<br/>I'm still amazed that You would choose me<br/>If You can use the least of these<br/>Then there is no one You can't reach</lines>
+    </verse>
+    <verse name="p2">
+      <lines>In a world that's lost its song<br/>Show them there's still room for one</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Maybe one more hand in the air saying, "You are holy"<br/>One more shattered heart singing, "You are good"<br/>Maybe one more voice crying out for mercy<br/>One more hungry soul declaring, "You're enough"<br/>As long as there's breath in me<br/>Lord, there will always be<br/>One more song</lines>
+    </verse>
+    <verse name="b1">
+      <lines>With no one here but You to listen<br/>My heat is bursting at the seams<br/>Out of all the songs I've lifted<br/>What I truly hope to see<br/>Is one more broken life made whole<br/>One more prodigal brought home<br/>What better way to praise Your name and majesty</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Than one more hand in the air saying, "You are holy"<br/>One more shattered heart singing, "You are good"<br/>Maybe one more voice crying out for mercy<br/>One more hungry soul declaring, "You're enough"<br/>As long as there's breath in me (As long as there's breath in me)<br/>Lord, there will always be<br/>One more song for You<br/>One more song for Youn</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Send Revival</title>
+    </titles>
+    <authors>
+      <author type="words">Victory Worship</author>
+      <author type="music">Victory Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4078"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gospel</theme>
+      <theme>repentance</theme>
+      <theme>holy-spirit</theme>
+      <theme>church</theme>
+      <theme>harvest</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>I can feel a rushing wind<br/>I can hear Your voice speaking once again<br/>Calling from the waters deep<br/>Stirring hope inside of me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>PRECHORUS<br/>A great awakening is calling deep to deep<br/>A fresh anointing is falling in this place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>CHORUS<br/>Send revival, pour Your glory out<br/>Like rain on us, rain on us<br/>Start a fire, Holy Spirit<br/>Come and reign in us, reign in us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE 2<br/>I can see the evidence<br/>God, You're moving and You pursue me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>BRIDGE<br/>We'll be the hope bringing light to the darkest places<br/>With Your love, with Your love<br/>We'll be the army fighting to the rhythm of Your heart<br/>For Your love, for Your love</lines>
+    </verse>
+  </lyrics>
+</song>

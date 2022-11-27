@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>How Wonderful</title>
+    </titles>
+    <authors>
+      <author type="words">Dave Bilbrough</author>
+      <author type="music">Dave Bilbrough</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>How wonderful, how glorious<br/>is the love of God,<br/>Bringing healing, forgiveness,<br/>Wonderful love.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Let celebration<br/>echo through this land;<br/>We bring reconciliation,<br/>We bring hope to every man:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We proclaim the kingdom<br/>Of our God is here;<br/>Come and join the heavenly anthem,<br/>Ringing loud and ringing clear:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Listen to the music<br/>as His praises fill the air;<br/>With joy and with gladness<br/>Tell the people everywhere:</lines>
+    </verse>
+  </lyrics>
+</song>

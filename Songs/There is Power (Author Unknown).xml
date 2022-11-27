@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>There is Power</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4907"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where two or more<br/>Are gathered in His name<br/>He is there<br/>For all who come<br/>Who run to Him in faith<br/>He is there</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There is power in the name of Jesus<br/>There is power, power in His name<br/>There is power in the name of Jesus<br/>There is power, power in His name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No fear, no lie<br/>Can stand against us now<br/>He is here<br/>The Word has come<br/>To silence every doubt<br/>He is here</lines>
+    </verse>
+    <verse name="c2">
+      <lines>There is power in the name of Jesus<br/>There is power, power in His name<br/>There is power in the name of Jesus<br/>There is power, power in His name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>One name, one name can save<br/>One name breaks every chain<br/>One name, always<br/>One name, Jesus<br/>One name, one name remains<br/>One name, we will proclaim<br/>One name, always<br/>One name</lines>
+    </verse>
+    <verse name="c3">
+      <lines>There is power in the name of Jesus<br/>There is power, power in His name<br/>There is power in the name of Jesus<br/>There is power, power in His name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's power in His name<br/>There's power in His name</lines>
+    </verse>
+  </lyrics>
+</song>

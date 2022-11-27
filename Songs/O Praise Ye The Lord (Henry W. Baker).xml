@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>O Praise Ye The Lord</title>
+    </titles>
+    <authors>
+      <author>Henry W. Baker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O praise ye the Lord!<br/>Praise Him in the height; <br/>Rejoice in His word, <br/>Ye angels of light; <br/>Ye heavens adore Him <br/>By whom ye were made, <br/>And worship before Him<br/>In brightness arrayed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O praise ye the Lord! <br/>Praise Him upon earth, <br/>In tuneful accord, <br/>Ye sons of new birth; <br/>Praise Him who hath brought you <br/>His grace from above, <br/>Praise Him who hath taught you <br/>To sing of His love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O praise ye the Lord, <br/>All things that give sound; <br/>Each jubilant chord, <br/>Re-echo around: <br/>Loud organs, His glory <br/>Forthtell in deep tone, <br/>And sweet harp, the story <br/>Of what He hath done.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O praise ye the Lord! <br/>Thanksgiving and song <br/>To Him be outpoured <br/>All ages along; <br/>For love in creation, <br/>For heaven restored, <br/>For grace of salvation, <br/>O praise ye the Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

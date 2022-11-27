@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The Galilean Fishers Toil</title>
+      <title>Come Blessed Jesu Come</title>
+    </titles>
+    <authors>
+      <author type="music">from Day's Psalter, 1563</author>
+      <author type="words">Wordsworth, Christopher (1807-1885)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Galilean fishers toil all night, and nothing take; But Jesus comes,\a wondrous spoil is lifted from the lake. Lord, when our labors are in vain and vain the help of men, When fruitless is our care and pain, Come blessed Jesus then!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The night is dark, the surges fill the bark, the wild winds roar; But Jesus comes and all is still,\the ship is at the shore. O Lord, when storms around us howl, and all is dark and drear, In all the tempests of the soul, O blessed Jesus hear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A frail one, thrice denying Thee saw mercy in Thine eyes, The penitent upon the tree was borne to Paradise. In hours of sin and deep distress o show us, Lord, Thy Face, In penitential loneliness, O give us Jesus grace!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The faithful few retire in fear to their closed upper room; But suddenly with joyful cheer they see their Master come. Lord come to us, unloose our bands and bid our terrors cease, Lift over us Thy blessed hands, Speak, holy Jesus Peace!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In days, when faith will scarce be found, and wolves be in the fold, When sin and sorrow will abound and charity wax cold, Then hear Thy saints, who to Thee pray to bring them to their home, Hear when the Bride and Spirit say, "Come, Blessed Jesus, Come!"</lines>
+    </verse>
+  </lyrics>
+</song>

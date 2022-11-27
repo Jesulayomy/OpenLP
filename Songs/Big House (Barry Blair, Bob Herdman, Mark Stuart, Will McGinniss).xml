@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Big House</title>
+      <title>My Father's House</title>
+    </titles>
+    <copyright>1993 Up In The Mix Music</copyright>
+    <authors>
+      <author type="words">Barry Blair</author>
+      <author type="music">Barry Blair</author>
+      <author type="words">Bob Herdman</author>
+      <author type="music">Bob Herdman</author>
+      <author type="words">Mark Stuart</author>
+      <author type="music">Mark Stuart</author>
+      <author type="words">Will McGinniss</author>
+      <author type="music">Will McGinniss</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I don't know where you lay your head or where you call your home.<br/>I don't know where you eat your meals or where you talk on the phone.<br/>I don't know if you got a cook, a butler, or a maid.<br/>I don't know if you got a yard with a hammock in the shade.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I don't know if you got some shelter, say, a place to hide.<br/>I don't know if you live with friends in whom you can confide.<br/>I don't know if you got a family say a mom or dad.<br/>I don't know if you feel love at all, but I bet you wish you had.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come and go with me to my Father's house.<br/>Come and go with me to my Father's house.<br/>It's a big, big house with lots and lots of room.<br/>A big, big table with lots and lots of food.<br/>It's a big, big yard where we can play football.<br/>A big, big house; it's my Father's house.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All I know is a big ol' house with rooms for everyone.<br/>All I know is lots of land where we can play and run.<br/>All I know is you need love and I've got a family.<br/>All I know is you're all alone, so why not come with me?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>We've come to join the song sung long before our lives</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5162"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We've come to join the song<br/>Sung long before our lives<br/>To raise our voice along<br/>Heaven and Earth alike<br/>We've seen Your faithful hand<br/>Your mercy without end<br/>A king who bled and died<br/>A God who sacrificed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be enthroned upon the praises of a thousand generations<br/>You are worthy Lord of all<br/>Unto You the slain and risen King we lift our voice with Heaven<br/>Singing worthy Lord of all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All through this life we lead<br/>And on to eternity<br/>Our endless praise will cry<br/>Jesus be glorified<br/>Jesus be glorified</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Highest praises Lord of all<br/>Highest praises Lord of all<br/>Highest praises You are worthy Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

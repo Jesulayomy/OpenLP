@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Draw Me Close To You</title>
+      <title>You're All I Want</title>
+    </titles>
+    <copyright>1994 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Kelly Carpenter</author>
+      <author type="music">Kelly Carpenter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>violin</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+      <theme>peace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Draw me close to You,<br/>never let me go<br/>I lay it all down again<br/>To hear You say that I'm Your friend</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my desire,<br/>No one else will do<br/>'Cause nothing else could take Your place<br/>To feel the warmth of Your embrace<br/>Help me find the way<br/>Bring me back to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're all I want<br/>You're all I've ever needed<br/>You're all I want<br/>Help me know You are near</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>God Himself is Present</title>
+      <title>God Himself is With Us, God Reveals His Presence, Lo! God Is Here</title>
+    </titles>
+    <authors>
+      <author type="music">Neander, Joachim (1650-1680)</author>
+      <author type="words">Tersteegen, Gerhard (1697-1769)</author>
+      <author type="translate">Foster, Frederick William (1760-1835)</author>
+      <author type="translate">Miller, John (1756-1790)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God Himself is present: Let us now adore Him, And with awe appear before Him. God is in His temple, all within keep silence, Prostrate lie with deepest reverence. Him alone God we own, Him our God and Savior; Praise His name forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God Himself is present: Hear the harps resounding! See the crowds the throne surrounding! "Holy, holy, holy", hear the hymn ascending, Angels, saints, their voices blending! Bow Thine ear to us here: Hear, O Christ, the praises That Thy Church now raises.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Thou fount of blessing, Purify my spirit; Trusting only in Thy merit, Like the holy angels Who behold Thy glory, May I ceaselessly adore Thee, Let Thy will Ever still Rule Thy Church terrestrial, As the hosts celestial.</lines>
+    </verse>
+  </lyrics>
+</song>

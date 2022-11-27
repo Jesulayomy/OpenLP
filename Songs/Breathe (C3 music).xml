@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Breathe</title>
+    </titles>
+    <authors>
+      <author type="words">C3 music</author>
+      <author type="music">C3 music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4075"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>In this place You're welcome<br/>Draw ever close to me<br/>I'm longing for Your presence<br/>God my peace<br/>Water in the desert<br/>Fire in the night<br/>Speak into these dry bones</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>Holy Spirit breathe<br/>Breathe new life in me<br/>Come in awesome power<br/>Awaken me<br/>Burn like a fire in me<br/>Give strength unto my feet<br/>You lift my eyes to see Him<br/>Jesus Christ my king</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2<br/>The veil lifted from me<br/>My eyes begin to see<br/>The host of heavens armies<br/>Stand with me<br/>With you I won't be beaten<br/>You lead my victories<br/>You fill me with Your power</lines>
+    </verse>
+    <verse name="v4">
+      <lines>BRIDGE<br/>Come Like a river<br/>Come like a flood<br/>Let us be overwhelmed<br/>Baptized in Your love<br/>Life giving water<br/>Come fill my soul<br/>Overtake me<br/>Captivate me<br/>Lead Me</lines>
+    </verse>
+  </lyrics>
+</song>

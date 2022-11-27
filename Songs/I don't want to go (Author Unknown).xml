@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>I don't want to go</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3984"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I don't want to go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You changed my world when You came to me.<br/>You drove a passion, in my soul down deep,<br/>Lord, to follow You in everything.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I don't want to go somewhere if I know that You're not there,<br/>'Cause I know that me without You is a lie.<br/>And I don't want to walk that road, be a million miles from home,<br/>Cause my heart needs to be where You are. So I don't want to go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So come whatever, i'll stick with You.<br/>(Whatever may come) (Right by Your side)<br/>I'll walk You'll lead me, call me crazy or a fool,<br/>For forever I promise You...</lines>
+    </verse>
+    <verse name="c2">
+      <lines>That I don't want to go somewhere if I know that You're not there,<br/>'Cause I know that me without You is a lie.<br/>And I don't want to walk that road, be a million miles from home,<br/>Cause my heart needs to be where You are. So I don't want to go</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Without Your touch, without Your love<br/>Filling me like an ocean.<br/>For Your grace is enough, Enough for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Never want to go somewhere if I know that You're not there.<br/>No, no, no, no.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I don't want to go somewhere if I know that You're not there,<br/>'Cause I know that me without You is a lie.<br/>And I don't want to walk that road, be a million miles from home,<br/>Cause my heart needs to be right where You are. So I don't want to go.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Without Your touch, without Your love<br/>Filling me like an ocean.<br/>For Your grace is enough, Enough for me.<br/>Without Your touch, without Your love<br/>Filling me like an ocean.<br/>For Your grace is enough, Enough for me.</lines>
+    </verse>
+  </lyrics>
+</song>

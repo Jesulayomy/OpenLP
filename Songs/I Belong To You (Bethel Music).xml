@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>I Belong To You</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1869"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love has won my heart forever<br/>Not because of anything I've done<br/>But You have scaled the hills and mountains<br/>Just to search and find the one You love<br/>I belong to You<br/>I belong to You<br/>I belong to You<br/>Forever Yours<br/>And when I was drowning in my doubt<br/>Your mighty right hand lifted me out<br/>And now we are walking on the water<br/>'Cause You lift my head above the crowd<br/>And when this life is over<br/>And I stand to see You face to face<br/>There's nothing that I will have wanted<br/>But to be with the One<br/>I belong to always</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>The Day Of The Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Marc Chopinsky</author>
+      <author type="music">Marc Chopinsky</author>
+      <author type="words">Paul Wilbur</author>
+      <author type="music">Paul Wilbur</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blow a trumpet in Zion<br/>Sound it on the mountains<br/>Blow a trumpet in Zion<br/>For the day of the Lord is come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halle Hallelujah<br/>Lord God Almighty<br/>Halle Hallelujah<br/>Yeshua is King !</lines>
+    </verse>
+  </lyrics>
+</song>

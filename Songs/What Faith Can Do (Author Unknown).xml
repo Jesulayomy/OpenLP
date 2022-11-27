@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>What Faith Can Do</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2570"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everybody falls sometimes<br/>Gotta find the strength to rise<br/>From the ashes and make a new beginning<br/>Anyone can feel the ache<br/>You think it's more than you can take<br/>But you are stronger, stronger than you know</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Don't you give up now the sun will soon be shining<br/>You gotta face the clouds to find the silver lining</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I've seen dreams that move the mountains<br/>Hope that doesn't ever end<br/>Even when the sky is falling<br/>And I've seen miracles just happen<br/>Silent prayers get answered<br/>Broken hearts become brand new<br/>That's what faith can do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It doesn't matter what you've heard<br/>Impossible is not a word<br/>It's just a reason for someone not to try<br/>Everybody's scared to death<br/>When they decide to take that step<br/>Out on the water it'll be alright</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Life is so much more than what your eyes are seeing<br/>You will find your way if you keep believing</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I've seen dreams that move the mountains<br/>Hope that doesn't ever end<br/>Even when the sky is falling<br/>And I've seen miracles just happen<br/>Silent prayers get answered<br/>Broken hearts become brand new<br/>That's what faith can do</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You don't have a chance<br/>(That's what faith can do)<br/>When the world says you can't<br/>It'll tell you that you can!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I've seen dreams that move the mountains<br/>Hope that doesn't ever end<br/>Even when the sky is falling<br/>And I've seen miracles just happen<br/>Silent prayers get answered<br/>Broken hearts become brand new<br/>That's what faith can do<br/>That's what faith can do!<br/>Even if you fall sometimes<br/>You will have the strength to rise</lines>
+    </verse>
+  </lyrics>
+</song>

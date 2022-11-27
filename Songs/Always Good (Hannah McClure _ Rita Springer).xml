@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Always Good</title>
+    </titles>
+    <authors>
+      <author type="words">Hannah McClure / Rita Springer</author>
+      <author type="music">Hannah McClure / Rita Springer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You meet me on the mountain top<br/>You see in me in the valley low<br/>There is no home without You here</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I find You in the crowded thoughts<br/>You quiet all the question marks<br/>There is no space Your love won't fill</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I'll trade all my fear for peace of mind<br/>All my heaviness for burdens light</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This will be my song<br/>That You are always good<br/>I'll sing it all day long<br/>That You are always good<br/>When the day is through<br/>I am left with<br/>You are always<br/>You are always good</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll set my eyes on perfect faith<br/>You'll finish what You start in me<br/>My heart will be an offering</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Every melody<br/>You're singing back to me<br/>You're singing back</lines>
+    </verse>
+    <verse name="p2">
+      <lines>I traded all my fear for peace of mind<br/>You took heaviness, my burden's light</lines>
+    </verse>
+  </lyrics>
+</song>

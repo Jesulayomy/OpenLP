@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>O Sacred Head Once Wounded</title>
+    </titles>
+    <authors>
+      <author>Paulus Gerhardt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O sacred head, once wounded,<br/>With grief and pain weighed down, <br/>How scornfully surrounded <br/>With thorns, Thine only crown! <br/>How pale art Thou with anguish, <br/>With sore abuse and scorn! <br/>How does that visage languish, <br/>Which once was bright as morn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Lord of life and glory, <br/>What bliss till now was Thine! <br/>I read the wondrous story, <br/>I joy to call Thee mine. <br/>Thy grief and Thy compassion <br/>Were all for sinners’ gain; <br/>Mine, mine was the transgression, <br/>But Thine the deadly pain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What language shall I borrow<br/>To praise Thee, heavenly Friend,<br/>For this, Thy dying sorrow,<br/>Thy pity without end?<br/>Lord, make me Thine for ever,<br/>Nor let me faithless prove;<br/>O let me never, never<br/>Abuse such dying love!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be near me, Lord, when dying; <br/>O show Thyself to me; <br/>And for my succour flying, <br/>Come, Lord, to set me free: <br/>These eyes, new faith receiving, <br/>From Jesus shall not move; <br/>For he who dies believing, <br/>Dies safely through Thy love.</lines>
+    </verse>
+  </lyrics>
+</song>

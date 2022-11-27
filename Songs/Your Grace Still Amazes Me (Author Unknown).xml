@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Your Grace Still Amazes Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4312"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your Grace Still Amazes Me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My faithfull Father, enduring friend<br/>Your tender mercy is like a river with no wind<br/>It overwhelms me covers my sin<br/>Each time i come into your presence I stand in wonder once again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your grace still amazes me<br/>Your love is still a mystery<br/>Each day i fall on my knees<br/>'cause your grace still amazes me<br/>Your grace still amazes me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh patient savior, you make me whole<br/>You are the author and the healer of my soul<br/>What can i give you lord what can i say<br/>I know there's no way to repay you only to offer you my praise</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Your grace still amazes me<br/>Your love is still a mystery<br/>Each day i fall on my knees<br/>Cause your grace still amazes me<br/>Your grace still amazes me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Its deeper, it's wider, it's stronger, it's higher<br/>Its deeper, it's wider, it's stronger, it's higher<br/>Than anything my eyes can see</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Your grace still amazes me<br/>Your love is still a mystery<br/>Each day i fall on my kness<br/>Cause your grace still amazes me<br/>Your grace still amazes me</lines>
+    </verse>
+  </lyrics>
+</song>

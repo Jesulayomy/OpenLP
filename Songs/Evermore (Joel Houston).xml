@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Evermore</title>
+    </titles>
+    <copyright>2003 Joel Houston / Hilsong Publishing</copyright>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+    </authors>
+    <songbooks>
+      <songbook name="Nehir Kilisesi"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With all my heart I'll say<br/>I'm living for Your name<br/>With all to give you praise<br/>I'm living for Your glory Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lost for words with all to say<br/>Lord You take my breath away<br/>Still my soul my soul cries out<br/>For you are Holy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And as I look upon Your Name<br/>Circumstances fade away<br/>Now Your glory steals my heart<br/>For You are Holy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are Holy<br/>You are Holy Lord</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Evermore my heart<br/>My heart will say<br/>Above all I live for Your glory<br/>Even if my world falls I will say<br/>Above all I live for Your glory (C Em D x2, Am7 C G D x2)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Em D C Em D C Em D C Em D C<br/>You are Holy, You are Holy, You are Holy Lord...Evermore...</lines>
+    </verse>
+  </lyrics>
+</song>

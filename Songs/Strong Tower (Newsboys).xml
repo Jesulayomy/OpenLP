@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Strong Tower</title>
+    </titles>
+    <authors>
+      <author type="words">Newsboys</author>
+      <author type="music">Newsboys</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Strong and mighty, strong to save us<br/>Like a fortress never failing.<br/>Strong in battle, strong in kindness,<br/>When we stray, Lord, You're strong to find us.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>When the winds come hard against us,<br/>You are steadfast, You are true.<br/>When the ground beneath us trembles,<br/>Your foundation never moves.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Strong tower, high and glorious.<br/>Strong tower, mighty in love.<br/>Our refuge, our defender,<br/>Strong tower, Lord above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Strong to lead us through the shadows.<br/>Strong to carry all our sorrows.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>When the enemy surrounds us,<br/>Closing in as darkness falls,<br/>Though his armies rage against us,<br/>They can never scale these walls.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are my shelter, my shield.<br/>You are the home I could never deserve.<br/>Here I will serve, ever under Your gaze.<br/>Here I will serve, ever singing Your praise.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Strong tower, Lord above.<br/>Strong tower, Lord above.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Surrender</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2882"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All that I am is Yours<br/>All that I have is Yours<br/>I give You my heart and soul<br/>Lord I'm Yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord every day is Yours<br/>Lord every breath is Yours<br/>Giving my life to You<br/>Lord I'm Yours</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You alone are worthy of all praise<br/>You alone are worthy of all praise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I surrender all to You<br/>I surrender all to You<br/>I am nothing without You<br/>Jesus Christ take my life<br/>It's all for You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're worthy of all praise<br/>You're worthy of all praise, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

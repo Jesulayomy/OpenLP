@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>A Mighty Fortress Is Our God</title>
+    </titles>
+    <authors>
+      <author type="translate">Hedge, Frederic Henry (1805-1890)</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="music">Luther, Martin (1483-1546)</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mighty fortress is our God, a Bulwark never failing;<br/>Our Helper He amid the flood of mortal ills prevailing;<br/>For still our ancient Foe doth seek to work us woe;<br/>His craft and pow'r are great, and armed with cruel hate,<br/>On earth is not his equal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Did we in our own strength confide, our striving would be losing;<br/>Were not the right Man on our side, the Man of God's own choosing;<br/>Dost ask who that may be: Christ Jesus it is He;<br/>Lord Sabbaoth His name, from age to age the same,<br/>And He must win the battle.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And though this world with devils filled should threaten to undo us;<br/>We will not fear for God hath willed His truth to triumph through us:<br/>The prince of darkness grim, we tremble not for him;<br/>His rage we can endure for lo, his doom is sure,<br/>One little word shall fell him.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That Word above all earthly pow'r, no thanks to them abideth;<br/>The Spirit and the gifts are ours through Him who with us sideth;<br/>Let goods and kindred go, this mortal life also;<br/>The body they may kill; God's truth abideth still,<br/>His kingdom is forever!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Breaking Through</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1880"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love is like a sunrise<br/>Shattering the dark of night<br/>Your presence is a paradise<br/>To our hearts</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're filling all the world with light<br/>You're making every wrong thing right<br/>You're waking up the dead to life<br/>With You love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God You're always breaking through the dark<br/>Breaking into lives and healing hearts<br/>Your love has torn the veil<br/>Your love can never fail<br/>Your love is making all things new</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your love is an eternal fire<br/>A jealous and a pure desire<br/>Strong enough to be the sacrifice<br/>That set us free</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You have taken all our sins away<br/>You have risen and You've won the day<br/>God You have broken every bond and chain<br/>Yes, in Your love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>God You're always breaking through the dark</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Breaking into lives and healing hearts<br/>Your love has torn the veil<br/>Your love can never fail<br/>Your love is making all things new</lines>
+    </verse>
+    <verse name="v8">
+      <lines>So we lift up one voice<br/>We lift up one voice<br/>We sing and we shout for joy</lines>
+    </verse>
+    <verse name="v9">
+      <lines>For now we are Yours<br/>Yes, our hearts are Yours<br/>You've ransomed us with Your blood</lines>
+    </verse>
+    <verse name="v10">
+      <lines>God You're always breaking through the dark<br/>Breaking into lives and healing hearts<br/>Your love has torn the veil<br/>Your love can never fail<br/>Your love is making all things new</lines>
+    </verse>
+  </lyrics>
+</song>

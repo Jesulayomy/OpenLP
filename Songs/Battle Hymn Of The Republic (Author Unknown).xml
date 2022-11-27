@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Battle Hymn Of The Republic</title>
+      <title>Glory Glory Hallelujah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mine eyes have seen the glory<br/>of the coming of the Lord;<br/>He is trampling out the vintage<br/>Where the grapes of wrath are stored;<br/>He hath loosed the fateful lightning<br/>of His terrible swift sword;<br/>His truth is marching on.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glory! Glory, hallelujah!<br/>Glory! Glory, hallelujah!<br/>Glory! Glory, hallelujah!<br/>His Truth is marching on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have seen Him in the watchfires<br/>of a hundred circling camps;<br/>They have builded Him an altar<br/>in the evening dews and damps;<br/>I can read His righteous sentence<br/>by the dim and flaring lamps;<br/>His day is marching on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He has sounded forth the trumpet<br/>that shall never sound retreat;<br/>He is sifting out the hearts of men<br/>before His judgment seat;<br/>Oh be swift, my soul, to answer Him!<br/>be jubilant, my feet!<br/>Our God is marching on.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the beauty of the lilies<br/>Christ was born across the sea,<br/>With a glory in His bosom<br/>that transfigures you and me;<br/>As He died to make men holy,<br/>let us die to make men free;<br/>While God is marching on.</lines>
+    </verse>
+  </lyrics>
+</song>

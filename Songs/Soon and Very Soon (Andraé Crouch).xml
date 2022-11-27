@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>Soon and Very Soon</title>
+    </titles>
+    <authors>
+      <author type="words">Andraé Crouch</author>
+      <author type="music">Andraé Crouch</author>
+    </authors>
+    <themes>
+      <theme>piano</theme>
+      <theme>heaven</theme>
+      <theme>meditation</theme>
+      <theme>jesus-return</theme>
+      <theme>truth</theme>
+      <theme>gods-faithfulness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soon and very soon we are going to see the king<br/>Hallelujah, hallelujah, we're going to see the king</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No more crying there, we are going to see the king<br/>Hallelujah, hallelujah, we're going to see the king</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Should there be any rivers we must cross<br/>Should there be any mountains we must climb<br/>God will supply all the strength that we need<br/>Give us strength till we reach the other side.<br/>We have come from every nation,<br/>God has already signed our name.<br/>Jesus took his blood and he washed my sins, he washed them all away.<br/>Yet there are those of us who have laid down our lives<br/>But we all shall meet again on the other side.<br/>Back to the chorus<br/>Should there be any rivers we must cross<br/>Should there be any mountains we must climb<br/>God will supply all the strength that we need<br/>Give us strength till we reach the other side.</lines>
+    </verse>
+  </lyrics>
+</song>

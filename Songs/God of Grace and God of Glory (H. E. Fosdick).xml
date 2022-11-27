@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>God of Grace and God of Glory</title>
+    </titles>
+    <authors>
+      <author>H. E. Fosdick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God of grace and God of glory,<br/>On Thy people pour Thy power;<br/>Crown Thine ancient church’s story;<br/>Bring her bud to glorious flower.<br/>Grant us wisdom,<br/>Grant us courage,<br/>For the facing of this hour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lo! the hosts of evil round us<br/>Scorn Thy Christ, assail His ways!<br/>Fears and doubts too long have bound us;<br/>Free our hearts to work and praise.<br/>Grant us wisdom,<br/>Grant us courage,<br/>For the living of these days.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heal Thy children’s warring madness;<br/>Bend our pride to Thy control;<br/>Shame our wanton, selfish gladness,<br/>Rich in things and poor in soul.<br/>Grant us wisdom,<br/>Grant us courage,<br/>Lest we miss Thy kingdom’s goal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Set our feet on lofty places;<br/>Gird our lives that they may be<br/>Armoured with all Christlike graces<br/>In the fight to set men free.<br/>Grant us wisdom,<br/>Grant us courage,<br/>That we fail not man nor Thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Save us from weak resignation<br/>To the evils we deplore;<br/>Let the search for Thy salvation<br/>Be our glory ever more.<br/>Grant us wisdom,<br/>Grant us courage,<br/>Serving Thee whom we adore.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>We are living with "hope in yourself"</title>
+    </titles>
+    <authors>
+      <author type="words">Darina Kočanži</author>
+      <author type="music">Darina Kočanži</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2925"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are living with "hope in yourself"<br/>We are living without faith and without love.<br/>But we cannot stop the time<br/>To extend the life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is the hope to live again<br/>He taught us to believe and love<br/>For us, He left the world of Heaven<br/>He died and rose again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Love did not die on the sinful Earth<br/>It resurrected on the third day<br/>And Love revived inside of me and inside of you<br/>Now this World warmed by it.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I dip into Him as in the sea<br/>I will put on white clothes<br/>And will spread my wings above the earth<br/>Jesus, be with me !</lines>
+    </verse>
+  </lyrics>
+</song>

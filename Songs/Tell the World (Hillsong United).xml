@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:57">
+  <properties>
+    <titles>
+      <title>Tell the World</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don't want to stand here and shout Your praise<br/>And walk away and forget Your Name<br/>I'll stand for you if it's all I do<br/>Cause there is none that compare to You</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Cause all I want in this lifetime is You<br/>And all i want in this whole world is You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tell the world that Jesus lives<br/>Tell the world that, tell the world that<br/>Tell the world that He died for them<br/>Tell the world that He lives again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No longer I but Christ in me<br/>Cause it's the truth that set me free<br/>How could this world be a better place?<br/>But by thy mercy and by Thy grace</lines>
+    </verse>
+    <verse name="b1">
+      <lines>C'mon, c'mon we'll tell the world about You<br/>C'mon, c'mon we'll tell the world about You</lines>
+    </verse>
+  </lyrics>
+</song>

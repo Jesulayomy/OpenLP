@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Thine be the Glory</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Edmond Louis Budry</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thine be the glory,<br/>Risen, conquering Son;<br/>Endless is the victory<br/>Thou o’er death hast won.<br/>Angels in bright raiment<br/>Rolled the stone away,<br/>Kept the folded grave-clothes<br/>Where Thy body lay.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Thine be the glory,<br/>Risen, conquering Son;<br/>Endless is the victory<br/>Thou o’er death hast won!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lo, Jesus meets us,<br/>Risen from the tomb!<br/>Lovingly He greets us,<br/>Scatters fear and gloom.<br/>Let the church with gladness<br/>Hymns of triumph sing,<br/>For her Lord now liveth,<br/>Death hath lost its sting.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No more we doubt Thee,<br/>Glorious Prince of life;<br/>Life is naught without Thee:<br/>Aid us in our strife;<br/>Make us more than conquerors,<br/>Through Thy deathless love;<br/>Lead us in Thy triumph<br/>To Thy home above.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:50">
+  <properties>
+    <titles>
+      <title>To God Be The Glory</title>
+    </titles>
+    <authors>
+      <author type="music">Doane, William Howard (1832-1915)</author>
+      <author type="words">Crosby, Fanny Jane (1820-1915)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To God be the glory, great things He hath done.<br/>So loved He the world that He gave us His Son<br/>Who yielded His life an atonement for sin<br/>And opened the lifegate that all may go in.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise the Lord! Praise the Lord!<br/>Let the earth hear His voice!<br/>Praise the Lord! Praise the Lord!<br/>Let the people rejoice!<br/>O come to the Father through Jesus the Son<br/>And give Him the glory, great things He hath done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O perfect redemption, the purchase of blood,<br/>To every believer, the promise of God.<br/>The vilest offender who truly believes,<br/>That moment from Jesus a pardon receives.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Great things He hath taught us.<br/>Great things He hath done,<br/>And great our rejoicing through Jesus the Son.<br/>But purer and higher and greater will be<br/>Our wonder, our transport when Jesus we see.</lines>
+    </verse>
+  </lyrics>
+</song>

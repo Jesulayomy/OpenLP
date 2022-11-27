@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>FIRE &amp; LIKE DAVID</title>
+    </titles>
+    <authors>
+      <author type="words">Billy Bunster</author>
+      <author type="music">Billy Bunster</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a fire that burns in me<br/>In flames with power moving in me<br/>it burns stronger, Oh Holy fire!<br/>I can feel it blazing here</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fire!<br/>Fire of the Lord!<br/>Fire, Fire, Fire purifying me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When ADONAI restores our lives from captivity<br/>We'll be like those who are dreaming<br/>Our mouths will be full of laughter<br/>Our lips will be full of praises<br/>We'll say among the nations:<br/>"Great things The Lord has done"</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I will Rejoice, and Rejoice<br/>And Rejoice in ADONAI<br/>He has carried all my pain<br/>He set me free!!!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I'll sing like King David sang<br/>I'll dance like King David danced<br/>I'll be like King David was<br/>into His presence!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sing to the Lord!<br/>Dance to the Lord!<br/>His Holy presence abounds in joy !<br/>Give to the Lord:<br/>Glory and love<br/>We shall bow down unto His Throne</lines>
+    </verse>
+  </lyrics>
+</song>

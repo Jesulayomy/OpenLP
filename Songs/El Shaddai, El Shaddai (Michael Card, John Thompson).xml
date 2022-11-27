@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>El Shaddai, El Shaddai</title>
+    </titles>
+    <copyright>1981, 1982 Mole End Music</copyright>
+    <authors>
+      <author type="words">John Thompson</author>
+      <author type="music">John Thompson</author>
+      <author type="words">Michael Card</author>
+      <author type="music">Michael Card</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>El Shaddai, El Shaddai, El Elyonna Adonai,<br/>Age to age You're still the same, by the power of the name.<br/>El Shaddai, El Shaddai, erkamkana Adonai,<br/>We will praise and lift You high, El Shaddai.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Through Your love and through the ram, You saved the son of Abraham,<br/>Through the power of Your hand You turned the sea into dry land.<br/>To the outcast on her knees You were the God who really sees,<br/>And by Your might You set Your children free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through the years You made it clear that the time of Christ was near,<br/>Though the people couldn't see what Messiah ought to be.<br/>Though Your Word contained the plan, they just could not understand,<br/>Your most awesome work was done in the frailty of Your Son.</lines>
+    </verse>
+  </lyrics>
+</song>

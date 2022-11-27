@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Turn It Up</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2885"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>You are here as we lift you up<br/>You are riding on our praise<br/>Be enthroned over everything<br/>You are seated in our praise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is prophetic I can feel it in the air<br/>We lift our praise and you change the atmosphere<br/>With hearts open now everybody singing out<br/>Oh!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am free!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Turn it up this sound of praise<br/>Make it louder than any other<br/>Lift him up and shout his name over all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse:<br/>As we praise I can feel the change<br/>As your presence now invades<br/>Hear the sound of the broken chains<br/>Prison doors are giving way</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Our praise goes up<br/>Your rain comes down<br/>Our praise goes up<br/>Your rain comes down<br/>Our praise goes up<br/>Your rain comes down<br/>Our praise goes up<br/>Your rain comes down</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Outro:</lines>
+    </verse>
+    <verse name="v7">
+      <lines>With shouts of praise we celebrate<br/>King of glory enter in<br/>You are riding on our praise<br/>Oh lord</lines>
+    </verse>
+  </lyrics>
+</song>

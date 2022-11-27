@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Sing, O Sing, This Blessed Morn</title>
+    </titles>
+    <authors>
+      <author type="music">Monk, William Henry (1823-1889)</author>
+      <author type="words">Wordsworth, Christopher (1807-1885)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing, O sing, this blessed morn, Unto us a Child is born, Unto us a Son is giv'n, God Himself comes down from Heav'n. Sing, O sing, this blessed morn, Jesus Christ today is born.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Christ, the King of kings, Maker of all worldly things, Now descends from Heav'n to Earth, To re-store us by His birth; Sing, O sing, this blessed morn, Jesus Christ today is born.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God of God, and Light of Light, Comes with mercies infinite; Joining in a wondrous plan Heav'n to earth and God to Man; Sing, O sing, this blessed morn, Jesus Christ today is born.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God with us, Emmanuel, Deigns for ever now to dwell; He on Adam's fallen race Sheds the fullness of His Grace; Sing, O sing, this blessed morn, Jesus Christ today is born.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Truth and Mercy show their face, And with loving kiss embrace; Righteousness looks down from Heav'n, God is pleased and Man forgiv'n; Sing, O sing, this blessed morn, Jesus Christ today is born.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>God comes down that man may rise, Lifted far above the skies<br/>He is Son of Man, that we Sons of God in Him may be;</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Human flesh is now become Christ's abode, the Godhead's home;<br/>Royal Palace, sacred shrine For the Majesty Divine;</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Now we rise, from prison free; On we march to victory,<br/>Joyful banners are unfurled; 'Tis the Birthday of the World;</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Now behold the rising Sun Hath His glorious race begun;<br/>Now the Bridegroom from above Weds the Bride, with heavenly love;</lines>
+    </verse>
+    <verse name="v10">
+      <lines>O renew us, Lord, we pray, With Thy Spirit day by day;<br/>That we ever one may be With the Father, and with Thee;</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Sing, O sing this blessed Morn, Jesus Christ to-day is born;<br/>Glory to the Father give, Praise the Son in whom we live;<br/>Glory to the Spirit be, Godhead One, and Persons Three.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Your Blood Speaks a Better Word</title>
+      <title>Nothing but the Blood</title>
+    </titles>
+    <copyright>2004 WorshipTogether.com songs</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+      <author type="words">Robert Lowry</author>
+      <author type="music">Robert Lowry</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your blood speaks a better word<br/>Than all the empty claims I've heard upon this earth<br/>Speaks righteousness for me<br/>and stands in my defence<br/>Jesus it's your blood</lines>
+    </verse>
+    <verse name="c1">
+      <lines>What can wash away our sins?<br/>What can make us whole again?<br/>Nothing but the blood<br/>Nothing but the blood of Jesus<br/>What can wash us pure as snow?<br/>Welcomed as the friends of God?<br/>Nothing but your blood<br/>Nothing but your blood King Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your cross testifies in grace<br/>Tells of the Father's heart to make a way for us<br/>Now boldly we approach<br/>Not by earthly confidence<br/>It's only by Your blood</lines>
+    </verse>
+  </lyrics>
+</song>

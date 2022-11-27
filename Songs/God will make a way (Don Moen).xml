@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>God will make a way</title>
+    </titles>
+    <authors>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God will make a way,<br/>where there seems to be no way;<br/>He works in ways we cannot see,<br/>He will make a way for me.<br/>He will be my guide,<br/>hold me closely to His side;<br/>with love and strength<br/>for each new day,<br/>He will make a way,<br/>He will make a way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By a road way in the wilderness<br/>He'll lead me.<br/>And rivers in the desert will I see<br/>Heaven and Earth will fade,<br/>but His Word will still remain<br/>And He will do something new today</lines>
+    </verse>
+  </lyrics>
+</song>

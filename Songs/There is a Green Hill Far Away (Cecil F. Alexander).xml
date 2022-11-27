@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>There is a Green Hill Far Away</title>
+    </titles>
+    <authors>
+      <author>Cecil F. Alexander</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a green hill far away,<br/>Outside a city wall,<br/>Where the dear Lord was crucified,<br/>Who died to save us all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We may not know, we cannot tell,<br/>What pains He had to bear;<br/>But we believe it was for us<br/>He hung and suffered there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He died that we might be forgiven,<br/>He died to make us good,<br/>That we might go at last to heaven,<br/>Saved by His precious blood.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There was no other good enough<br/>To pay the price of sin;<br/>He only could unlock the gate<br/>Of heaven, and let us in.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O dearly, dearly has He loved!<br/>And we must love Him too,<br/>And trust in His redeeming blood,<br/>And try His works to do.</lines>
+    </verse>
+  </lyrics>
+</song>

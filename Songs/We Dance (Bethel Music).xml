@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>We Dance</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4930"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You steady me<br/>Slow and sweet, we sway<br/>Take the lead and I will follow<br/>Finally ready now<br/>To close my eyes and just believe<br/>That You won't lead me<br/>Where You don't go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When my faith gets tired<br/>And my hope seems lost<br/>You spin me round and round<br/>And remind me of that song<br/>The one You wrote for me<br/>And we dance</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I've been told<br/>To pick up my sword<br/>And fight for love<br/>Little did I know<br/>That Love had won for me<br/>Here in Your arms</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You still my heart again<br/>And I breathe You in<br/>Like I've never breathed 'till now</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When my faith gets tired<br/>And my hope seems lost<br/>You spin me round and round<br/>And remind me of that song<br/>The one You wrote for me<br/>And we dance<br/>And I will lock eyes<br/>With the One who's ransomed me<br/>The One who gave me joy for mourning<br/>And I will lock eyes<br/>With the One who's chosen me<br/>The One who set my feet to dancing?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We dance<br/>Just You and me<br/>It's nice to know I'm not alone<br/>I found my home here in Your arms<br/>It's nice to know I'm not alone?<br/>I found my home here in Your arms<br/>It's nice to know I'm not alone<br/>I found my home here in Your arms</lines>
+    </verse>
+  </lyrics>
+</song>

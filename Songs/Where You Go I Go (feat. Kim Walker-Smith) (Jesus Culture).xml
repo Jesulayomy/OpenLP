@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Where You Go I Go (feat. Kim Walker-Smith)</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3913"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chorus:<br/>Where you go I go<br/>What you say I say<br/>What you pray I pray<br/>What you pray I pray</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Verse:<br/>Jesus only did what he saw you do<br/>He would only say what he heard you speak<br/>He would only move when he felt you lead<br/>Following your heart following your spirit</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pre chorus:<br/>How could I expect to walk without you<br/>When every move that Jesus made was in surrender<br/>I will not begin to live without you<br/>For you alone are worthy and you are always good</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Though the world sees and soon forgets<br/>We will not forget who you are and what you've done for us</lines>
+    </verse>
+  </lyrics>
+</song>

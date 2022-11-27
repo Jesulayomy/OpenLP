@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Establish Christ in me</title>
+    </titles>
+    <authors>
+      <author type="words">Philip Moolman</author>
+      <author type="music">Philip Moolman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe in the Holy Father<br/>I believe in Jesus Christ<br/>I believe in the Holy Spirit<br/>I believe in God alright</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I know that He came down<br/>To find me in my hometown<br/>And to gently knock upon my door<br/>But I believe there's so much more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More than just that I should open -<br/>Up my heart and to be saved<br/>To be healed from all that's broken<br/>So that my road to heaven could be paved</lines>
+    </verse>
+    <verse name="c2">
+      <lines>No, I believe He came for more<br/>More than just to settle sinners' scores<br/>More than just to come and set me free<br/>But to establish Christ in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You have made me in Your image<br/>So that I could be like You<br/>Father God, Holy Spirit, Jesus<br/>Make Your wildest dreams come true</lines>
+    </verse>
+    <verse name="c3">
+      <lines>'Cause I know You came for more<br/>More than just to settle sinners' scores<br/>More than just to come and set me free<br/>But to establish Christ in me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lord my heart belongs to You<br/>Show me what You want me to do<br/>Take me where You want me to be<br/>Come establish Christ in me</lines>
+    </verse>
+  </lyrics>
+</song>

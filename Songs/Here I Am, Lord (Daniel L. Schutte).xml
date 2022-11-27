@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Here I Am, Lord</title>
+    </titles>
+    <copyright>1981 New Dawn Music</copyright>
+    <authors>
+      <author type="words">Daniel L. Schutte</author>
+      <author type="music">Daniel L. Schutte</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I, the Lord of sea and sky,<br/>I have heard my people cry.<br/>All who dwell in dark and sin,<br/>my hand will save.<br/>I who made the stars of night,<br/>I will make their darkness bright.<br/>Who will bear my light to them?<br/>Whom shall I send?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Here I am, Lord. Is it I, Lord?<br/>I have heard You calling in the night.<br/>I will go Lord, if you lead me.<br/>I will hold Your people in my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I, the Lord of snow and rain,<br/>I have borne my people's pain.<br/>I have wept for love of them;<br/>they turn away.<br/>I will break their hearts of stone,<br/>give them hearts for love alone.<br/>I will speak my word to them.<br/>Whom shall I send?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I, the Lord of wind and flame,<br/>I will tend the poor and lame.<br/>I will set a feast for them;<br/>my hand will save.<br/>Finest bread I will provide,<br/>till their hearts be satisfied.<br/>I will give my life to them.<br/>Whom shall I send?</lines>
+    </verse>
+  </lyrics>
+</song>

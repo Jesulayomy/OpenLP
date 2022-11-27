@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:49">
+  <properties>
+    <titles>
+      <title>Silent Night</title>
+    </titles>
+    <authors>
+      <author type="translate">John Freeman Young</author>
+      <author type="music">Franz Xaver Gruber</author>
+      <author type="words">Joseph Mohr</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>hymn</theme>
+      <theme>keyboard</theme>
+      <theme>gospel</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>worship</theme>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Silent night, holy night<br/>All is calm, all is bright<br/>Round yon Virgin Mother and Child<br/>Holy Infant so tender and mild<br/>Sleep in heavenly peace<br/>Sleep in heavenly peace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Silent night, holy night!<br/>Shepherds quake at the sight<br/>Heavenly hosts from heaven above<br/>Guardian Angels sing Alleluia!<br/>Christ, our Saviour is born<br/>Christ, our Saviour is born</lines>
+    </verse>
+  </lyrics>
+</song>

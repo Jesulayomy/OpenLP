@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Greatly blessed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Greatly Blessed and Highly Favoured*<br/>Imperfect but forgiven child of God<br/>Greatly Blessed and Highly Favoured<br/>Imperfect but forgiven child of God<br/>[Repeat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Standing upright on God's good earth<br/>Count my blessings, great things He has done<br/>Fighting the good fight with the blessed assurance<br/>That the battle is already won</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Greatly Blessed and Highly Favoured<br/>Imperfect but forgiven child of God<br/>Greatly Blessed and Highly Favoured<br/>Imperfect but forgiven child of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Greatly Blessed and Highly Favoured<br/>Imperfect but forgiven child of God<br/>Greatly Blessed and Highly Favoured<br/>Imperfect but forgiven child of God<br/>Child of God, I'm a child of God</lines>
+    </verse>
+  </lyrics>
+</song>

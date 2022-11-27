@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Jesus Shall Reign</title>
+    </titles>
+    <authors>
+      <author>Isaac Watts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus shall reign where’er the sun<br/>Doth his successive journeys run;<br/>His kingdom stretch from shore to shore,<br/>Till moons shall wax and wane no more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Him shall endless prayer be made,<br/>And praises throng to crown His head;<br/>His name like sweet perfume shall rise<br/>With every morning sacrifice.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>People and realms of every tongue<br/>Dwell on His love with sweetest song,<br/>And infant voices shall proclaim<br/>Their early blessings on His name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blessings abound where’er He reigns;<br/>The prisoner leaps to lose his chains;<br/>The weary find eternal rest,<br/>And all the sons of want are blessed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let every creature rise and bring<br/>Peculiar honours to our King;<br/>Angels descend with songs again,<br/>And earth repeat the loud Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

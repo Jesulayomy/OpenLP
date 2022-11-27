@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Step by Step</title>
+    </titles>
+    <copyright>1992 BMG Songs, Inc.</copyright>
+    <authors>
+      <author type="words">Rich Mullins, Beaker</author>
+      <author type="music">Rich Mullins, Beaker</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>worship</theme>
+      <theme>commitment</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Oh God, You are my God, and I will ever praise You.<br/>Oh God, You are my God, and I will ever praise You.<br/>I will seek You in the morning,<br/>And I will learn to walk in Your ways.<br/>And step by step, You'll lead me,<br/>And I will follow You all of my days.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I will follow You all of my days.<br/>And I will follow You all of my days.<br/>And step by step, You'll lead me,<br/>And I will follow You all of my days.</lines>
+    </verse>
+  </lyrics>
+</song>

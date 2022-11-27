@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Nearness</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1121"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>I stand with so many questions<br/>But You know all of the answers<br/>And whether this side of Heaven<br/>I know that You are the Healer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>PreChorus 1:<br/>And my heart will stay steadfast<br/>I know that You are good<br/>And my heart will stay steadfast<br/>I know that You are good</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus: (Stay on H)<br/>Comforter You are to me<br/>Shelter from the cold<br/>Constant how You carry me<br/>Never letting go<br/>You are with me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>Your voice holds me together<br/>When I feel like I'm falling apart<br/>I place my world in Your hands<br/>You come and steady my heart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>PreChorus 2:<br/>I feel you in the stillness<br/>I know that You are good<br/>I feel you in the stillness<br/>I know that You are good</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus: (x2)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:<br/>E //////// H/D# //////// H ////<br/>E //// H/D# //// G#m ////</lines>
+    </verse>
+    <verse name="v6">
+      <lines>PreChorus 1:<br/>My heart will stay steadfast<br/>I know that You are good (x2)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>PreChours 2:<br/>I feel You in the stillness<br/>I know that You are good (x2)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Tag:<br/>Emmanuel God with us<br/>Emmanuel God with us</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:14">
+  <properties>
+    <titles>
+      <title>Trust in the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Peter Hopkins</author>
+      <author type="music">Peter Hopkins</author>
+    </authors>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>love</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>protection</theme>
+      <theme>comfort</theme>
+      <theme>easy</theme>
+      <theme>god-our-father</theme>
+      <theme>difficulties</theme>
+      <theme>gods-faithfulness</theme>
+      <theme>baptism</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trust in the Lord, He loves you so.<br/>Trust in the Lord, He won't let go.<br/>Trust in the Lord and you will know<br/>How much he loves me and you!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His promises are good and true,<br/>His promises our faith renew.<br/>His promises will guide us through<br/>If we doubt He loves me and you!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trust in the Lord, He's shown His love,<br/>Jesus came down from heav'n above<br/>To die on a cross so we could live<br/>With Him for ever - me and you!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So when troubles come and winds blow strong,<br/>When through the day things go wrong,<br/>When you feel down and the night seems long,<br/>Think of His love for me and you!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Trust in the Lord, He's good and kind.<br/>Trust in the Lord with heart and mind.<br/>Trust in the Lord and you will find<br/>How much He loves me and you!</lines>
+    </verse>
+  </lyrics>
+</song>

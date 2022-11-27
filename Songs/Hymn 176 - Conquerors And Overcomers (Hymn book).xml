@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-06-05T08:36:46">
+  <properties>
+    <titles>
+      <title>Hymn 176 - Conquerors And Overcomers</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Conquerors and overcomers now are we,<br/>Thro’ the precious blood of Christ we've victory,<br/>If the Lord be for us, we can never fail;<br/>Nothing 'gainst his mighty pow'r can e'er prevail.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Conquerors are we, through the blood of Jesus<br/>God will give us victory, through the blood of Jesus<br/>Thro’ the Lamb for sinners slain,<br/>Yet He lives and reigns again,<br/>More than conquerors are we (x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the name of Israel's God we'll onward press,<br/>Overcoming sin and all unrighteousness;<br/>Not to us, but unto him the praise shall be,<br/>For salvation and for blood-bought victory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unto him that overcometh shall be pow'r<br/>Here to eat of hidden manna sent from heav'n;<br/>Over yonder he the victor's palm shall bear,<br/>And a robe of white, and golden crown shall wear.</lines>
+    </verse>
+  </lyrics>
+</song>

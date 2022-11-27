@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Nobody like You</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2735"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE:<br/>You have given me a reason<br/>So I'm singing my praise unto You<br/>You have lifted every burden<br/>So I'm singing my praise unto You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS:<br/>It's a brand new day (brand new day)<br/>So I'll give You praise (give You praise)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>All for you, Lord it's all for You<br/>You're the reason that I lift my voice and<br/>Give You praise, Lord I give You praise<br/>For the things You do<br/>'Cause there's nobody like You, You, You<br/>There's nobody like You, You, You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2:<br/>You got me singing and rejoicing<br/>Overflowing with praise unto You<br/>Now I'm living in Your freedom<br/>Overflowing with praise unto You</lines>
+    </verse>
+    <verse name="c3">
+      <lines>CHORUS: 2<br/>All for you, Lord it's all for You<br/>You're the reason that I lift my voice and<br/>Give You praise, Lord I give You praise<br/>For the things You do<br/>'Cause there's nobody like You, You, You<br/>There's nobody like You, You, You<br/>There's nobody like You<br/>There's nobody like You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE:<br/>It's a brand new day (brand new day)<br/>So I'll give You praise (give You praise)</lines>
+    </verse>
+  </lyrics>
+</song>

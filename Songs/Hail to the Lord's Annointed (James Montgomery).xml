@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Hail to the Lord's Annointed</title>
+    </titles>
+    <authors>
+      <author>James Montgomery</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hail to the Lord's anointed,<br/>Great David’s greater Son!<br/>Hail, in the time appointed,<br/>His reign on earth begun!<br/>He comes to break oppression,<br/>To set the captive free,<br/>To take away transgression,<br/>And rule in equity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He comes, with succour speedy,<br/>To those who suffer wrong;<br/>To help the poor and needy,<br/>And bid the weak be strong;<br/>To give them songs for sighing,<br/>Their darkness turn to light,<br/>Whose souls, condemned and dying,<br/>Were precious in His sight.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He shall come down like showers<br/>Upon the fruitful earth;<br/>Love, joy and hope, like flowers,<br/>Spring in His path to birth;<br/>Before Him, on the mountains,<br/>Shall peace, the herald, go;<br/>And righteousness, in fountains,<br/>From hill to valley flow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kings shall fall down before Him,<br/>And gold and incense bring;<br/>All nations shall adore Him,<br/>His praise all people sing;<br/>To Him shall prayer unceasing<br/>And daily vows ascend,<br/>His kingdom still increasing,<br/>A kingdom without end.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O’er every foe victorious,<br/>He on His throne shall rest;<br/>From age to age more glorious,<br/>All-blessing and all-blessed.<br/>The tide of time shall never<br/>His covenant remove;<br/>His name shall stand forever,<br/>His changeless name of Love.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Moon and stars</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5487"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moon and stars<br/>Telling us of who You are<br/>You light the way and move our hearts<br/>From across the universe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Day and night<br/>The song we bring is Your delight<br/>You listen close to every cry<br/>You hang on every word</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All across the universe<br/>We can feel Your love on earth<br/>All across the universe<br/>Your love revealed Your love is real</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Infinite<br/>No limit to the love You give<br/>Pouring out and reaching in<br/>Pleasing like the sun like the sun</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ohh, ohh<br/>Your love revealed Your love is real<br/>Ohh, ohh<br/>Your love revealed Your love is real</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Moon and stars<br/>Telling us of who You are</lines>
+    </verse>
+  </lyrics>
+</song>

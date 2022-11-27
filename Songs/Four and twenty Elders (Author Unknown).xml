@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Four and twenty Elders</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 See four and twenty Elders on their knees.<br/>See four and twenty Elders on their knees;<br/>And we'll all rise together, and face the risin' sun.<br/>O Lord, have mercy, if you please.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 They are bowin' roun' the altar on their knees.<br/>They are bowin' roun' the altar on their knees;<br/>And we'll all rise together, and face the risin' sun.<br/>O Lord, have mercy, if you please.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3 They are cryin' "Holy, holy," on their knees.<br/>They are cryin' "Holy, holy," on their knees;<br/>And we'll all rise together, and face the risin' sun.<br/>O Lord, have mercy, if you please.</lines>
+    </verse>
+  </lyrics>
+</song>

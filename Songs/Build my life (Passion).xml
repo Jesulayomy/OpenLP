@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Build my life</title>
+    </titles>
+    <authors>
+      <author type="words">Passion</author>
+      <author type="music">Passion</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3378"/>
+    </songbooks>
+    <themes>
+      <theme>gods-holiness</theme>
+      <theme>church</theme>
+      <theme>unity</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 Verse:<br/>Worthy of every song we could ever sing<br/>Worthy of all the praise we could ever bring<br/>Worthy of every breath we could ever breathe<br/>We live for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 Verse:<br/>Jesus, the name above every other name<br/>Jesus, the only One who could ever save<br/>Worthy of every breath we could ever breathe<br/>We live for you Oh we live for You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus: 1 &amp;amp; 2<br/>Holy, there is no one like You<br/>There is none beside You<br/>Open my eyes in wonder<br/>Show me who You are and fill me<br/>With Your heart and lead me<br/>In Your love to those around me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I will build my life upon Your love<br/>It is a firm foundation<br/>I will put my trust in You alone<br/>And I will not be shaken</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus: 3 &amp;amp; 4<br/>Holy, there is no one like You<br/>There is none beside You<br/>Open my eyes in wonder<br/>Show me who You are and fill me<br/>With Your heart and lead me<br/>In Your love to those around me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Come Magnify</title>
+    </titles>
+    <authors>
+      <author type="words">Femi Anifalaje</author>
+      <author type="music">Femi Anifalaje</author>
+      <author type="words">Dan Smith</author>
+      <author type="music">Dan Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chorus:<br/>Come magnify the Lord with me<br/>Come magnify the Lord with me<br/>Come magnify the Lord with me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Verse 1:<br/>I sought the Lord, He answered me<br/>Delivered me from all my fears<br/>Those who look to Him are radiant<br/>And their faces will never be ashamed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>Taste and see, the Lord is good<br/>Blessed is he who hides in Him<br/>Fear the Lord all His people<br/>Those who fear Him have everything they need</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Together, let us exalt His name<br/>Together, let us exalt His name</lines>
+    </verse>
+  </lyrics>
+</song>

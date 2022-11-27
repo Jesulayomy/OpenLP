@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:52">
+  <properties>
+    <titles>
+      <title>We exalt Thee</title>
+    </titles>
+    <copyright>1977 Pete Sanchez, Jr.</copyright>
+    <authors>
+      <author type="words">Pete Sanchez Jr.</author>
+      <author type="music">Pete Sanchez Jr.</author>
+    </authors>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>worship</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>devotion</theme>
+      <theme>creation</theme>
+    </themes>
+  </properties>
+  <lyrics/>
+</song>

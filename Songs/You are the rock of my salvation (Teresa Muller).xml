@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>You are the rock of my salvation</title>
+    </titles>
+    <authors>
+      <author type="words">Teresa Muller</author>
+      <author type="music">Teresa Muller</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2548"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>protection</theme>
+      <theme>meditation</theme>
+      <theme>devotion</theme>
+      <theme>truth</theme>
+      <theme>gods-word</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the rock of my salvation,<br/>You are the strength of my life.<br/>You are my hope and my inspiration,<br/>Lord unto You will I cry.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I believe in you, believe in You,<br/>For Your faithful love to me.<br/>You have been my help in time of need;<br/>Lord, unto You will cleave.</lines>
+    </verse>
+  </lyrics>
+</song>

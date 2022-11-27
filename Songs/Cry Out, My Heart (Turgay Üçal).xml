@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>Cry Out, My Heart</title>
+    </titles>
+    <authors>
+      <author type="translate">Turgay Üçal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Moda Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cry out, my heart<br/>Cry out to the heav'ns<br/>Rise up, my voice<br/>Raise up to glory<br/>You are royalty<br/>I'm but a speck<br/>You are the sea<br/>I'm but a drop</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cry out, my heart<br/>Cry out with the Spirit<br/>Raise your voice<br/>Rise up with Christ<br/>You are in me<br/>Where am I?<br/>You are the cure<br/>I'm in distress</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cry out, my heart<br/>Cry out with love<br/>Cry out, my heart<br/>Cry out to the heav'ns</lines>
+    </verse>
+  </lyrics>
+</song>

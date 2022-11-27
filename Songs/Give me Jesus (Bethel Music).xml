@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Give me Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1860"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give me Jesus<br/>Give me Jesus<br/>You can have all this world<br/>Give me Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give me Jesus<br/>Give me Jesus<br/>You can have all this world<br/>Give me Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give me the One my soul delights in<br/>Give me the One in whom my hope is securely found</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Give me the One my soul delights in<br/>Give me the One in whom my hope is securely,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Securely found</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Give me the One my soul delights in<br/>Give me the One in whom my hope is securely found</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Give me the One my soul delights in<br/>Give me the One in whom my hope is securely,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Securely found</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Give me Jesus<br/>Give me Jesus<br/>you can have all this world<br/>Give me Jesus</lines>
+    </verse>
+    <verse name="v10">
+      <lines>you can have all this world<br/>give me Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

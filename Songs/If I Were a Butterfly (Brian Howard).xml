@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:05">
+  <properties>
+    <titles>
+      <title>If I Were a Butterfly</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Howard</author>
+      <author type="music">Brian Howard</author>
+    </authors>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If I were a butterfly<br/>I'd thank you Lord for giving me wings<br/>If I were a robin in a tree<br/>I'd thank you Lord that I could sing<br/>If I were a fish in the sea<br/>I'd wiggle my tail and I'd giggle with glee<br/>But I just thank you Father for making me, me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For you gave me a heart and you gave me a smile<br/>You gave me Jesus and you made me your child<br/>And I just thank you Father for making me, me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If I were an elephant<br/>I'd thank you Lord by raising my trunk<br/>If I were a kangaroo<br/>You know I'd hop right up to you<br/>If I were an octopus<br/>I'd thank you Lord for my fine looks<br/>But I just thank you Father for making me, me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If I were a wiggly worm<br/>I'd thank you Lord that I could squirm<br/>If I were a fuzzy, wuzzy bear<br/>I'd thank you Lord for my fuzzy, wuzzy hair<br/>If I were a crocodile I'd thank you Lord for my great smile<br/>But I just thank you Father for making me, me</lines>
+    </verse>
+  </lyrics>
+</song>

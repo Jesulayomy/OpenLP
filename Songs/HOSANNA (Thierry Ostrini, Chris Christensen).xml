@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>HOSANNA</title>
+      <title>Open The Gates</title>
+    </titles>
+    <copyright>© 1995 Integrity's Hosanna! Music / Sovereign Music / LTC</copyright>
+    <authors>
+      <author type="words">Thierry Ostrini</author>
+      <author type="music">Thierry Ostrini</author>
+      <author type="words">Chris Christensen</author>
+      <author type="music">Chris Christensen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="b1">
+      <lines>Hosanna, Hosanna, Hosanna, Hosanna</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Open the gates<br/>Here comes the King of Glory<br/>Lift up your voice and sing<br/>Let us rejoice<br/>Our God has come to save us<br/>Hosanna hosanna hosanna</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The broken in spirit (The broken in spirit)<br/>The humble will hear it (The humble will hear it)<br/>His invitation (His invitation)<br/>To join the celebration</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His army assembles (His army assembles)<br/>The enemy trembles (The enemy trembles)<br/>Our God is with us (Our God is with us)<br/>His Word is victorious</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Before His splendor (Before His splendor)<br/>Kings will surrender (Kings will surrender)<br/>Bow down before Him ()Bow down before Him)<br/>Worship and adore Him</lines>
+    </verse>
+  </lyrics>
+</song>

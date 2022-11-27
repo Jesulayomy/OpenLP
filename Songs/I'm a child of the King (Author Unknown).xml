@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>I'm a child of the King</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once I was clothed in the rags of my sin<br/>Wretched and poor lost and lonely within<br/>But with wonderous compassion the King of all Kings<br/>In pity and love took me under his wing.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh yes, oh yes, I'm a child of the King<br/>His royal blood now flows in my veins<br/>And I who was wretched and poor now can sing<br/>Praise God Praise God I'm a child of the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now I'm a child with a heavenly home<br/>My holy father has made me his own<br/>And I am cleansed by his blood and I'm clothed in his love<br/>And someday I'll sing with the angels above.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Oh yes, oh yes, I'm a child of the King<br/>His royal blood now flows in my veins<br/>And I who was wretched and poor now can sing<br/>Praise God Praise God I'm a child of the King!</lines>
+    </verse>
+  </lyrics>
+</song>

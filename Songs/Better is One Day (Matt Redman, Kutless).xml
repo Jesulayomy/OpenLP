@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Better is One Day</title>
+      <title>How Lovely is Your Dwelling Place</title>
+    </titles>
+    <copyright>1995 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+      <author type="words">Kutless</author>
+      <author type="music">Kutless</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How lovely is Your dwelling place,<br/>O Lord Almighty.<br/>My soul it longs and even faints for You.<br/>For here my heart is satisfied,<br/>Within Your presence.<br/>I sing beneath the shadow of Your wings.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Better is one day in Your courts,<br/>Better is one day in Your house,<br/>Better is one day in Your courts<br/>Than thousands elsewhere.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One thing I ask and I would seek;<br/>To see Your beauty,<br/>To find You in the place Your glory dwells.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>My heart and flesh cry out<br/>For You, the living God;<br/>Your Spirit's water for my soul.<br/>I've tasted and I've seen,<br/>Come once again to me;<br/>I will draw near to You,<br/>I will draw near to You.</lines>
+    </verse>
+  </lyrics>
+</song>

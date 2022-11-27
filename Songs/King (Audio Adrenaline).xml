@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>King</title>
+    </titles>
+    <authors>
+      <author type="words">Audio Adrenaline</author>
+      <author type="music">Audio Adrenaline</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Today I finally found a melody that fits,<br/>A melody that fits.<br/>Today I finally found a song that I can sing,<br/>A song that I can sing.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are my King, You are my King;<br/>I bow down before You and crown You the King of all Kings.<br/>Forever I'll sing, forever I'll sing:<br/>I'll sing of Your mercy and how I have been set free.<br/>I'm set free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The rulers of the earth will bow before Your throne,<br/>They'll bow before Your throne.<br/>The nations You have made will worship You alone,<br/>They'll worship You alone...They'll sing for You.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'm set free.<br/>I'm set free.<br/>I'm set free.<br/>If the King has set you free... you are free indeed.<br/>If the King has set you free... you are free indeed.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Turn Your Eyes upon Jesus</title>
+    </titles>
+    <copyright>1999 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Helen Howarth Lemmel</author>
+      <author type="music">Helen Howarth Lemmel</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O soul, are you weary and troubled?<br/>No light in the darkness you see?<br/>There's light for a look at the Saviour,<br/>And life more abundant and free!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Turn your eyes upon Jesus,<br/>Look full in His wonderful face;<br/>And the things of earth<br/>Will grow strangely dim<br/>In the light of His glory and grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through death into life everlasting<br/>He passed, and we follow Him there;<br/>Over us sin no more hath dominion,<br/>For more than conqu'rors we are!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His Word shall not fail you,<br/>He promised;<br/>Believe Him, and all will be well;<br/>Then go to a world that is dying,<br/>His perfect salvation to tell!</lines>
+    </verse>
+  </lyrics>
+</song>

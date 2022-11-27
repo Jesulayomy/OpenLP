@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>And Now My Lifesong Sings</title>
+    </titles>
+    <authors>
+      <author type="words">Casting Crowns</author>
+      <author type="music">Casting Crowns</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 Verse:<br/>I once was lost, but now I'm found.<br/>I once was lost, but now I'm found.<br/>So far away, but I'm home now.<br/>I once was lost, but now I'm found.<br/>And now my lifesong sings.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 Verse:<br/>I once was blind, but now I see.<br/>I once was blind but now I see.<br/>I don't know how, but when He touched me,<br/>I once was blind, but now I see.<br/>And now my lifesong sings,<br/>And now my lifesong sings,<br/>And now my lifesong sings.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3 Verse:<br/>I once was dead, but now I live,<br/>I once was dead, but now I live.<br/>Now my life to You I give.<br/>Now my life to You I give.<br/>Now my life to You I give.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chorus:<br/>Hallelujah, hallelu - jah.<br/>Let my lifesong sing to You.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ending:<br/>G F G Am Gsus G</lines>
+    </verse>
+  </lyrics>
+</song>

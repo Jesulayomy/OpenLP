@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>You Never Let Go</title>
+    </titles>
+    <copyright>2005 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt and Beth Redman</author>
+      <author type="music">Matt and Beth Redman</author>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3081"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>protection</theme>
+      <theme>bible</theme>
+      <theme>grace</theme>
+      <theme>easy</theme>
+      <theme>gods-faithfulness</theme>
+      <theme>light</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Even though I walk<br/>through the valley of the shadow of death,<br/>Your perfect love is casting out fear.<br/>And even when I'm caught<br/>in the middle of the storms of this life,<br/>I won't turn back, I know You are near.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And I will fear no evil.<br/>For my God is with me.<br/>And if my God is with me,<br/>Whom then shall I fear?<br/>Whom then shall I fear?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, no, You never let go -<br/>through the calm and through the storm.<br/>Oh, no, You never let go -<br/>in ev'ry high and ev'ry low.<br/>Oh, no, You never let go -<br/>Lord, You never let go of me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I can see a light that is coming<br/>For the heart that holds on,<br/>A glorious light beyond all compare.<br/>And there will be an end to these troubles,<br/>But until that day comes,<br/>We'll live to know You here on the earth.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Yes, I can see a light<br/>that is coming for the heart that holds on.<br/>And there will be an end to these troubles,<br/>But until that day comes,<br/>Still I will praise You!<br/>Still I will praise You!</lines>
+    </verse>
+  </lyrics>
+</song>

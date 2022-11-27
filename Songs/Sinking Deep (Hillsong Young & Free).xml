@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Sinking Deep</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Young &amp; Free</author>
+      <author type="music">Hillsong Young &amp; Free</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1334"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>Standing here in your presence<br/>In a grace so relentless<br/>I am won by perfect love<br/>Wrapped within arms of heaven<br/>In a peace that last forever<br/>Sinking deep in mercys sea</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Im wide awake, drawing close, stirred by grace<br/>And all my heart is yours<br/>All fear removed, I breathe you in, I lean into<br/>your love, oh your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I'm lost you pursue me<br/>Lift my head to see your glory<br/>Lord of all, So beautiful<br/>Here in you, I find shelter<br/>Captivated by the splendour<br/>of your face, my secret place</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Your love so deep, Is washing over me<br/>Your face is all I seek, you are my everything<br/>Jesus Christ ,You are my one desire<br/>Lord hear my only cry, to know you all my life</lines>
+    </verse>
+  </lyrics>
+</song>

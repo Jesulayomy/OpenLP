@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Glorious Day</title>
+    </titles>
+    <authors>
+      <author type="words">Passion</author>
+      <author type="music">Passion</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3456"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 verse:<br/>I was buried beneath my shame<br/>Who could carry that kind of weight?<br/>It was my tomb ?Til I met You<br/>I was breathing but not alive<br/>All my failures I tried to hide<br/>It was my tomb ?Til I met You<br/>You called my name and I ran out of that grave</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Out of the darkness into Your glorious day<br/>You called my name and I ran out of that grave<br/>Out of the darkness into Your glorious day</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse:<br/>Now Your mercy has saved my soul<br/>Now Your freedom is all that I know<br/>The old made new, Jesus, when I met You<br/>You called my name and I ran out of that grave</lines>
+    </verse>
+    <verse name="c2">
+      <lines>REPEAT Chorus:<br/>REPEAT Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>I needed rescue, my sin was heavy<br/>But chains break at the weight of Your glory<br/>I needed shelter, I was an orphan<br/>Now You call me a citizen of Heaven<br/>When I was broken, You were my healing<br/>Now Your love is the air that I?m breathing<br/>I have a future, my eyes are open<br/>?Cause when You called my name<br/>I ran out of that grave</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>Out of the darkness into Your glorious day<br/>You called my name and I ran out of that grave<br/>Out of the darkness into Your glorious day</lines>
+    </verse>
+  </lyrics>
+</song>

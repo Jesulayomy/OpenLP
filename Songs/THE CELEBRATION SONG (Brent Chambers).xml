@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>THE CELEBRATION SONG</title>
+    </titles>
+    <authors>
+      <author type="words">Brent Chambers</author>
+      <author type="music">Brent Chambers</author>
+    </authors>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the presence of Your people<br/>I will praise Your Name<br/>for alone You are holy,<br/>enthroned on the praises of Israel.<br/>Let us celebrate Your goodness<br/>and Your steadfast love;<br/>may Your Name be exalted<br/>here on earth and in heaven above</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All who love You sing Your praises<br/>and proclaim Your power,<br/>for alone You are holy,<br/>enthroned on the praises of Israel.<br/>You have not ignored our suffering<br/>but have heard our cry;<br/>may Your power be exalted<br/>here on earth and in heaven above</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All who seek Your rule will praise You<br/>and be satisfied;<br/>for alone You are holy,<br/>enthroned on the praises of Israel.<br/>All the peoples of the nations<br/>will bow down to You;<br/>may Your rule be exalted<br/>here on earth and in heaven above</lines>
+    </verse>
+  </lyrics>
+</song>

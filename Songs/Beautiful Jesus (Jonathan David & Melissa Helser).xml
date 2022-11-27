@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Beautiful Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan David &amp; Melissa Helser</author>
+      <author type="music">Jonathan David &amp; Melissa Helser</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3731"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Hey Jesus, won't You come and dress me in Your thoughts<br/>Pick out Your favorite ones I'm holding out my heart<br/>You cover gray, empty space with color from Your well<br/>Deep love is pouring out and filling up my shell</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Beautiful Jesus, My glorious friend<br/>The One who never grows weary and stays till the end<br/>Oh how I love You, I cannot begin to say<br/>All of the reasons that I love to sing Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Holy Spirit, won't You come and cover me in light<br/>Illuminate the dark space with color yellow bright<br/>Like the stars coming out and filling up my night<br/>The glory of Your promises, You make wrong things right<br/>You make wrong things right</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Beautiful Jesus, My glorious friend<br/>The One who never grows weary and stays till the end<br/>Oh how I love You, I cannot begin to say<br/>All of the reasons that I love to sing Your name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Oh, how I love You<br/>Oh, how I love You<br/>Oh, how I love You<br/>Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Outro:</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Break Every Chain</title>
+      <title>There is power in the name of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+      <author type="words">Will Reagan</author>
+      <author type="music">Will Reagan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>guitar</theme>
+      <theme>gods-holiness</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>longing</theme>
+      <theme>grace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is power in the name of Jesus<br/>There is power in the name of Jesus<br/>There is power in the name of Jesus<br/>To break every chain, break every chain<br/>Break every chain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All sufficient sacrifice<br/>So freely given<br/>such a price<br/>bought our redemption<br/>Heaven's gates swing wide</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's an army rising up<br/>There's an army rising up<br/>There's an army rising up<br/>To break every chain, break every chain<br/>Break every chain</lines>
+    </verse>
+  </lyrics>
+</song>

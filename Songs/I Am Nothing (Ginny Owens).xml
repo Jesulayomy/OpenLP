@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>I Am Nothing</title>
+    </titles>
+    <authors>
+      <author type="words">Ginny Owens</author>
+      <author type="music">Ginny Owens</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I could travel over oceans, cross the deserts, climb the mountains<br/>Just to share your story, bring you glory, and win souls for you.<br/>I could sing like an angel, songs so humble and so thankful,<br/>Full of drama and emotion, so the world would know your truth.<br/>I could give away my money and my clothes and my food<br/>To restore those people who are poor, lost, and down-and-out.<br/>Oh, I could succeed at all these things,<br/>Find favor with peasants and kings,<br/>But if I do not love, I am nothing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I could live a flawless life, never cheat or steal or lie,<br/>And always speak so kindly, smile warmly, and go about doing good.<br/>I could dedicate myself to do what everyone else wants me to-<br/>Listen to them, compliment them, say the things I should.<br/>I could show up every Sunday, lead the choir and Bible study<br/>And they all might come to know me as a leader and a friend.<br/>Oh, I could achieve success on earth,<br/>But success cannot define my worth,<br/>And all these actions, all these words, will not matter in the end.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Songs will fade to silence,<br/>Stories, they will cease.<br/>The dust will settle, covering all my selfless deeds.<br/>So as I strive to serve you,<br/>Won't you make it clear to me,<br/>If I do not love, I am nothing.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>If I cannot live my life loving my brother,<br/>Then how can I love the one who lived his life for me?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sent to earth from heaven,<br/>Humble servant, holy king,<br/>Come to share a story, get no glory, and save my searching soul,<br/>You knew that I'd deny you, crucify you, but nothing could stop you from<br/>Living for me, dying for me, so that I would know:</lines>
+    </verse>
+  </lyrics>
+</song>

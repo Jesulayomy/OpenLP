@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Break Free</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Would you believe me would you listen if i told you that<br/>There is a love that makes a way, it'll never hold you back</lines>
+    </verse>
+    <verse name="p1">
+      <lines>So wont you break wont you break free<br/>Get up and dance in His love<br/>So won't you break wont you break free<br/>Get up and dance in His love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who would have thought that God would give his one and only son<br/>Taking a stand upon the cross to show His perfect love</lines>
+    </verse>
+    <verse name="p2">
+      <lines>So wont you break wont you break free<br/>Get up and dance in His love<br/>So won't you break wont you break free<br/>Get up and dance in his love<br/>His love never ending</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There's no escaping the truth<br/>There's no mistaking it's You<br/>God forever we'll<br/>Get up and dance,<br/>Get up and dance<br/>And praise You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now is the time to take this freedom that has come our way<br/>Offer our lives to see the glory of His name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Living all our days<br/>We are holding on holding on<br/>To all Your ways<br/>We are holding on holding on<br/>To all You say and You've done<br/>We are holding on to Your love<br/>Now we will...dance...</lines>
+    </verse>
+    <verse name="p3">
+      <lines>So won't you break free<br/>Won't you break free<br/>Get up and dance<br/>Wont you break free</lines>
+    </verse>
+  </lyrics>
+</song>

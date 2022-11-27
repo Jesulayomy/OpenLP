@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>A Great and Mighty Wonder</title>
+    </titles>
+    <authors>
+      <author type="music">from Altes Catholische Geistliche Kirchengeseng, Köln, 1599</author>
+      <author type="words">Germanus of Constantinople (634-734)</author>
+      <author type="translate">Neale, John Mason (1818-1866)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A great and mighty wonder, a full and holy cure: The virgin bears the Infant with virgin honor pure! Repeat the hymn again: "To God on high be glory And peace on earth to men!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Word becomes incarnate and yet remains on high, And cherubim sing anthems to shepherds from the sky. Repeat the hymn again: "To God on high be glory And peace on earth to men!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>While thus they sing your Monarch, those bright angelic bands, Rejoice, ye vales and mountains, ye oceans, clap your hands. Repeat the hymn again: "To God on high be glory And peace on earth to men!"</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Since all He comes to ransom, by all be He adored, The Infant born in Bethl'em, the Savior and the Lord. Repeat the hymn again: "To God on high be glory And peace on earth to men!"</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And idol forms shall perish, and error shall decay, And Christ shall wield His scepter, our Lord and God for aye. Repeat the hymn again: "To God on high be glory And peace on earth to men!"</lines>
+    </verse>
+  </lyrics>
+</song>

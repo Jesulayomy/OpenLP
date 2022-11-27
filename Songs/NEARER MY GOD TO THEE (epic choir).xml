@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:43">
+  <properties>
+    <titles>
+      <title>NEARER MY GOD TO THEE</title>
+    </titles>
+    <authors>
+      <author type="words">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nearer my God to thee <br/>Nearer to thee<br/>Even though it be a cross<br/>That raiseth me <br/>still all my song shall be <br/>Nearer my God to thee <br/>Nearer to thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though Night steal over me<br/>my rest a stone <br/>As ov' r the patriarch <br/>Weary and lone<br/>Yet in my dreams I' d be <br/>Nearer my God to thee <br/>Nearer, to thee </lines>
+    </verse>
+    <verse name="v3">
+      <lines>There let the way appear<br/>Steps unto heaven <br/>All that thou sendest me <br/>In mercy given<br/>Angels to beckon me <br/>Nearer , my God to thee<br/>Nearer to thee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then, all  my walking thoughts<br/>Bright with thy praise<br/>Out of the stony rock<br/>bethel i will raise <br/>so by my woes to be<br/>Nearer , my God to thee<br/>Nearer to thee</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Till in my father's house <br/>Perfectly blest<br/>After my journeying<br/>safe and at rest <br/>All my delight shall be <br/>Ever, my God , with thee<br/>Ever, with thee.</lines>
+    </verse>
+  </lyrics>
+</song>

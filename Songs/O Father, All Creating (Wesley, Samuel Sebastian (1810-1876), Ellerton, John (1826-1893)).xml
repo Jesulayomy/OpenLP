@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O Father, All Creating</title>
+    </titles>
+    <authors>
+      <author type="music">Wesley, Samuel Sebastian (1810-1876)</author>
+      <author type="words">Ellerton, John (1826-1893)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Father, all creating, Whose wisdom, love, and pow'r First bound two lives together In Eden's primal hour, Today to these Thy children Thy earliest gifts renew: A home by Thee made happy, A love by Thee kept true.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Savior, Guest most bounteous Of old in Galilee, Vouchsafe today Thy presence With these who call on Thee; Their store of earthly gladness Transform to heav'nly wine, And teach them, in the tasting To know the gift is Thine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Spirit of the Father, Breathe on them from above, So mighty in Thy pureness, So tender in Thy love; That, guarded by Thy presence, From sin and strife kept free, Their lives may own Thy guidance, Their hearts be rul'd by Thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Except Thou build it, Father, The house is built in vain; Except Thou, Savior, bless it, The joy will turn to pain; But naught can break the union Of hearts in Thee made one, And love Thy Spirit hallow'd Is endless love begun.</lines>
+    </verse>
+  </lyrics>
+</song>

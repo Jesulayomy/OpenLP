@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Jesus, You Alone</title>
+    </titles>
+    <copyright>1999 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Tim Hughes</author>
+      <author type="music">Tim Hughes</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, You alone shall be<br/>my first love, my first love.<br/>The secret place and highest praise<br/>Shall be Yours, shall be Yours</lines>
+    </verse>
+    <verse name="p1">
+      <lines>To your throne I'll bring devotion.<br/>May it be the sweetest sound.<br/>Lord, this heart is reaching for you now.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So I'll set my sights upon you,<br/>Set my life upon your praise;<br/>Never looking to another way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Day and night I lift my eyes<br/>to seek You, to seek you.<br/>Hungry for a glimpse of You<br/>In glory, in glory.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>So I'll set my sights upon you,<br/>Set my life upon your praise;<br/>Never looking to another way.<br/>Father, You alone will be my passion.<br/>Jesus, You will be my song.<br/>You will find me longing after You.</lines>
+    </verse>
+  </lyrics>
+</song>

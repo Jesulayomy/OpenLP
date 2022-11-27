@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Pour Out My Heart</title>
+      <title>Here I Am Once Again</title>
+    </titles>
+    <copyright>1994 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Craig Musseau</author>
+      <author type="music">Craig Musseau</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am, once again.<br/>I pour out my heart for I know that You hear<br/>Ev'ry cry; You are listening<br/>No matter what state my heart is in.<br/>You are faithful to answer<br/>With words that are true and a hope that is real.<br/>As I feel Your touch,<br/>You bring a freedom to all that's within.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>In the safety of this place<br/>I'm longing to...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pour out my heart to say that I love You;<br/>Pour out my heart to say that I need You;<br/>Pour out my heart to say that I'm thankful;<br/>Pour out my heart to say that You're wonderful.</lines>
+    </verse>
+  </lyrics>
+</song>

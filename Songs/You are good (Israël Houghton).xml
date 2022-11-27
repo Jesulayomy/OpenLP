@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>You are good</title>
+      <title>We Worship You for Who You are</title>
+    </titles>
+    <authors>
+      <author type="words">Israël Houghton</author>
+      <author type="music">Israël Houghton</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>meditation</theme>
+      <theme>gods-faithfulness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You are good and Your mercy endureth forever  (x2)<br/>People from every nation and tongue,<br/>From generation to generation;</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We worship You, hallelujah, hallelujah.<br/>We worship You for who You are.<br/>We worship You, hallelujah, hallelujah.<br/>We worship You for who You are / and You are good.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, You are good and Your mercy endureth forever  (x2)<br/>People from every nation and tongue,<br/>From generation to generation;</lines>
+    </verse>
+    <verse name="c2">
+      <lines>We worship You, hallelujah, hallelujah.<br/>We worship You for who You are.<br/>We worship You, hallelujah, hallelujah.<br/>We worship You for who You are / and You are good.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Em G A Em D A<br/>You are good all the time and all the time You are good</lines>
+    </verse>
+  </lyrics>
+</song>

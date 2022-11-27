@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>If My People</title>
+      <title>Then will I hear</title>
+    </titles>
+    <authors>
+      <author type="words">Carol Owens</author>
+      <author type="music">Carol Owens</author>
+      <author type="words">Jimmy Owens</author>
+      <author type="music">Jimmy Owens</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If My people<br/>which are called by My name<br/>Shall humble themselves<br/>shall humble themselves and pray</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If My people<br/>which are called by My name<br/>Shall seek My face<br/>and turn from their wicked ways</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Then will I hear from heaven<br/>Then will I hear from heaven<br/>Then will I hear<br/>and will forgive<br/>forgive their sin</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I will forgive their sin<br/>I will forgive their sin<br/>I will forgive their sin<br/>And heal their land</lines>
+    </verse>
+  </lyrics>
+</song>

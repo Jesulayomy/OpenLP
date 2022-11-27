@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>All About You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's All About You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Intro 1: E E</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Intro 2: E Bsus4 - A Bsus4 (4x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 1:<br/>You are  the Holy One<br/>You are  the Living Word<br/>You are<br/>The center of my focus, Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verse 2:<br/>You are  the Son of God<br/>You are  the Solid Rock<br/>You are<br/>The center of my focus, Jesus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pre-Chorus:<br/>You're the lover of my soul<br/>And I adore You only</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Chorus:<br/>It's all about You<br/>All about You<br/>It's all about You<br/>Jesus</lines>
+    </verse>
+    <verse name="v8">
+      <lines>It's all about You<br/>All about You<br/>It's all about You<br/>B ((E) or Intro 2 or Ending)<br/>Jesus</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Verse 3:<br/>You are  miraculous<br/>You are  supernatural<br/>You are<br/>The center of my focus, Jesus</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Verse 4:<br/>You are  all powerful<br/>You are  so wonderful<br/>You are<br/>The center of my focus, Jesus</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Instrumental: Em9 D/E-Em9 (4x)</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Bridge:<br/>Nobody else<br/>Nobody else<br/>Nobody else<br/>'Cause it's all about You<br/>(4x)</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Ending:<br/>Jesus<br/>Jesus<br/>Jesus<br/>E</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

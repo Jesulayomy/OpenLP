@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Yours (Glory and Prais)</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3198"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>It all revolves around Your throne<br/>Who can know Your glory?<br/>So high above yet slain for us<br/>You alone are worthy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>And the praise is Yours! And the praise is Yours!<br/>You're the One we bow before<br/>Reigning over us as we lift You up<br/>You will reign forevermore!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>The One who was and is to come<br/>God of every moment<br/>Forever crowned, exalted now<br/>You alone are Holy!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Glory and praise, power and strength<br/>Worthy is the Lamb of God! Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

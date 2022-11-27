@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>In the morning I wake up</title>
+    </titles>
+    <authors>
+      <author type="translate">Fred &amp; Li Li</author>
+      <author type="words">Ydyrys</author>
+      <author type="music">Ydyrys</author>
+    </authors>
+    <themes>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>meditation</theme>
+      <theme>holy-spirit</theme>
+      <theme>rubob</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// In the morning I wake up, I call out to You.<br/>Joyfully, I sing to You; My praise is for You. //</lines>
+    </verse>
+    <verse name="p1">
+      <lines>My song to You, is what You long for.<br/>My life to You alone devoted.<br/>All day long, it's You I'm praising<br/>Flooded with love, my whole soul worships</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//// O Isa, (O Isa), O Isa, Isa, O Isa<br/>Come to me right now my Lord,<br/>I long for You! ////</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I love You Lord, O King of Kings, You are my God!</lines>
+    </verse>
+  </lyrics>
+</song>

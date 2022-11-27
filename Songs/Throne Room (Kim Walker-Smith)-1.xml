@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Throne Room</title>
+    </titles>
+    <authors>
+      <author type="words">Kim Walker-Smith</author>
+      <author type="music">Kim Walker-Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4879"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 verse:<br/>Dream after dream, You are<br/>Speaking to me, breathing<br/>Word after word of kingdom come<br/>Here at Your feet, I can<br/>See the unseen, truly<br/>One look at You and I'm undone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>I run to the throne room<br/>I run to the throne room</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>And I fall on my face<br/>With angels and saints and all I can say is<br/>Нoly, holy, holy are You<br/>My heart can't contain<br/>The we ight of Your name and all I can say is<br/>Нoly, holy, holy are You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse:<br/>Grace upon grace, all my<br/>Fear falls away, only<br/>Your perfect love for me remains, oh<br/>Time after time, You stay<br/>Close by my side, burning<br/>Fire inside I can't contain</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I run to the throne room<br/>Before You, the only One<br/>I run to the throne room<br/>Before You, I'm overcome</lines>
+    </verse>
+  </lyrics>
+</song>

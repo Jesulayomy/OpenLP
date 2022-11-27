@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-06-05T08:57:41">
+  <properties>
+    <titles>
+      <title>Hymn 8 - To God be the Glory</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To God be the glory! great things He hath done!<br/>So loved He the world that He gave us His Son,<br/>Who yielded His life an atonement for sin,<br/>And opened the life-gate that all may go in.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise the Lord! Praise the Lord!<br/>Let the earth hear His voice!<br/>Praise the Lord! Praise the Lord!<br/>Let the people rejoice!<br/>O come to the Father through Jesus the Son;<br/>And give Him the glory, great things He hath done!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O perfect redemption, the purchase of blood!<br/>To every believer the promise of God;<br/>The vilest offender who truly believes,<br/>That moment from Jesus a pardon receives.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Great things He hath taught us, great things He hath done,<br/>And great our rejoicing through Jesus the Son:<br/>But purer and higher and greater will be<br/>Our wonder, our worship, when Jesus we see!</lines>
+    </verse>
+  </lyrics>
+</song>

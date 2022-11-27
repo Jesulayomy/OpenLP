@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Your Word</title>
+    </titles>
+    <authors>
+      <author type="words">C3 music</author>
+      <author type="music">C3 music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4081"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>Your word is calling in the wake of morning<br/>And when we hear it, our faith will rise<br/>We build our lives upon this foundation<br/>'Cause what is written is eternal life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>PRECHORUS<br/>I run to the river wash me clean<br/>Won't You speak to me<br/>Speak to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>cHORUS<br/>Your word holds all the answers<br/>Your word breaks every stronghold<br/>Light in the dark<br/>Fire in my bones<br/>Beacon of hope I'll follow</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE 2<br/>I'm holding on to every word You've spoken<br/>Your every word is holding on to me<br/>I am secure in the promise You made<br/>It is a door into my destiny</lines>
+    </verse>
+    <verse name="v5">
+      <lines>BRIDGE<br/>You light the way<br/>You calm the storm<br/>You breathe new life into my soul<br/>You light the way<br/>You calm the storm<br/>You breathe new life into my bones</lines>
+    </verse>
+  </lyrics>
+</song>

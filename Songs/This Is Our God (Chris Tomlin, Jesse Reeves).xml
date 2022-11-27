@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>This Is Our God</title>
+    </titles>
+    <copyright>2001 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A refuge for the poor,<br/>a shelter for the storm:<br/>this is our God.<br/>He will wipe away your tears<br/>and return your wasted years:<br/>this is our God.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>So call upon His name,<br/>He is mighty to save:<br/>this is our God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A father to the orphan,<br/>a healer to the broken:<br/>this is our God.<br/>He brings peace to our madness<br/>and comfort in our sadness:<br/>this is our God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is the One we have waited for.<br/>This is the One we have waited for.<br/>This is the One we have waited for.<br/>Jesus, Lord and Savior:<br/>This is our God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A fountain for the thirsty,<br/>a lover for the lonely:<br/>this is our God.<br/>He brings glory to the humble<br/>and crowns for the faithful:<br/>this is our God.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You are the One we have waited for.<br/>You are the One we have waited for.<br/>You are the One we have waited for.<br/>Jesus, Lord and Savior:<br/>This is our God.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jesus, Lord and Savior:<br/>This is our God.</lines>
+    </verse>
+  </lyrics>
+</song>

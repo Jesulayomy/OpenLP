@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>O Holy Night</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4104"/>
+    </songbooks>
+    <themes>
+      <theme>piano</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>worship</theme>
+      <theme>violin</theme>
+      <theme>meditation</theme>
+      <theme>christmas</theme>
+      <theme>testimony</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O holy night, the stars are brightly shining;<br/>It is the night of the dear Savior's birth.<br/>Long lay the world in sin and error pining,<br/>Till he appeared and the soul felt its worth.<br/>A thrill of hope, the weary soul rejoices,<br/>For yonder breaks a new and glorious morn.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fall on your knees,<br/>Oh, hear the angel voices!<br/>O night divine,<br/>O night when Christ was born!<br/>O night, O holy night, O night divine!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Led by the light of faith serenely beaming,<br/>With glowing hearts by His cradle we stand.<br/>O'er the world a star is sweetly gleaming,<br/>Now come the wisemen from out of the Orient land.<br/>The King of kings lay thus lowly manger;<br/>In all our trials born to be our friends.<br/>He knows our need, our weakness is no stranger,<br/>Behold your King! Before him lowly bend!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Truly He taught us to love one another,<br/>His law is love and His gospel is peace.<br/>Chains he shall break, for the slave is our brother.<br/>And in his name all oppression shall cease.<br/>Sweet hymns of joy in grateful chorus raise we,<br/>With all our hearts we praise His holy name.<br/>Christ is the Lord! Then ever, ever praise we,<br/>His power and glory ever more proclaim!</lines>
+    </verse>
+  </lyrics>
+</song>

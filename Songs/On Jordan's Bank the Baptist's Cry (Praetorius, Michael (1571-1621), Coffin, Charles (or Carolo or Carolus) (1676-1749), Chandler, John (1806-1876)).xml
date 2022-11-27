@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>On Jordan's Bank the Baptist's Cry</title>
+    </titles>
+    <authors>
+      <author type="music">Praetorius, Michael (1571-1621)</author>
+      <author type="words">Coffin, Charles (or Carolo or Carolus) (1676-1749)</author>
+      <author type="translate">Chandler, John (1806-1876)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On Jordan's bank the Baptist's cry Announces that the Lord is nigh; Come, then, and hearken, for he brings Glad tidings from the King of kings!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then cleansed be every breast from sin; Make straight the way for God within; Prepare we in our hearts a home, Where such a mighty Guest may come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For Thou art our Salvation, Lord, Our Refuge, and our great Reward. Without Thy grace our souls must fade And wither like a flow'r decayed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stretch forth Thine hand, to heal our sore, And make us rise and fall no more; Once more upon Thy people shine, And fill the world with love divine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To Him Who left the throne of Heav'n To save mankind, all praise be giv'n; Like praise be to the Father done, And Holy Spirit, Three in One.</lines>
+    </verse>
+  </lyrics>
+</song>

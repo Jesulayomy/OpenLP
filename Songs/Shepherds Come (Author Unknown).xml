@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Shepherds Come</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shepherds come, telling all<br/>Christ is born today<br/>In the town, David's town<br/>Christ is born to-day</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Christ the Lord in Bethlehem<br/>Lying on a bed of hay<br/>All rejoice, all rejoice<br/>Christ is born today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joseph stands, by her side<br/>Mary full of joy<br/>Angels high, in the sky<br/>Sing their songs of praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tell the news, everywhere<br/>Tell the whole wide world<br/>Christ our Lord, came to save<br/>Takes our sin a-way</lines>
+    </verse>
+  </lyrics>
+</song>

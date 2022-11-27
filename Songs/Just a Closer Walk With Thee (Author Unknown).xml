@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Just a Closer Walk With Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am weak but<br/>Thou art strong;<br/>Jesus, keep me<br/>from all wrong;<br/>I'll be satisfied as long<br/>as I walk, let me walk<br/>close to Thee.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Just a closer walk with Thee,<br/>grant it, Jesus, is my plea;<br/>Daily walking close to Thee,<br/>let it be, dear Lord, let it be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through this world<br/>of toil and snares,<br/>if I falter, Lord, who cares?<br/>Who with me my<br/>burden shares?<br/>None but thee, dear Lord,<br/>none but Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my feeble life is o'er,<br/>time for me will be no more;<br/>Guide me gently, safely o'er,<br/>to Thy kingdom shore,<br/>to Thy shore.</lines>
+    </verse>
+  </lyrics>
+</song>

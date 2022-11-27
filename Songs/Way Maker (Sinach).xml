@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Way Maker</title>
+      <title>You are here</title>
+    </titles>
+    <authors>
+      <author type="words">Sinach</author>
+      <author type="music">Sinach</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// You are here, moving in our midst<br/>I worship you I worship you<br/>You are here, working in this place<br/>I worship you, I worship you //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are Way Maker, Miracle Worker<br/>Promise Keeper, Light in the darkness,<br/>My God, that is who You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are here touching every heart<br/>I worship you, I worship you<br/>You are here healing every heart<br/>I worship you I worship you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are here turning lives around<br/>I worship you, I worship you<br/>You are here healing every heart<br/>I worship you I worship you</lines>
+    </verse>
+    <verse name="b1">
+      <lines>// That is who You are...That is who You are<br/>That is who You are... That is who You are //</lines>
+    </verse>
+    <verse name="b2">
+      <lines>// Even when I don't see it, You're working<br/>Even when I don't feel it, You're working<br/>You never stop, You never stop working<br/>You never stop, You never stop working //</lines>
+    </verse>
+  </lyrics>
+</song>

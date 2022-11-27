@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>I give myself away</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I give myself away<br/>I give myself away<br/>So You can use me<br/>I give myself away<br/>I give myself away<br/>So You can use me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Here I am, here I stand<br/>Lord, my life is in Your hands<br/>Lord, I'm longing to see<br/>Your desires revealed in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take my heart, take my life<br/>as a living sacrifice<br/>All my dreams all my plans<br/>Lord I place them in Your hands</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>My life is not my own<br/>To You I belong<br/>I give myself, I give myself to You</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Here I am to worship<br/>Here I am to bow down<br/>Here I am to say that You're my God<br/>You're altogether lovely, altogether worthy<br/>Altogether wonderful to me</lines>
+    </verse>
+  </lyrics>
+</song>

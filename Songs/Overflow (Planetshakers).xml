@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Overflow</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2471"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1<br/>Our faith is breaking through the ceiling<br/>There's no doubt we are believing<br/>That in this moment we are seeing<br/>Everything that we've been dreaming</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause You go beyond what we desire<br/>You're reaching higher<br/>Greater than all, You're never ending<br/>You overflow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus<br/>Now to Him<br/>All glory and power<br/>We sing our praise<br/>Over and over again<br/>Over and over again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2<br/>There's no limit to Your power<br/>Lord we know that You are greater<br/>Every season You are stronger<br/>Showing how Your love is deeper</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bridge<br/>If you love Him, don't stop singing<br/>Everybody keep on praising<br/>If you love Him, don't stop singing<br/>Everybody keep on praising</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Verse 3<br/>Here we are with hands raised to the sky<br/>'Cause You alone are all that we desire<br/>We are ready, hearts are open wide<br/>Overflow us, saturate our lives<br/>Yeah</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bridge<br/>If you love Him, don't stop singing<br/>Everybody keep on praising</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Coda</lines>
+    </verse>
+  </lyrics>
+</song>

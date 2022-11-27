@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Every Morning Mercies New</title>
+    </titles>
+    <authors>
+      <author type="music">Hopkins, Edward John (1818-1901)</author>
+      <author type="words">Phillimore, Greville (1821-1884)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ev'ry morning mercies new Fall as fresh as morning dew; Ev'ry morning let us pay Tribute with the early day: For Thy mercies, Lord, are sure; Thy compassion doth endure.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Still the greatness of Thy love Daily doth our sins remove; Daily, far as east from west, Lifts the burden from the breast; Gives unbought to those who pray Strength to stand in evil day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let our prayers each morn prevail, That these gifts may never fail; And, as we confess the sin And the tempter's pow'r within, Feed us with the Bread of Life, Fit us for our daily strife.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As the morning light returns, As the sun with splendor burns, Teach us still to turn to Thee, Ever blessed Trinity, With our hands our hearts to raise, In unfailing prayer and praise.</lines>
+    </verse>
+  </lyrics>
+</song>

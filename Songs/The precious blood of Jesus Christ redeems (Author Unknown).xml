@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>The precious blood of Jesus Christ redeems</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="966"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The precious blood of Jesus Christ redeems,<br/>Forgiven i'm alive, restored set free.<br/>Your majesty resides inside of me,<br/>Forever i believe. forever i believe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Arrested by your truth and righteousness<br/>Your grace has overwhelmed my brokenness<br/>Convicted by your spirit, led by your word<br/>Your love will never fail, Your love will never fail</lines>
+    </verse>
+    <verse name="c1">
+      <lines>'Cause i know you gave, the world your only son for us to<br/>Know your name, to live within the saviours love<br/>And he took my place, knowing he'd be crucified<br/>And you loved.. you loved, a people undeserving!</lines>
+    </verse>
+  </lyrics>
+</song>

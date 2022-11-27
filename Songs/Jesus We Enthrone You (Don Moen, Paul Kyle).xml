@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>Jesus We Enthrone You</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Kyle</author>
+      <author type="music">Paul Kyle</author>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>worship</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>devotion</theme>
+      <theme>peace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus we enthrone You,<br/>We proclaim You our King,<br/>Standing here in the midst of us,<br/>We raise you up with our praise,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And as we worship, build your throne,<br/>And as we worship, build your throne,<br/>And as we worship, build your throne,<br/>Come Lord Jesus and take Your place.</lines>
+    </verse>
+  </lyrics>
+</song>

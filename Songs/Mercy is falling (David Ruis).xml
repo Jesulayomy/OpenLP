@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Mercy is falling</title>
+    </titles>
+    <copyright>1994 Orchard Shade Music</copyright>
+    <authors>
+      <author type="words">David Ruis</author>
+      <author type="music">David Ruis</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your mercy is falling,<br/>Is falling, is falling<br/>Your mercy, it falls<br/>Like the sweet spring rain;<br/>Your mercy is falling,<br/>Is falling all over me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hey-oh! I receive Your mercy!<br/>Hey-oh! I receive Your grace!<br/>Hey-oh! I will dance forevermore!</lines>
+    </verse>
+  </lyrics>
+</song>

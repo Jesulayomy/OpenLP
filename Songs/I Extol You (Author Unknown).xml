@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:21">
+  <properties>
+    <titles>
+      <title>I Extol You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prince of Peace,<br/>Counselor,<br/>Merciful,<br/>Son of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord of Host,<br/>Conqueror,<br/>Coming King and<br/>Everliving God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I extol You,<br/>Lord I extol You,<br/>You are high above the earth,<br/>All creation shouts Your worth.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I extol You,<br/>Lord I extol You,<br/>My Jehovah, I extol You.</lines>
+    </verse>
+  </lyrics>
+</song>

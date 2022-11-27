@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>I Rest In God Alone</title>
+    </titles>
+    <authors>
+      <author type="words">John Daniels</author>
+      <author type="music">John Daniels</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I rest in God alone,<br/>from whom comes my salvation;<br/>my soul finds rest in God,<br/>my fortress: I'll not be shaken.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My hope is in the Lord,<br/>my honour and strength;<br/>my refuge is the Lord forever,<br/>my trust and all of my heart<br/>in God alone my soul finds rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I rest in God alone,<br/>from whom comes my salvation;<br/>my soul finds rest in God,<br/>my fortress: I'll not be shaken.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Oh trust in God, you people;<br/>pour out your hearts,<br/>for God is our refuge forever,<br/>my trust and all of my heart<br/>in God alone my soul finds rest.</lines>
+    </verse>
+  </lyrics>
+</song>

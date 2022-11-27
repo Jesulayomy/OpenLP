@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>And my Soul knows very well</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You make Your face to shine on me<br/>Now my soul knows very well<br/>You lift me up an' I'm cleansed and free<br/>Now my soul knows very well</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When mountains fall, I'll stand<br/>By the power of Your hand<br/>And in Your heart of hearts, I'll dwell<br/>That my soul knows very well</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joy and strength each day I find<br/>That my soul knows very well<br/>Forgiveness, forgiveness, hope, I know is mine<br/>That my soul knows very well</lines>
+    </verse>
+    <verse name="c2">
+      <lines>When mountains fall, I'll stand<br/>By the power of Your hand<br/>And in Your heart of hearts, I'll dwell<br/>That my soul knows very well</lines>
+    </verse>
+  </lyrics>
+</song>

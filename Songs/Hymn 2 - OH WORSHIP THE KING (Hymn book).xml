@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-06-05T08:52:39">
+  <properties>
+    <titles>
+      <title>Hymn 2 - OH WORSHIP THE KING</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh worship the king, all Glorious above ,<br/>Oh gratefully sing his power and his love<br/>Our shield and defender,the ancient of days<br/>Pavilioned in splendor, and girded with praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh tell of his might, Oh sing of his grace<br/>Whose robe is the light, Whose canopy space <br/>His chariots of wrath, The deep thunder clouds form<br/>And dark is his path on the wings of the storm</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The earth, with its store of wonders untold<br/>Almighty, thy power hath founded of old,<br/>Hath stablish'd it fast by a changeless decree,<br/>And round it hast cast. Like a mantle, the sea. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thy bountiful care, what tongue can recite?<br/>It breathes in the air, it shines in the light,<br/>It streams from the hills, It descends to the plain,<br/>And sweetly distills in the dew and the rain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Frail children of dust, And feeble as frail<br/>In thee do we trust, Nor find thee to fail<br/>Thy mercies, how tender, How firm to the end,<br/>Our maker, Defender, Redeemer and friend.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O measureless might! Ineffable love!<br/>While angels delight to hymn thee above,<br/>The humble creation Though feeble their lays,<br/>With true adoration, Shall sing to thy praise.</lines>
+    </verse>
+  </lyrics>
+</song>

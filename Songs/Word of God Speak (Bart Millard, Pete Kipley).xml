@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Word of God Speak</title>
+    </titles>
+    <copyright>2002 Simpleville Music | Songs from the Indigo Room | Wordspring Music, LLC</copyright>
+    <authors>
+      <author type="words">Bart Millard</author>
+      <author type="music">Bart Millard</author>
+      <author type="words">Pete Kipley</author>
+      <author type="music">Pete Kipley</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm finding myself at a loss  for words,<br/>And the funny thing is, it's okay.<br/>The last thing I need  is to be heard,<br/>But to hear what You would say.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Word of God, speak.<br/>Would You pour down like rain,<br/>Washing my eyes to see Your majesty,<br/>To be still and know<br/>That You're in this place?<br/>Please let me stay and rest<br/>In Your holiness.<br/>Word of God, speak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm finding myself in the midst  of You,<br/>Beyond the music, beyond the  noise.<br/>All that I need  is to be with You,<br/>And in the quiet, hear Your voice.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'm finding myself at a loss  for words,<br/>And the funny thing is, it's okay.</lines>
+    </verse>
+  </lyrics>
+</song>

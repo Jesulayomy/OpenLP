@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>He Knows</title>
+    </titles>
+    <authors>
+      <author type="words">Jeremy Camp</author>
+      <author type="music">Jeremy Camp</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1592"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>All the bitter weary ways endless striving day by day<br/>You barely have the strength to pray in the valley low<br/>How hard your fight has been how deep the pain within<br/>Wounds that no one else has seen hurts too much to show</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>All the doubt you're standing in between<br/>And all the weight that brings you to your knees</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>He knows  He knows<br/>Every hurt and every sting He has walked the suffering<br/>He knows  He knows<br/>Let your burdens come undone lift your eyes up to the one</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>We may faint and we may sink feel the pain and near the brink<br/>But the dark begins to shrink when you find the one who knows</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pre chorus:<br/>The chains of doubt that held you in between<br/>One by one are starting to break free</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Every time that you feel forsaken<br/>Every time that you feel alone<br/>He is near to the broken hearted<br/>Every tear</lines>
+    </verse>
+  </lyrics>
+</song>

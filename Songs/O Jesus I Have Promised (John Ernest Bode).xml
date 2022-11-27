@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>O Jesus I Have Promised</title>
+    </titles>
+    <authors>
+      <author>John Ernest Bode</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jesus, I have promised<br/>To serve Thee to the end; <br/>Be Thou forever near me, <br/>My Master and my Friend; <br/>I shall not fear the battle <br/>If Thou art by my side, <br/>Nor wander from the pathway <br/>If Thou wilt be my Guide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O let me feel Thee near me; <br/>The world is ever near; <br/>I see the sights that dazzle, <br/>The tempting sounds I hear; <br/>My foes are ever near me, <br/>Around me and within; <br/>But Jesus, draw Thou nearer, <br/>And shield my soul from sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O let me hear Thee speaking <br/>In accents clear and still, <br/>Above the storms of passion, <br/>The murmurs of self-will; <br/>O speak to reassure me, <br/>To hasten, or control; <br/>O speak, and make me listen, <br/>Thou Guardian of my soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Jesus, Thou hast promised <br/>To all who follow Thee <br/>That where Thou art in glory <br/>There shall Thy servants be; <br/>And, Jesus, I have promised <br/>To serve Thee to the end; <br/>O give me grace to follow <br/>My Master and my Friend.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O let me see Thy footmarks, <br/>And in them plant mine own; <br/>My hope to follow duly <br/>Is in Thy strength alone. <br/>O guide me, call me, draw me, <br/>Uphold me to the end; <br/>And then in heaven receive me, <br/>My Saviour and my Friend.</lines>
+    </verse>
+  </lyrics>
+</song>

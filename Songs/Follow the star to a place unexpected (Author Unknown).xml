@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Follow the star to a place unexpected</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="51"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Follow the star to a place unexpected<br/>Would you believe after all we've projected<br/>A child in a manger<br/>Lowly and small, the weakest of all<br/>Unlikeliest hero, wrapped in his mothers shawl<br/>Just a child<br/>Is this who we've waited for?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How many kings, stepped down from their thrones?<br/>How many lords have abandoned their homes?<br/>How many greats have become the least for me?<br/>How many Gods have poured out their hearts<br/>To romance a world that has torn all apart?<br/>How many fathers gave up their sons for me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bringing our gifts for the newborn savior<br/>All that we have whether costly or meek<br/>Because we believe<br/>Gold for his honor and frankincense for his pleasure<br/>And myrrh for the cross he'll suffer<br/>Do you believe, is this who we've waited for?<br/>It's who we've waited for</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Only one did that for me<br/>Oh......... oh........<br/>All for me, all for you (repeat ad lib)<br/>All for me, all for you</lines>
+    </verse>
+  </lyrics>
+</song>

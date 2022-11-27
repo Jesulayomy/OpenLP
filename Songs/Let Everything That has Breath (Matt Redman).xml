@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Let Everything That has Breath</title>
+    </titles>
+    <copyright>1997 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+      <theme>grace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>// Let everything that, everything that,<br/>Everything that has breath,<br/>Praise the Lord.  //</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Praise You in the morning,<br/>Praise You in the evening,<br/>Praise You when I'm young and when I'm old.<br/>Praise You when I'm laughing,<br/>Praise You when I'm grieving,<br/>Praise You every season of the soul.<br/>If we could see how much You're worth,<br/>Your power, Your might, Your endless love,<br/>Then surely we would never cease to praise:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise You in the heavens.<br/>Joining with the angels,<br/>Praising You forever and a day.<br/>Praise You on the earth now,<br/>Joining with creation,<br/>Calling all the nations to Your praise.<br/>If they could see how much You're worth,<br/>Your power, Your might, Your endless love,<br/>Then surely we would never cease to praise.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And I will worship, I will worship,<br/>I will worship you with every breath</lines>
+    </verse>
+  </lyrics>
+</song>

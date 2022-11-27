@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Shekinah</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We wait for You<br/>We wait for You<br/>We wait for You<br/>To walk in the room</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Here we are standing in Your presence<br/>Here we are standing in Your presence<br/>Shekinah glory come down<br/>Shekinah glory come down</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Release the fullness of Your Spirit<br/>Shekinah glory come<br/>Shekinah glory come</lines>
+    </verse>
+    <verse name="b2">
+      <lines>When You move, we want more<br/>And when You speak, we want more<br/>When You move, we want more<br/>We want the fullness<br/>As You move, we want more<br/>You speak and we want more<br/>You move and we want more<br/>We want the fullness</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Can't get enough, can't get enough<br/>Can't get enough, of Your presence, presence<br/>Can't get enough, of Your presence, presence<br/>Can't get enough, of Your presence, presence</lines>
+    </verse>
+    <verse name="b4">
+      <lines>The Lord has given His freedom<br/>Given His freedom<br/>Given His joy</lines>
+    </verse>
+  </lyrics>
+</song>

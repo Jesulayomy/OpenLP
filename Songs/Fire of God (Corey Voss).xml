@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Fire of God</title>
+    </titles>
+    <authors>
+      <author type="words">Corey Voss</author>
+      <author type="music">Corey Voss</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1548"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>Light the coal fan the flame<br/>Passion for Your holy name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Fire of God consume our souls<br/>No matter where we are or were we go<br/>Fire of God consume our souls tonight</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I just wanna burn with a love so pure<br/>A passion for Your name with Your flame in my soul<br/>I just wanna burn with a love so pure tonight</lines>
+    </verse>
+  </lyrics>
+</song>

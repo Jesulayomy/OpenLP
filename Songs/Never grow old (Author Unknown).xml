@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Never grow old</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have heard of a land<br/>on the far away strand,<br/>'tis a beautiful home of the soul.<br/>Built by Jesus on high,<br/>there we never shall die,<br/>'tis a land where we never grow old.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>kor:<br/>Never grow old, never grow old,<br/>in a land where we'll never grow old.<br/>Never grow old, never grow old,<br/>in a land where we never grow old.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In that beautiful home<br/>where we'll nevermore roam,<br/>we shall be in the sweet by and by.<br/>Happy praise to the king,<br/>through eternity sing,<br/>'tis a land where we never shall die.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When our work here is done<br/>and the life-crown is won,<br/>and our troubles and trials are o'er.<br/>All our sorrows will end,<br/>and our voices will blend,<br/>with the loved ones<br/>who've gone on before.</lines>
+    </verse>
+  </lyrics>
+</song>

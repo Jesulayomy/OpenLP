@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>As David Did</title>
+    </titles>
+    <authors>
+      <author type="words">Marty J. Nystrom</author>
+      <author type="music">Marty J. Nystrom</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As David did in Jehovah's sight,<br/>I will dance will all my might<br/>Before the King of Kings<br/>As Miriam did with the tambourine,<br/>I will clap my hands and sing<br/>before the King of Kings.<br/>As Judah did on the battle ground,<br/>we will make a joyful sound<br/>before the King of Kings.<br/>As Joshua did at Jericho,<br/>we will shout to defeat the foe<br/>before the King of Kings</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We can come before Him,<br/>and worship Him today!<br/>We can now adore Him,<br/>Yeshua, You made the way!</lines>
+    </verse>
+  </lyrics>
+</song>

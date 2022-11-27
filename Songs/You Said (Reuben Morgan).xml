@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>You Said</title>
+    </titles>
+    <copyright>1998 Reuben Morgan / Hillsong Music Australia</copyright>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You said, "Ask and you will receive whatever you need."<br/>You said, "Pray and I'll hear from heaven,<br/>And I'll heal your land."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You said Your glory will fill the earth,<br/>Like water the sea;<br/>You said, "Lift up your eyes;<br/>The harvest is here, the kingdom is near."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You said,<br/>"Ask and I'll give the nations to you."<br/>O Lord, that's the cry of my heart.<br/>Distant shores and the islands will see<br/>Your light as it rises on us.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>O Lord, I ask for the nations.</lines>
+    </verse>
+  </lyrics>
+</song>

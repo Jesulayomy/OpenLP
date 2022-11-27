@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Hark The Herald Angels Sing</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark! The herald angels sing:<br/>‘Glory to the new-born King!<br/>Peace on earth, and mercy mild,<br/>God and sinners reconciled!’</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joyful, all ye nations rise,<br/>Join the triumph of the skies,<br/>With the angelic host proclaim,<br/>‘Christ is born in Bethlehem.’</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hark! the herald angels sing:<br/>‘Glory to the new-born King!’<br/>Christ, by highest heaven adored,<br/>Christ, the everlasting Lord,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Late in time behold Him come,<br/>Offspring of a virgin’s womb.<br/>Veiled in flesh the Godhead see!<br/>Hail the incarnate Deity!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pleased as man with man to dwell,<br/>Jesus, our Immanuel.<br/>Hark! the herald angels sing:<br/>‘Glory to the new-born King.’</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hail the heaven-born Prince of Peace!<br/>Hail, the Sun of righteousness!<br/>Light and life to all He brings,<br/>Risen with healing in His wings,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mild, He lays His glory by;<br/>Born that men no more may die;<br/>Born to raise the sons of earth;<br/>Born to give them second birth.<br/>Hark! the herald angels sing:<br/>‘Glory to the new-born King.’</lines>
+    </verse>
+  </lyrics>
+</song>

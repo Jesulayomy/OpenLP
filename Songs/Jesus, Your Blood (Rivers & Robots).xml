@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Jesus, Your Blood</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3492"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pierced for my transgressions<br/>Wounded for my sins<br/>This man of sorrows came to take my place</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King over creation<br/>Slain for my salvation<br/>Unspeakable love, abounding grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I am coming to this holy place<br/>I am drawing near to seek Your face</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, Your blood has made my hands clean<br/>So I will not hide my face from You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You have won the victory<br/>You have paid the cost<br/>While I was still in sin You died for me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Carrying my sorrows<br/>Lifting off my shame<br/>Bearing all my sin to set me free</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I will ascend the hill of the Lord<br/>'Cause You have rescued me</lines>
+    </verse>
+  </lyrics>
+</song>

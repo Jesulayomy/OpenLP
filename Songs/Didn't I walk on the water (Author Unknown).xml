@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Didn't I walk on the water</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I kneel in the darkness in the middle of the night<br/>I'm praying for assurance everything's gonna be alright<br/>Lord I see another battle out in front of me<br/>I'm afraid I won't be able and I'll go down in defeat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He said, do you remember where I brought you from<br/>Just take a look behind you at how far you've come<br/>And everytime you asked me, didn't I deliver you<br/>So why would you be thinking that I wouldn't see you through</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Didn't I walked on the water and I calmed the raging sea<br/>I spoke to the wind, it hushed and I gave you peace<br/>Didn't I run to your rescue didn't I hear you when you called<br/>I walked right beside you just so you wouldn't fall<br/>Didn't I leave all of Heaven just to die for your sin<br/>I searched until I found you and I'd do it all again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now she's talking to her father in a house that was once a home<br/>She said my bills are coming due Lord and six days is not that long<br/>She hears a voice so still and low<br/>It says I've moved like that before<br/>And I'll do this little thing and I'll give you so much more</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Didn't I walked on the water and I calmed the raging sea<br/>I spoke to the wind, it hushed and I gave you peace<br/>Didn't I run to your rescue didn't I hear you when you called<br/>I walked right beside you just so you wouldn't fall<br/>Didn't I leave all of Heaven just to die for your sin<br/>I searched until I found you and I'd do it all again (2X)</lines>
+    </verse>
+  </lyrics>
+</song>

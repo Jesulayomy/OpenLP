@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>Waiting On The Night To Fall</title>
+    </titles>
+    <authors>
+      <author type="words">Casting Crowns</author>
+      <author type="music">Casting Crowns</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="654"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>There's an old man living in the back of your woods tonight<br/>You forgot he was even there, but you've never slipped his mind<br/>He's living off of scraps of you you never knew you left behind<br/>And as the sun goes down, he rises with a smile</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>He's waiting on the night to fall<br/>The old man's coming to call<br/>You don't see the writing on the wall<br/>He'll never step out in the light<br/>No, he's just biding time<br/>And while you slumber, he's gonna come and take it all<br/>He's waiting on the night to fall<br/>He's waiting on the night to fall</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>He knows you have the answers, but Truth lies dusty on your shelf<br/>And the sword that you could slay him with has become an ornament and nothing else<br/>You could put him back down in his hole in the ground, but he knows you never will<br/>He's been around so long you got used to the smell</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>He's waiting on the night to fall<br/>The old man's coming to call<br/>You don't see the writing on the wall<br/>He'll never step out in the light<br/>No, he's just biding time<br/>And while you slumber, he's gonna come and take it all<br/>He's waiting on the night to fall<br/>He's waiting on the night to fall</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>He knows he'll never have your soul<br/>But he will gladly rob you blind<br/>While you're feasting at his table, he'll tie your hands and numb your mind<br/>He'll take you farther than you wanna go<br/>He'll keep you longer than you wanna stay<br/>And it will cost you more than you ever thought you'd pay</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>He's waiting on the night to fall<br/>The old man's coming to call<br/>You don't see the writing on the wall<br/>He'll never step out in the light<br/>No, he's just biding time<br/>And while you slumber, he's gonna come and take it all<br/>He's waiting on the night to fall<br/>He's waiting on the night to fall</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Outro:<br/>Hes waiting on the night<br/>Hes waiting on the night to fall<br/>The old mans coming to call<br/>But you don't see, you don't see the writing on the wall<br/>Hes waiting on the night<br/>Hes waiting on the night to fall<br/>Hes waiting on the night to fall</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Heal our Land</title>
+    </titles>
+    <authors>
+      <author type="words">Tom Brooks</author>
+      <author type="music">Tom Brooks</author>
+      <author type="words">Robin Brooks</author>
+      <author type="music">Robin Brooks</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If my people will humble themselves<br/>Humble themselves and pray<br/>If they seek my face and humble themselves<br/>And turn from their wicked ways<br/>I will hear from heaven and forgive their sins<br/>I will hear from heaven and heal their land</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, heal our land<br/>Father, heal our land<br/>Hear our cry and turn our nation back to You<br/>Lord, heal our land<br/>Hear us oh, Lord, and heal our land<br/>Forgive our sin and heal our broken land</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, we bow our knee, we humble ourselves<br/>Humble ourselves and pray<br/>Lord, we seek your face and humble ourselves<br/>And turn from our wicked ways<br/>Father in Your mercy, forgive our sins<br/>Father in Your mercy, come heal our land</lines>
+    </verse>
+  </lyrics>
+</song>

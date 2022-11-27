@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Every crown</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have watched how You drove back the sea<br/>That swallowed up my every fear<br/>I have walked from the shore to the deep<br/>Through it all You were there</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Mighty Redeemer<br/>Strong to deliver<br/>You are the Great I Am</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We crown You with every crown<br/>For the way You saved us<br/>Crown You with every crown<br/>For the way You love us<br/>High King of Heaven<br/>We crown You the Lord of all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have watched how You led through the wild<br/>A cloud by day and fire by night<br/>Guiding me to Your promised land<br/>Every step by my side</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All hail redeemer hail<br/>For You have died for me<br/>Your praise will never never fail<br/>Through all eternity</lines>
+    </verse>
+  </lyrics>
+</song>

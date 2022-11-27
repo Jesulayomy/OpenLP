@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Forever God is faithful</title>
+      <title>Give Thanks to the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1960"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>joy</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>appeal</theme>
+      <theme>salvation</theme>
+      <theme>protection</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+      <theme>mbb-lyrics</theme>
+      <theme>mbb-style</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give thanks to the Lord our God and King<br/>His love endures forever<br/>For He is good, He is above all things<br/>His love endures forever<br/>Sing praise, sing praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With a mighty hand and outstretched arm<br/>His love endures forever<br/>For the life that's been reborn<br/>His love endures forever<br/>Sing praise, sing praise, Sing praise, sing praise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Forever God is faithful, forever God is strong<br/>Forever God is with us forever, and ever forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the rising to the setting sun<br/>His love endures forever<br/>And by the grace of God we will carry on<br/>His love endures forever<br/>Sing praise, sing praise, sing praise, sing praise</lines>
+    </verse>
+  </lyrics>
+</song>

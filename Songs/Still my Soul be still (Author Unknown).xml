@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Still my Soul be still</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Still my soul be still<br/>And do not fear<br/>Though winds of change may rage tomorrow<br/>God is at your side<br/>No longer dread<br/>The fires of unexpected sorrow</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God You are my God<br/>And I will trust in You and not be shaken<br/>Lord of peace renew<br/>A steadfast spirit within me<br/>To rest in You alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Still my soul be still<br/>Do not be moved<br/>By lesser lights and fleeting shadows<br/>Hold onto His ways<br/>With shield of faith<br/>Against temptations flaming arrows</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Still my soul be still<br/>Do not forsake<br/>The Truth you learned in the beginning<br/>Wait upon the Lord<br/>And hope will rise<br/>As stars appear when day is dimming</lines>
+    </verse>
+  </lyrics>
+</song>

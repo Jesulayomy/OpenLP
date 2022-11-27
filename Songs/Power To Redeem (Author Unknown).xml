@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Power To Redeem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4881"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You take what is<br/>And you make it beautiful<br/>When love floods in,<br/>We're restored forever more</lines>
+    </verse>
+    <verse name="c1">
+      <lines>With breath that brings the dead to life,<br/>With words that pierce the dark with light<br/>Only by the blood are we set free.<br/>With mercy strong to carry shame<br/>And nail it to a tree You alone<br/>Hold the power to redeem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No guilt competes<br/>With innocence crucified.<br/>No grave can hold<br/>What your grace has justified.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>With breath that brings the dead to life,<br/>With words that pierce the dark with light<br/>Only by the blood are we set free.<br/>With mercy strong to carry shame<br/>And nail it to a tree You alone<br/>Hold the power to redeem.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Rejoice oh child of God<br/>Lift your eyes to see<br/>With every morning light,<br/>Again we are redeemed</lines>
+    </verse>
+    <verse name="c3">
+      <lines>With breath it brings the dead to life,<br/>With words that pierce the dark with light<br/>Only by the blood are we set free.<br/>With mercy strong to carry shame<br/>And nail it to a tree You alone<br/>Hold the power to redeem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh you alone, hold the power to redeem.<br/>Oh you alone, hold the power to redeem.<br/>Oh you alone, hold the power to redeem.</lines>
+    </verse>
+  </lyrics>
+</song>

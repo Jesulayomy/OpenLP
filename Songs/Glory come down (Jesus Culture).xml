@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Glory come down</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2529"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1<br/>My heart is in Your hands, keep me closer<br/>In my life I make a stand to follow You only<br/>Every word You speak will stand forever<br/>So speak now to me, I'm waiting here for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus<br/>Open the heavens, let Your glory come down<br/>My heart burns for You Jesus, for Your presence<br/>for You Holy fire</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bridge<br/>Consume me with Your fire<br/>Let all my desire burn for You, burn for You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>1: Сердце в руках Твоих, держи его ближе<br/>Решение принял я идти за Тобой лишь</lines>
+    </verse>
+    <verse name="v5">
+      <lines>п-п: слова Твои, Бог, не остались бессильны<br/>со мной говори, дай слышать голос Твой</lines>
+    </verse>
+    <verse name="v6">
+      <lines>п: небо открой нам, Свою славу излей<br/>жажду быть с Тобой, Иисус,<br/>для Тебя жить и дышать Тобой</lines>
+    </verse>
+    <verse name="v7">
+      <lines>б: мое сердце наполняй огнем<br/>душа моя жаждет лишь Тебя</lines>
+    </verse>
+  </lyrics>
+</song>

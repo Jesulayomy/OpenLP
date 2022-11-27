@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>No Longer Slaves</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1116"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>freedom</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>forgiveness</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>truth</theme>
+      <theme>blessing</theme>
+      <theme>gods-faithfulness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>You unravel me, with a melody<br/>You surround me with a song<br/>Of deliverance, from my enemies<br/>Till all my fears are gone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I'm no longer a slave to fear<br/>I am a child of God<br/>I'm no longer a slave to fear<br/>I am a child of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>From my Mothers womb<br/>You have chosen me<br/>Love has called my name<br/>I've been born again, into your family<br/>Your blood flows through my veins</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I am surrounded by the arms of the Father<br/>I am surrounded by songs of deliverance<br/>We've been liberated from our bondage<br/>We're the sons and the daughters Let us our sing our freedom</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Interlude:<br/>Ohhh, Ohhh...</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>You split the sea so I could walk right through it<br/>My fears are drowned in perfect love<br/>You rescued me and I will stand and sing<br/>I am a child of God</lines>
+    </verse>
+  </lyrics>
+</song>

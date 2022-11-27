@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>My life is in your hands</title>
+    </titles>
+    <authors>
+      <author type="words">John de Jong</author>
+      <author type="music">John de Jong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 Verse:<br/>You don't have to worry, and don't you be afraid<br/>Joy comes in the morning, troubles they don't last always<br/>For there's a friend named Jesus, who will wipe your tears away<br/>And if your heart is broken, just lift your hands and say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus:<br/>Oh, I know that I can make it<br/>I know that I can stand<br/>No matter what may come my way<br/>My life is in your hands<br/>With Jesus I can take it<br/>with him I know I can stand<br/>No matter what may come my way<br/>My life is in your hands</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 Verse:<br/>So when your test and trials, they seem to get you down<br/>And all your friends and loved ones are nowhere to be found<br/>Remember there's a friend named Jesus who will wipe your tears away<br/>And if your heart is broken just lift your hands and sayGod's Property - My Life Is In Your Hands</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Victory is mine!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Victory is mine! Victory is mine!<br/>Victory today is mine!<br/>I told Satan: Get thee behind!<br/>Victory today is mine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joy is mine! Joy is mine!<br/>Joy today is mine!<br/>I told Satan: Get thee behind!<br/>Joy today is mine!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Peace is mine! Peace is mine!<br/>Peace today is mine!<br/>I told Satan; Get thee behind!<br/>Peace today is mine!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Happiness is mine!<br/>Happiness is mine!<br/>Happiness today is mine!<br/>I told Satan: Get thee behind!<br/>Happiness today is mine!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Faith is mine! Faith is mine!<br/>Faith today is mine!<br/>I told Satan: Get thee behind!<br/>Faith today is mine!</lines>
+    </verse>
+  </lyrics>
+</song>

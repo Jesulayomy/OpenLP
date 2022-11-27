@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Jehovah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jehovah Jireh, my Provider<br/>You are more than enough for me<br/>Jehovah Rapha, You are my Healer<br/>By Your stripes, I am set free<br/>Jehovah Shammah, You are with me<br/>You supply all my needs<br/>You are more than enough<br/>You are more than enough<br/>You are more than enough for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jehovah Nissi, You are my Victory<br/>You are more than enough for me<br/>Jehovah Tsidkenu, my Righteousness<br/>All You are, I now can be<br/>Jehovah Raah, You're my Shepherd<br/>Shalom, You are my Peace<br/>You are more than enough<br/>You are more than enough<br/>You are more than enough for me</lines>
+    </verse>
+  </lyrics>
+</song>

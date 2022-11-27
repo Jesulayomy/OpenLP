@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>We've Come to Praise You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We've come to praise You<br/>'Cause You're worthy<br/>Nobody like You in Your glory<br/>We love to praise You<br/>'Cause You're holy, awesome<br/>Wonderful, mighty God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And everything that You do<br/>Comes from a heart of love<br/>And a hand of mercy<br/>For You are faithful and true<br/>Working all things for good<br/>For those who love You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For if God in love did not spare His Son<br/>But He gave Him up for His chosen ones<br/>How much more will He freely give to us<br/>Who call upon His name?<br/>Who call upon His name?<br/>Who call upon His name?<br/>Who call upon His name?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Lord (I Don't Know)</title>
+    </titles>
+    <copyright>2002 Ariose Music | Soylent Tunes</copyright>
+    <authors>
+      <author type="words">Peter Furler</author>
+      <author type="music">Peter Furler</author>
+      <author type="words">Steve Taylor</author>
+      <author type="music">Steve Taylor</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the author of knowledge.<br/>You can redeem what's been done.<br/>You hold the present and all that's to come<br/>Until your everlasting kingdom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, I don't know where all this is going,<br/>or how it all works out.<br/>Lead me to peace that is past understanding,<br/>a peace beyond all doubt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the God of tomorrow,<br/>Turning the darkness to dawn,<br/>Lifting the hopeless with hope to go on.<br/>You are the Rock of all salvation.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh, Lord, you are the author,<br/>Redeeming what's been done.<br/>You hold us in the present<br/>And all that is to come. (2X)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Lord, we don't know where all this is going,<br/>or how it all works out.<br/>Lead us to peace that is past understanding,<br/>a peace beyond all doubt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Kum Ba Yah</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kum ba yah, my Lord, kum ba yah.<br/>Kum ba yah, my Lord, kum ba yah.<br/>Kum ba yah, my Lord, kum ba yah.<br/>Oh Lord, kum ba yah.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Someone's singing,<br/>Lord, kum ba yah...<br/>Someone's singing,<br/>Lord, kum ba yah...<br/>Someone's singing,<br/>Lord, kum ba yah...<br/>Oh Lord, kum ba yah.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Someone's crying,<br/>Lord, kum ba yah...<br/>Someone's crying,<br/>Lord, kum ba yah...<br/>Someone's crying,<br/>Lord, kum ba yah...<br/>Oh Lord, kum ba yah.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Someone's praying,<br/>Lord, kum ba yah...<br/>Someone's praying,<br/>Lord, kum ba yah...<br/>Someone's praying,<br/>Lord, kum ba yah...<br/>Oh Lord, kum ba yah.</lines>
+    </verse>
+  </lyrics>
+</song>

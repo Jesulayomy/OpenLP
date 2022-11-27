@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:41">
+  <properties>
+    <titles>
+      <title>HE CAN DO ALL THINGS</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>He can do all things<br/>No matter how impossible <br/>All power belongs to him<br/>He is able, more than able</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Covenant keeping God<br/>You are the way maker<br/>Your word is Yea and Amen<br/>You will never fail<br/>Miracle working God<br/>Your word is Yea and Amen <br/>You will never fail<br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Onyenememma<br/>Isi nke ndu<br/>Your word is Yea and Amen<br/>You will never fail<br/>Onye na ememma<br/>Isi nke ndu<br/>Your word is Yea and Amen<br/>YOU WILLL NEVER FAIL.</lines>
+    </verse>
+  </lyrics>
+</song>

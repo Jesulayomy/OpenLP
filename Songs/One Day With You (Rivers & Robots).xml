@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>One Day With You</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3525"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>verse 1:<br/>How lovely is<br/>Your dwelling place<br/>My soul is crying out to be with You<br/>Oh for one more glimpse<br/>To see your face<br/>I was made to be with You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>One day with You<br/>Is better than anything I could ever do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>verse 2:<br/>My soul thirsts for You, and You alone<br/>Lord, nothing in this world could satisfy<br/>'Til I stand in awe, before Your throne<br/>And see that fire burning in Your eyes</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tag:<br/>Now that You've brought me<br/>Into Your family<br/>I can finally call you my Father God<br/>There's nothing better<br/>There's no greater treasure<br/>Than just to be with You my Father God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Surely the presence of the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Surely the presence<br/>of the Lord is in this place,<br/>I can feel His mighty power<br/>and His grace.<br/>I can hear the rush of angels wings,<br/>I see glory on each face.<br/>Surely the presence<br/>of the Lord is in this place.</lines>
+    </verse>
+  </lyrics>
+</song>

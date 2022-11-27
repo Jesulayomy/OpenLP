@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>I was seeking You among the stars</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5539"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was seeking You among the stars,<br/>Among the colors of flowering fields.<br/>I was looking for You at the time of thunderstorms<br/>And the radiance of sunny days.<br/>I was looking for You but not there!<br/>You whispered softly from the inside,<br/>In my heart sounded the soft voice:<br/>«My dear child, look at the soul!»</lines>
+    </verse>
+    <verse name="c1">
+      <lines>"I am with you always, I'm at the heart.<br/>Call only Me, - I will come in love!"<br/>"I am with you always, I'm at the heart.<br/>Call only Me, - I will come in love!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You were there, my God, always<br/>Watching me, You waited quietly.<br/>And when I sought You,<br/>You showed me the right way.<br/>I looked for You - and I found,<br/>You whispered softly from the inside,<br/>In my heart sounded the soft voice:<br/>«My dear child, look at the soul!»</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>One Day</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse<br/>More than I could hope or dream of<br/>You have poured Your favour on me<br/>One day in the house of God is better<br/>Than a thousand days in the world</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus<br/>So blessed<br/>I can't contain it<br/>So much<br/>I've got to give it away<br/>Your love<br/>has taught me to live now<br/>You are more than enough for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bridge<br/>Lord You're more than enough for me<br/>Lord You're more than enough for me</lines>
+    </verse>
+  </lyrics>
+</song>

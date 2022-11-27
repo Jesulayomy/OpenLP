@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>His Love</title>
+    </titles>
+    <copyright>1992 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">David Ruis</author>
+      <author type="music">David Ruis</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>His love is higher than the highest of mountains.<br/>His love goes deeper than the deepest of seas.<br/>His love, it stretches to the farthest horizon,<br/>And His love, it reaches to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His love is stronger than the angels and demons.<br/>His love, it keeps me in my life's darkest hour.<br/>His love secures me on the pathway to heaven,<br/>And His love is my strength and power.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His love is sweeter than the sweetest of honey.<br/>His love is better than the choicest of wine.<br/>His love, it satisfies the deepest of hunger,<br/>And His love in Jesus, it's mine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your love is sweeter than the sweetest of honey.<br/>Your love is better than the choicest of wine.<br/>Your love, it satisfies the deepest of hunger,<br/>And Your love in Jesus, it's mine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your love is stronger than the angels and demons.<br/>Your love, it keeps me in my life's darkest hour.<br/>Your love secures me on the pathway to heaven,<br/>And Your love is my strength and power.</lines>
+    </verse>
+  </lyrics>
+</song>

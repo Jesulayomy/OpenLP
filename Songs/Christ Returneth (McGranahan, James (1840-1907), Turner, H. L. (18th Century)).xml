@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Christ Returneth</title>
+    </titles>
+    <authors>
+      <author type="music">McGranahan, James (1840-1907)</author>
+      <author type="words">Turner, H. L. (18th Century)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It may be at morn, when the day is awaking, When sunlight through darkness and shadow is breaking That Jesus will come in the fullness of glory To receive from the world "His own." O Lord Jesus, how long, how long Ere we shout the glad song, Christ returneth! Hallelujah! Hallelujah! Amen. Hallelujah! Amen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It may be at midday, it may be at twilight, It may be, perchance, that the blackness of midnight Will burst into light in the blaze of His glory, When Jesus receives "His own." O Lord Jesus, how long, how long Ere we shout the glad song, Christ returneth! Hallelujah! Hallelujah! Amen. Hallelujah! Amen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>While hosts cry Hosanna, from heaven descending, With glorified saints and the angels attending, With grace on His brow, like a halo of glory, Will Jesus receive "His own." O Lord Jesus, how long, how long Ere we shout the glad song, Christ returneth! Hallelujah! Hallelujah! Amen. Hallelujah! Amen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, joy! oh, delight! should we go without dying, No sickness, no sadness, no dread and no crying. Caught up through the clouds with our Lord into glory, When Jesus receives "His own." O Lord Jesus, how long, how long Ere we shout the glad song, Christ returneth! Hallelujah! Hallelujah! Amen. Hallelujah! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

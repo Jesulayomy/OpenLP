@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>All I am is Yours</title>
+    </titles>
+    <authors>
+      <author type="words">Youth Alive</author>
+      <author type="music">Youth Alive</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3747"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse 1:]<br/>The day You came and found me I was lost inside.<br/>You called me from my darkness into Your light.<br/>I thought the times I trusted was all the time I wasted, but Jesus You're so faithful and now I can say:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>[Chorus:]<br/>That all I am is Yours!<br/>All I am is Yours!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Verse 2:]<br/>I can hear You clearly.<br/>Now I understand. I heard You call my name and I know it's for real.<br/>You took the pain inside me for all the light inside You.<br/>Источник teksty-pesenok.ru<br/>And You became my reason!Now I can say:</lines>
+    </verse>
+    <verse name="c2">
+      <lines>[Chorus:]<br/>That all I am is Yours !<br/>All I am is Yours!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>[Bridge:]<br/>I can't spend another day away from Your heart!<br/>I can't spend another day away from You!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>[Chorus:]<br/>'Cause all I am is Yours!<br/>All I am is Yours!</lines>
+    </verse>
+  </lyrics>
+</song>

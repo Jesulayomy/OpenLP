@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Bound To See</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm sorry Lord for all the wasted time<br/>The days I spent in masquerade<br/>I used to call myself a child of God<br/>I didn't think I needed change</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You said faith without works is dead, you told me so<br/>So I stand here alone and I'm asking to be changed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cause I'm bound to see the way things are supposed to be<br/>I'm ready to follow you<br/>I'm ready to follow through<br/>And I'm bound to see the change you say you'll work in me<br/>I'm ready to be so true<br/>I'm ready to follow you</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ready to bend, ready to break<br/>Not knowing where I'll go<br/>Ready to be the one you see<br/>As I stand before you Lord</lines>
+    </verse>
+    <verse name="b2">
+      <lines>I'm bound to see your glory<br/>I'm bound to see your grace<br/>I'm bound to see your mercy Lord<br/>And I'm bound to be changed</lines>
+    </verse>
+  </lyrics>
+</song>

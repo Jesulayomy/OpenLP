@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Through It All</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3554"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>It's the way You move<br/>And everything You do<br/>The way You touch my heart again<br/>I'm in love with You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>This is why I praise You, I praise You<br/>I lift You high I praise You, I praise You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through it all I will keep on singing to You<br/>Through it all I will keep believing in You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Whatever happens there is one thing that I know<br/>You are with me everywhere that I may go<br/>I will trust You and I'll praise You through it all<br/>Yeah, I'll praise You through it all<br/>Yeah, I'll praise You through it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>As I lift my eyes<br/>Your light is shining bright<br/>And I choose to sing again<br/>For You give me life</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Even on the darkest day<br/>Nothing will stop my praise<br/>Nothing will stop my praise<br/>Whatever may come my way<br/>I'll lift up Your name<br/>I'll lift up Your name<br/>Even on the darkest day<br/>Nothing will stop my praise<br/>Nothing will stop my praise<br/>Whatever may come my way<br/>I'll lift up Your name<br/>I'll lift up Your name</lines>
+    </verse>
+  </lyrics>
+</song>

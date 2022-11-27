@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Glory To Our King</title>
+    </titles>
+    <authors>
+      <author type="music">Marben Christopher Urgino</author>
+      <author type="words">Triumphant Voices</author>
+      <author type="music">Triumphant Voices</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold our Fathers Love<br/>His Presence is so Sweet<br/>And Glorious</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come and Worship Him<br/>His Name is so Powerful<br/>His Name is so Powerful</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lift up your hands and Worship<br/>Glory to our King<br/>Seeking your Presence Lord<br/>Jesus<br/>Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nothing Compares to your Glory<br/>The Earth will show your Glory<br/>Salvation for all to see<br/>And Praise to you King of Glory</lines>
+    </verse>
+  </lyrics>
+</song>

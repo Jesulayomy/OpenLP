@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>Now Thank We All Our God</title>
+    </titles>
+    <authors>
+      <author>Martin Rinkart</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now thank we all our God,<br/>With hearts and hands and voices; <br/>Who wondrous things has done, <br/>In whom His world rejoices; <br/>Who from our mother’s arms <br/>Has blessed us on our way <br/>With countless gifts of love, <br/>And still is ours today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O may this bounteous God <br/>Through all our life be near us, <br/>With ever joyful hearts <br/>And blessed peace to cheer us; <br/>And keep us in His grace, <br/>And guide us when perplexed, <br/>And free us from all ills <br/>In this world and the next.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All praise and thanks to God <br/>The Father now be given, <br/>The Son, and Him who reigns <br/>With them in highest heaven, <br/>The one eternal God, <br/>Whom earth and heaven adore; <br/>For thus it was, is now, <br/>And shall be ever more.</lines>
+    </verse>
+  </lyrics>
+</song>

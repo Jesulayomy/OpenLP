@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-08T08:11:19">
+  <properties>
+    <titles>
+      <title>Hymn 98 - When The Roll Is Called Up Yonder</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>kids</theme>
+      <theme>violin</theme>
+      <theme>heaven</theme>
+      <theme>thanksgiving</theme>
+      <theme>longing</theme>
+      <theme>separation</theme>
+      <theme>grace</theme>
+      <theme>eternal-life</theme>
+      <theme>easy</theme>
+      <theme>god-our-father</theme>
+      <theme>light</theme>
+      <theme>accordion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the trumpet of the Lord shall sound, <br/>And time shall be no more, <br/>And the morning breaks, <br/>Eternal, bright and fair; <br/>When the saved of earth shall<br/>Gather over on the other shore, <br/>And the roll is called up yonder, I'll be there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On that bright and cloudless morning <br/>When the dead in Christ shall rise, <br/>And the glory of His resurrection share; <br/>When His chosen ones shall gather <br/>To their home beyond the skies, <br/>And the roll is called up yonder, I'll be there. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us labor for the Master from <br/>The dawn till setting sun, <br/>Let us talk of all His wondrous love and care; <br/>Then when all of life is over, <br/>And my work on earth is done, <br/>And the roll is called up yonder, I'll be there.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When the roll is called up yonder, <br/>When the roll is called up yonder,  <br/>When the roll is called up yonder, <br/>When the roll is called up yonder,I'll be there.</lines>
+    </verse>
+  </lyrics>
+</song>

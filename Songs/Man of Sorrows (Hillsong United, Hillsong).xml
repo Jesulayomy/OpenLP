@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Man of Sorrows</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+      <author type="words">Hillsong</author>
+      <author type="music">Hillsong</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1927"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>easter</theme>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Man of sorrows Lamb of God, by His own betrayed<br/>The sin of man and wrath of God has been on Jesus laid</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Silent as He stood accused, beaten mocked and scorned<br/>Bowing to the Father's will, he took a crown of thorns</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh that rugged cross my salvation<br/>Where your love poured out over me<br/>Now my soul cries out hallelujah<br/>Praise and honour unto Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sent of heaven God's own Son to purchase and redeem<br/>And reconcile the very ones who nailed Him to that tree</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Now my debt is paid, it is paid in full<br/>By the precious blood that my Jesus spilled<br/>Now the curse of sin has no hold on me<br/>Whom the son sets free oh is free indeed x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>See the stone is rolled away, behold the empty tomb<br/>Hallelujah God be praised, He's risen from the grave</lines>
+    </verse>
+  </lyrics>
+</song>

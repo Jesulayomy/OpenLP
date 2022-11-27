@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Hunger + Thirst</title>
+    </titles>
+    <authors>
+      <author type="words">The Belonging Co</author>
+      <author type="music">The Belonging Co</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4067"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>repentance</theme>
+      <theme>prayer</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE<br/>I have been here before<br/>But I know there is more of You to find<br/>I have seen Heaven fall<br/>Still my heart longs to see You one more time</lines>
+    </verse>
+    <verse name="v2">
+      <lines>PRECHORUS<br/>So once again, I invite You in<br/>Once again I am reaching out</lines>
+    </verse>
+    <verse name="v3">
+      <lines>CHORUS<br/>You're all I'm after<br/>All that I pursue<br/>I hunger and thirst for You<br/>Hunger and thirst for You<br/>My sole desire<br/>No one else will do<br/>I hunger and thirst for You<br/>Hunger and thirst for You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE<br/>There are prayers I have prayed<br/>Still echoing even in the wait<br/>But the hope I embrace<br/>Is that You are good and You will make a way</lines>
+    </verse>
+    <verse name="v5">
+      <lines>BRIDGE<br/>All that I'm needing, All that I'm seeking<br/>All that I want, Is all that are<br/>My one devotion, You and You only<br/>All that I want, Is all that are</lines>
+    </verse>
+  </lyrics>
+</song>

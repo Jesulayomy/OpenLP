@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Alleluia, Sing To Jesus!</title>
+    </titles>
+    <authors>
+      <author type="music">Prichard, Rowland H. (1811-1887)</author>
+      <author type="words">Dix, William Chatterton (1837-1865)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia! sing to Jesus! His the scepter, His the throne. Alleluia! His the triumph, His the victory alone. Hark! the songs of peaceful Zion thunder like a mighty flood. Jesus out of every nation has redeemed us by His blood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluia! not as orphans are we left in sorrow now; Alleluia! He is near us, faith believes, nor questions how; Though the cloud from sight received Him when the forty days were o'er Shall our hearts forget His promise, "I am with you evermore"?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluia! bread of angels, Thou on earth our food, our stay; Alleluia! here the sinful flee to Thee from day to day: Intercessor, Friend of sinners, Earth's Redeemer, plead for me, Where the songs of all the sinless sweep across the crystal sea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluia! King eternal, Thee the Lord of lords we own; Alleluia! born of Mary, Earth Thy footstool, Heaven Thy throne: Thou within the veil hast entered, robed in flesh our great High Priest; Thou on earth both priest and victim in the Eucharistic feast.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>My Eyes Are Dry</title>
+    </titles>
+    <copyright>1978 Birdwing Music</copyright>
+    <authors>
+      <author type="words">Keith Green</author>
+      <author type="music">Keith Green</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My eyes are dry, my faith is old,<br/>My heart is hard, my prayers are cold;<br/>And I know how I ought to be:<br/>Alive to You and dead to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, what can be done for an old heart like mine?<br/>Soften it up with oil and wine;<br/>The oil is You, Your Spirit of love,<br/>Please wash me anew<br/>In the wine of Your blood.</lines>
+    </verse>
+  </lyrics>
+</song>

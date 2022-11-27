@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lord, Keep Us Steadfast in Thy Word</title>
+    </titles>
+    <authors>
+      <author type="music">from Klug's Geistliche Lieder auffs new gebessert, Wittenberg, 1543</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, keep us steadfast in Thy Word; Curb those who fain by craft and sword Would wrest the kingdom from Thy Son And set at naught all He hath done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord Jesus Christ, Thy pow'r make known, For Thou art Lord of lords alone; Defend Thy Christendom that we May evermore sing praise to Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Comforter of priceless worth, Send peace and unity on earth. Support us in our final strife And lead us out of death to life.</lines>
+    </verse>
+  </lyrics>
+</song>

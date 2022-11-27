@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Adonai</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>I lift my voice<br/>I lift my praise to you<br/>I lift my hands<br/>I lift my worship to you<br/>And I love you more than I can say<br/>Oh I love you more than I can say</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ever I will sing only you will I adore<br/>Glorify my Lord only you will I serve<br/>For the world will fade away<br/>Still my song to you remains<br/>Only you will I adore</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh I love You always<br/>Oh I love You always</lines>
+    </verse>
+  </lyrics>
+</song>

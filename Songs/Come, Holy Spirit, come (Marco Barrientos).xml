@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Come, Holy Spirit, come</title>
+    </titles>
+    <authors>
+      <author type="words">Marco Barrientos</author>
+      <author type="music">Marco Barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, Holy Spirit, come<br/>And fill me up, O Lord<br/>Anoint me with Your oil</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Purify my heart<br/>And wash me inside<br/>Renew my mind<br/>Restore my soul, my life<br/>Almighty God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Purify my heart<br/>And wash me inside<br/>Renew my mind<br/>Restore my soul, my life<br/>I want to know You more<br/>O Lord, I want to Know You more</lines>
+    </verse>
+  </lyrics>
+</song>

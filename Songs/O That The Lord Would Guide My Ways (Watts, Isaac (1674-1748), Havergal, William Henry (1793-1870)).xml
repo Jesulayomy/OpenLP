@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O That The Lord Would Guide My Ways</title>
+    </titles>
+    <authors>
+      <author type="music">Havergal, William Henry (1793-1870)</author>
+      <author type="words">Watts, Isaac (1674-1748)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O that the Lord would guide my ways To keep His statutes still! O that my God would grant me grace To know and do His will!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O send Thy Spirit down to write Thy law upon my heart! Nor let my tongue indulge deceit, Nor act the liar's part.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From vanity turn off mine eyes; Let no corrupt design, Nor covetous desires arise Within this soul of mine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Order my footsteps by Thy Word, And make my heart sincere; Let sin have no dominion, Lord, But keep my conscience clear.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Assist my soul, too apt to stray, A stricter watch to keep; And should I e'er forget Thy way, Restore Thy wand'ring sheep.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Make me to walk in Thy commands, 'Tis a delightful road;<br/>Nor let my head, or heart, or hands, Offend against my God.</lines>
+    </verse>
+  </lyrics>
+</song>

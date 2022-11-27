@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>There Is a Cloud</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4904"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear the Word, roaring as thunder<br/>With a new, future to tell<br/>For the dry, season is over<br/>There is a cloud, beginning to swell</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To the skies, heavy with blessing<br/>Lift your eyes, offer your heart<br/>Jesus Christ, opened the Heavens<br/>Now we receive, the Spirit of God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We receive Your rain<br/>We receive Your rain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every seed, buried in sorrow<br/>You will call, forth in its time<br/>You are Lord, Lord of the harvest<br/>Calling our hope, now to arise</lines>
+    </verse>
+    <verse name="c2">
+      <lines>We receive Your rain<br/>We receive Your rain<br/>We receive Your rain<br/>We receive Your rain</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Like a flood; like a flood<br/>We receive Your love, when You come<br/>Like a flood; like a flood<br/>We receive Your love, when You come<br/>Like a flood; like a flood<br/>We receive Your love, when You come<br/>Like a flood; like a flood<br/>We receive Your love!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And with great, anticipation<br/>We await, the Promise to come<br/>Everything, that You have spoken<br/>Will come to pass, let it be done!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>We receive Your rain<br/>We receive Your rain<br/>We receive Your rain<br/>We receive Your rain﻿</lines>
+    </verse>
+  </lyrics>
+</song>

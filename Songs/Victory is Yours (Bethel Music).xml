@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Victory is Yours</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our fight is with weapons unseen<br/>Your enemies crash to their knees<br/>As we rise up in worship<br/>When trials unleash like a flood<br/>The battle belongs to our God<br/>As we cry out in worship</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The victory is Yours<br/>You're riding on the storm<br/>Your name is unfailing<br/>Though kingdoms rise and fall<br/>Your throne withstands it all<br/>Your name is unshaken</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What hell meant to break me has failed<br/>Now nothing will silence my praise<br/>I will cry out in worship<br/>The walls of the prison will shake<br/>The chain breaking King will rise to save<br/>As we cry out in worship</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You roar like thunder<br/>Nothing can tame<br/>A God all powerful<br/>All powerful<br/>We pull down Heaven<br/>With shouts of praise<br/>A God all powerful<br/>All powerful</lines>
+    </verse>
+  </lyrics>
+</song>

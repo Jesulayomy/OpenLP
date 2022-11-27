@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Set Me Ablaze</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1594"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Set me ablaze, set me ablaze till it's all that I know<br/>Set me ablaze, set me ablaze so I'll never grow cold</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Breathe, come and breathe on the  coals of my heart, may Your fire start<br/>Breathe, come and breathe on the  coals of my heart keep me burning<br/>Breathe, come and breathe on the  coals of my heart, may Your fire start<br/>Breathe, come and breathe on the  coals of my heart oh</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Set me ablaze, set me ablaze with a single obsession<br/>Set me ablaze, set me ablaze with an endless passion</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Your fire, burn brighter deep inside my heart<br/>Consume me, reach through me I want all You are<br/>Your fire, burn brighter deep inside my heart<br/>Consume me, reach through me  I want all You are</lines>
+    </verse>
+  </lyrics>
+</song>

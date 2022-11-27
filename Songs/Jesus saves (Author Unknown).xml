@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:00">
+  <properties>
+    <titles>
+      <title>Jesus saves</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hope is here<br/>Shout the news to everyone<br/>It's a new day, Peace has come<br/>Jesus saves<br/>Mercy triumphs at the cross<br/>Love has come to rescue us<br/>Jesus saves</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hope is here<br/>What a joyful noise we'll make<br/>As we join with heaven's song<br/>To let all the world know that Jesus saves<br/>Raise a shout to let all the world know<br/>That Jesus saves</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Free at last<br/>Every debt has been repaid<br/>Broken hearts can be remade<br/>Jesus saves<br/>Sing above the storms of life<br/>Sing it through the darkest night<br/>Jesus saves</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Free at last<br/>What a joyful noise we'll make<br/>As we join with heaven's song<br/>To let all the world know that Jesus saves<br/>Raise a shout to let all the world know<br/>That Jesus saves</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sing it out<br/>To let all the world know that Jesus saves<br/>Raise a shout<br/>To let all the world know that Jesus saves</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You save, You heal<br/>Restore, reveal, Your Father's heart to us<br/>You rose to raise us from the grave<br/>Your Spirit lives in us</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sing it out<br/>To let all the world know that Jesus saves<br/>Raise a shout<br/>To let all the world know that Jesus saves</lines>
+    </verse>
+  </lyrics>
+</song>

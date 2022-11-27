@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>Oh my Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh my Lord, (Oh my Lord)<br/>I love You, (I love You)<br/>Oh my Lord, (Oh my Lord)<br/>I worship You, (I worship You)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/// You are the Most High God<br/>You are Almighty God<br/>You are my Saviour and my King ///</lines>
+    </verse>
+  </lyrics>
+</song>

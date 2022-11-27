@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>No One Like You</title>
+    </titles>
+    <copyright>2003 worshiptogether.com songs | sixsteps Music | Inot Music</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+      <author type="words">Jack Parker</author>
+      <author type="music">Jack Parker</author>
+      <author type="words">Jason Solley</author>
+      <author type="music">Jason Solley</author>
+      <author type="words">Jeremy Bush</author>
+      <author type="music">Jeremy Bush</author>
+      <author type="words">Mike Dodson</author>
+      <author type="music">Mike Dodson</author>
+      <author type="words">Mike Hogan</author>
+      <author type="music">Mike Hogan</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are more beautiful than anyone ever.<br/>Everyday You're the same; You never change, no never.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And how could I ever deny  the love of my Savior?<br/>You are to me everything, all I need, forever.<br/>How could You be so good?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There is no one like You.<br/>There has never ever been anyone like You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Everywhere, You are there, earth or air, surrounding.<br/>I'm not alone, the heavens sing along,<br/>My God, You're so astounding.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>How could You be so good to me?<br/>Eternally I believe.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You, You, You, You, You, You.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>How could You be so good to me?<br/>How could You be so good to me?<br/>We're not alone, so sing along.<br/>We're not alone, so sing along,<br/>Sing along, sing along.</lines>
+    </verse>
+    <verse name="b3">
+      <lines>There is no one like You.<br/>There has never ever been anyone like You.<br/>There is no one like You.<br/>There has never been anyone like You.<br/>There is no one like our God, yeah.</lines>
+    </verse>
+  </lyrics>
+</song>

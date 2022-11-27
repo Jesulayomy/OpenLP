@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-02T17:51:30">
+  <properties>
+    <titles>
+      <title>Hymn 48 - As I Journey Thro' The Land</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I Journey Thro' The Land singing as I go<br/>Pointing souls to calvary to the crimson flow <br/>Many arrows pierce my soul, From without within <br/>But my Lord leads me on, thro' Him I must win</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O I want to see Him, look upon His face <br/>There to sing forever of His saving grace<br/>On the streets of glory, let me lift my voice <br/>Cares, all past, home at last ever to rejoice</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When in service for my Lord, dark may be the night <br/>But I'll cling more close to him He will give me light<br/>Satan's snares may vex my soul turn tho'ts aside <br/>But my Lord goes ahead, leads what'ver betide</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When in valleys low i look towards the mountain height <br/>And behold my savior there leading in the fight <br/>With a tender hand outstretched Tow'rds the valley low <br/>Guiding me, I can see, as I onward go</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When before me billows rise from the mighty deep <br/>Then y Lord directs my back He doth safely keep <br/>And He leads me gently on thro'this world below <br/>He's a real friend to me, O! I love Him so</lines>
+    </verse>
+  </lyrics>
+</song>

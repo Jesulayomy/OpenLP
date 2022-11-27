@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Leave Me Astounded</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2869"/>
+    </songbooks>
+    <themes>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>All my hands have made I'm laying down<br/>All that I hold dear my many crowns<br/>I have tasted and seen of Your great love<br/>You satisfy me<br/>You satisfy me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Spirit fall open up heaven's door<br/>We're waiting with worship for more<br/>You're the only love that satisfies me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>My constant request above all things<br/>Every hour I wake be near me oh God<br/>Though I've tasted and seen of Your great love<br/>Show me Your glory<br/>Show me Your glory</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Spirit fall open up heaven's door<br/>We're waiting with worship for more<br/>You're the only love that satisfies me<br/>Lord we run into Your loving arms<br/>We're safe and secure in Your love<br/>You're the only love that satisfies me</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Leave me astounded leave me amazed<br/>Show us Your glory let heaven invade<br/>We're waiting with worship we're waiting with praise<br/>For the almighty presence of God to invade</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:  (Key rising chorus)<br/>Spirit fall open up heaven's door<br/>We're waiting with worship for more<br/>You're the only love that satisfies me<br/>Lord we run into Your loving arms<br/>We're safe and secure in Your love<br/>You're the only love that satisfies me</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:<br/>Leave me astounded leave me amazed<br/>Show us Your glory let heaven invade<br/>We're waiting with worship we're waiting with praise<br/>For the almighty presence of God to invade</lines>
+    </verse>
+  </lyrics>
+</song>

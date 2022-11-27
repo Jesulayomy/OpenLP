@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Thy will</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4913"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm so confused<br/>I know I heard You loud and clear<br/>So, I followed through<br/>Somehow I ended up here</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I don't wanna think I may never understand<br/>That my broken heart is a part of Your plan<br/>When I try to pray all I've got is hurt<br/>And these four words</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Thy will be done<br/>Thy will be done<br/>Thy will be done</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know You're good<br/>But this don't feel good right now<br/>And I know You think<br/>Of things I could never think about</lines>
+    </verse>
+    <verse name="p2">
+      <lines>It's hard to count it all joy distracted by the noise<br/>Just trying to make sense of all Your promises<br/>Sometimes I gotta stop remember that You're God<br/>And I am not so</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Thy will be done<br/>Thy will be done<br/>Thy will be done<br/>Like a child on my knees all that comes to me is<br/>Thy will be done<br/>Thy will be done<br/>Thy will</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I know You see me, I know You hear me, Lord<br/>Your plans are for me Goodness You have in store<br/>I know You hear me, I know You see me, Lord<br/>Your plans are for me Goodness You have in store, so</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Thy will be done<br/>Thy will be done<br/>Thy will be done<br/>Like a child on my knees all that comes to me is<br/>Thy will be done<br/>Thy will be done<br/>Thy will be done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know You see me<br/>I know You hear me, Lord﻿</lines>
+    </verse>
+  </lyrics>
+</song>

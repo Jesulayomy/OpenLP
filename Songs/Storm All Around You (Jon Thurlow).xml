@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Storm All Around You</title>
+    </titles>
+    <authors>
+      <author type="words">Jon Thurlow</author>
+      <author type="music">Jon Thurlow</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2814"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>I know there are creatures all around You<br/>I know there are lightnings and thunderings<br/>I know there's a storm all around You<br/>Holy,  Holy,  Holy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh oh oh   oh oh oh   oh oh oh oh oh   oh oh oh oh oh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>I see seven lamps of fire burning and I,<br/>I see a sea of glass mingled with fire burning,<br/>I see the Son of man with eyes of fire burning,<br/>Burning, burning, burning</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh oh oh   oh oh oh   oh oh oh oh oh   oh oh oh oh oh</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Halle-halle-hallelujah, for the Lord God Omnipotent reigns<br/>Halle-halle-hallelujah, for the Lord God Omnipotent reigns</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Everyone in the temple cries Glory<br/>Everyone in the temple cries Glory</lines>
+    </verse>
+  </lyrics>
+</song>

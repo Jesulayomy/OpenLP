@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:21">
+  <properties>
+    <titles>
+      <title>Wherever I've gone on the path of life</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5768"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wherever I've gone on the path of life<br/>No matter how much fear I've met<br/>I always felt beside me<br/>The gracious hand of my Savior<br/>And even if I got tired along the way<br/>You always gently lifted me up<br/>And gave me hope again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are always with me, You are always with me,<br/>I firmly know that always<br/>Your hand is with me You are with me.<br/>Let it be dark around me<br/>But in my soul it is light because I know, I believe<br/>that you are always with me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If the darkness gathered round me<br/>Or my friends walked away<br/>I was not afraid, for with You<br/>I walked through this stormy life<br/>And whatever happens in my life<br/>I'm ready to sing, not cry<br/>I'm already lifted up from this thought:<br/>You can warm my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

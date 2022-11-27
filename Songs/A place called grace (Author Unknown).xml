@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>A place called grace</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So many years I heard it told<br/>The story of compassion<br/>A prodigal son who left the fold<br/>And found no satisfaction<br/>On my knees, Lord, I cried out to You<br/>I'm so alone<br/>But if there's room in Your<br/>house for one more<br/>I'm ready to come back home?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus<br/>I know there is a place<br/>Where arms of compassion<br/>welcome me home<br/>Sweet mercy falls like rain<br/>I know there's a place called grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So many days I've dreamed of grace<br/>Yet I have to wonder<br/>How many times my human strength<br/>Has kept me from surrender<br/>The more I learn just to lean on the cross<br/>The more I see<br/>When I fall, I will fall to the place<br/>Where mercy reaches me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chorus2<br/>If it seems that my courage is strong<br/>There's just one reason<br/>He's the Rock that my faith is built on<br/>He holds me in His arms<br/>Gives me strength to carry on</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chorus</lines>
+    </verse>
+  </lyrics>
+</song>

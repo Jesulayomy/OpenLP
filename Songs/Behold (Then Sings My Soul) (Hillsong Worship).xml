@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Behold (Then Sings My Soul)</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2158"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BEHOLD (THEN SINGS MY SOUL)<br/>Words and Music by<br/>JOEL HOUSTON<br/>♩= 73</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 1:<br/>Behold the Father's heart<br/>The mystery He lavishes on us<br/>As deep cries out to deep<br/>Oh how desperately He wants us<br/>The things of earth stand next to Him<br/>Like a candle to the sun<br/>Unfailing Father<br/>What compares to His great love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2:<br/>Behold, His holy Son<br/>The Lion and the Lamb given to us<br/>The Word became a man<br/>That my soul should know its Saviour<br/>Forsaken for the sake of all mankind<br/>Salvation is in His blood<br/>Jesus, Messiah, the righteous died for love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pre-chorus 1:<br/>It wasn't over for He is the risen One</lines>
+    </verse>
+    <verse name="v5">
+      <lines>CHORUS 1:<br/>Then sings my soul, then sings my soul<br/>How great Your love is, how great Your love is<br/>Then sings my soul</lines>
+    </verse>
+    <verse name="v6">
+      <lines>VERSE 3:<br/>Behold, I have a friend<br/>The Spirit breathing holy fire within<br/>My ever present help<br/>Speaking truth when I can't find it<br/>Light up this broken heart and light my way<br/>'Til my time on earth is done<br/>Oh, Holy Spirit<br/>Breathe in me like kingdom come</lines>
+    </verse>
+    <verse name="v7">
+      <lines>PRE-CHORUS 2:<br/>Oh Holy Spirit<br/>Let Your work in me be done</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Repeat CHORUS 1:<br/>CHORUS 2:<br/>Then sings my soul, then sings my soul<br/>How great Your love is, how great Your love is</lines>
+    </verse>
+    <verse name="v9">
+      <lines>OUTRO:<br/>Then sings my soul, my God<br/>He who was and is to come<br/>Prepare the way until the work on earth is done<br/>Watch as the clouds He rides swing low<br/>Lift up the sound as He makes<br/>Our praise His throne<br/>Behold the Lord our God will lead us home.</lines>
+    </verse>
+  </lyrics>
+</song>

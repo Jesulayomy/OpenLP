@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>All You've Ever Wanted</title>
+    </titles>
+    <authors>
+      <author type="words">Casting Crowns</author>
+      <author type="music">Casting Crowns</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="653"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just looked up today<br/>And realized how far away I am<br/>From where You are<br/>You gave me life worth dying for<br/>But between the altar and the door<br/>I bought the lies that promised more<br/>And here I go again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>oh oh oh oh oh oh ohh<br/>oh oh oh oh oh oh ohh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I know I let you down<br/>But somehow I will make You proud<br/>I'll turn this sinking ship around<br/>And make it back to You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>But all my deeds and my good name<br/>Are just dirty rags that tear and strain<br/>To cover all my guilty stains<br/>That you've already washed away</lines>
+    </verse>
+    <verse name="v5">
+      <lines>'Cause all You've ever wanted<br/>All You've ever wanted<br/>All You've ever wanted was my heart<br/>Freedom's arms are open<br/>My chains have all been broken<br/>Relentless love has called me from the start<br/>And all You wanted was my heart</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I was chasing healing when I'd been made well<br/>I was fighting battles when You conquered hell<br/>Living free but from a prison cell<br/>Lord, I lay that down today</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So I'll stop living off of how I feel<br/>And start standing on Your truth revealed<br/>Jesus is my strength, my shield<br/>And He will never fail me</lines>
+    </verse>
+    <verse name="v8">
+      <lines>'Cause all You've ever wanted<br/>All You've ever wanted<br/>All You've ever wanted was my heart<br/>Freedom's arms are open<br/>My chains have all been broken<br/>Relentless love has called me from the start<br/>And all You wanted was my heart</lines>
+    </verse>
+    <verse name="v9">
+      <lines>No more chains, I've been set free<br/>No more fighting battles You have won for me<br/>Now in Christ I stand complete</lines>
+    </verse>
+    <verse name="v10">
+      <lines>All You've ever wanted<br/>All You've ever wanted<br/>All You've ever wanted was my heart<br/>Freedom's arms are open<br/>My chains have all been broken<br/>Relentless love has called me from the start<br/>And all You wanted was my heart<br/>And all You wanted was my heart<br/>And all You ever wanted was my heart<br/>And all You wanted was my heart</lines>
+    </verse>
+  </lyrics>
+</song>

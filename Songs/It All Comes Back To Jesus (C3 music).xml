@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>It All Comes Back To Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">C3 music</author>
+      <author type="music">C3 music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4069"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>repentance</theme>
+      <theme>prayer</theme>
+      <theme>lords-supper</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>D<br/>We love because He loved us<br/>A<br/>The price His only Son<br/>G A<br/>His blood cried it is finished<br/>D<br/>The battle fought and won</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2<br/>D<br/>Through Him we are forgiven<br/>A<br/>We've all been reconciled<br/>G A<br/>Defeated death forever<br/>D<br/>And forever glorified</lines>
+    </verse>
+    <verse name="v3">
+      <lines>PRE - CHORUS<br/>A                 D                     G<br/>Oh the power of the cross<br/>A                     D                        G<br/>No more afraid no longer lost</lines>
+    </verse>
+    <verse name="v4">
+      <lines>BRIDGE<br/>Bm<br/>He's overcome it all<br/>F#m<br/>His life our miracle<br/>G                    A<br/>He turns water into wine<br/>Bm<br/>He's King above all kings<br/>F#m<br/>His praise the heavens sing<br/>G                                          A<br/>He reigns with power and might</lines>
+    </verse>
+    <verse name="v5">
+      <lines>CHORUS<br/>G      Bm A<br/>It all comes back to Jesus<br/>D/F#                    G        Bm A<br/>It's all because of Jesus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>VERSE 3<br/>D<br/>He didn't come for glory<br/>A<br/>He came to bear our cross<br/>G                    A<br/>Our life is found in Jesus<br/>D<br/>Our sin forever washed</lines>
+    </verse>
+  </lyrics>
+</song>

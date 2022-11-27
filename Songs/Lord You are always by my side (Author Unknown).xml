@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Lord You are always by my side</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When trouble comes I trust in You<br/>For I know You will lead me through<br/>And I know You are faithful till the end</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when the storms are drawing near<br/>When I'm with You I don't have to fear<br/>You're my shepherd on whom I can depend</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Through the day, Through the night<br/>I trust You'll guide me by Your light</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Lord You are always by my side<br/>You never change, in You I hide<br/>You are the same yesterday and today<br/>and forevermore<br/>Here on your promises I stand<br/>You hold my future in Your hand<br/>My solid rock, Almighty God, I worship you</lines>
+    </verse>
+  </lyrics>
+</song>

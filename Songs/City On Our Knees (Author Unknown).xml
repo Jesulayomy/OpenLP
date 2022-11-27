@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>City On Our Knees</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2890"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you gotta start somewhere why not here<br/>If you gotta start sometime why not now<br/>If we gotta start somewhere I say here<br/>If we gotta start sometime I say now</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Through the fog there is hope in the distance<br/>From cathedrals to third world missions<br/>Love will fall to the earth like a crashing wave</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tonight's the night for the sinners and the saints<br/>Two worlds collide in a beautiful display<br/>It's all up tonight when we step across the line<br/>We can sail across the sea to a city with one king</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A city on our knees<br/>A city on our knees<br/>Oh-oh-oh-oh-oh</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tonight could last forever<br/>We are one choice from together<br/>Tonight could last forever, ooh<br/>Tonight could last forever<br/>We are one choice from together<br/>As family We're family<br/>Oh Tonight could last forever<br/>We are one choice from together<br/>You and me Ya, you and me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ening:<br/>If we gotta start somewhere why not here<br/>If we gotta start sometime why not now</lines>
+    </verse>
+  </lyrics>
+</song>

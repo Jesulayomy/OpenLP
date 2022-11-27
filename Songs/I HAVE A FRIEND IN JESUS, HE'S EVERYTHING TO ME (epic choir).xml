@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-12T08:32:32">
+  <properties>
+    <titles>
+      <title>I HAVE A FRIEND IN JESUS, HE'S EVERYTHING TO ME</title>
+    </titles>
+    <verseOrder>v1 v11 c1 v2 v22 c1 v3 v33 c1</verseOrder>
+    <authors>
+      <author type="words">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have found a friend in Jesus, <br/>He’s everything to me,<br/>He’s the fairest of ten thousand to my soul;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He all my griefs has taken, and all my sorrows borne;<br/>In temptation He’s my strong and mighty tow'r;<br/>I have all for Him forsaken, and all my idols torn</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He’ll never, never leave me, nor yet forsake me here,<br/>While I live by faith and do His blessed will;<br/>A wall of fire about me, I’ve nothing now to fear,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He’s the Lily of the valley, <br/>The Bright and Morning Star,<br/>He’s the fairest of ten thousand <br/>To my soul.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>The Lily of the valley in Him alone I see<br/>All I need to cleanse and make me fully whole.<br/>In sorrow He’s my comfort, in trouble He’s my stay,<br/>He tells me every care on Him to roll:</lines>
+    </verse>
+    <verse name="v22">
+      <lines>From my heart, and now He keeps me by His power.<br/>Though all the world forsake me, and Satan tempt me sore,<br/>Through Jesus I shall safely reach the goal:</lines>
+    </verse>
+    <verse name="v33">
+      <lines>With His manna He my hungry soul shall fill.<br/>Then sweeping up to glory to see His blessed face,<br/>Where rivers of delight shall ever roll!</lines>
+    </verse>
+  </lyrics>
+</song>

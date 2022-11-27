@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Almighty</title>
+    </titles>
+    <copyright>1990 Material Music, Word Music, Inc.</copyright>
+    <authors>
+      <author type="words">Wayne Watson</author>
+      <author type="music">Wayne Watson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Almighty, most Holy God!<br/>Faithful through the ages;<br/>Almighty, most Holy Lord!<br/>Glorious, Almighty God.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The beasts of the field,<br/>the birds of the air are silent to call out Your Name;<br/>The earth has no voice,<br/>and I have no choice but to magnify God unashamed;<br/>Let the rocks be kept silent for one more day,<br/>Let the whole world sing out, let the people say!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well time marches on<br/>with the innocence gone and a darkness has covered the earth;<br/>But His Spirit still dwells,<br/>He speaks, "It is well," and the hopeless still offered new birth;<br/>He will break the leash of death, it will have no sting,<br/>Let the prisoner go free, join the dance and sing!</lines>
+    </verse>
+  </lyrics>
+</song>

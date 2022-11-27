@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>At Your Name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>At Your Name, the mountains shake and crumble<br/>At Your Name, the oceans roar and tumble<br/>At Your Name, angles will bow the earth will rejoice<br/>Your people cry out</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord of all the earth we shout Your Name, shout Your Name<br/>Filling up the skies with endless praise, endless praise<br/>Yahweh, Yahweh<br/>we love to shout Your Name oh Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At Your Name, the morning breaks in glory<br/>At Your Name, creation sings Your story<br/>At Your Name, angles will bow the earth will rejoice<br/>Your people cry out</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There is no one like our God<br/>we will praise You, praise You<br/>There is no one like our God<br/>we will sing, we will sing<br/>There is no one like our God<br/>we will praise You, praise You<br/>Jesus is our God<br/>We will sing</lines>
+    </verse>
+  </lyrics>
+</song>

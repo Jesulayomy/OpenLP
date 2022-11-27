@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Awake, My Heart, With Gladness</title>
+    </titles>
+    <authors>
+      <author type="music">Crüger, Johann (1598-1662)</author>
+      <author type="words">Gerhardt, Paul (1607-1676)</author>
+      <author type="translate">Kelly, John (1833-1890)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Awake, my heart, with gladness, See what today is done; How after gloom and sadness, Comes forth the glorious Sun. My Savior there was laid Where our bed must be made When to the realms of light Our spirit wings its flight.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They in the grave did sink Him, The foe held jubilee; Before he can bethink him, Lo! Christ again is free. And "Victory" He cries, And waving tow'rds the skies His banner, while the field Is by the Hero held!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Upon the grave is standing The Hero looking round; The foe, no more withstanding, His weapons on the ground Throws down, his hellish pow'r To Christ must he give o'er, And to the Victor's bands Must yield his feet and hands.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A sight it is to gladden; And fill the heart with glee, No more affright or sadden Shall aught, or take from me My trust or fortitude, Or any precious good The Savior bought for me In sov'reign love and free.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hell and its prince, the devil, Of all their pow'rs are shorn; Now I am safe from evil, And sin I laugh to scorn. Grim Death with all his might Cannot my soul affright; He is a pow'rless form, Howe'er he rage and storm.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The world against me rageth Its fury I disdain;<br/>Though bitter war it wageth Its work is all in vain.<br/>My heart from care is free, Misfortune now is play,<br/>No trouble troubles me, And night is bright as day.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I cleave now and forever To Christ, a member true,<br/>My Head will leave me never, Whate'er He passeth through.<br/>He treads the world beneath His feet, and conquers death<br/>And hell, and breaks sin's thrall; I'm with Him through it all.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>To halls of heavenly splendor With Him I penetrate;<br/>And trouble ne'er may hinder Nor make me hesitate.<br/>No enemy I fear, Because my Head is near;<br/>My Savior is my Shield, By Him all rage is stilled.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>He brings me to the portal That opens into bliss,<br/>Where graved in words immortal This golden scripture is:<br/>"Who's there despised with me, Here with me crown'd shall be;<br/>Who there with Me shall die, Here's raised with me on high!"</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>The gates of hell</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The gates of hell shall not prevail<br/>Against the army of the Lord<br/>As we march along we sing a song of the one who set us free<br/>We use Gods word as a two-edged sword against the enemy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emmanuel, We're marching in your name<br/>Emmanuel, The lamb that was slain<br/>Emmanuel, Is risen again<br/>Emmanuel /// is Lord ///</lines>
+    </verse>
+  </lyrics>
+</song>

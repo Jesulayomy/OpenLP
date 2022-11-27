@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>I'm Learning to Love You</title>
+    </titles>
+    <copyright>1997 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Paul Oakley</author>
+      <author type="music">Paul Oakley</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm learning to love You, to love and trust You.<br/>I'm learning to give You  all that I am.<br/>I'm learning to cling to  the words You have spoken.<br/>I'm learning to let go, my life in Your hands.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For You are faithful, In all of Your ways,<br/>In wisdom unsearchable, and full of grace.<br/>Oh, You are beautiful beyond words.<br/>I'm learning to love You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So teach me to love You, to love and to trust You,<br/>And teach me to give You, all that I am.<br/>And teach me to cling to the words You have spoken;<br/>Teach me to let go, my life in Your hands.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We are like shadows that change with the day;<br/>And like the flowers, our beauty will fade.<br/>But Your's is the kingdom and the power,<br/>Forever and ever, Your glory will always remain.</lines>
+    </verse>
+  </lyrics>
+</song>

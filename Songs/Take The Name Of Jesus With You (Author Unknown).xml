@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Take The Name Of Jesus With You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take the name of Jesus with you,<br/>Child of sorrow and of woe;<br/>It will joy and comfort give you,<br/>Take it, then, where'er you go.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>Precious name, O how sweet!<br/>Hope of earth and joy of heaven;<br/>Precious name, O how sweet!<br/>Hope of earth and joy of heaven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take the name of Jesus with you,<br/>As a shield from every snare;<br/>If temptations round you gather,<br/>Breathe that holy name in prayer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh the precious name of Jesus!<br/>How it thrills our souls with joy,<br/>When His loving arms receive us,<br/>And His songs our tongues employ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At the name of Jesus bowing,<br/>Falling prostrate at His feet,<br/>King of kings in heaven we'll crown Him<br/>When our journey is complete.</lines>
+    </verse>
+  </lyrics>
+</song>

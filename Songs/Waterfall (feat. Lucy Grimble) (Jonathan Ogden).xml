@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Waterfall (feat. Lucy Grimble)</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Ogden</author>
+      <author type="music">Jonathan Ogden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3770"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everlasting One<br/>Nothing else compares<br/>To knowing You<br/>To knowing You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the living God<br/>And my soul it longs<br/>To be with You<br/>To be with You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh Lord Your love is like a waterfall<br/>Your love is like a flowing stream<br/>And whenever I'm feeling dry<br/>I come to the river, I come to the river of life</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are worthy Lord<br/>Of every song that I could sing<br/>That I could sing</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And my heart cries out<br/>God I need You more than anything<br/>Than anything</lines>
+    </verse>
+    <verse name="v6">
+      <lines>As the deer pants for the water<br/>So my soul longs after You</lines>
+    </verse>
+  </lyrics>
+</song>

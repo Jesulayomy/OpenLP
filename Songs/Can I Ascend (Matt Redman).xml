@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Can I Ascend</title>
+    </titles>
+    <copyright>1995 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can I ascend the hill of the Lord, can I stand in that holy place?<br/>There to approach the glory of my God;<br/>Come towards to seek Your face.<br/>Purify my heart, and purify my hands,<br/>For I know it is on holy ground I'll stand.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm coming up the mountain Lord;<br/>I'm seeking You and You alone.<br/>I know that I will be transformed,<br/>My heart unveiled before You.<br/>I'm longing for Your presence Lord;<br/>Envelop me within the cloud.<br/>I'm coming up the mountain, Lord,<br/>My heart unveiled before You, I will come.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I will come to worship, I will come to bow down,<br/>I will come to meet with You</lines>
+    </verse>
+  </lyrics>
+</song>

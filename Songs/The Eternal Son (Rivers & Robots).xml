@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>The Eternal Son</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3648"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This life is just a fleeting shadow<br/>I realise that life is found in You alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Until my heart has found its home<br/>With all the saints before Your throne<br/>I'll live my life for You alone<br/>'Cause You call me Your own</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You shine brighter than the brightest sun<br/>Your light endures when all is said and done</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You're the lion, You're the lamb<br/>The first and last, The Great I Am<br/>The Son of God, the Son of Man<br/>With wounds in Your hands</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Forever, oh Lord, You will be the Eternal Son</lines>
+    </verse>
+  </lyrics>
+</song>

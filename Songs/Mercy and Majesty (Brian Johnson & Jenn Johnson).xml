@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Mercy and Majesty</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson &amp; Jenn Johnson</author>
+      <author type="music">Brian Johnson &amp; Jenn Johnson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3729"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1<br/>No<br/>Fm<br/>sweeter day, no<br/>Db<br/>sweeter song<br/>The<br/>Ab<br/>day I knew my<br/>Eb/ G<br/>sins were gone<br/>My<br/>Fm<br/>failures and my<br/>Db<br/>broken life<br/>Were<br/>Ab<br/>washed in blood the<br/>Eb/ G<br/>day You died<br/>Chorus<br/>Your<br/>Fm<br/>mercy<br/>Db<br/>and Your<br/>Ab<br/>maj-<br/>Eb<br/>esty<br/>Fm<br/>Amazes<br/>Db<br/>me, a<br/>Ab<br/>mazes<br/>Eb<br/>me<br/>I<br/>Db/ F<br/>once was<br/>Db<br/>blind but<br/>Ab<br/>now all i can<br/>Eb<br/>see<br/>Is Your<br/>Fm<br/>mercy<br/>Db<br/>and Your<br/>Eb<br/>maj-<br/>Ab<br/>esty<br/>Verse 2<br/>The<br/>Fm<br/>cross of shame our<br/>Db<br/>Savior bore<br/>The<br/>Ab<br/>weight of sin is<br/>Eb<br/>ours no more<br/>And<br/>Fm<br/>what appeared to<br/>Db<br/>be defeat<br/>Has<br/>Ab<br/>now become our<br/>Eb<br/>victory<br/>Bridge<br/>And<br/>Db<br/>what I was,<br/>Eb<br/>I am no more<br/>Fm<br/>All my life surrendered,<br/>Ab<br/>all my life surrendered<br/>To<br/>Db<br/>You alone, I<br/>Eb<br/>owe it all<br/>Fm<br/>All my life forever,<br/>Ab<br/>all my life forever<br/>Eb<br/>Yours</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Who is in Yonder Stall</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Benjamin R. Hanby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is He in yonder stall,<br/>At whose feet the shepherds fall?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>’Tis the Lord! <br/>O wondrous story! <br/>’Tis the Lord, the King of glory! <br/>At His feet we humbly fall. <br/>Crown Him! Crown Him, Lord of all!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is He to whom they bring <br/>All the sick and sorrowing?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is He that stands and weeps <br/>At the grave where Lazarus sleeps?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who is He on yonder tree <br/>Dies in pain and agony?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who is He who from the grave <br/>Comes to rescue, help, and save?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Who is He who from His throne <br/>Sends the Spirit to His own?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Who is He who comes again, <br/>Judge of angels and of men?</lines>
+    </verse>
+  </lyrics>
+</song>

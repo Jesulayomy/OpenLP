@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>At The Lamb's High Feast</title>
+    </titles>
+    <authors>
+      <author type="music">Czech, Kirchengeseng, 1566</author>
+      <author type="words">Latin</author>
+      <author type="translate">Campbell, Robert (1814-1868)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>At the Lamb's high feast we sing, Praise to our victorious King, Who has washed us in the tide Flowing from his piercèd side; Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise we Him, whose love divine Gives His sacred blood for wine, Gives His body for the feast, Christ the Victim, Christ the Priest. Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Where the Paschal blood is poured, Death's dark angel sheathes his sword; Israel's hosts triumphant go Through the wave that drowns the foe. Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise we Christ, whose blood was shed, Paschal Victim, Paschal Bread; With sincerity and love Eat we Manna from above. Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mighty Victim from the sky, Hell's fierce pow'rs beneath Thee lie; Thou hast conquered in the fight, Thou hast brought us life and light; Alleluia!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Now no more can death appall,<br/>Now no more the grave enthrall;<br/>Thou hast opened Paradise,<br/>And in Thee Thy saints shall rise.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Paschal triumph, Easter joy,<br/>This alone can sin destroy;<br/>From sin's death do Thou set free<br/>Souls reborn, O Lord, in Thee.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hymns of glory and of praise,<br/>Father, to Thee we raise;<br/>Risen Lord, all praise to Thee,<br/>Ever with the Spirit be.</lines>
+    </verse>
+  </lyrics>
+</song>

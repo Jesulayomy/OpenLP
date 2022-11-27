@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Jesus Christ</title>
+      <title>Once Again</title>
+    </titles>
+    <copyright>1995 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>crucifixion</theme>
+      <theme>worship</theme>
+      <theme>lent</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Christ, I think upon Your sacrifice:<br/>You became nothing, poured out to death.<br/>Many times I've wondered at Your gift of life,<br/>and I'm in that place once again,<br/>I'm in that place once again.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And once again I look upon the cross where You died.<br/>I'm humbled by Your mercy and I'm broken inside.<br/>Once again I thank You,<br/>Once again I pour out my life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now You are exalted to the highest place:<br/>King of the heavens, where one day I'll bow.<br/>But for now, I marvel at Your saving grace,<br/>and I'm full of praise once again,<br/>I'm full of praise once again.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Thank You for the cross,<br/>Thank You for the cross,<br/>Thank You for the cross, my Friend.</lines>
+    </verse>
+  </lyrics>
+</song>

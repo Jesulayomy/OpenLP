@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>We Plough the Fields</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Matthias Claudius</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We plough the fields and scatter<br/>The good seed on the land,<br/>But it is fed and watered<br/>By God’s almighty hand;<br/>He sends the snow in winter,<br/>The warmth to swell the grain,<br/>The breezes and the sunshine,<br/>And soft refreshing rain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All good gifts around us<br/>Are sent from heaven above;<br/>Then thank the Lord, O thank the Lord,<br/>For all His love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He only is the Maker<br/>Of all things near and far;<br/>He paints the wayside flower,<br/>He lights the evening star;<br/>The winds and waves obey Him,<br/>By Him the birds are fed;<br/>Much more to us, His children,<br/>He gives our daily bread.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We thank Thee, then, O Father,<br/>For all things bright and good;<br/>The seedtime and the harvest,<br/>Our life, our health, our food.<br/>No gifts have we to offer<br/>For all Thy love imparts,<br/>But that which Thou desirest,<br/>Our humble, thankful hearts.</lines>
+    </verse>
+  </lyrics>
+</song>

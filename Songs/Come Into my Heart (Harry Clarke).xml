@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Come Into my Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Harry Clarke</author>
+      <author type="music">Harry Clarke</author>
+    </authors>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come into my heart, blessed Jesus,<br/>Come into my heart, I pray;<br/>My soul is so troubled and weary,<br/>Come into my heart today.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Into my heart, into my heart,<br/>Come into my heart, Lord Jesus;<br/>Come in today,<br/>Come in to stay,<br/>Come into my heart, Lord Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come into my heart, blessed Jesus,<br/>I need Thee thro' life's dreary way;<br/>The burden of sin is so heavy,<br/>Come into my heart to stay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come into my heart, blessed Jesus,<br/>And take all my guilt away;<br/>Then spotless I'll stand in Thy presence,<br/>When breaks Thine eternal day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come into my heart, blessed Jesus,<br/>O cleanse and illumine my soul;<br/>Fill me with Thy wonderful Spirit,<br/>Come in and take full control.</lines>
+    </verse>
+  </lyrics>
+</song>

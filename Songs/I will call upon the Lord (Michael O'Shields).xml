@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:51">
+  <properties>
+    <titles>
+      <title>I will call upon the Lord</title>
+    </titles>
+    <copyright>1981 Sound III, Inc. Universal</copyright>
+    <authors>
+      <author type="words">Michael O'Shields</author>
+      <author type="music">Michael O'Shields</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will call upon the Lord, (I will call upon the Lord,)<br/>Who is worthy to be praised; (Who is worthy to be praised;)<br/>So shall I be saved from my enemies; (Be saved from my enemies;)<br/>I will call upon the Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Lord liveth, and blessed be the rock,<br/>And let the God of my salvation be exalted;<br/>The Lord liveth, and blessed be the rock,<br/>And let the God of my salvation be exalted.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will learn to trust in Him, (I will learn to trust in Him,)<br/>He will save me from my sin; (He will save me from my sin;)<br/>So shall I proclaim him the Lord of all, (Proclaim him the Lord of all,)<br/>I will learn to trust the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

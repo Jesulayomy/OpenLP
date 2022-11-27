@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>He Touched Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shackled by a heavy burden<br/>'Neath a load of guilt and shame,<br/>Then the hand of Jesus touched me,<br/>And now I am no longer the same.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He touched me,<br/>Oh, He touched me,<br/>And oh, the joy<br/>That floods my soul!<br/>Something happened,<br/>And now I know,<br/>He touched me,<br/>And made me whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Since I met this blessed Saviour,<br/>Since He cleansed<br/>And made me whole,<br/>I shall never cease to praise Him,<br/>I'll shout it while eternity rolls.</lines>
+    </verse>
+  </lyrics>
+</song>

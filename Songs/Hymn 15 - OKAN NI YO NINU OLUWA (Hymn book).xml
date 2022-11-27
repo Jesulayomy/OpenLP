@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-08T07:48:46">
+  <properties>
+    <titles>
+      <title>Hymn 15 - OKAN NI YO NINU OLUWA</title>
+      <title>hymn 15 (y)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Hymn book</author>
+    </authors>
+    <themes>
+      <theme>hymn</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Okan mi yo ninu Oluwa<br/>Tori O je iye fun mi<br/>Ohun Re dun pupo lati gbo<br/>Adun ni lati r’oju Re:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Emi nyo ninu Re,<br/>Emi nyo ninu Re, Gbagbogbo<br/>Lonfi ayo kun Okan mi<br/>Tori emi nyo ninu Re.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O ti nwa pe ki nto mo o<br/>Gbati mo rin jina s’ agbo<br/>O gbe mi wa sile l’apa Re<br/>Nibiti papa tutu wa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ire at’anu Re yi mi ka<br/>Or’ofe Re nsan bi odo<br/>Emi Re nto, o si se ‘tunu<br/>O mba mi lo si ‘bikibi;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Emi yo dabi Re n’ijo kan<br/>Ngo s’eru wiwo mi kale<br/>Titi di ‘gbana ngo s’oloto<br/>Ni sise oso f’ade Re;</lines>
+    </verse>
+  </lyrics>
+</song>

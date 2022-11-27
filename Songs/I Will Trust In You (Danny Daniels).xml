@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>I Will Trust In You</title>
+    </titles>
+    <copyright>1987 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Danny Daniels</author>
+      <author type="music">Danny Daniels</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I can't see You, I know You're here.<br/>When I can't feel You, I will not fear.<br/>I will trust in You<br/>And I will not be afraid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when the battle is close at hand,<br/>I know You're with me to help me stand.<br/>I will trust in You<br/>And I will not be afraid.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will not be afraid.<br/>I will not be afraid.<br/>I will trust in You.<br/>I will trust in You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when the darkness is closing in,<br/>And I am running against the wind:<br/>I will trust in You<br/>And I will not be afraid.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Cause when I'm standing upon that shore,<br/>And all the battles, theys have gone before:<br/>I will trust in You<br/>And I will not be afraid.</lines>
+    </verse>
+  </lyrics>
+</song>

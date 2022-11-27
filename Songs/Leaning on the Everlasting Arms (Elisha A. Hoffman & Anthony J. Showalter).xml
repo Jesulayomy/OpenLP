@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Leaning on the Everlasting Arms</title>
+    </titles>
+    <authors>
+      <author type="words">Elisha A. Hoffman &amp; Anthony J. Showalter</author>
+      <author type="music">Elisha A. Hoffman &amp; Anthony J. Showalter</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a fellowship, what a joy divine! Leaning on the everlasting arms;<br/>What a blessedness, what a peace is mine! Leaning on the everlasting arms.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O how sweet to walk in this pilgrim way, Leaning on the everlasting arms;<br/>O how bright the path grows from day to day, Leaning on the everlasting arms.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What have I do dread? What have I to fear? Leaning on the everlasting arms;<br/>I have blessed peace with my Lord so near, Leaning on the everlasting arms.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Leaning, leaning, Safe and secure from all alarms;<br/>Leaning, leaning, Leaning on the everlasting arms.</lines>
+    </verse>
+  </lyrics>
+</song>

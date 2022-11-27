@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:58">
+  <properties>
+    <titles>
+      <title>Everlasting God</title>
+      <title>Strength Will Rise</title>
+    </titles>
+    <copyright>2005 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Ken Riley</author>
+      <author type="music">Ken Riley</author>
+      <author type="words">Brenton Brown</author>
+      <author type="music">Brenton Brown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3675"/>
+    </songbooks>
+    <themes>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Strength will rise as we wait upon the Lord<br/>Wait upon the Lord<br/>As we wait upon the Lord<br/>Strength will rise as we wait upon the Lord<br/>Wait upon the Lord<br/>We will wait upon the Lord<br/>Our God You reign forever<br/>Our hope our strong Deliverer</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are the everlasting God The everlasting God<br/>You do not faint and you won't grow weary<br/>You're the defender of the weak<br/>You comfort those in need<br/>You lift us up on wings like eagles</lines>
+    </verse>
+  </lyrics>
+</song>

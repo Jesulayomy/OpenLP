@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>This is just what Heaven means to me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A country where no twilight shadows deepen<br/>Unending day where night will never be<br/>A city where no storm clouds ever gather<br/>This is just what Heaven means to m - e</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's a place where there is no misunder - standing<br/>And from all enmity and strife we're free<br/>No unkind words to wound our hearts are spoken<br/>This is just what Heaven means to m - e</lines>
+    </verse>
+    <verse name="c1">
+      <lines>What will it be when we get over yonder<br/>And join the throng upon the glass - y sea<br/>We'll join our loved ones and crown Christ forever<br/>This is just what Heaven means to m - e</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And then at last I'll see the face of  Jesus<br/>And before whose image other loves all flee<br/>Ah, but when they crown Him Lord of All I'll be there<br/>This is just what Heaven means to m - e</lines>
+    </verse>
+    <verse name="c2">
+      <lines>What will it be when we get over yonder<br/>And we'll join the throng upon the glass - y sea<br/>We'll join our loved ones and crown Christ forever<br/>This is just what Heaven means to m - e</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Thine Be the Glory</title>
+    </titles>
+    <authors>
+      <author type="translate">Richard B. Hoyle</author>
+      <author type="words">Edmond Louis Budry</author>
+      <author type="music">Georg Friedrich Haendel</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thine be the glory, risen, conqu'ring Son;<br/>Endless is the victory, Thou o'er death hast won;<br/>Angels in bright raiment rolled the stone away,<br/>Kept the folded grave clothes where Thy body lay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thine be the glory, risen conqu'ring Son,<br/>Endless is the vict'ry, Thou o'er death hast won.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lo! Jesus meets us, risen from the tomb;<br/>Lovingly He greets us, scatters fear and gloom;<br/>Let the church with gladness, hymns of triumph sing;<br/>For her Lord now liveth, death hath lost its sting.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No more we doubt Thee, glorious Prince of life;<br/>Life is naught without Thee; aid us in our strife;<br/>Make us more than conqu'rors, through Thy<br/>deathless love:<br/>Bring us safe through Jordan to Thy home above.</lines>
+    </verse>
+  </lyrics>
+</song>

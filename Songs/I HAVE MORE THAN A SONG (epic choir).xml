@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-10-03T09:19:05">
+  <properties>
+    <titles>
+      <title>I HAVE MORE THAN A SONG</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1 b1 c1 b2</verseOrder>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have more than a song<br/>Today, I brought myself<br/>I am the sacrifice<br/>I have more than a song<br/>Today, I brought myself<br/>I am Your Worship. </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Receive this living sacrifice<br/>I am Your Worship<br/>Accept this living sacrifice<br/>I am Your Worship</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am Your worship<br/>I am Your Sacrifice<br/>I am Your worship<br/>I am Your Sacrifice</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Leave me at the altar with my Father<br/>Leave me at the altar with my Father<br/>Leave me at the altar with my Father<br/>Leave me at the altar with my Father</lines>
+    </verse>
+  </lyrics>
+</song>

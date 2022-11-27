@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Our God's Alive</title>
+    </titles>
+    <authors>
+      <author type="words">Andy Cherry</author>
+      <author type="music">Andy Cherry</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4236"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gospel</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>gods-might</theme>
+      <theme>jesus-return</theme>
+      <theme>church</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>Come on everyone, See what he has done<br/>He has lifted us, He has overcome<br/>The power of the grave, and the sin that once enslaved<br/>Couldn't hold Him in the ground, couldn't keep him down</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Rise with a shout, Cry out, Our God's alive<br/>Rise Holy Fire, Burn Bright, burn bright<br/>Rise with a shout, cry out for freedom<br/>Rise church arise, our God's alive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>Reigning on His throne, Drawing ever close<br/>Giving us this hope, He'll never let us go<br/>Death has been defeated, Jesus Christ Redeemer<br/>Conquered Hell and freed us, Forever we are saved</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>He alone can save us, He will not forsake us<br/>He remains forever,  our Savior<br/>See him reign in power Stronger than our failures<br/>Always and forever,   Our Savior</lines>
+    </verse>
+  </lyrics>
+</song>

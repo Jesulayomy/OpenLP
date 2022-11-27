@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>Who Is There Like You?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is there like You,<br/>And who else would give their life for me,<br/>Even suffering in my place?<br/>And who could repay You?<br/>All of creation looks to You,<br/>And You provide for all You have made.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I'm lifting up my hands,<br/>Lifting up my voice, lifting up Your name,<br/>And in Your grace I rest,<br/>For Your love has come to me<br/>And set me free.<br/>And I'm trusting in Your word,<br/>Trusting in Your cross, trusting in Your blood<br/>And all Your faithfulness,<br/>For Your power at work in me<br/>Is changing me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-08-07T08:48:41">
+  <properties>
+    <titles>
+      <title>Hymn 10 - Praise My Soul King of Heaven</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise, my soul, the King of heaven;<br/>To His feet thy tribute bring.<br/>Ransomed, healed, restored, forgiven,<br/>Who like thee His praise should sing?<br/>Praise Him! Praise Him!<br/>Praise Him! Praise Him!<br/>Praise the everlasting King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise Him for His grace and favour <br/>To our fathers in distress; <br/>Praise Him, still the same forever, <br/>Slow to chide, and swift to bless. <br/>Praise Him! Praise Him! <br/>Praise Him! Praise Him! <br/>Glorious in His faithfulness.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Father-like, He tends and spares us; <br/>Well our feeble frame He knows; <br/>In His hands He gently bears us, <br/>Rescues us from all our foes. <br/>Praise Him! Praise Him! <br/>Praise Him! Praise Him! <br/>Widely as His mercy flows.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Angels in the height, adore Him; <br/>Ye behold Him face to face; <br/>Sun and moon, bow down before Him, <br/>Dwellers all in time and space. <br/>Praise Him! Praise Him!<br/>Praise Him! Praise Him!<br/>Praise with us the God of grace!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just like grass, our lives be compared,<br/>Which can faint when the wind blows,<br/>For a while we live and we die, but the <br/>Lord remains the same,<br/>Praise Him! Praise him!<br/>Praise Him! Praise him!<br/>Praise the everlasting King</lines>
+    </verse>
+  </lyrics>
+</song>

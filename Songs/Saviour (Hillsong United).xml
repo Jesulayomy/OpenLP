@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Saviour</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2043"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro :</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse I<br/>A  Saviour on a hill<br/>Dying for my shame could this   be    true<br/>Defies the world I see<br/>Yet this is all my heart was longing   for<br/>To know  You  my Lord to know You more</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus<br/>For You deserve,  You deserve<br/>You deserve all the praise<br/>You deserve,    You deserve<br/>You deserve all the praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse II<br/>The heavens wept for You<br/>The earth cried out, 'could He  be   the one<br/>For You so loved the world<br/>You gave Your only Son, to say I love You so<br/>Oh, how I love You so</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Coda:<br/>Hallelujah to the King<br/>Hallelujah, we will sing forever</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Repeat Coda  (3x)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>. . . Forever</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Verse III<br/>And all humanity<br/>Aches to find this beautiful love You give<br/>We come to You again<br/>To offer up our lives to worship     You alone<br/>To worship You alone</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Repeat Chorus  Solemn</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Repeat Chorus Majestic</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Instrumental : F - G  (4x)</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Repeat Coda  (4x)</lines>
+    </verse>
+    <verse name="v13">
+      <lines>G              G - Gsus<br/>. . . Forever</lines>
+    </verse>
+  </lyrics>
+</song>

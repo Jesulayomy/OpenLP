@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>Lord Enthroned in Heavenly Splendour</title>
+    </titles>
+    <authors>
+      <author>G. H. Bourne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, enthroned in heavenly splendour,<br/>First-begotten from the dead,<br/>Thou alone, our strong Defender,<br/>Liftest up Thy people’s head.<br/>Alleluia! Alleluia!<br/>Jesus, true and living Bread.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here our humblest homage pay we,<br/>Here in loving reverence bow;<br/>Here for faith’s discernment pray we,<br/>Lest we fail to know Thee now.<br/>Alleluia! Alleluia!<br/>Thou art here, we ask not how.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though the lowliest form doth veil Thee<br/>As of old in Bethlehem,<br/>Here as there Thine angels hail Thee<br/>Branch and Flower of Jesse’s stem.<br/>Alleluia! Alleluia!<br/>We in worship join with them.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Paschal Lamb, Thine offering, finished<br/>Once for all when Thou wast slain,<br/>In its fulness undiminished<br/>Shall forever more remain,<br/>Alleluia! Alleluia!<br/>Cleansing souls from every stain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Life-imparting, heavenly Manna,<br/>Stricken Rock with streaming side,<br/>Heaven and earth with loud hosanna<br/>Worship Thee, the Lamb who died,<br/>Alleluia! Alleluia!<br/>Risen, ascended, glorified!</lines>
+    </verse>
+  </lyrics>
+</song>

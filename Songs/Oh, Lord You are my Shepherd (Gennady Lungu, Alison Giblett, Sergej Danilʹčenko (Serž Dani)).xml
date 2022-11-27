@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Oh, Lord You are my Shepherd</title>
+    </titles>
+    <authors>
+      <author type="translate">Gennady Lungu</author>
+      <author type="translate">Alison Giblett</author>
+      <author type="words">Sergej Danilʹčenko (Serž Dani)</author>
+      <author type="music">Sergej Danilʹčenko (Serž Dani)</author>
+    </authors>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>protection</theme>
+      <theme>bible</theme>
+      <theme>provision</theme>
+      <theme>memory-verse</theme>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, Lord You are my Shepherd<br/>I will not lack for anything,<br/>You make me lie in pastures green<br/>You lead me by the quiet streams!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Wherever I go, I will not fear,<br/>Whoever I'm with You're by my side!<br/>Wherever I go, I will not fear,<br/>Your rod and your staff they comfort my soul!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord Jesus You're my Shepherd,<br/>I will not lack for anything!<br/>You make me lie in pastures green<br/>Your water nourishes me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, Lord You are my heart's desire,<br/>You are my life, my happiness,<br/>I'm filled with You, I abide in You,<br/>Your grace surrounds my life!</lines>
+    </verse>
+  </lyrics>
+</song>

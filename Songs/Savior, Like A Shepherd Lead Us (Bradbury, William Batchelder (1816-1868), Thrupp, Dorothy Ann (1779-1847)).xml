@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Savior, Like A Shepherd Lead Us</title>
+    </titles>
+    <authors>
+      <author type="music">Bradbury, William Batchelder (1816-1868)</author>
+      <author type="words">Thrupp, Dorothy Ann (1779-1847)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior, like a shepherd lead us, much we need Thy tender care; In Thy pleasant pastures feed us, for our use Thy folds prepare. Blessèd Jesus, blessèd Jesus! Thou hast bought us, Thine we are. Blessèd Jesus, blessèd Jesus! Thou hast bought us, Thine we are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are Thine, Thou dost befriend us, be the guardian of our way; Keep Thy flock, from sin defend us, seek us when we go astray. Blessèd Jesus, blessèd Jesus! Hear, O hear us when we pray. Blessèd Jesus, blessèd Jesus! Hear, O hear us when we pray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou hast promised to receive us, poor and sinful though we be; Thou hast mercy to relieve us, grace to cleanse and pow'r to free. Blessèd Jesus, blessèd Jesus! We will early turn to Thee. Blessèd Jesus, blessèd Jesus! We will early turn to Thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Early let us seek Thy favor, early let us do Thy will; Blessèd Lord and only Savior, with Thy love our bosoms fill. Blessèd Jesus, blessèd Jesus! Thou hast loved us, love us still. Blessèd Jesus, blessèd Jesus! Thou hast loved us, love us still.</lines>
+    </verse>
+  </lyrics>
+</song>

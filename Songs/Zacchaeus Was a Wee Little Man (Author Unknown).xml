@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:04">
+  <properties>
+    <titles>
+      <title>Zacchaeus Was a Wee Little Man</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>kids</theme>
+      <theme>salvation</theme>
+      <theme>repentance</theme>
+      <theme>forgiveness</theme>
+      <theme>bible</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zacchaeus was a wee little man,<br/>and a wee little man was he.<br/>He climbed up in a sycamore tree<br/>For the Lord he wanted to see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when the Savior passed that way<br/>He looked up in the tree.<br/>And said, 'Zacchaeus, you come down!<br/>For I'm going to your house today!<br/>For I'm going to your house today!'</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zacchaeus was a wee little man,<br/>But a happy man was he,<br/>For he had seen the Lord that day<br/>And a happy man was he;<br/>And a very happy man was he.</lines>
+    </verse>
+  </lyrics>
+</song>

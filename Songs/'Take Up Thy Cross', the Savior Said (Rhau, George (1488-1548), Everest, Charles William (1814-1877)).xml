@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>'Take Up Thy Cross', the Savior Said</title>
+    </titles>
+    <authors>
+      <author type="music">Rhau, George (1488-1548)</author>
+      <author type="words">Everest, Charles William (1814-1877)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"Take up thy cross," the Savior said, "If thou wouldst My disciple be; Deny thyself, the world forsake, And humbly follow after Me."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take up thy cross, let not its weight Fill thy weak spirit with alarm; His strength shall bear thy spirit up, And brace thy heart and nerve thine arm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take up thy cross, nor heed the shame, Nor let thy foolish pride rebel; Thy Lord for thee the cross endured, And saved thy soul from death and hell.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take up thy cross then in His strength, And calmly sin's wild deluge brave, 'Twill guide thee to a better home, It points to glory o'er the grave.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Take up thy cross and follow Christ, Nor think til death to lay it down; For only those who bear the cross May hope to wear the glorious crown.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>To Thee, great Lord, the One in Three,<br/>All praise forevermore ascend:<br/>O grant us in our home to see<br/>The heavenly life that knows no end.</lines>
+    </verse>
+  </lyrics>
+</song>

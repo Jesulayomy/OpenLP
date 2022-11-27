@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Good Grace</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6385"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>People come together, strange as neighbours our blood is one<br/>Children of generations of every nation of kingdom come</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Don't let your heart be troubled, Hold your head up high<br/>Don't fear no evil, Fix your eyes on this one truth;<br/>God is madly in love with you, So take courage<br/>Hold on, Be strong, Remember where our help comes from</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Interlude:<br/>Whoa oh! Whoa oh oh... Whoa oh oh...oh-oh-oh-oh-oh...<br/>Whoa oh! Whoa oh oh... Whoa oh oh...oh-oh-oh-oh-oh...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, our redemption, our salvation, is in His blood<br/>Jesus, Light of heaven, Friend forever, His kingdom come</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Swing wide all you heavens, Let the praise go up, as the walls come down<br/>All creation, everything with breath repeat the sound.<br/>All His children, clean hands, pure hearts, good grace, good God<br/>His Name is Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, our redemption, our salvation, is in His blood<br/>Jesus, Light of heaven, Friend forever, His kingdom come</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Jesus, Your Name</title>
+    </titles>
+    <authors>
+      <author type="words">Morris Chapman</author>
+      <author type="music">Morris Chapman</author>
+      <author type="words">Claire D Cloninger</author>
+      <author type="music">Claire D Cloninger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Jesus, Your name is power<br/>Jesus, your name is might<br/>Jesus, Your name will break ev'ry stronghold<br/>Jesus, your name is life //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Your name is healing<br/>Jesus, Your name gives sight<br/>Jesus, Your name will free ev'ry captive<br/>Jesus, Your name is life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, Your name is holy<br/>Jesus, Your name brings light<br/>Jesus, Your name above ev'ry other<br/>Jesus, Your name is life</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, Your name is power<br/>Jesus, your name is might<br/>Jesus, Your name will break ev'ry stronghold<br/>Jesus, your name is life<br/>Jesus, your name is life<br/>Jesus, your name is life</lines>
+    </verse>
+  </lyrics>
+</song>

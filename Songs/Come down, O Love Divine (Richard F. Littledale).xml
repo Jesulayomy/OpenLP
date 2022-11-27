@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>Come down, O Love Divine</title>
+    </titles>
+    <authors>
+      <author>Richard F. Littledale</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come down, O Love Divine,<br/>Seek Thou this soul of mine<br/>And visit it with Thine own ardour glowing;<br/>O Comforter, draw near,<br/>Within my heart appear,<br/>And kindle it, Thy holy flame bestowing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O let it freely burn,<br/>Till earthly passions turn<br/>To dust and ashes, in its heat consuming;<br/>And let Thy glorious light<br/>Shine ever on my sight,<br/>And clothe me round, the while my path illuming.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let holy charity<br/>Mine outward vesture be,<br/>And lowliness become mine inner clothing;<br/>True lowliness of heart,<br/>Which takes the humbler part,<br/>And o'er its own shortcomings weeps with loathing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And so the yearning strong,<br/>With which the soul will long,<br/>Shall far outpass the power of human telling;<br/>For none can guess its grace,<br/>Till he become the place<br/>Wherein the Holy Spirit makes His dwelling.</lines>
+    </verse>
+  </lyrics>
+</song>

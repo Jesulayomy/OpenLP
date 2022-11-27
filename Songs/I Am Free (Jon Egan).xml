@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>I Am Free</title>
+    </titles>
+    <copyright>2004 Vertical Worship Songs</copyright>
+    <authors>
+      <author type="words">Jon Egan</author>
+      <author type="music">Jon Egan</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Through You the blind will see.<br/>Through You the mute will sing.<br/>Through You the dead will rise.<br/>Through You all hearts will praise<br/>Through You the darkness flees.<br/>Through You my heart screams, "I am free!"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am free to run!<br/>(I am free to run!)<br/>I am free to dance! (I am free to dance!)<br/>I am free to live for You! (I am free to live for You!)<br/>I am free! (I am free!)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through You the kingdom comes.<br/>Through You the battle's won.<br/>Through You I'm not afraid.<br/>Through You the price is paid.<br/>Through You this victory.<br/>Because of You my heart sings, "I am free!"</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I am free to run! (I am free to run!)<br/>I am free to dance! (I am free to dance!)<br/>I am free to live for You! (I am free to live for You!)<br/>I am free! (I am free!)<br/>Yes, I am free! (I am free!)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Who the Son sets free is free indeed (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

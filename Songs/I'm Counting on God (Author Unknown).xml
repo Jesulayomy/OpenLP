@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>I'm Counting on God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm in a fight not physical,<br/>I'm in a war but not with this world,<br/>You are the light that is beautiful,<br/>And I want more,<br/>I want all that is yours</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Joy unspeakable that won't go away,<br/>And just enough strength to live for today,<br/>So I never have to worry what tomorrow will bring<br/>'cause my faith is on solid rock,<br/>I am counting on God,<br/>I am counting on, I am counting on God<br/>I am counting on, I am counting on God<br/>I am counting on, I am counting on God<br/>I am counting on, I am counting on God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the miracle of christ in me,<br/>Is the mystery that sets me free,<br/>I'm nothing like I use to be,<br/>Just open up your eyes,<br/>You'll see<br/>In the miracle of christ in me,<br/>Is the mystery that sets me free,<br/>I'm nothing like I use to be,<br/>Just open up your eyes,<br/>You'll see</lines>
+    </verse>
+  </lyrics>
+</song>

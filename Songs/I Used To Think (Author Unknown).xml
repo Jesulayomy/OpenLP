@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>I Used To Think</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I used to think that I could walk on this road alone<br/>That I had the strength- mmmm- to carry on<br/>And I could be somebody if I really tried<br/>The power that I needed was hidden inside</lines>
+    </verse>
+    <verse name="p1">
+      <lines>But then I saw myself for who I really was.<br/>I saw my emptiness- I saw I needed help<br/>But then I saw myself for I was really was</lines>
+    </verse>
+    <verse name="c1">
+      <lines>But now that I'm with you my life is beautiful<br/>And now that I'm with you my life is so wonderful<br/>You've given me the strength I need to carry on<br/>In the hard times and low times<br/>With you my God I'll get through</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I used to live my life just to seize the day<br/>Do everything I could to be self-made<br/>And pride was all I needed, no one else around<br/>My happiness and joy was what I thought I found</lines>
+    </verse>
+    <verse name="p2">
+      <lines>But then I saw myself for who I really was.<br/>I saw my emptiness- I saw I needed help<br/>But then I saw myself for I was really was</lines>
+    </verse>
+    <verse name="c2">
+      <lines>But now that I'm with you my life is beautiful<br/>And now that I'm with you my life is so wonderful<br/>You've given me the strength I need to carry on<br/>In the hard times and low times<br/>With you my God I'll get through</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I've been created for you Lord<br/>I've been put here by your Word<br/>I'm nothing, without You<br/>Without Your love I can't go on<br/>By Your touch my life was born<br/>You knew me all along</lines>
+    </verse>
+    <verse name="p3">
+      <lines>And now I see myself For who I'm meant to be<br/>A child of God I am In your hands I'll be<br/>And now I see myself For who I'm meant to be</lines>
+    </verse>
+    <verse name="c3">
+      <lines>But now that I'm with you my life is beautiful<br/>And now that I'm with you my life is so wonderful<br/>You've given me the strength I need to carry on<br/>In the hard times and low times<br/>With you my God I'll get through</lines>
+    </verse>
+  </lyrics>
+</song>

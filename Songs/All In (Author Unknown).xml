@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>All In</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6111"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My feet are frozen on this middle ground<br/>The water's warm here but the fire's gone out<br/>I played it safe for so long the passion left<br/>Turns out safe is just another word for regret</lines>
+    </verse>
+    <verse name="p1">
+      <lines>So, I step to the edge and I take a deep breath<br/>We're all dying to live but we're all scared to death<br/>And this is the part where my head tells my heart<br/>You should turn back around but there's no turning back now</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm going all in Headfirst into the deep end<br/>I hear You calling and this time the fear won't win<br/>I'm going, I'm going all in<br/>(I'm going, I'm going...) all in<br/>(I'm going, I'm going)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I believe that one day I will see Your kingdom come<br/>And I wanna hear You say, "Welcome home my child, well done"</lines>
+    </verse>
+    <verse name="p2">
+      <lines>So, I step to the edge and I take a deep breath<br/>I'm not turning back around 'cause there's no turning back now</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I'm going all in Headfirst into the deep end<br/>I hear You calling and this time the fear won't win<br/>I'm going, I'm going all in<br/>(I'm going, I'm going...) all in<br/>(I'm going, I'm going...) all in<br/>(I'm going, I'm going...) all in<br/>(I'm going, I'm going)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All to You, Jesus, I freely give<br/>As long as there's breath in these lungs I will live<br/>With reckless abandon, my heart in Your hands<br/>I surrender it all, I'm going... (I'm going all in)<br/>(I'm going, I'm going all in)</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I'm going all in Headfirst into the deep end<br/>I hear You calling and this time the fear won't win<br/>I'm going, I'm going all in<br/>(I'm going, I'm going...) all in<br/>(I'm going, I'm going...) all in<br/>(I'm going, I'm going...) all in<br/>(I'm going, I'm going)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Endining:<br/>I believe that one day I will see Your kingdom come<br/>And I wanna hear You say, "Welcome home my child, well done"</lines>
+    </verse>
+  </lyrics>
+</song>

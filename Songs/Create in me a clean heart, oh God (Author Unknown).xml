@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Create in me a clean heart, oh God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Create in me a clean heart, O God,<br/>And renew a right spirit within me.<br/>Create in me a clean heart, O God,<br/>And renew a right spirit within me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cast me not away from Thy presence, O Lord<br/>And take not Thy Holy Spirit from me.<br/>Restore unto me the joy of Thy salvation,<br/>And renew a right spirit within me.</lines>
+    </verse>
+  </lyrics>
+</song>

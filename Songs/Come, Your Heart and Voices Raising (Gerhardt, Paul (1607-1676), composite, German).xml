@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Come, Your Heart and Voices Raising</title>
+      <title>Come and Christ the Lord Be Praising, Come and Let Us Christ Revere Now, Come Unite in Praise and Singing</title>
+    </titles>
+    <authors>
+      <author type="music">German</author>
+      <author type="words">Gerhardt, Paul (1607-1676)</author>
+      <author type="translate">composite</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, your hearts and voices raising, Christ the Lord with gladness praising; Loudly sing His love amazing, Worthy folk of Christendom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sin and death may well be groaning, Satan now may well be moaning; We, our full salvation owning, Cast our every care away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See how God, for us providing, Gave His Son and life abiding; He our weary steps is guiding From earth's woe to heav'nly joy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Christ, from heav'n to us descending And in love our race befriending, In our need His help extending, Saved us from the wily Foe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jacob's Star in all its splendor Beams with comfort sweet and tender, Forcing Satan to surrender, Breaking all the pow'rs of hell.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>From the bondage that oppressed us,<br/>From sin's fetters that possessed us,<br/>From the grief that sore distressed us,<br/>We, the captives, now are free.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh, the joy beyond expressing<br/>When by faith we grasp this blessing<br/>And to Thee we come confessing,<br/>That our freedom thou hast wrought!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Gracious Child, we pray Thee, hear us,<br/>From Thy lowly manger cheer us,<br/>Gently lead us and be near us<br/>Till we join the angelic choir.</lines>
+    </verse>
+  </lyrics>
+</song>

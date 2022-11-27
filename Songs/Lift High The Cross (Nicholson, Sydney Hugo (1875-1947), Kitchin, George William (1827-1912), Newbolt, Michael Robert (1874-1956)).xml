@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lift High The Cross</title>
+    </titles>
+    <authors>
+      <author type="music">Nicholson, Sydney Hugo (1875-1947)</author>
+      <author type="words">Kitchin, George William (1827-1912)</author>
+      <author type="words">Newbolt, Michael Robert (1874-1956)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift high the cross, the love of Christ proclaim, Till all the world adore His sacred Name. Come, brethren, follow where our Captain trod, our King victorious, Christ the Son of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift high the cross, the love of Christ proclaim, Till all the world adore His sacred Name. Led on their way by this triumphant sign, The hosts of God in conquering ranks combine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lift high the cross, the love of Christ proclaim, Till all the world adore His sacred Name. Each newborn servant of the Crucified Bears on the brow the seal of Him Who died.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lift high the cross, the love of Christ proclaim, Till all the world adore His sacred Name. This is the sign which Satan's legions fear and angels veil their faces to revere.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lift high the cross, the love of Christ proclaim, Till all the world adore His sacred Name. Saved by this Cross whereon their Lord was slain, the sons of Adam their lost home regain.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>From north and south, from east and west they raise<br/>in growing unison their songs of praise. Refrain</lines>
+    </verse>
+    <verse name="v7">
+      <lines>O Lord, once lifted on the glorious tree,<br/>as thou hast promised, draw the world to thee. Refrain</lines>
+    </verse>
+    <verse name="v8">
+      <lines>So shall our song of triumph ever be:<br/>Praise to the Crucified for victory. Refrain</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Let every race and every language tell<br/>of him who saves our souls from death and hell. Refrain</lines>
+    </verse>
+    <verse name="v10">
+      <lines>From farthest regions let their homage bring,<br/>and on his Cross adore their Savior King. Refrain</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Set up thy throne, that earth's despair may cease<br/>beneath the shadow of its healing peace. Refrain</lines>
+    </verse>
+    <verse name="v12">
+      <lines>For thy blest Cross which doth for all atone<br/>creation's praises rise before thy throne. Refrain</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>In Your Presence</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Wilbur</author>
+      <author type="music">Paul Wilbur</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Your presence that's where I am strong, in Your presence O Lord My God<br/>In Your presence that's where I belong, seeking Your face, touching Your grace<br/>In the cleft of the Rock, in Your presence O God!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to go where the rivers cannot overflow me<br/>Where my feet are on the Rock<br/>I want to hide where the blazing fires cannot burn me<br/>In Your presence O God!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I want to hide where the flood of evil cannot reach me<br/>Where I'm covered by the Blood<br/>I want to be where the schemes of darkness<br/>Cannot touch me, in Your presence O God!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my firm foundation, I trust in You all day long<br/>I am Your child and Your servant and<br/>You are my strength and my song, You're my song</lines>
+    </verse>
+  </lyrics>
+</song>

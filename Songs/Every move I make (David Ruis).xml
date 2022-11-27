@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Every move I make</title>
+    </titles>
+    <copyright>1996 Mercy / Vineyard Publishing | Vineyard Songs Canada | ION Publishing</copyright>
+    <authors>
+      <author type="words">David Ruis</author>
+      <author type="music">David Ruis</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>youth</theme>
+      <theme>commitment</theme>
+      <theme>thanksgiving</theme>
+      <theme>longing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every move I make I make in You<br/>You make me move, Jesus<br/>Every breath I take I breathe in You<br/>Every step I take I take in You<br/>You are my way, Jesus<br/>Every breath I take I breathe in You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Waves of mercy, waves of grace<br/>Everywhere I look, I see Your face<br/>Your love has captured me<br/>Oh, my God, this love - how can it be?!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>La la, la la la la la, la la, la la la la la<br/>La la, la la la la la, la la, la la la la la (repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

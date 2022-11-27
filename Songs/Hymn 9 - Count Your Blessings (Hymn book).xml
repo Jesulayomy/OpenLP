@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-06-19T08:35:54">
+  <properties>
+    <titles>
+      <title>Hymn 9 - Count Your Blessings</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When upon life’s billows you are tempest-tossed,<br/>When you are discouraged, thinking all is lost,<br/>Count your many blessings; name them one by one,<br/>And it will surprise you what the Lord has done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are you ever burdened with a load of care?<br/>Does the cross seem heavy you are called to bear?<br/>Count your many blessings; ev’ry doubt will fly,<br/>And you will be singing as the days go by.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When you look at others with their lands and gold,<br/>Think that Christ has promised you his wealth untold.<br/>Count your many blessings; money cannot buy<br/>Your reward in heaven nor your home on high.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So amid the conflict, whether great or small,<br/>Do not be discouraged; God is over all.<br/>Count your many blessings; angels will attend,<br/>Help and comfort give you to your journey’s end.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Count your blessings;<br/>Name them one by one.<br/>Count your blessings;<br/>See what God hath done<br/>Count your blessings;<br/>Name them one by one<br/>And it will surprise you what the Lord has done</lines>
+    </verse>
+  </lyrics>
+</song>

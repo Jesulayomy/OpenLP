@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>When You Think of Me (Live)</title>
+    </titles>
+    <authors>
+      <author type="words">Misty Edwards</author>
+      <author type="music">Misty Edwards</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3578"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When You think of me<br/>When You hear my name<br/>When You see my face<br/>Let it be mercy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When thoughts of me come to Your memory</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh my story told<br/>Let it be mercy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Don't remember me according to my sin</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But remember me with compassion<br/>When my voice is heard around Your throne<br/>Let it strike Your heart with love alone</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When You think of me<br/>When You hear my name<br/>When You see my face<br/>Let it be mercy</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When thoughts of me come to Your memory</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Oh my story told<br/>Let it be mercy</lines>
+    </verse>
+    <verse name="v9">
+      <lines>When I stand face to face and look You in the eyes</lines>
+    </verse>
+    <verse name="v10">
+      <lines>See my heart, see my soul and how I fought the fight<br/>Blot out my sin when You look at me<br/>Let my life be a treasured memory</lines>
+    </verse>
+    <verse name="v11">
+      <lines>When You think of me<br/>When You hear my name<br/>When You see my face<br/>Let it be mercy</lines>
+    </verse>
+    <verse name="v12">
+      <lines>When thoughts of me come to Your memory</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Oh my story told<br/>Let it be mercy</lines>
+    </verse>
+  </lyrics>
+</song>

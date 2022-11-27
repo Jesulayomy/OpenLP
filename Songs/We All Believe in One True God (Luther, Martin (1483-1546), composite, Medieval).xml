@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>We All Believe in One True God</title>
+      <title>In One True God We All Believe</title>
+    </titles>
+    <authors>
+      <author type="music">Medieval</author>
+      <author type="music">Luther, Martin (1483-1546)</author>
+      <author type="translate">composite</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We all believe in one true God, Who created earth and heaven, The Father, who to us in love Hath the right of children given. He both soul and body feedeth, All we need He doth provide us; He through snares and perils leadeth, Watching that no harm betide us. He careth for us day and night, All things are governed by His might.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We all believe in Jesus Christ, His own Son, our Lord, possessing An equal Godhead, throne, and might, Source of every grace and blessing. Born of Mary, virgin mother, By the power of the Spirit, Made true man, our elder Brother, That the lost might life inherit; Was crucified for sinful men And raised by God to life again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We all confess the Holy Ghost, Who sweet grace and comfort giveth And with the Father and the Son In eternal glory liveth; Who the Church, His own creation, Keeps in unity of spirit. Here forgiveness and salvation Daily come through Jesus' merit. All flesh shall rise, and we shall be In bliss with God eternally.</lines>
+    </verse>
+  </lyrics>
+</song>

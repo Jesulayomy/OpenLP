@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Lead Me To The Cross</title>
+    </titles>
+    <copyright>2006 Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Brooke Fraser</author>
+      <author type="music">Brooke Fraser</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Saviour I come; Quiet my soul. Remember<br/>Redemption's hill where Your blood was spilled for my ransom.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Everything I once held dear, I count it all as loss.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lead me to the cross where Your Love poured out.<br/>Bring me to my knees, Lord, I lay me down.<br/>Rid me of myself, I belong to You.<br/>Oh lead me, lead me to the cross.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You were as I, tempted and tried, human.<br/>The Word became flesh, bore my sin and death; now You're risen.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>To Your Heart.<br/>To Your Heart.<br/>Lead me to Your Heart.<br/>Lead me to Your Heart.</lines>
+    </verse>
+  </lyrics>
+</song>

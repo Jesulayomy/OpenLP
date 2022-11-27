@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Jesus is the Name we honour</title>
+      <title>We will glorify</title>
+    </titles>
+    <copyright>1982 Singspiration Music</copyright>
+    <authors>
+      <author type="words">Twila Paris</author>
+      <author type="music">Twila Paris</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is the name we honour<br/>Jesus is the name we praise<br/>Majestic Name above all other names<br/>The highest heaven and earth proclaim<br/>That Jesus is our God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We will glorify<br/>We will lift Him high<br/>We will give Him honour and praise<br/>We will glorify<br/>We will lift Him high<br/>We will give Him honour and praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is the name we worship<br/>Jesus is the name we trust<br/>He is the King above all other kings<br/>Let all creation stand and sing<br/>That Jesus is our God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is the Father's splendour<br/>Jesus is the Father's joy<br/>He will return to reign in majesty<br/>And every eye at last shall see<br/>That Jesus is our God</lines>
+    </verse>
+  </lyrics>
+</song>

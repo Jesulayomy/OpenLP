@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>My Soul Longs For You</title>
+    </titles>
+    <authors>
+      <author type="words">Misty Edwards</author>
+      <author type="music">Misty Edwards</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="825"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My soul longs for you, my soul longs for you<br/>Nothing else will do, nothing else will do x2</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I believe, you will come like the rain<br/>I believe, you will come like the rain x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You'll come like the rain<br/>You'll come like the rain x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>So let it rain, let it rain, let it rain, let it rain<br/>So let it rain, let it rain, let it rain, let it rain<br/>So let it rain, let it rain, let it rain, let it rain<br/>So let it rain, let it rain, let it rain</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hallelujah, hallelujah<br/>You make all things new<br/>All things new</lines>
+    </verse>
+  </lyrics>
+</song>

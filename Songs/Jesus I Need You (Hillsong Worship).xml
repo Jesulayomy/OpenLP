@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Jesus I Need You</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1390"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>JESUS I NEED YOU</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Words and Music by<br/>REUBEN MORGAN, BROOKE LIGERTWOOD, SCOTT LIGERTWOOD &amp; JARRAD ROGERS<br/>♩= 78</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE: 1<br/>Hope be my anthem<br/>Lord when the world has fallen quiet<br/>You stand beside me<br/>Give me a song in the night</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Jesus I need You<br/>Every moment I need You<br/>Hear now this grace bought heart sing out<br/>Your praise forever</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE: 2<br/>Beauty for ashes<br/>You find the weak and contrite heart<br/>Shoulder its burden<br/>And carry it into light</lines>
+    </verse>
+    <verse name="b1">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE:<br/>Remember love, remember mercy<br/>Christ before me, Christ behind me<br/>Your loving kindness has never failed me<br/>Christ before me, Christ behind me</lines>
+    </verse>
+  </lyrics>
+</song>

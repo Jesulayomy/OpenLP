@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Light Will Dawn</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3496"/>
+    </songbooks>
+    <themes>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As Earth starts to shake<br/>The sleeping awake<br/>Dawn starts to break<br/>And life will be forever changed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Despite what they say<br/>Your love will remain<br/>You'll come again<br/>And on that day the son will reign</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though darkness surrounds<br/>The Lord will arise and light will dawn across this land</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In joy and in pain<br/>I trust in Your name<br/>My rock, you sustain<br/>You're faithful and you never change</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are really coming back<br/>And I know I will see You face to face my God<br/>One day every knee will bow<br/>And one day every tongue confess that You are God</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And I believe that I will see<br/>The goodness of The Lord while I'm breathing<br/>So I will trust upon Your name<br/>You are my hope and my strength</lines>
+    </verse>
+  </lyrics>
+</song>

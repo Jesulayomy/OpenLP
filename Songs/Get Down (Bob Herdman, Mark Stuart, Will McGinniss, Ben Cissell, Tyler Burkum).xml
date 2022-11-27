@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Get Down</title>
+    </titles>
+    <copyright>1999 Up In The Mix Music | Flicker USA Publishing</copyright>
+    <authors>
+      <author type="words">Mark Stuart</author>
+      <author type="music">Mark Stuart</author>
+      <author type="words">Ben Cissell</author>
+      <author type="music">Ben Cissell</author>
+      <author type="words">Bob Herdman</author>
+      <author type="music">Bob Herdman</author>
+      <author type="words">Tyler Burkum</author>
+      <author type="music">Tyler Burkum</author>
+      <author type="words">Will McGinniss</author>
+      <author type="music">Will McGinniss</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lavishly our lives are wasted, humbleness is left untasted,<br/>You can't live your life to please yourself, yeah;<br/>That's a tip from my mistake, exactly what it doesn't take,<br/>To win you've got to come in last place.<br/>To live your life you've got to lose it, And all the losers get a crown.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I get down, and He lifts me up, I get down, and He lifts me up,<br/>I get down, and He lifts me up,<br/>I get down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All I need's another day where I can't seem to get away<br/>From the many things that drag me down, yeah;<br/>I'm sure you've had a day like me where nothing seems to set you free,<br/>From the burdens you can't carry all alone.<br/>In your weakness He is stronger, In your darkness He shines through;<br/>When you're crying He's your comfort, When you're all alone He's carrying you.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>This valley  is so deep,  I can barely see the sun;<br/>I cry out  for mercy Lord,  And You lift me up again.</lines>
+    </verse>
+  </lyrics>
+</song>

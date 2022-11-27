@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Let It Rise</title>
+    </titles>
+    <copyright>1997, 1999 Maranatha Praise, Inc.</copyright>
+    <authors>
+      <author type="words">Holland Davis</author>
+      <author type="music">Holland Davis</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the glory of the Lord<br/>rise among us.<br/>Let the glory of the Lord<br/>rise among us.<br/>Let the praises of the King<br/>rise among us; let it rise.<br/>Let the songs of the Lord<br/>rise among us.<br/>Let the songs of the Lord<br/>rise among us.<br/>Let the joy of the King<br/>rise among us; let it rise.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh - oh - oh, let it rise.<br/>Oh - oh - oh, let it rise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the glory of the Lord<br/>rise among us.<br/>Let the glory of the Lord<br/>rise among us.<br/>Let the praises of the King<br/>rise among us; let it rise.<br/>Let the songs of the Lord<br/>rise among us.<br/>Let the songs of the Lord<br/>rise among us.<br/>Let the joy of the King<br/>rise among us; let it rise.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Oh - oh - oh, let it rise.<br/>Oh - oh - oh, let it rise.</lines>
+    </verse>
+  </lyrics>
+</song>

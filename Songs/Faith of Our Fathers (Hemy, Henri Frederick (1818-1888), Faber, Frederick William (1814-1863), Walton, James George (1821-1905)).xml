@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Faith of Our Fathers</title>
+    </titles>
+    <authors>
+      <author type="music">Hemy, Henri Frederick (1818-1888)</author>
+      <author type="words">Faber, Frederick William (1814-1863)</author>
+      <author type="words">Walton, James George (1821-1905)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faith of our fathers, living still, In spite of dungeon, fire and sword; O how our hearts beat high with joy Whene'er we hear that glorious Word! Faith of our fathers, holy faith! We will be true to thee till death.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Faith of our fathers, we will strive To win all nations unto Thee; And through the truth that comes from God, We all shall then be truly free. Faith of our fathers, holy faith! We will be true to thee till death.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Faith of our fathers, we will love Both friend and foe in all our strife; And preach Thee, too, as love knows how By kindly words and virtuous life. Faith of our fathers, holy faith! We will be true to thee till death.</lines>
+    </verse>
+  </lyrics>
+</song>

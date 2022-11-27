@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Shout of the King</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I give You praise for You deserve it<br/>I give You praise for what You've done<br/>I give You praise for You are able<br/>I give You praise 'til I overcome</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I give You praise when the sun is shining<br/>I give You praise in the dark of night<br/>I give You praise when the battle rages<br/>I give You praise 'til it works out right</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The shout of the King is among us<br/>God lives here in our praises<br/>The shout of the King is among us<br/>Praise Him, praise Him<br/>Praise Him in everything<br/>Praise Him, Praise Him, Praise Him, Praise Him,<br/>Praise Him, Praise Him, Praise Him in everything</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Heaven opens as we sing Your praise<br/>Angels join us as we praise Your name</lines>
+    </verse>
+  </lyrics>
+</song>

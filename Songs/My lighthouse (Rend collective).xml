@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>My lighthouse</title>
+    </titles>
+    <authors>
+      <author type="words">Rend collective</author>
+      <author type="music">Rend collective</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2543"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In my wrestling and in my doubts<br/>In my failures You won't walk out<br/>Your great love will lead me through<br/>You are the peace in my troubled sea<br/>You are the peace in my troubled sea</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the silence, You won't let go<br/>In the questions, Your truth will hold<br/>Your great love will lead me through<br/>You are the peace in my troubled sea<br/>You are the peace in my troubled sea</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My lighthouse, my lighthouse<br/>Shining in the darkness. I will follow You<br/>My lighthouse, my lighthouse<br/>I will trust the promise<br/>You will carry me safe to shore (oh-oh-oh-oh-oh)<br/>Safe to shore (oh-oh-oh-oh-oh)<br/>Safe to shore (oh-oh-oh-oh-oh)<br/>Safe to shore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I won't fear what tomorrow brings<br/>With each morning I'll rise and sing<br/>My God's love will lead me through<br/>You are the peace in my troubled sea<br/>You are the peace in my troubled sea</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Fire before us your the brightest,<br/>You will lead us through the storms.<br/>Fire before us your the brightest,<br/>You will lead us through the storms.(Hey)<br/>Fire before us your the brightest,<br/>You will lead us through the storms.<br/>Fire before us your the brightest,<br/>You will lead us through the storms.</lines>
+    </verse>
+  </lyrics>
+</song>

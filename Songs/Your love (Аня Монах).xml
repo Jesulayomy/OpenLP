@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Your love</title>
+    </titles>
+    <authors>
+      <author type="words">Аня Монах</author>
+      <author type="music">Аня Монах</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2982"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What can I do for you, Lord,<br/>If your love to me is more.<br/>How can I thank you, Jesus,<br/>If you love me more<br/>than anyone else.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your love is great, my Jesus!<br/>I always feel forgiveness.<br/>Your love awakens my soul.<br/>(1й раз) You're so merciful<br/>(на 2й р.) I bow before You.</lines>
+    </verse>
+  </lyrics>
+</song>

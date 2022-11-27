@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Rooftop</title>
+      <title>I'm Yours</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3600"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am before You falling in love and seeking Your truth<br/>Knowing that Your perfect grace has brought me to this place<br/>Be - cause of You I freely live my life to You oh God I give<br/>So I stand before You God I lift my voice 'cuz You set me free</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So I shout out Your name from the rooftops I proclaim<br/>That I am Yours I am Yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All the good You've done for me I lift up my hands for all to see<br/>You're the  only one who brings me to my knees<br/>To share this love across the earth the beauty of Your holy worth<br/>So I kneel before You God I lift my hands 'cuz You set me free</lines>
+    </verse>
+    <verse name="c2">
+      <lines>. D A<br/>So I shout out Your name from the rooftops I proclaim<br/>That I am Yours I am Yours<br/>All that I am I place in - to Your loving hands<br/>And I am Yours I am Yours</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Here I am I stand with arms wide open<br/>To the One the Son the everlasting God<br/>The everlasting God  (Last time)</lines>
+    </verse>
+  </lyrics>
+</song>

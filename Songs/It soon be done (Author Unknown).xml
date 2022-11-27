@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>It soon be done</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It soon be done<br/>All my troubles and trials<br/>When we meet on the other shore</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm gonna shake my hands with the elders<br/>I'm gonna tell all the people "Good Morning"<br/>I'm gonna sit down beside my Jesus<br/>I'm gonna sit down and rest a while</lines>
+    </verse>
+  </lyrics>
+</song>

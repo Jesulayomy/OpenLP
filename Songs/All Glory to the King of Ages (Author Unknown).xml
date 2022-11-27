@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>All Glory to the King of Ages</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All glory to the King of ages<br/>All glory to the King of kings<br/>His name is Love, His name is Jesus<br/>Enthroned above in majesty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Into this world You came to save us<br/>You bore the cross, You took my sin<br/>You shone Your light into my darkness<br/>Unveiled the truth, this mystery</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my God, You are my Saviour<br/>You are the Rock on which I stand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ever-faithful God, I cling to You<br/>In every way You've shown that You are good<br/>There's no other love compares with You<br/>Forever strong, forever true<br/>Ever-faithful God, I cling to You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are the end of all my searching<br/>You pour Your grace on my need<br/>Unfailing love, unending mercy<br/>Are found in You, The Prince of peace<br/>You are my God, You are my Saviour<br/>You are the rock on which I stand<br/>You are my God, You are my Saviour<br/>Eternal One, the Great I Am</lines>
+    </verse>
+  </lyrics>
+</song>

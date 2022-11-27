@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Transfiguration</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3564"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BPM: 74</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 1:<br/>From the cloud You speak<br/>What was veiled now is seen<br/>Jesus the image of the invisible God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2:<br/>Divinity confirmed<br/>In the transfigured Word<br/>A kingdom once concealed<br/>On the earth now revealed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Holy is the Lord revealed before my eyes<br/>And my burning heart can scarcely take it in<br/>As I behold Your beauty with unworthy eyes<br/>The only song my soul can find to sing</lines>
+    </verse>
+    <verse name="b1">
+      <lines>TAG:<br/>Is hallelujah, hallelujah, hallelujah my King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE 3:<br/>Lead my longing heart<br/>To the high ground<br/>To a clear view and in awe<br/>I'll be there beholding You</lines>
+    </verse>
+    <verse name="b2">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+    <verse name="b3">
+      <lines>BRIDGE:<br/>Now I know I have seen<br/>Your glory that cannot be unseen<br/>I am changed and changing still<br/>As I look upon You Lord and believe</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lo, God To Heav'n Ascendeth</title>
+    </titles>
+    <authors>
+      <author type="music">Crüger, Johann (1598-1662)</author>
+      <author type="words">Sacer, Gottfried Wilhelm (1635-1699)</author>
+      <author type="translate">Cox, Frances Elizabeth (1812-1897)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lo, God to Heav'n ascendeth! Throughout its regions vast With shouts triumphant blendeth the trumpet's thrilling blast: Sing praise to Christ the Lord; sing praise with exultation, King of each heathen nation, the God of Hosts adored!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With joy is Heav'n resounding Christ's glad return to see; Behold the saints surrounding the Lord who set them free. Bright myriads, thronging, come; the cherub band rejoices, And loud seraphic voices Welcome Messiah home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No more the way is hidden, Since Christ our Head arose: No more to man forbidden The road to Heav'n that goes. Our Lord is gone before; yet here He will not leave us, And soon in Heav'n receive us and open wide the door.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Christ is our place preparing; to Heav'n we, too, shall rise, And, joys angelic sharing, Be where our treasure lies: There may each heart be found! Where Jesus Christ has entered, There let our Hope be centered; Our course still heav'nward bound.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>May we, His servants, thither In heart and mind ascend, And let us sing together: "We seek Thee, Christ, our friend, Thee, God's exalted Son, our Life, and Way to Heaven, To whom all pow'r is given, our Joy and Hope and Crown."</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Farewell with all thy treasures, O world, to falsehood giv'n!<br/>Thy dross gives no true pleasures; We seek the joys of Heav'n:<br/>The Savior is our Prize; He comforts us in sadness,<br/>And fills our hearts with gladness; to Him we lift our eyes.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When, on our vision dawning, Will break the wished-for hour<br/>Of that all glorious morning, When Christ shall come with power?<br/>O come, thou welcome day! When we, our Savior meeting,<br/>His second advent greeting, Shall hail the heav'n-sent ray.</lines>
+    </verse>
+  </lyrics>
+</song>

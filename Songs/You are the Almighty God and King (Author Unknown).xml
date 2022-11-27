@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>You are the Almighty God and King</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5421"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the Almighty God and King.<br/>In the world there is no one like You.<br/>You are just, faithful, and righteous forever.<br/>You created everything, Lord -<br/>in the heavens and on earth.<br/>All is managed wisely - Life is in Your hand.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Who is so holy and just,<br/>Invariable and great?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is our God - the Almighty King,<br/>Our God - the Creator Omnipresent,<br/>Our God - Wise and Powerful Lord<br/>Above us.<br/>This is our God - salvation for sinners,<br/>Our God - Love and Hope,<br/>Our God - Great and Wonderful Lord<br/>Above us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You loved us from the beginning<br/>And to You we are reconciled<br/>Through Christ, His holy blood.<br/>You brought us into your kingdom,<br/>The true path we have.<br/>Sparing us from the power of darkness,</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You have given freedom.<br/>Who is so holy and just,<br/>Invariable and great?<br/>Who is the truth and the life?<br/>Who saved us, sins forgave?</lines>
+    </verse>
+  </lyrics>
+</song>

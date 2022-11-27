@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Fullness of God</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3524"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>thanksgiving</theme>
+      <theme>harvest</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>We are citizens of a heavenly home<br/>This life that we now live, is no longer our own<br/>Cause we're living for the King of Glory<br/>Our lives laid down will tell His story</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>He is the image of the invisible God<br/>He made all things on Earth and Heaven above<br/>The firstborn over all creation<br/>The ruler over all the nations</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>In Him all the fullness of God was pleased to dwell<br/>Through Him, He will reconcile all things to Himself</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>And He'll never change<br/>From age to age He stays the same<br/>Eternal, surpassing<br/>His love's everlasting</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He'll never change<br/>From age to age He stays the same<br/>He's steadfast,  unchanging<br/>His love's never  ending</lines>
+    </verse>
+  </lyrics>
+</song>

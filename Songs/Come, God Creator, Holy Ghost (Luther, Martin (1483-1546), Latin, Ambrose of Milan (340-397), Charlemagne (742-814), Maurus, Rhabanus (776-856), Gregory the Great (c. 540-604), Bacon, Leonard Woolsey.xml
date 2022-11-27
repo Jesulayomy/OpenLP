@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Come, God Creator, Holy Ghost</title>
+      <title>Creator, Spirit, Holy Dove, Come Holy Ghost, Creator Blest</title>
+    </titles>
+    <authors>
+      <author type="music">Latin</author>
+      <author type="words">Charlemagne (742-814)</author>
+      <author type="words">Maurus, Rhabanus (776-856)</author>
+      <author type="words">Gregory the Great (c. 540-604)</author>
+      <author type="words">Ambrose of Milan (340-397)</author>
+      <author type="translate">Luther, Martin (1483-1546)</author>
+      <author type="translate">Bacon, Leonard Woolsey (1830-1907)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, God Creator, Holy Ghost, And visit Thou these souls of men; Fill them with graces, as Thou dost, Thy creatures make pure again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Comforter Thy name we call. Sweet gift of God most high above, A holy unction to us all O Fount of life, Fire of love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our minds illumine and refresh, Deep in our hearts let love burn bright; Thou know'st the weakness of our flesh; And strengthen us with Thy might.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou with Thy wondrous sev'nfold gifts The finger art of God's right hand; The Father's Word Thou sendest swift On tongues of fire to each land.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drive far from us our wily foe; Grant us Thy blesséd peace within, That in Thy footsteps we may go, And shun the dark ways of sin.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Teach us the Father well to know,<br/>Likewise His only Son our Lord,<br/>Thyself to us believing show,<br/>Spirit of both, aye adored</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Praise to the Father, and the Son<br/>Who from the dead is risen again;<br/>Praise to the Comforter be done<br/>Both now and ever. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

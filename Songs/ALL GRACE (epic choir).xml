@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:39">
+  <properties>
+    <titles>
+      <title>ALL GRACE</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>God of all grace has settled me, established me, perfected me.<br/>God of all grace has strengthened me, lifted me<br/>All glory to his name</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Halleluyah  <br/>Halleluyah<br/>Halleluyah<br/>Glory to God forever</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>All things are working for my good<br/>All grace has made a way for me<br/>Heaven has opened over me<br/>I am blessed and highly favoured.</lines>
+    </verse>
+  </lyrics>
+</song>

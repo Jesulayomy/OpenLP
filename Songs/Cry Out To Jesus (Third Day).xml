@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Cry Out To Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Third Day</author>
+      <author type="music">Third Day</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1752"/>
+    </songbooks>
+    <themes>
+      <theme>salvation</theme>
+      <theme>repentance</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>To everyone who's lost someone they love<br/>Long before it was their time<br/>You feel like the days you had were not enough<br/>when you said goodbye<br/>And to all of the people with burdens and pains<br/>Keeping you back from your life<br/>You believe that there's nothing and there is no one<br/>Who can make it right</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>There is hope for the helpless rest for the weary<br/>Love for the broken heart<br/>There is grace and forgiveness Mercy and healing<br/>He'll meet you wherever you are<br/>Cry out to Jesus,        Cry out to Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>For the marriage that's struggling just to hang on<br/>They lost all of their faith in love<br/>They've done all they can to make it right again<br/>Still it's not enough<br/>For the ones who can't break the addictions and chains<br/>You try to give up but you come back again<br/>Just remember that you're not alone in your shame<br/>And your suffering</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>When you're lonely<br/>And it feels like the whole world is falling on you<br/>You just reach out, you just cry out to Jesus Cry to Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 3<br/>To the widow who struggles with being alone<br/>Wiping the tears from her eyes<br/>For the children around the world without a home<br/>Say a prayer tonight</lines>
+    </verse>
+  </lyrics>
+</song>

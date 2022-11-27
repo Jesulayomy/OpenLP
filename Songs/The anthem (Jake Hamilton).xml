@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>The anthem</title>
+    </titles>
+    <authors>
+      <author type="words">Jake Hamilton</author>
+      <author type="music">Jake Hamilton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3978"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>I can hear the footsteps of my King<br/>I can hear his heartbeat beckoning<br/>In my darkness, He has set me free<br/>Now I hear the spirit calling me, He's calling</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Wake up child, It's our turn to shine<br/>We were born for such a time as this<br/>Wake up child, It's our turn to shine<br/>We were born for such a time as this</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>I can hear a holy rumbling<br/>I've begun to preach another King<br/>Loosing chains and breaking down the walls<br/>I want to hear the Father when he calls, He's calling</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge: 1<br/>This is the anthem of our generation,<br/>Here we are God, shake our nation<br/>All we need is your love<br/>You captivate us</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge: 2<br/>We are royalty<br/>We have destiny<br/>We have been set free<br/>We're gonna shake history</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We're gonna change the world!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>In Heavenly Love Abiding</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In heavenly love abiding,<br/>No change my heart shall fear;<br/>And safe is such confiding,<br/>For nothing changes here:<br/>The storm may roar without me,<br/>My heart may low be laid;<br/>But God is round about me,<br/>And can I be dismayed?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wherever He may guide me,<br/>No want shall turn me back;<br/>My Shepherd is beside me,<br/>And nothing can I lack:<br/>His wisdom ever waketh,<br/>His sight is never dim;<br/>He knows the way He taketh,<br/>And I will walk with Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Green pastures are before me,<br/>Which yet I have not seen;<br/>Bright skies will soon be o’er me,<br/>Where darkest clouds have been;<br/>My hope I cannot measure,<br/>My path to life is free;<br/>My Saviour has my treasure,<br/>And He will walk with me.</lines>
+    </verse>
+  </lyrics>
+</song>

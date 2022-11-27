@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Theres Gonna Be A Revival In The Land</title>
+    </titles>
+    <authors>
+      <author type="words">Misc Praise Songs</author>
+      <author type="music">Misc Praise Songs</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's gonna be a revival in the land<br/>There's gonna be a revival in the land<br/>From the north, to the south<br/>Fron the east and the west<br/>There's gonna be a revival in the land</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Outro<br/>There's gonna be a revival<br/>There's gonna be a revival<br/>There's gonna be a revival in the land</lines>
+    </verse>
+  </lyrics>
+</song>

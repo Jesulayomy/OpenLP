@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Colored People</title>
+    </titles>
+    <authors>
+      <author type="words">DC Talk</author>
+      <author type="music">DC Talk</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:<br/>D A G</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>Pardon me, your epidermis is showing, mister<br/>I couldn't help but note your shade of melanin<br/>I tip my hat to the colorful arrangement<br/>Cause I see the beauty in the tones of our skin</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pre-Chorus:<br/>We've gotta come together and thank the maker of us all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chorus:<br/>We're colored people, and we live in a tainted place<br/>We're colored people, and they call us the human race<br/>We've got a history so full of mistakes<br/>And we are colored people who depend on a Holy Grace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verse 2:<br/>A piece of canvas is only the beginning<br/>It takes on character with every loving stroke<br/>This thing of beauty is the passion of an artist's heart<br/>By God's design, we are a skin kaleidoscope</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(Pre-Chorus)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>(Chorus)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bridge:<br/>Ignorance has wronged some races<br/>And vengeance is the Lord's<br/>If we aspire to share this space<br/>Repentance is the cure</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Interlude:<br/>D A G</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Rap:<br/>Well, just a day in the shoes of a color blind man<br/>Should make it easy for you to see<br/>That these diverse tones do more than cover our bones<br/>As a part of our anatomy</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>By Grace I'm Saved</title>
+    </titles>
+    <authors>
+      <author type="music">König, Johann Balthasar (1691-1758)</author>
+      <author type="words">Scheidt, Christian Ludwig (1709-1761)</author>
+      <author type="translate">Loy, Matthias (1828-1915)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>By grace I'm saved\grace free and boundless! My heart, believ'st thou this or not? Why tremblest thou with terror groundless? Has ever God a falsehood taught? His Word is truethen this must be: By grace there is a crown for thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By grace! our works are all rejected, All claims of merit pass for naught; The mighty Savior, long expected, To us this blissful truth has brought, That He by death redeems our race, And we are saved alone by grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>By grace! mark well this phrase's meaning, When sin rolls sorrows o'er thy breast, When Satan threats with pride o'erweening, When troubled conscience sighs for rest: What reason ne'er can comprehend It pleases God by grace to send.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>By grace His Son, on earth appearing, Vouchsafed beneath thy woe to bend; Hadst thou, damnation justly fearing, Done aught to render Him thy friend? Was't not that He thy welfare sought, And but by grace deliv'rance wrought?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>By grace! this ground of our salvation As long as God is true endures: What saints have penned by inspiration, What God to our poor soul secures, What all our faith must rest upon, Is grace, free grace through His dear Son.</lines>
+    </verse>
+  </lyrics>
+</song>

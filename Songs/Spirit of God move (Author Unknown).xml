@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Spirit of God move</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Spirit of God, move<br/>Write your words in my heart<br/>Fill my whole being<br/>consume my life.<br/>Spirit of God, move<br/>An empty vessel I want to be,<br/>So that you can come,<br/>Lord and fill me.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I lift my hands, I surrender<br/>laying all on the altar<br/>I don't want to pretend<br/>but be sealed by your hand<br/>I'll take your word,<br/>and I'll hide it in my heart.<br/>Till every fiber in my being<br/>Has desperate cry</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've recognised your voice<br/>and I've understood the call<br/>Lord help me not to faint<br/>but stand and overcome<br/>Lord, I just want to please you<br/>That's all I want to do<br/>So from my soul now,<br/>I cry to You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>He's got the whole world</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>He's got the whole world in His hands,<br/>He's got the whole wide world in His hands,<br/>He's got the whole world in His hands,<br/>He's got the whole wide world in His hands.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>He's got my father and my mother in His hands,<br/>He's got my brother and my sister in His hands,<br/>He's got you and me my friend, in His hands,<br/>He's got the whole world in His hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's got the sun and the rain in His hands,<br/>He's got the moon and the stars in His hands,<br/>He's got the wind and the clouds in His hands,<br/>He's got the whole world in His hands.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's got the rivers and the mountains in His hands,<br/>He's got the oceans and the seas in His hands,<br/>He's got you and he's got me in His hands,<br/>He's got the whole world in His hands.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He's got everybody here in His hands,<br/>He's got everybody there in His hands,<br/>He's got everybody everywhere in His hands,<br/>He's got the whole world in His hands.</lines>
+    </verse>
+  </lyrics>
+</song>

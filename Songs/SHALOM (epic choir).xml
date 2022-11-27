@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:44">
+  <properties>
+    <titles>
+      <title>SHALOM</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Shalom, Shalom<br/>Jehovah, my peace</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Through the fire, through the raging storm<br/>I will not loose my peace<br/>Through the valley, through the sweeping flood<br/>I will hold to my peace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing broken, nothing missing<br/>You have it in control </lines>
+    </verse>
+  </lyrics>
+</song>

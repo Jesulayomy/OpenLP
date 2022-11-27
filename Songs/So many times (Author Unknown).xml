@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>So many times</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="152"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I long to serve You Lord,I long to walk Your way<br/>I long to heed your words,You're the Potter I'm the clay.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So many times I have seen,so many times I have felt<br/>Holy blood on the cross You have shed,<br/>Your love and your grace for my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will open up my heart,I'll praise You with all of my strength<br/>I will seek You all of my days,I will follow all of Your ways.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Shout the news now to everyone,Hope is here Peace has come,<br/>Every debt has been repaid,Broken heart can be remade.</lines>
+    </verse>
+  </lyrics>
+</song>

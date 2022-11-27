@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>It's Christmas</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1429"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Away in a manger no crib for a bed<br/>The little Lord Jesus laid down<br/>His sweet head, the stars in the sky<br/>Looked down where He lay<br/>The little Lord Jesus asleep<br/>On the hay</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The cattle are lowing, the baby awakes<br/>But little Lord Jesus, no crying<br/>He makes, I love Thee Lord Jesus!<br/>Look down from the sky and stay<br/>By my   cradle til morning is nigh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's Christmas!<br/>The angels are singing<br/>And I know the reason, the<br/>Saviour is born<br/>It's Christmas!<br/>The bells are ringing<br/>And I feel like shouting<br/>Joy to the world!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be near me, Lord Jesus I ask Thee to stay<br/>Close by me forever and love me I pray<br/>Bless all the dear children<br/>In Thy tender care<br/>And fit us for  heaven<br/>To live with Thee there</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It's Christmas!<br/>The angels are singing<br/>And I know the reason, the<br/>Saviour is born<br/>It's Christmas!<br/>The bells are ringing<br/>And I feel like shouting<br/>Joy to the world!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Go tell it on the mountain,<br/>Over the hills and everywhere!<br/>Go, tell it on the mountain that<br/>Jesus Christ is born!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>It's Christmas!<br/>The angels are singing<br/>And I know the reason, the<br/>Saviour is born<br/>It's Christmas!<br/>The bells are ringing<br/>And I feel like shouting<br/>Joy to the world!<br/>Joy to the world!<br/>Joy to the world!</lines>
+    </verse>
+  </lyrics>
+</song>

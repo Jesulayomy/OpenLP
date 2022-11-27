@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>More</title>
+    </titles>
+    <copyright>2002, 2003 Westies, In. Music Publishing | Word Music, LLC | Greenberg Music | Extreme Writers Music, LLC</copyright>
+    <authors>
+      <author type="words">Matthew West</author>
+      <author type="music">Matthew West</author>
+      <author type="words">Jason Houser</author>
+      <author type="music">Jason Houser</author>
+      <author type="words">Kenny Greenberg</author>
+      <author type="music">Kenny Greenberg</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take a look at the mountain,<br/>stretching a mile high.<br/>Take a look at the ocean,<br/>far as your eye can see,<br/>And think of Me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take a look at the desert.<br/>Do you feel like a grain of sand?<br/>I am with you wherever;<br/>where you go is where I am.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And I'm always thinking of you.<br/>Take a look around you;<br/>I'm spelling it out one by one.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I love you more than the sun<br/>And the stars that I taught how to shine.<br/>You are Mine, and you shine for Me too.<br/>I love you yesterday and today and tomorrow;<br/>I'll say it again and again:<br/>I love you more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just a face in the city,<br/>just a tear on a crowded street.<br/>But you are one in a million,<br/>and you belong to Me.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>And I want you to know<br/>that I'm not letting go,<br/>Even when you come undone.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Shine for Me.  You shine for Me.<br/>You shine on. You shine on. You shine for Me.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I love you more than the sun<br/>And the stars that I taught how to shine.<br/>You are mine, and you shine for me too.<br/>I love you yesterday and today and tomorrow;<br/>I'll say it again and again:<br/>I love you more than the sun<br/>And the stars that I taught how to shine.<br/>You are mine, and you shine for me too.<br/>I love you yesterday and today, through the joy and the pain,<br/>I'll say it again and again:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>I love you more.<br/>I love you more.<br/>And I see you, and I made you,<br/>And I love you more than you can imagine,<br/>More than you can fathom.<br/>I love you more than the sun,<br/>and you shine for Me.</lines>
+    </verse>
+  </lyrics>
+</song>

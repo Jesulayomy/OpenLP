@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>He is Jehova the God that healeth thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>jewish</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is Jehovah, God of creation<br/>He is Jehovah, Lord God almighty<br/>The balm of Gilead, the rock of ages<br/>He is Jehovah, the God that healeth thee</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sing alleluia, sing alleluia<br/>Sing alleluia, sing alleluia<br/>He is Jehovah, the Lord God almighty<br/>He is Jehovah, the God that healeth thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is the great I am, the God of Abraham<br/>Jehovah Shalom, the god of peace i am<br/>The God of Israel, the everlasting one<br/>He is Jehovah, the God that healeth thee,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's your provider, Jehovah Jireh<br/>God of salvation, God of Messiah<br/>His son he sent to you, and testified of him<br/>He is Jehovah, the God that healeth thee</lines>
+    </verse>
+  </lyrics>
+</song>

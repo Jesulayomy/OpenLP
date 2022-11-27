@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Free to Dance</title>
+    </titles>
+    <copyright>1999 Darlene Zschech / Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This song in my heart<br/>This song in my soul<br/>This song I was born to sing<br/>It's Your song of freedom<br/>Now I'm free to dance again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll sing in the darkness<br/>I'll laugh in the rain<br/>Rejoice in Your love again<br/>It's Your song of freedom<br/>Now, I'm free to dance again</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your Spirit brings me liberty,<br/>Your breath of life has set me free</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus Your love it lifts me high<br/>Gives me reason to<br/>Run this race with joy<br/>This song within me Lord<br/>Will bless Your Holy Name<br/>Jesus I'll dance<br/>Before Your throne<br/>Bring this heavenly<br/>Sound to You alone<br/>This song within me Lord<br/>Will bless Your Holy Name</lines>
+    </verse>
+  </lyrics>
+</song>

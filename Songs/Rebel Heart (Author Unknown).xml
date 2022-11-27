@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Rebel Heart</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5925"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I offer up this rebel heart<br/>So stubborn and so restless from the start<br/>I don't wanna fight You anymore<br/>So take this rebel heart and make it Yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father I no longer wanna run<br/>You've broken my resistance with Your love<br/>And drowned it underneath the crimson spill<br/>So bend this rebel heart into Your will</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I give it over to You<br/>I give it over to You<br/>Your love is like an arrow, straight and true<br/>And now this rebel heart belongs to You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Help me lay the renegade to rest<br/>Turn the stone inside me back to flesh<br/>And hold me till my best defenses fall<br/>And watch this rebel heart surrender all</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I give it over to You<br/>I give it over to You<br/>Your love is like an arrow, straight and true<br/>And now this rebel heart belongs to You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh take my life and let it be Yours<br/>Oh take my life and let it be Yours<br/>Oh take my life and let it be Yours<br/>Oh take my life and let it be Yours</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I give it over to You<br/>I give it over to You<br/>Your love is like an arrow, straight and true<br/>And now this rebel heart belongs to You<br/>And now this rebel heart belongs to You<br/>And now this rebel heart belongs to You</lines>
+    </verse>
+  </lyrics>
+</song>

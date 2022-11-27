@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>I know whom I have believed</title>
+      <title>I know Not Why</title>
+    </titles>
+    <authors>
+      <author type="words">Nathan, Elias (1840-1901)</author>
+      <author type="words">Whittle, Daniel Webster (1840-1901)</author>
+      <author type="music">McGranahan, James (1840-1907)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know not why God's wondrous grace<br/>To me He hath made known,<br/>Nor why, unworthy, Christ in love<br/>Redeemed me for His own.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refrain:<br/>But "I know Whom I have believed,<br/>And am persuaded that He is able<br/>To keep that which I've committed<br/>Unto Him against that day."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know not how this saving faith<br/>To me He did impart,<br/>Nor how believing in His Word<br/>Wrought peace within my heart.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I know not how the Spirit moves,<br/>Convincing men of sin,<br/>Revealing Jesus through the Word,<br/>Creating faith in Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know not what of good or ill<br/>May be reserved for me,<br/>Of weary ways or golden days,<br/>Before His face I see.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know not when my Lord may come,<br/>At night or noonday fair,<br/>Nor if I walk the vale with Him,<br/>Or meet Him in the air.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Something keeps holding me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The trials of this world were getting closer,<br/>The pull I felt was more than I could bear,<br/>And I was on the verge of giving over:<br/>The strength within myself just wasn't there.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Something keeps holding me,<br/>Everyday I see,<br/>He's helping me faithfully<br/>To overcome my trials;<br/>He's guiding me constantly,<br/>Giving me victory,<br/>He's a reality;<br/>Something keeps holding me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Satan lay before me his temptation<br/>Of his desire to steal away my faith,<br/>But I have found in time the revelation,<br/>The strength I need to keep me by His grace.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus 2:<br/>Jesus is holding me,<br/>Everyday I see,<br/>He's helping me faithfully<br/>To overcome my trials;<br/>He's guiding me constantly,<br/>Giving me victory,<br/>He's a reality;<br/>Jesus is holding me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Give me oil in my lamp</title>
+      <title>Sing hosanna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give me oil in my lamp; keep me burning;<br/>give me oil in my lamp, I pray.<br/>Give me oil in my lamp; keep me burning;<br/>keep me burning till the break of day.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sing hosanna, sing hosanna,<br/>sing hosanna to the Servant King;<br/>sing hosanna, sing hosanna,<br/>sing hosanna, let us sing!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give me joy in my heart; keep me praising;<br/>give me joy in my heart, I pray.<br/>Give me joy in my heart; keep me praising;<br/>keep me praising till the break of day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give me peace in my heart; keep me loving;<br/>give me peace in my heart, I pray.<br/>Give me peace in my heart; keep me loving;<br/>keep me loving till the break of day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Give me love in my heart; keep me serving;<br/>give me love in my heart, I pray.<br/>Give me love in my heart; keep me serving;<br/>keep me serving till the break of day.</lines>
+    </verse>
+  </lyrics>
+</song>

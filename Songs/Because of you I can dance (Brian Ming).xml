@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Because of you I can dance</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Ming</author>
+      <author type="music">Brian Ming</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Never before have i felt so alive<br/>Never before have i thought i could fly<br/>Never before have i ever been so free<br/>'Cause being with you i now begin to see</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That your presence<br/>Overwhelms me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Because of you i can dance<br/>Because of you i lift my hands<br/>Because of you i can sing<br/>I am free</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We're jumping<br/>Shouting, dancing<br/>Spinning, singing<br/>There's freedom</lines>
+    </verse>
+  </lyrics>
+</song>

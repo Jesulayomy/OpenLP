@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Born to Serve the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the dust of the earth<br/>my God created man-<br/>His breath made man a living soul;<br/>And God so loved the world<br/>He gave His only Son,<br/>and that is why I love Him so!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My hands were made<br/>to help my neighbor,<br/>my eyes were made<br/>to read God's word.<br/>My feet were made<br/>to walk in His footsteps,<br/>my body is the temple of the Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I was made in His likeness,<br/>created in his image,<br/>for I was born to serve the Lord.<br/>And I cannot deny Him,<br/>I will always walk beside Him,<br/>for I was born to the serve the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

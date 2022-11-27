@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Here As In Heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1728"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>gospel</theme>
+      <theme>repentance</theme>
+      <theme>forgiveness</theme>
+      <theme>prayer</theme>
+      <theme>lords-supper</theme>
+      <theme>harvest</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The atmosphere is changing now<br/>For the Spirit of the Lord is here<br/>The evidence is all around<br/>That the Spirit of the Lord is here</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Overflow in this place, fill our hearts with your love<br/>Your love, surrounds us<br/>You're the reason we came, to encounter your love<br/>Your love, surrounds us</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Spirit of God fall fresh on us<br/>We need your presence<br/>Your kingdom come, your will be done<br/>Here as in heaven</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A miracle can happen now<br/>For the Spirit of the Lord is here<br/>The evidence is all around<br/>That the Spirit of the Lord is here</lines>
+    </verse>
+  </lyrics>
+</song>

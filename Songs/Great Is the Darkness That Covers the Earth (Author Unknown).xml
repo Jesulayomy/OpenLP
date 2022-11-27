@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>Great Is the Darkness That Covers the Earth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>longing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is the darkness that covers the Earth,<br/>Oppression, injustice and pain.<br/>Nations are slipping in hopeless despair,<br/>Though many have come in Your name.<br/>Watching while sanity dies,<br/>Touched by the madness and lies.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come, Lord Jesus, come, Lord Jesus!<br/>Pour out Your Spirit we pray.<br/>Come, Lord Jesus, come, Lord Jesus!<br/>Pour out Your Spirit on us today!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May now your church rise with power and love,<br/>This glorious gospel proclaim.<br/>In every nation salvation will come<br/>To those who believe in Your name.<br/>Help us bring light to this world<br/>That we might speed Your return.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Great celebrations on that final day<br/>When out of the heavens You come.<br/>Darkness will vanish, all sorrow will end,<br/>And rulers will bow at Your throne.<br/>Our great commission complete,<br/>Then face to face we shall meet.</lines>
+    </verse>
+  </lyrics>
+</song>

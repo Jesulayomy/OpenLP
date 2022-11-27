@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Everything and Nothing Less</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1586"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Humbly I stand, an offering<br/>With open hands, Lord I bring</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>Everything and nothing less, my best, my all<br/>You deserve my every breath, my life, my song</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I surrender, I surrender all<br/>Oh, I surrender, I surrender all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Lord take control, I trust You<br/>I'm letting go, to give You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Everything and nothing less, I give You<br/>Everything and nothing less forever<br/>Everything and nothing less oh, my life is Yours<br/>Completely Yours, Oh!</lines>
+    </verse>
+  </lyrics>
+</song>

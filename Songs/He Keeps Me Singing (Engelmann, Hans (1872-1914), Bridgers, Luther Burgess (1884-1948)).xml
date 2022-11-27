@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>He Keeps Me Singing</title>
+    </titles>
+    <authors>
+      <author type="music">Engelmann, Hans (1872-1914)</author>
+      <author type="words">Bridgers, Luther Burgess (1884-1948)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's within my heart a melody<br/>Jesus whispers sweet and low:<br/>"Fear not I am with thee. Peace be still."<br/>In all of life's ebb and flow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my life was wrecked by sin and strife;<br/>Discord filled my heart with pain.<br/>Jesus swept across the broken strings;<br/>Stirred the slumb'ring chords again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Feasting in the riches of His grace;<br/>Resting neath His shelt'ring wing.<br/>Always looking on His smiling face:<br/>That is why I shout and sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Though sometimes He leads through waters deep,<br/>Trials fall across the way;<br/>Though sometimes the path seems rough and steep;<br/>I see His footprints all the way.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Soon He's coming back to welcome me<br/>Far beyond the starry sky.<br/>I shall wing my flight to worlds unknown;<br/>I shall reign with Him on high.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, Jesus, Jesus;<br/>Sweetest name I know.<br/>Fills my every longing;<br/>Keeps me singing as I go.</lines>
+    </verse>
+  </lyrics>
+</song>

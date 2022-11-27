@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Iʼve gotta let You know that Iʼm so thankful</title>
+    </titles>
+    <authors>
+      <author type="words">Pavel Geraŝenko</author>
+      <author type="music">Pavel Geraŝenko</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5930"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Iʼve gotta let You know that Iʼm so thankful<br/>For everything You have done<br/>The way You lifted me, and turned my life around<br/>Now in You I am found</lines>
+    </verse>
+    <verse name="p1">
+      <lines>So put your hands up, everybody give Him glory<br/>Hands up</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Everybody shout your praise aloud<br/>And sing with everything<br/>Give Him all the glory, for our God is worthy<br/>Whoa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>BRIDGE: (Riff)<br/>If you love Him donʼt stop praising, put your hands up<br/>If you love Him donʼt stop praising, put your hands up<br/>Everybody give Him glory, put your hands up<br/>Put your hands up Put your hands up</lines>
+    </verse>
+  </lyrics>
+</song>

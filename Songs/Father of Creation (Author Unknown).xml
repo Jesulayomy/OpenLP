@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Father of Creation</title>
+      <title>Let your glory fall</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>longing</theme>
+      <theme>truth</theme>
+      <theme>gods-faithfulness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father of Creation<br/>Unfold Your sovereign plan.<br/>Raise up a chosen generation<br/>That will march through the land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All of creation is longing<br/>For Your unveiling of power.<br/>Would You release Your anointing;<br/>O God, let this be the hour!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let Your glory fall in this room,<br/>Let it go forth from here to the nations.<br/>Let Your fragrance rest in this place,<br/>As we gather to seek Your face.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ruler of the nations,<br/>The world has yet to see<br/>The full release of Your promise,<br/>The church in victory.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Turn to us, Lord, and touch us,<br/>Make us strong in Your might.<br/>Overcome our weakness,<br/>That we could stand up and fight.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let Your kingdom come!   (Let Your kingdom come!)<br/>Let Your will be done!   (Let Your will be done!)<br/>Let us see on Earth(Let us see on Earth)<br/>The glory of Your Son!</lines>
+    </verse>
+  </lyrics>
+</song>

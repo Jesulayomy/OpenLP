@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>I know</title>
+    </titles>
+    <authors>
+      <author type="words">Kim Walker-Smith</author>
+      <author type="music">Kim Walker-Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3306"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1<br/>In the presence of my enemies<br/>When the storm is crashing down on me<br/>I will trust in what I cannot see<br/>I wait for You, I wait for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pre-Chorus<br/>You can part the violent sea<br/>You can reach the depths of me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus<br/>I know, nothing is impossible<br/>I know, every chain is breakable<br/>I know, on Christ the solid rock I stand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2<br/>I am waiting at the water's edge<br/>Holding steadfast onto Your promises<br/>Even though I'm not there yet<br/>I trust in You, I trust in You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pre-Chorus<br/>You can part the violent sea<br/>You can reach the depths of me!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Chorus<br/>I know, nothing is impossible<br/>I know, every chain is breakable<br/>I know, on Christ the solid rock I stand!<br/>My fear, is conquered by His perfect love<br/>My life, is ransomed by His royal blood<br/>I know, on Christ the solid rock I stand</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bridge<br/>My hope is built on nothing less<br/>Than Jesus blood and righteousness<br/>When darkness seems to hide His face<br/>I rest in His unchanging grace<br/>In every high and stormy gale<br/>My anchor holds within the veil<br/>On Christ the solid rock I stand<br/>All other ground is sinking sand!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Chorus<br/>I know, nothing is impossible<br/>I know, every chain is breakable<br/>I know, on Christ the solid rock I stand!<br/>My fear, is conquered by His perfect love<br/>My life, is ransomed by His royal blood<br/>I know, on Christ the solid rock I stand!</lines>
+    </verse>
+  </lyrics>
+</song>

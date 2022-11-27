@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Forever in eternity</title>
+      <title>I will be yours</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will be yours, you will be mine<br/>Together in eternity<br/>Our hearts of love will be entwined<br/>Together in eternity<br/>Forever in eternity</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will be yours, you will be mine<br/>Together in eternity<br/>Our hearts of love will be entwined<br/>Together in eternity<br/>Forever in eternity</lines>
+    </verse>
+    <verse name="b1">
+      <lines>No more tears of pain in our eyes<br/>No more fear or shame<br/>For we will be with you<br/>Yes, we will be with you</lines>
+    </verse>
+  </lyrics>
+</song>

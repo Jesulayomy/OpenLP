@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>I Will Rise</title>
+    </titles>
+    <copyright>2008 Vamos Publishing | worshiptogether.com songs | sixsteps Music | Thankyou Music | spiritandsong.com</copyright>
+    <authors>
+      <author type="words">Matt Maher</author>
+      <author type="music">Matt Maher</author>
+      <author type="words">Louie Giglio</author>
+      <author type="music">Louie Giglio</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a peace I've come to know,<br/>though my heart and flesh may fail.<br/>There's an anchor for my soul;<br/>I can say, "It is well."</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Jesus has overcome,<br/>and the grave is overwhelmed.<br/>The victory is won;<br/>He is risen from the dead!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will rise when He calls my name.<br/>No more sorrow, no more pain.<br/>I will rise on eagle's wings,<br/>before my God, fall on my knees and rise.<br/>I will rise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a day that's drawing near<br/>when this darkness breaks to light,<br/>And the shadows disappear,<br/>and my faith shall be my eyes.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I hear the voice of many angels sing, "Worthy is the Lamb!"<br/>And I hear the cry of ev'ry longing heart, "Worthy is the Lamb!"<br/>And I hear the voice of many angels sing, "Worthy is the Lamb!"<br/>And I hear the cry of ev'ry longing heart, "Worthy is the Lamb!"<br/>"Worthy is the Lamb!"</lines>
+    </verse>
+    <verse name="b2">
+      <lines>I will rise.<br/>I will rise.</lines>
+    </verse>
+  </lyrics>
+</song>

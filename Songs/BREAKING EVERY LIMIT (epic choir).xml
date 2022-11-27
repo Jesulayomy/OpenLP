@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:40">
+  <properties>
+    <titles>
+      <title>BREAKING EVERY LIMIT</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I was left, in a place of fear<br/>Barrier, stagnation, all staring at me.<br/>But God’s mighty hand came to rescue me<br/>Now i’ve crossed the lines, <br/>My past is over, <br/>There's no stopping me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Am breaking every limit <br/>No chains are holding me<br/>Was bound but now am free</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Am on the move  <br/>(Am on the move) <br/><br/>My level is changing<br/>(my level is changing)<br/><br/>I'm elevated <br/>(I'm elevated)<br/><br/><br/></lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Breaking every limits </lines>
+    </verse>
+    <verse name="v1e">
+      <lines>But God mighty hand came to rescue me <br/>But God mighty hand came to rescue me </lines>
+    </verse>
+  </lyrics>
+</song>

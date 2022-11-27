@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Your Love Is Amazing</title>
+      <title>Hallelujah, Your Love Makes Me Sing</title>
+    </titles>
+    <copyright>2000 Vineyard Songs (UK/Erie)</copyright>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+      <author type="words">Brenton Brown</author>
+      <author type="music">Brenton Brown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>salvation</theme>
+      <theme>protection</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+      <theme>mbb-lyrics</theme>
+      <theme>mbb-style</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love is amazing, steady, and unchanging.<br/>Your love is a mountain, firm beneath my feet.<br/>Your love is a mystery, how You gently lift me.<br/>When I am surrounded, Your love carries me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah, hallelujah,<br/>Hallelujah, Your love makes me sing.<br/>Hallelujah, hallelujah,<br/>Hallelujah, Your love makes me sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your love is surprising, I can feel it rising;<br/>All the joy that's growing deep inside of me.<br/>Every time I see You, all Your goodness shines through,<br/>And I can feel this God song, rising up in me.</lines>
+    </verse>
+  </lyrics>
+</song>

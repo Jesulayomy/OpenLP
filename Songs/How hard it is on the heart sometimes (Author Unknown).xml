@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>How hard it is on the heart sometimes</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4941"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How hard it is on the heart sometimes<br/>When traveling on this treacherous and narrow path<br/>But I continue to walk with you, my Savior<br/>How you instructed me to walk after You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am a stranger and prisoner in a foreign land<br/>Not loved by anyone, and by everyone forgotten<br/>My harp is hanging from the willow tree<br/>My song is dying, the strings sound not</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And often it happens, how cries an infant,<br/>Like so, I lament and in mourning I pray<br/>And to the glorious homeland, which I dearly love<br/>With all my heart, soul, and spirit, I look forward</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the azure sky, where the sun rises<br/>There, to the skies, I direct my glance<br/>There, the tired traveler will find his shelter<br/>Where everyones desired peace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And an unearthly song will sound 'on air,'<br/>With that heavenly song I will join my voice<br/>But for now, as a wanderer and prisoner on this earth<br/>I just sing my sad song...</lines>
+    </verse>
+  </lyrics>
+</song>

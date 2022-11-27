@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:50">
+  <properties>
+    <titles>
+      <title>When we all get to heaven</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">Eliza E. Hewitt &amp; Emily D. Wilson</author>
+      <author type="music">Eliza E. Hewitt &amp; Emily D. Wilson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>heaven</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing the wondrous love of Jesus, Sing His mercy and His grace;<br/>In the mansions bright and blessed, He'll prepare for us a place.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When we all get to heaven, What a day of rejoicing that will be;<br/>When we all see Jesus, We'll sing and shout the victory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>While we walk the pilgrim pathway, Clouds will over spread the sky;<br/>But when travelling days are over, Not a shadow, not a sigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us then be true and faithful, Trusting serving everyday;<br/>Just one glimpse of Him in glory, Will the toils of life repay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Onward to the prize before us, Soon His beauty we'll behold;<br/>Soon the pearly gates will open, We shall tread the streets of gold.</lines>
+    </verse>
+  </lyrics>
+</song>

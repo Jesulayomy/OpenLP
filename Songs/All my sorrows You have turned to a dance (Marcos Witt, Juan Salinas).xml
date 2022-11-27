@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>All my sorrows You have turned to a dance</title>
+      <title>Adonai</title>
+    </titles>
+    <authors>
+      <author type="words">Juan Salinas</author>
+      <author type="music">Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//  All my sorrows You have turned to a dance<br/>A song of praise You put upon my lips //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And to You alone I will sing,<br/>For You are my only glory!<br/>And for You alone I will dance,<br/>You're my strength and You're my song!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>//  O Adonai, O Adonai,<br/>King of all Creation,<br/>Lord of the Universe! //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>//  The heavens tell of Your glory,<br/>Your children worship before You<br/>And sing of all Your wonders,<br/>Adonai! //</lines>
+    </verse>
+  </lyrics>
+</song>

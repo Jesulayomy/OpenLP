@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>Take a Moment</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Take a moment to remember<br/>Who God is and who I am<br/>There You go lifting my load again //<br/>There You go lifting my load again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// No longer am I held by<br/>The yoke of this world<br/>Come upon you the yoke of Jesus<br/>His yoke is easy and His burden is so light //<br/>His burden is so light</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// You're lifting my load<br/>You're lifting my load<br/>You're lifting my load<br/>You're lifting my load //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>// No longer am I held by<br/>The yoke of this world<br/>Come upon you the yoke of Jesus<br/>His yoke is easy and His burden is so light //</lines>
+    </verse>
+    <verse name="v5">
+      <lines>// Your love carries<br/>Your love carries me<br/>Out of valleys and the darkest places //</lines>
+    </verse>
+  </lyrics>
+</song>

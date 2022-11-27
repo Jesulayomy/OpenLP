@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>One plus one</title>
+    </titles>
+    <authors>
+      <author type="words">Lawson Bates</author>
+      <author type="music">Lawson Bates</author>
+    </authors>
+    <themes>
+      <theme>wedding</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You believe in me<br/>And I believe in you<br/>And we believe we found something worth,<br/>holding onto</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But we can't stop there<br/>'Cause that won't be enough<br/>To make it work, to make it last<br/>When the life we share gets stuffed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>But we're not in this thing alone<br/>And we won't get it right on our own<br/>It's gonna take help, it's gonna take faith<br/>But with you and God and me<br/>One plus one equals three</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Three chords in a string<br/>With two strong brake'<br/>With one love bigger than us<br/>Every time we pray</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So if we're in the rain<br/>If we're in the clear<br/>We're gonna be alright<br/>'cause all we need, we got right here</lines>
+    </verse>
+    <verse name="c2">
+      <lines>But we're not in this thing alone<br/>And we won't get it right on our own<br/>It's gonna take help, it's gonna take faith<br/>But with you and God and me<br/>One plus one equals three<br/>(2x)</lines>
+    </verse>
+    <verse name="c3">
+      <lines>It's gonna take help, it's gonna take faith<br/>But with you and God and me<br/>One plus one equals three</lines>
+    </verse>
+  </lyrics>
+</song>

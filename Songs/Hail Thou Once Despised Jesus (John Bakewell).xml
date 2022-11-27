@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Hail Thou Once Despised Jesus</title>
+    </titles>
+    <authors>
+      <author>John Bakewell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hail, thou once despised Jesus,<br/>Hail, Thou Galilean King!<br/>Thou didst suffer to release us,<br/>Thou didst free salvation bring.<br/>Hail, Thou agonising Saviour,<br/>Bearer of our sin and shame;<br/>By Thy merits we find favour,<br/>Life is given through Thy name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Paschal Lamb, by God appointed,<br/>All our sins on Thee were laid.<br/>With almighty love anointed<br/>Thou hast full atonement made.<br/>All Thy people are forgiven<br/>Through the virtue of Thy blood:<br/>Opened is the gate of heaven,<br/>Man is reconciled to God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, hail! enthroned in glory,<br/>There forever to abide;<br/>All the heavenly hosts adore Thee,<br/>Seated at Thy Father’s side:<br/>There for sinners Thou art pleading,<br/>There Thou dost our place prepare,<br/>Ever for us interceding,<br/>Till in glory we appear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Worship, honour, power, and blessing<br/>Thou art worthy to receive:<br/>Loudest praises, without ceasing,<br/>Right it is for us to give:<br/>Come, O mighty Holy Spirit,<br/>As our hearts and hands we raise,<br/>Help us sing our Saviour’s merits,<br/>Help us sing Immanuel’s praise.</lines>
+    </verse>
+  </lyrics>
+</song>

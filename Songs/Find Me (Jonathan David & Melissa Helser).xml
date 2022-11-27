@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Find Me</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan David &amp; Melissa Helser</author>
+      <author type="music">Jonathan David &amp; Melissa Helser</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3735"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse 1]<br/>I fall down upon the ground<br/>Press my face against the earth<br/>Till my heart it rises over my head<br/>As the wheat it bows down low<br/>When the autumn wind blows<br/>I kneel before the One<br/>I love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Chorus]<br/>Find me grateful<br/>Find me thankful<br/>Find me on my knees<br/>Find me dreaming<br/>Find me singing<br/>Find me lost in Your grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Verse 2]<br/>Like the dust that You first held<br/>In a garden where You knelt<br/>Pull me up against Your face again<br/>Till the breath of Your hope<br/>Fill the depths of my soul<br/>Till all I know is I've been<br/>Found by love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Chorus]<br/>Find me grateful<br/>Find me thankful<br/>Find me on my knees<br/>Find me dreaming<br/>Find me singing<br/>Find me lost in Your grace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Verse 2]<br/>Like the dust that You first held<br/>In a garden where You knelt<br/>Pull me up against Your face again<br/>Till the breath of Your hope<br/>Fill the depths of my soul<br/>Till all I know is I've been<br/>Found by love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Chorus]<br/>Find me grateful<br/>Find me thankful<br/>Find me on my knees<br/>Find me dreaming<br/>Find me singing<br/>Find me lost in Your grace<br/>Find me grateful<br/>Find me thankful<br/>Find me on my knees<br/>Find me dreaming<br/>Find me singing<br/>Find me lost in Your grace</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[Outro]<br/>Find me grateful<br/>Find me thankful<br/>Find me on my knees<br/>Find me dreaming<br/>Find me singing<br/>Find me lost in Your grace...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:57">
+  <properties>
+    <titles>
+      <title>I Need You More</title>
+      <title>D - G</title>
+    </titles>
+    <authors>
+      <author type="words">Lindell Cooley</author>
+      <author type="music">Lindell Cooley</author>
+      <author type="words">Kim Walker-Smith</author>
+      <author type="music">Kim Walker-Smith</author>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1171"/>
+    </songbooks>
+    <themes>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>forgiveness</theme>
+      <theme>prayer</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>comfort</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need You more, more than yesterday, I need You more<br/>More than words can say, I need You more<br/>Than ever before I need You Lord, I need You Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More than the air I breathe<br/>More than the song I sing<br/>More than the next heartbeat<br/>More than anything, and Lord as time goes by<br/>I'll be by Your side<br/>Cause I never want to go back to my old life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We give you the Highest Praise!<br/>We give you the Highest Praise!<br/>We give you the Highest Praise!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>More than the air I breathe<br/>More than the songs I sing<br/>More than anything, I need you more.</lines>
+    </verse>
+  </lyrics>
+</song>

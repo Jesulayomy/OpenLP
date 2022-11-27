@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>I will sing unto the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// I will sing unto the Lord, for he has triumphed gloriously;<br/>the horse and rider thrown into the sea. //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// The Lord my God, my strength my song, has now become my victory //<br/>// The Lord is God and I will praise him,<br/>my father is God and I will exalt him. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// I will sing unto the Lord, for he has triumphed gloriously;<br/>The chariots and host thrown into the sea //</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// The Lord my God; oh man of war, has now become my victory //<br/>// The Lord is God and I will praise him, my father is God and I will exalt him //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// I will sing unto the Lord, for he has triumphed gloriously;<br/>They went down like a stone into the deep //</lines>
+    </verse>
+    <verse name="c3">
+      <lines>The Lord my God, his glory and power, has now become my victory<br/>Oh Lord my God, thy right hand's power, has now shattered the enemy;<br/>// The Lord is God and I will praise him, my father is God and I will exalt him //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>// I will sing unto the Lord, for he has triumphed gloriously;<br/>He plants them on his mountain that is green //</lines>
+    </verse>
+    <verse name="c4">
+      <lines>// Oh Lord my God, the place the spot, which thou made for thy sanctuary //<br/>// The Lord will reign and I will praise him, my father will reign and I will exalt him //</lines>
+    </verse>
+  </lyrics>
+</song>

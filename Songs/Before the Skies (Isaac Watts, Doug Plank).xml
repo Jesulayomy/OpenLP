@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Before the Skies</title>
+    </titles>
+    <copyright>Sovereign Grace Worship (ASCAP)</copyright>
+    <authors>
+      <author type="words">Doug Plank</author>
+      <author type="music">Doug Plank</author>
+      <author type="words">Isaac Watts</author>
+      <author type="music">Isaac Watts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before the skies were stretched abroad<br/>From everlasting was the Word<br/>God was He; the Word was God<br/>And He must be adored<br/>By the Word all came to be<br/>The universe and all contained<br/>Showing God's authority<br/>His power and His reign</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glory, glory<br/>Glory in the highest<br/>Glory, glory<br/>Glory God is with us<br/>With us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though His glories still proceed<br/>Never changing from our Lord<br/>He laid down His majesty<br/>And took on human form<br/>Mortals here beheld His face<br/>The Heav'nly Father's perfect Son<br/>Full of truth and full of grace<br/>The Savior now has come!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He gave up His life in love<br/>So our lips could gladly tell<br/>Christ, the Word, has come to us<br/>Our Lord, Immanuel</lines>
+    </verse>
+  </lyrics>
+</song>

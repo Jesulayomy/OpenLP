@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Crowns</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2161"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>CROWNS</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Words and Music by<br/>MICHAEL FATKIN, SCOTT GROOM<br/>&amp; BENJAMIN HASTINGS<br/>♩= 70</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE: 1<br/>There is a hill I cherish<br/>Where stood a precious tree<br/>The emblem of salvation<br/>The gift of Calvary</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE: 2<br/>How is it I should profit<br/>While He is crucified<br/>Yet as His life was taken<br/>So I was granted mine</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>My wealth is in the cross<br/>There's nothing more I want<br/>Than just to know His love<br/>My heart is set on Christ<br/>And I will count all else as loss<br/>The greatest of my crowns<br/>Means nothing to me now<br/>For I counted up the cost<br/>And all my wealth is in the cross</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE: 3<br/>I will not boast in riches<br/>I have no pride in gold<br/>But I will boast in Jesus<br/>And in His Name alone</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Repeat CHORUS:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>TAG:<br/>And all my wealth is in the cross<br/>Yes all my wealth is in the cross</lines>
+    </verse>
+    <verse name="v6">
+      <lines>VERSE: 4<br/>And when I stand in glory<br/>My crowns before the Lord<br/>Let this be my confession<br/>My wealth is in the cross</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Repeat CHORUS: twice</lines>
+    </verse>
+    <verse name="b2">
+      <lines>TAG:<br/>And all my wealth is in the cross<br/>And all my wealth is in the cross<br/>My wealth is in the cross<br/>And all my wealth is in the cross</lines>
+    </verse>
+  </lyrics>
+</song>

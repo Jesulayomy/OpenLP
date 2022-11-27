@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Alive</title>
+    </titles>
+    <authors>
+      <author type="words">Kim Walker-Smith</author>
+      <author type="music">Kim Walker-Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2077"/>
+    </songbooks>
+    <themes>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>You breathe Your life into my lungs,<br/>You bring to life these dry bones,<br/>I know that You're alive<br/>You call me one of Your own<br/>In my heart You made Your home<br/>I know that You're alive<br/>I'm coming alive    D   Bm<br/>You call me one of Your own<br/>In my heart You made Your home<br/>I know that You're alive</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I'm coming alive<br/>I'm coming alive<br/>I'm coming alive</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>We will make Him known<br/>Jesus is alive, He's alive<br/>We will shout it out<br/>Jesus is alive, He's alive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>To all the dry and weary souls<br/>Take joy, take heart, be filled with hope<br/>I know that He's alive<br/>To all the ones who have no home<br/>Get up and run, we're going home<br/>I know that He's alive</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>I'm coming alive<br/>I'm coming alive<br/>I'm coming alive</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Chorus:<br/>We will make Him known<br/>Jesus is alive, He's alive<br/>We will shout it out<br/>Jesus is alive, He's alive</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>It may get loud<br/>The grave is empty now<br/>It may get wild<br/>His love is like no other</lines>
+    </verse>
+    <verse name="v3">
+      <lines>G  A  Hm D x2</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Chorus:<br/>We will make Him known<br/>Jesus is alive, He's alive<br/>We will shout it out<br/>Jesus is alive, He's alive</lines>
+    </verse>
+  </lyrics>
+</song>

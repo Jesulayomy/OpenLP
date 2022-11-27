@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-06-26T09:33:02">
+  <properties>
+    <titles>
+      <title>He'll Meet My Need</title>
+    </titles>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Knowing peace, God's Peace<br/>We ought understand<br/>And joy, the Lord's joy<br/>That strengthens me on every hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come on with<br/>Knowing the Almighty God is my father<br/>And that he loves me<br/>Knowing all of this I know<br/>He’ll meet my need</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God will supply<br/>all of my needs<br/>all of my needs<br/>God will supply<br/>all of my needs<br/>all of my needs<br/>God will supply<br/>all of my needs<br/><br/>Knowing all of this, I know he’ll meet my need.</lines>
+    </verse>
+  </lyrics>
+</song>

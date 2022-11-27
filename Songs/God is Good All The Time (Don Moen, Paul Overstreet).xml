@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>God is Good All The Time</title>
+    </titles>
+    <authors>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+      <author type="words">Paul Overstreet</author>
+      <author type="music">Paul Overstreet</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>God is good all the time<br/>He put a song of praise<br/>In this heart of mine<br/>God is good all the time<br/>Through the darkest night<br/>His light will shine<br/>God is good<br/>God is good all the time</lines>
+    </verse>
+    <verse name="v1">
+      <lines>If you're walking through the valley<br/>and there are shadows all around<br/>Do not fear He will guide you<br/>He will keep you safe and sound<br/>He has promised to never leave you<br/>Nor forsake you<br/>And His Word is true</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We were sinners so unworthy<br/>Still for us He chose to die<br/>He filled us with His Holy Spirit<br/>Now we can stand and testify<br/>That His love is everlasting<br/>And His mercies<br/>they will never end</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Though I may not understand<br/>All the plans You have for me<br/>My life is in Your hands<br/>And through the eyes of faith<br/>I can clearly see</lines>
+    </verse>
+  </lyrics>
+</song>

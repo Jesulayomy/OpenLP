@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Take My Hands (Praises)</title>
+    </titles>
+    <copyright>2003 Ariose Music/ASCAP/Curious? Music/PRS/Soylent Tunes/SESAC/Achtober Songs/BMI</copyright>
+    <authors>
+      <author type="words">Newsboys</author>
+      <author type="music">Newsboys</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take my hands, take my feet.<br/>Take the music to the street.<br/>Hear the prayers, feel the sound:<br/>A generation Kingdom bound.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Great and glorious! Is my Savior!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praises on my tongue from my heart<br/>For our God who became flesh.<br/>For us all, unto You,<br/>I will sing Your praises, sing forever!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take my will, take my all.<br/>Wrap my life around Your call.<br/>Set apart to sing Your praise,<br/>To live the difference in these days.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Great and glorious! Is our Savior!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh, for a thousand tongues to sing, to sing aloud, sing aloud!<br/>All, for the glory of my God and King!<br/>Oh, for a thousand tongues to sing!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>By Your Side</title>
+    </titles>
+    <copyright>2008 Tenth Avenue North</copyright>
+    <authors>
+      <author type="words">Tenth Avenue North</author>
+      <author type="music">Tenth Avenue North</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Why are you striving these days?<br/>Why are you trying to earn grace?<br/>Why are you crying? Let me lift up your face.<br/>Just don't turn away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Why are you looking for love?<br/>Why are you still searching as if I'm not enough?<br/>To where will you go, child?<br/>Tell me where will you run?<br/>To where will you run?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>'Cause I'll be by your side wherever you fall,<br/>In the dead of night, whenever you call,<br/>And please don't fight these hands that are holding you.<br/>Yeah, my hands are holding you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Look at these hands and My side.<br/>They swallowed the grave on that night<br/>When I drank the world's sin so I could carry you in<br/>And give you life. I wanna give you life.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Cause I, I love you.<br/>I want you to know.<br/>That I, I love you.<br/>I'll never let you go.</lines>
+    </verse>
+  </lyrics>
+</song>

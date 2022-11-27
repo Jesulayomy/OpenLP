@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Future Marches In</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2590"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>While the truth screams out<br/>Don't fear the future shaking up this ground<br/>There's a freedom that marches in a different sound<br/>So if you have the choice<br/>If you have the voice<br/>Then lift your voice and sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you have the breath<br/>Lift up your voice and sing<br/>If you have the heart<br/>Lift up your voice and sing<br/>If you have the faith<br/>Lift up your voice and sing<br/>If you have the love<br/>Now's the time to use it</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Look back no further than the Savior's cross<br/>Look to the future like the grave is lost<br/>There's a promise returning all the stolen years<br/>There's nothing left to fear<br/>Now the King is here<br/>So lift your voice and sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you have the breath<br/>Lift up your voice and sing<br/>If you have the heart<br/>Lift up your voice and sing<br/>If you have the faith<br/>Lift up your voice and sing<br/>If you have the love<br/>Now's the time to use it</lines>
+    </verse>
+  </lyrics>
+</song>

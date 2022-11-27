@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>All People That on Earth Do Dwell</title>
+    </titles>
+    <authors>
+      <author>William Kethe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All people that on earth do dwell,<br/>Sing to the Lord with cheerful voice;<br/>Him serve with mirth, His praise forthtell,<br/>Come ye before Him and rejoice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Know that the Lord is God indeed,<br/>Without our aid He did us make:<br/>We are His flock, He doth us feed,<br/>And for His sheep He doth us take.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O enter then His gates with praise,<br/>Approach with joy His courts unto:<br/>Praise, laud, and bless His name always,<br/>For it is seemly so to do.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For why, the Lord our God is good;<br/>His mercy is forever sure;<br/>His truth at all times firmly stood,<br/>And shall from age to age endure.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praise God from whom all blessings flow,<br/>Praise Him all creatures here below,<br/>Praise Him above, ye heavenly hosts;<br/>Praise Father, Son and Holy Ghost.</lines>
+    </verse>
+  </lyrics>
+</song>

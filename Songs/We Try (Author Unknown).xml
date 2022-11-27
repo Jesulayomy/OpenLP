@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>We Try</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There, so there you're standing in a room<br/>With a million things to do,<br/>And more places left to go<br/>You think you're always on your own<br/>There's no one else to hold your hand<br/>So you throw your life away</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We try to live this life out on our own<br/>We die never knowing what we'd know<br/>We try</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You, you have so much to pursue<br/>You want to be all you can be<br/>With the fame and the money<br/>But at night you lay alone<br/>Your heart is trembling as you think<br/>Is this all I'll ever be?</lines>
+    </verse>
+  </lyrics>
+</song>

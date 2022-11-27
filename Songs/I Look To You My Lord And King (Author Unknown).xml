@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>I Look To You My Lord And King</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I look to You, my Lord and King<br/>I look to You, my Lord and King<br/>I look to You, my Lord and King<br/>No turning back for me...<br/>I follow in Your way, my King...<br/>I follow joyfully, my King...<br/>I follow every day, my King<br/>No turning back for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love You, Jesus Lord and King<br/>I love You, Jesus Lord and King<br/>I love You, Jesus Lord and King<br/>No turning back for me...<br/>I love to feel Your presence, Lord...<br/>I love to call You friend, my Lord...<br/>I follow every day, my Lord...<br/>No turning back for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I wait for You, my Lord and King<br/>I wait for You, my Lord and King<br/>I wait for You, my Lord and King<br/>And for your Spirit too...<br/>I love the way You come to me...<br/>I long for You to come to me...<br/>Prepare my heart, my Lord and King...<br/>O let me be with You</lines>
+    </verse>
+  </lyrics>
+</song>

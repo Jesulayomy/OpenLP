@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>More and More of You</title>
+    </titles>
+    <authors>
+      <author type="words">Selah</author>
+      <author type="music">Selah</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2865"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have had enough of getting everything we want<br/>We are weary of living this life just for us<br/>Oh forgive us of seeking Your hand and not Your face<br/>Come and empty us, Father, we're desperate in this place</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Holy Spirit<br/>Fill us with Your fire<br/>Give us Your desires<br/>Hold us close to You<br/>Holy Spirit<br/>Give us revelation<br/>A healing visitation<br/>Nothing else will do<br/>We want more and more<br/>And more and more of You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You have given us so much more than we deserve<br/>You deliver us by the power of Your Word<br/>So God we lift you up, giving You the honor that is Yours<br/>Thank You for Your love, Father, this is what we're living for</lines>
+    </verse>
+    <verse name="v3">
+      <lines>CHORUS</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O the Love that covers us<br/>O the Savior's mercy<br/>O the blood that makes a spotless Bride<br/>O the Love that covers us<br/>O the Savior's mercy<br/>O the blood that makes a spotless Bride</lines>
+    </verse>
+    <verse name="v5">
+      <lines>CHORUS (twice)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We want more and more<br/>And more and more of You</lines>
+    </verse>
+  </lyrics>
+</song>

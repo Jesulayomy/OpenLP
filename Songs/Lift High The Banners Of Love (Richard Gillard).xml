@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Lift High The Banners Of Love</title>
+    </titles>
+    <authors>
+      <author type="words">Richard Gillard</author>
+      <author type="music">Richard Gillard</author>
+    </authors>
+    <themes>
+      <theme>victory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lift high the banners of love Hallelujah<br/>Sound the trumpets of war<br/>Christ has gotten us the vict'ry, Hallelujah<br/>Jericho must fall!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The body of Christ is an army<br/>Fighting powers unseen<br/>Bringing the captives to freedom<br/>In the name of Jesus our King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Preach the Savior crucified<br/>Dead but risen again<br/>Come against the powers of darkness<br/>In His glorious name</lines>
+    </verse>
+  </lyrics>
+</song>

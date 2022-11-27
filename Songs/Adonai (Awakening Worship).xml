@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Adonai</title>
+    </titles>
+    <authors>
+      <author type="words">Awakening Worship</author>
+      <author type="music">Awakening Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1446"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Now behold the heavenly throne<br/>And the One seated in power<br/>All around His glory shines<br/>Like a pearl radiant in beauty</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>We lift up our eyes to see<br/>The matchless King Almighty<br/>We lift up our voices to praise<br/>We join with the angels and sing</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Hallelujah, Holy Holy<br/>Hallelujah, Holy Holy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>A sea of glass spread before<br/>As crystal surrounding the throne<br/>His glory revealed, yet we long for more<br/>Bowing low, we worship the Lord</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>He is coming, the triumphant one<br/>Lord of glory, burning like the sun<br/>Full of power, crowned in righteousness<br/>He is coming, Adonai</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus: 2<br/>Hallelujah, Holy Holy<br/>Hallelujah, Holy Holy</lines>
+    </verse>
+  </lyrics>
+</song>

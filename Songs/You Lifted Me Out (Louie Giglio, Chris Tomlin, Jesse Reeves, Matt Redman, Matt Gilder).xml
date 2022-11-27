@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>You Lifted Me Out</title>
+    </titles>
+    <copyright>2008 Vamos Publishing | worshiptogether.com songs | sixsteps Music | Thankyou Music | Ryan House Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Louie Giglio</author>
+      <author type="music">Louie Giglio</author>
+      <author type="words">Matt Gilder</author>
+      <author type="music">Matt Gilder</author>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You turned my way. You heard my cry.<br/>You turned my mourning into shouting.<br/>Sorrow may last for a night,<br/>But with the light I am seeing,<br/>I am singing:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You lifted me out,<br/>You lifted me out,<br/>And set me dancing, dancing.<br/>Free. Now I am free.<br/>Your love rescued me.<br/>Now it's the anthem I'm singing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Many will see, many will hear,<br/>And find You strong enough to save.<br/>Many the wonders You have done;<br/>Your light has come and I am seeing,<br/>I am singing:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lost is where You found me,<br/>Shattered and frail, but You love me still.<br/>Trouble may surround me, my heart may fail,<br/>But You never will, You never will.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Oh<br/>Oh<br/>Oh<br/>Oh</lines>
+    </verse>
+  </lyrics>
+</song>

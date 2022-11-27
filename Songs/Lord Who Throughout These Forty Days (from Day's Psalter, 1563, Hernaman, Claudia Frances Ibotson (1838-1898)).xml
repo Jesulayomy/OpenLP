@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lord Who Throughout These Forty Days</title>
+      <title>O Lord, Throughout These Forty Days</title>
+    </titles>
+    <authors>
+      <author type="music">from Day's Psalter, 1563</author>
+      <author type="words">Hernaman, Claudia Frances Ibotson (1838-1898)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, who throughout these forty days For us didst fast and pray, Teach us with Thee to mourn our sins And close by Thee to stay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As Thou with Satan didst contend, And didst the vict'ry win, O give us strength in Thee to fight, In Thee to conquer sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As Thou didst hunger bear, and thirst, So teach us, gracious Lord, To die to self, and chiefly live By Thy most holy Word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And through these days of penitence, And through Thy passiontide, Yea, evermore in life and death, Jesus, with us abide.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abide with us, that so, this life Of suff'ring over past, An Easter of unending joy We may attain at last.</lines>
+    </verse>
+  </lyrics>
+</song>

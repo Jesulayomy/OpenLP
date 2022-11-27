@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>In Your Presence (ft. Kim Walker-Smith)</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1622"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>When Your Spirit rushes in and a holy hush<br/>Falls on us again it is so<br/>Far beyond a song it's heaven<br/>On earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>With our hearts surrendered here come and breathe on us and<br/>change the atmosphere we are in<br/>awe of who You are you're heaven<br/>On earth</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>In Your presence   mountains sink into the<br/>Ocean  and we  stand amazed<br/>In Your glory     chains and prison doors are<br/>Broken  where Your freedom reigns<br/>In Your presence</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 3<br/>In the whisper, I can hear that You love me and there's<br/>nothing left to fear    no greater<br/>love is found within all heaven and<br/>Earth heaven and  earth</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>This room is alive in Your maje-sty<br/>Our sin it revived in Your mer-cy<br/>Your Son glorified, our arms open wide<br/>Singing, 'Wor-thy! You are wor-thy!'</lines>
+    </verse>
+  </lyrics>
+</song>

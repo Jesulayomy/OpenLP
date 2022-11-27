@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Rain / Reign</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2609"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Words and Music by Matt Crocker &amp; Joel Houston</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 1<br/>Everything starts in You<br/>Made to be beautiful<br/>Nothing could tear Your heart<br/>From the covenant You made for love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2<br/>Everything moves in time<br/>Played into Your design<br/>Nothing could tear Your heart<br/>From the world You died to save</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS 1<br/>You fall like rain<br/>In fire and thunder<br/>The mountains melt<br/>Like wax before You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE 3<br/>Everything finds its place<br/>Folding beneath Your ways<br/>Nothing could stand against<br/>Your resurrected Name</lines>
+    </verse>
+    <verse name="v6">
+      <lines>CHORUS 2<br/>You fall like rain<br/>In fire and thunder<br/>The mountains melt<br/>Like wax before You<br/>Your kingdom reigns<br/>In everlasting grace and wonder<br/>Your love making all things new<br/>Your love making everything beautiful</lines>
+    </verse>
+    <verse name="v7">
+      <lines>BRIDGE 1<br/>My God<br/>Making all things new<br/>Everything turning<br/>From ruin to life in You<br/>Making all things new<br/>Everything turning to something so beautiful</lines>
+    </verse>
+    <verse name="v8">
+      <lines>BRIDGE 2<br/>Your goodness<br/>Your mercy<br/>Your promise crashing down like rain<br/>Your kingdom<br/>Your glory<br/>Your presence breaking out like rain</lines>
+    </verse>
+    <verse name="v9">
+      <lines>VERSE 4<br/>Everything ends in praise<br/>Shining in Your embrace<br/>Nothing could tear Your heart<br/>From the promise that remains</lines>
+    </verse>
+  </lyrics>
+</song>

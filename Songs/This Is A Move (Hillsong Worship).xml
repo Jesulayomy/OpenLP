@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>This Is A Move</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I still believe, in signs and wonders<br/>I still believe, you're working in power<br/>Wonders are still what you do, Its in your nature<br/>Wonders are still what you do, Its in your character</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mountains are still being moved<br/>Strongholds are still being loosed<br/>God, we believe it<br/>Yes, we can see that<br/>Wonders are still what you do</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bodies are still being raised<br/>Giants are still being slayed<br/>God, we believe it<br/>Yes, we can see that<br/>Wonders are still what you do</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We are here for you<br/>Come and do what you do<br/>We are here for you<br/>Come and do what you do<br/>Set our hearts on you<br/>Come and do what you do</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We need a move<br/>We need a move<br/>We need a move<br/>We need a move</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bodies are still being raised<br/>Giants are still being slayed<br/>God, we believe it<br/>Yes, we can see that<br/>Wonders are still what you do</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Miracles happen when you move<br/>Healing is coming in this room<br/>Miracles happen when you move<br/>Heaven is coming</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Cause this is a move<br/>This is a move<br/>This is a move<br/>This is a move</lines>
+    </verse>
+  </lyrics>
+</song>

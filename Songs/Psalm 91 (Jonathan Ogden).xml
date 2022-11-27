@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Psalm 91</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Ogden</author>
+      <author type="music">Jonathan Ogden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3762"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will not fear<br/>The arrows or the night<br/>As thousands fall<br/>To my left and to my right</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will abide, in the safety of your shadow<br/>Under your wings, my heart will find its rest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The wicked fall<br/>And with my eyes I see<br/>But your faithfulness<br/>Will be a shield to me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cause I have made, my dwelling place in You God<br/>And I'm not afraid, cause I am held by You God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Here in Your presence, I find my refuge oh Lord<br/>And here in the secret, I hear you whisper to me<br/>Here in Your presence, I find my refuge oh Lord<br/>And here in the secret, I hear you whisper to me</lines>
+    </verse>
+  </lyrics>
+</song>

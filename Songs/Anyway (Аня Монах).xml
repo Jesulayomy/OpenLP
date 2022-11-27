@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Anyway</title>
+    </titles>
+    <authors>
+      <author type="words">Аня Монах</author>
+      <author type="music">Аня Монах</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2980"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anyway I'll give thanks to Savior everyday!<br/>God is good, I know He's good.<br/>In every situation I'll bow down and pray -<br/>He reigns!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In any case I will praise my Savior in any place!<br/>Anyway I'll give thanks to Savior for His grace!<br/>He reigns!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, God,  come!<br/>I just want to say that I love You !<br/>You reign!</lines>
+    </verse>
+  </lyrics>
+</song>

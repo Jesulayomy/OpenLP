@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Not Worthy, Lord, to Gather Up the Crumbs</title>
+    </titles>
+    <authors>
+      <author type="music">Monk, William Henry (1823-1889)</author>
+      <author type="words">Bickersteth, Edward Henry Jr. (1825-1906)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not worthy, Lord, to gather up the crumbs With trembling hand that from Thy table fall, A weary, heavy laden sinner comes To plead Thy promise and obey Thy call.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am not worthy to be thought Thy child, Nor sit the last and lowest at Thy board; Too long a wanderer and too oft beguiled; I only ask one reconciling word.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One word from Thee, my Lord, one smile, one look, And I could face the cold, rough world again; And with that treasure in my heart could brook The wrath of devils and the scorn of men.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And is not mercy Thy prerogative\Free mercy, boundless, fathomless, divine? Me, Lord, the chief of sinners, me forgive, And Thine the greater glory, only Thine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I hear Thy voice; Thou bid'st me come and rest; I come, I kneel, I clasp Thy piercèd feet; Thou bid'st me take my place, a welcome guest Among Thy saints, and of Thy banquet eat.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>My praise can only breathe itself in prayer,<br/>My prayer can only lose itself in Thee;<br/>Dwell Thou forever in my heart, and there,<br/>Lord, let me sup with Thee; sup Thou with me.</lines>
+    </verse>
+  </lyrics>
+</song>

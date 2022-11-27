@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>I Will Worship</title>
+      <title>You're Worthy of My Praise</title>
+    </titles>
+    <authors>
+      <author type="words">David Ruis</author>
+      <author type="music">David Ruis</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will worship (I will worship)<br/>With all of my heart (With all of heart)<br/>I will praise You (I will praise You)<br/>With all of my strength (All my strength)<br/>I will seek you (I will seek You)<br/>All of my days (All of my days)<br/>I will follow (I will follow)<br/>All of Your ways (all Your ways)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will give You all my worship<br/>I will give You all my praise<br/>You alone I long to worship<br/>You alone are worthy of my praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will bow down (I will bow down)<br/>Hail You as King (Hail You as King)<br/>I will serve You (I will serve You)<br/>Give you everything (Everything)<br/>I will lift up (I will lift up)<br/>My eyes to Your throne<br/>(My eyes to Your throne)<br/>I will trust You (I will trust You)<br/>I will trust You alone (Trust You alone)</lines>
+    </verse>
+  </lyrics>
+</song>

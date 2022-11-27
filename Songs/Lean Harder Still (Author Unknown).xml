@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Lean Harder Still</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the battle is great<br/>And the foes are many,<br/>Think on My promises;<br/>I'm the hand that catches your fall.<br/>When darkness surrounds<br/>And guilt wells up in your soul,<br/>Think on My grace;<br/>I'm the One who paid for it all.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lean harder still, harder on Me.<br/>Lean harder still, harder on Me.<br/>Faith is the substance of all things hoped for,<br/>The evidence of things not seen.<br/>So lean harder still, for those who wait on Me<br/>Will never be ashamed.</lines>
+    </verse>
+  </lyrics>
+</song>

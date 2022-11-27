@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Strong Tower</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2569"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I wander through the desert<br/>And I'm longing for my home<br/>All my dreams have gone astray<br/>When I'm stranded in the valley<br/>And I'm tired and all alone<br/>It seems like I've lost my way</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I go running to your mountain<br/>Where your mercy sets me free</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are my strong tower shelter over me<br/>Beautiful and mighty everlasting King<br/>You are my strong tower fortress when I'm weak<br/>Your name is true and holy and Your face is all I seek</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the middle of my darkness<br/>In the midst of all my fear<br/>You're my refuge and my hope<br/>When the storm of life is raging<br/>And the thunder's all I hear<br/>You speak softly to my soul</lines>
+    </verse>
+  </lyrics>
+</song>

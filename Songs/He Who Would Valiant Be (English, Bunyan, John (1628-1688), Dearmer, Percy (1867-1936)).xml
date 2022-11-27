@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>He Who Would Valiant Be</title>
+    </titles>
+    <authors>
+      <author type="music">English</author>
+      <author type="words">Bunyan, John (1628-1688)</author>
+      <author type="words">Dearmer, Percy (1867-1936)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He who would valiant be 'gainst all disaster, Let him in constancy follow the Master. There's no discouragement shall make him once relent His first avowed intent to be a pilgrim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who so beset him round with dismal stories Do but themselves confound his strength the more is. No foes shall stay his might; though he with giants fight, He will make good his right to be a pilgrim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Since, Lord, Thou dost defend us with Thy Spirit, We know we at the end, shall life inherit. Then fancies flee away! I'll fear not what men say, I'll labor night and day to be a pilgrim.</lines>
+    </verse>
+  </lyrics>
+</song>

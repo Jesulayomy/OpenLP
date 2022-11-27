@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Bless His Name</title>
+    </titles>
+    <authors>
+      <author type="words">Jeremy Riddle</author>
+      <author type="music">Jeremy Riddle</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2637"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Come, let us sing for joy<br/>Let us shout aloud to our King<br/>Come, let us worship God<br/>Lifting holy hands, bless His name</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Verse One:<br/>Lord, we come to meet with You again<br/>To worship with one voice in adoration<br/>You deserve our every praise<br/>That echoes in this place, Youíre the worthy One</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse Two:<br/>Lord, we come with gratitude that flows<br/>From deep within our souls, we rejoice in You<br/>(And) We will glory in Your name<br/>With a shout our lips proclaim the praises stirring in our hearts</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Every creature in Heaven and Earth below<br/>Bless His name, bless His name (4x)</lines>
+    </verse>
+  </lyrics>
+</song>

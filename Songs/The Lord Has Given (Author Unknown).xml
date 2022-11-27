@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>The Lord Has Given</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord has given a land of good things,<br/>I will press in and make them mine.<br/>I’ll know His power, I’ll know His glory,<br/>And in His kingdom I will shine.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>With the high praises of God in our mouth<br/>And a two-edged sword in our hand,<br/>We’ll march right on to the victory side,<br/>Right into Canaan’s land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gird up your armour, ye sons of Zion,<br/>Gird up your armour, let’s go to war.<br/>We’ll win the battle with great rejoicing,<br/>And so we’ll praise Him more and more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We’ll bind their kings in chains and fetters,<br/>We’ll bind their nobles tight in iron,<br/>To execute God’s written judgement;<br/>March on to glory, sons of Zion!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:14">
+  <properties>
+    <titles>
+      <title>I Want To Be Where You Are</title>
+    </titles>
+    <copyright>1989 Integrity's Hosanna! Music</copyright>
+    <authors>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just want to be where You are<br/>Dwelling daily in Your presence<br/>I don't want to worship from afar<br/>Draw me near to where You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I just want to be where You are<br/>In Your dwelling place forever<br/>Take me to the place where You are<br/>I just want to be with You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I want to be where You are<br/>Dwelling in Your presence<br/>Feasting at Your table<br/>And surrounded by Your glory<br/>In Your presence<br/>That's where I always want to be<br/>I just want to be<br/>I just want to be with You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>O my God You are my strength and my song<br/>And when I'm in Your presence<br/>Though I'm weak, You're always strong</lines>
+    </verse>
+  </lyrics>
+</song>

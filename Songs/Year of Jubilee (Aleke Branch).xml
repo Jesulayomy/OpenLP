@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:45">
+  <properties>
+    <titles>
+      <title>Year of Jubilee</title>
+      <title>Aleke</title>
+    </titles>
+    <authors>
+      <author>Aleke Branch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the year of Jubilee<br/>Oh! When the lame shall walk<br/>and the blind shall see<br/>When the lame shall walk<br/>and the blind shall see<br/>When the Lord shall set<br/>the captive free <br/>this is the year of Jubilee.</lines>
+    </verse>
+  </lyrics>
+</song>

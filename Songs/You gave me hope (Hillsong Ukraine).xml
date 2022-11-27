@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>You gave me hope</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Ukraine</author>
+      <author type="music">Hillsong Ukraine</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="657"/>
+    </songbooks>
+    <themes>
+      <theme>lords-supper</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You gave me hope,<br/>You made me whole at the cross<br/>You took my place, You showed me grace<br/>At the cross where You died for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And His glory appears like the light from the sun<br/>Age to age He shines<br/>Look to the skies, hear the angels cry,<br/>Singing Holy is The Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Hearts of Servants</title>
+    </titles>
+    <copyright>2003 True Bliss Music | River Oaks Music Company | Waiting Room Music</copyright>
+    <authors>
+      <author type="words">Shane Barnard</author>
+      <author type="music">Shane Barnard</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, You are.<br/>Jesus, You were.<br/>Jesus, You will always be<br/>A perfect servant to us,<br/>A perfect servant to death,<br/>Even death on a cross.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Give us a picture of Your face,<br/>Show us the measure of Your grace,<br/>Reveal the love of the Father.<br/>Put within us tenderness,<br/>Release from us all selfishness,<br/>We'll consider them better.<br/>We are Yours;<br/>Give us hearts of servants.</lines>
+    </verse>
+  </lyrics>
+</song>

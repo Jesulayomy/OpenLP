@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Come Let Us Worship</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, let us worship the King of kings,<br/>The Creator of all things,<br/>Let your soul arise to Him,<br/>Come and bless the Lord our King.<br/>Lord, my heart and voice I raise,<br/>To praise Your wondrous ways,<br/>And with confidence I come<br/>To approach Your heavenly throne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come and fill this place with Your glory,<br/>Come and captivate our gaze;<br/>Come and fill us with Your fire,<br/>That the world might know Your name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(For) You are God,<br/>And You're worthy to be praised,<br/>And You are good,<br/>For Your love will never end:<br/>The great I Am,<br/>You are faithful in all of Your ways.</lines>
+    </verse>
+  </lyrics>
+</song>

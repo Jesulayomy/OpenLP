@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Because He Lives</title>
+    </titles>
+    <copyright>1971 William J. Gaither, Inc.</copyright>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God sent His Son, they called Him Jesus, He came to love, heal, and forgive;<br/>He lived and died to buy my pardon;<br/>An empty grave is there to prove my Savior lives.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Because He lives, I can face tomorrow,<br/>Because He lives, all fear is gone;<br/>Because I know He holds the future,<br/>And life is worth the living just because He lives.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How sweet to hold a newborn baby and feel the pride and joy he gives;<br/>But greater still the calm assurance<br/>This child can face uncertain days because He lives.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Because He lives, I can face tomorrow,<br/>Because He lives, all fear is gone;<br/>Because I know He holds the future,<br/>And life is worth the living just because He lives.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And then one day I'll cross that river; I'll fight life's final war with pain;<br/>And then as death gives way to vict'ry,<br/>I'll see the lights of glory and I'll know He lives.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Because He lives, I can face tomorrow,<br/>Because He lives, all fear is gone;<br/>Because I know He holds the future,<br/>And life is worth the living just because He lives.</lines>
+    </verse>
+  </lyrics>
+</song>

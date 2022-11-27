@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>How He Loves Us</title>
+    </titles>
+    <authors>
+      <author type="words">John Mark McMillan</author>
+      <author type="music">John Mark McMillan</author>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="812"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is jealous for me<br/>Love's like a hurricane, I am a tree<br/>Bending beneath the weight of His wind and mercy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When all of a sudden, I am unaware of these<br/>Afflictions eclipsed by glory<br/>And I realize just how beautiful You are<br/>And how great your affections are for me.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And oh, how He loves us so<br/>Oh, how He loves us<br/>How He loves us so.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is jealous for me<br/>Love's like a hurricane, I am a tree<br/>Bending beneath the weight of His wind and mercy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When all of a sudden, I am unaware of these<br/>Afflictions eclipsed by glory<br/>And I realize just how beautiful You are<br/>And how great your affections are for me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And oh, how He loves us so<br/>Oh, how He loves us<br/>How He loves us so.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yeah, He loves us<br/>Woah, how He loves us<br/>Woah, how He loves us<br/>Woah, how He loves.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We are His portion and He is our prize,<br/>Drawn to redemption by the grace in His eyes<br/>If grace is an ocean we're all sinking ha ha</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So heaven meets earth like an unforseen kiss<br/>And my heart turns violently inside of my chest<br/>I don't have time to maintain these regrets<br/>When I think about the way</lines>
+    </verse>
+  </lyrics>
+</song>

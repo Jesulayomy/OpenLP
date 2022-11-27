@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Yallah Yallah</title>
+    </titles>
+    <authors>
+      <author type="words">Evan Rogers</author>
+      <author type="music">Evan Rogers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yallah, yallah, yallah, yallah<br/>Praise Jesus, praise Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All around the world, all around the world<br/>Your name will be praised Jesus<br/>All around the world, all around the world<br/>Your name will be made great Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

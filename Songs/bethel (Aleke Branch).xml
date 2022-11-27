@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:40">
+  <properties>
+    <titles>
+      <title>bethel</title>
+    </titles>
+    <authors>
+      <author type="words">Aleke Branch</author>
+      <author type="music">Aleke Branch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Eledumare, Atobiju<br/>Agunechemba, Awimayeun<br/>Eledumare, Alagbada Ina<br/>Agunechemba, Orimiratata</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>My very Soul will Sing Hallelujah,<br/>Yahweh, Yahweh<br/>My very Soul will Sing Hallelujah,<br/>Yahweh, Yahweh<br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Eledumare, Alade Ogo<br/>Odumeje, Odumalo,<br/>Akiri sore, Asore Kiri<br/>Eledumare, Gbani, gbani tan sa ya<br/>Kiniun eya Judah, Ekwueme</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>My very Soul will Cry Abba Father,<br/>Yahweh, Yahweh<br/>My very Soul will Cry Abba Father<br/>Yahweh, Yahweh<br/></lines>
+    </verse>
+    <verse name="v1e">
+      <lines>My very Soul will Sing Hallelujah,<br/>Yahweh, Yahweh<br/>My very Soul will Sing Hallelujah,<br/>Yahweh, Yahweh<br/></lines>
+    </verse>
+    <verse name="v1f">
+      <lines>You are God, You are God<br/>You’re God, You’re God<br/></lines>
+    </verse>
+    <verse name="v1g">
+      <lines>I have Jesus in my life<br/>Living for his glory<br/>I’m on fire everyday<br/>And nothing can stop me<br/>Doesn’t matter what I face<br/>I am getting bigger everyday<br/></lines>
+    </verse>
+    <verse name="v1h">
+      <lines>We’re getting bigger everyday<br/>Bigger everyday<br/>We’re getting bigger everyday<br/>Bigger everyday<br/>No limitations<br/>We’ve taken over<br/>We’re getting bigger everyday<br/></lines>
+    </verse>
+    <verse name="v1i">
+      <lines>Not by power, not by might<br/>But by the Spirit of the living God oh<br/>Anything is possible<br/>Bigger than we used to be<br/>We have moved<br/>I say we have moved<br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

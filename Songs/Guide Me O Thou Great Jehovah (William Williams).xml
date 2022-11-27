@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Guide Me O Thou Great Jehovah</title>
+    </titles>
+    <authors>
+      <author>William Williams</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Guide me, O thou great Jehovah,<br/>Pilgrim through this barren land;<br/>I am weak, but Thou art mighty,<br/>Hold me with Thy powerful hand:<br/>Bread of heaven, Bread of heaven,<br/>Feed me now and ever more,<br/>Feed me now and ever more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Open Thou the crystal fountain<br/>Whence the healing stream doth flow;<br/>Let the fiery, cloudy pillar<br/>Lead me all my journey through:<br/>Strong Deliverer, strong Deliverer,<br/>Be Thou still my strength and shield,<br/>Be Thou still my strength and shield.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I tread the verge of Jordan<br/>Bid my anxious fears subside;<br/>Death of death, and hell’s destruction,<br/>Land me safe on Canaan’s side:<br/>Songs of praises, songs of praises,<br/>I will ever give to Thee,<br/>I will ever give to Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>He Is Lord</title>
+    </titles>
+    <copyright>1986 Word Music &amp; Norman Clayton Pub. Co.</copyright>
+    <authors>
+      <author type="words">Marvin Frey</author>
+      <author type="music">Marvin Frey</author>
+      <author type="words">Tom Fettke</author>
+      <author type="words">Claire Cloninger</author>
+      <author type="words">Linda Lee Johnson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>gospel</theme>
+      <theme>crucifixion</theme>
+      <theme>easter</theme>
+      <theme>lords-supper</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Emptied of His glory, God became a man<br/>To walk on earth in ridicule and shame;<br/>A Ruler yet a Servant, a Shepherd yet a Lamb,<br/>A Man of sorrows, agony, and pain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Humbled and rejected, beaten and despised,<br/>Upon the cross the Son of God was slain;<br/>Just like a lamb to slaughter: a sinless Sacrifice,<br/>But by His death His loss became our gain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He is Lord, He is Lord!<br/>He has risen from the dead and He is Lord!<br/>Every knee shall bow, every tongue confess<br/>that Jesus Christ is Lord!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Satan's forces crumbled like a mighty wall,<br/>The stone that held Him in was rolled aside;<br/>The Prince of Life in glory was lifted over all,<br/>Now earth and heaven echo with the cry!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You are Lord, You are Lord!<br/>You have risen from the dead and You are Lord!<br/>And my knee shall bow, and my tongue confess<br/>that Jesus Christ is Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

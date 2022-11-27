@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Come, Ye Disconsolate</title>
+    </titles>
+    <authors>
+      <author type="music">Webbe, Samuel (1740-1816)</author>
+      <author type="words">Moore, Thomas (1779-1852)</author>
+      <author type="words">Hastings, Thomas (1784-1872)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, ye disconsolate, wher'er ye languish; Come to the mercy seat, fervently kneel. Here bring your wounded hearts, here tell your anguish; Earth has no sorrow that Heav'n cannot heal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joy of the desolate, light of the straying, Hope of the penitent, fadeless and pure, Here speaks the Comforter, tenderly saying, "Earth has no sorrow that Heav'n cannot cure."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here see the Bread of Life; see waters flowing Forth from the throne of God, pure from above; Come to the feast of love; come, ever knowing Earth has no sorrow but Heav'n can remove.</lines>
+    </verse>
+  </lyrics>
+</song>

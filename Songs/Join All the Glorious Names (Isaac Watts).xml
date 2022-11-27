@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Join All the Glorious Names</title>
+    </titles>
+    <authors>
+      <author>Isaac Watts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Join all the glorious names,<br/>Of wisdom, love, and power,<br/>That ever mortals knew,<br/>That angels ever bore:<br/>All are too mean to speak His worth,<br/>Too mean to set my Saviour forth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great Prophet of my God,<br/>My tongue would bless Thy name:<br/>By Thee the joyful news<br/>Of our salvation came:<br/>The joyful news of sins forgiven,<br/>Of hell subdued and peace with heaven.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, my great High Priest,<br/>Offered His blood, and died;<br/>My guilty conscience seeks<br/>No sacrifice beside:<br/>His powerful blood did once atone,<br/>And now it pleads before the throne.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My Saviour and my Lord,<br/>My Conqueror and my King,<br/>Thy sceptre and Thy sword,<br/>Thy reigning grace I sing:<br/>Thine is the power; behold, I sit<br/>In willing bonds beneath Thy feet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now let my soul arise,<br/>And tread the tempter down:<br/>My Captain leads me forth<br/>To conquest and a crown.<br/>March on, nor fear to win the day,<br/>Though death and hell obstruct the way.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Should all the hosts of death,<br/>And powers of hell unknown,<br/>Put their most dreadful forms<br/>Of rage and malice on,<br/>I shall be safe; for Christ displays<br/>Superior power and guardian grace.</lines>
+    </verse>
+  </lyrics>
+</song>

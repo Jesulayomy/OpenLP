@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Adoration</title>
+    </titles>
+    <copyright>2003 Ariose Music | Soylent Tunes</copyright>
+    <authors>
+      <author type="words">Peter Furler</author>
+      <author type="music">Peter Furler</author>
+      <author type="words">Steve Taylor</author>
+      <author type="music">Steve Taylor</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm here with the others who saw the heavens testify.<br/>Now I hang back in the shadows; I want to come close, I want to know.<br/>She sees me shivering here, she smiles and with a nod,<br/>I walk through the mud and straw<br/>to the newborn Son of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He raises a wrinkled hand through the dust and the flies.<br/>Wrapped in rags like we are<br/>and with barely open eyes, He takes my finger<br/>And He won't let go, and he won't let go.<br/>It's nothing like I knew before, and it's all I need to know.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come let us adore Him; He has<br/>come down to this barren land<br/>Where we live,<br/>And all I have to give Him<br/>is Adoration.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>God is with us here,<br/>Our Immanuel.<br/>God is with us here,<br/>Our Immanuel.</lines>
+    </verse>
+  </lyrics>
+</song>

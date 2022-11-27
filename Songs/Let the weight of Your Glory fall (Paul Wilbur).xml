@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Let the weight of Your Glory fall</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Wilbur</author>
+      <author type="music">Paul Wilbur</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spirit of the sovereign Lord, come and make Your presence known.<br/>Reveal the glory of the living God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let the weight of Your glory cover us,<br/>Let the life of Your river flow.<br/>Let the truth of Your kingdom reign in us.<br/>Let the weight of Your glory,<br/>Let the weight of Your glory fall.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We do not seek Your hand,<br/>We only seek Your face.<br/>We want to know You,<br/>We want to see You.<br/>Reveal Your glory in this place.</lines>
+    </verse>
+  </lyrics>
+</song>

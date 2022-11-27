@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Joshua fought the battle</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>jewish</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chorus:<br/>Joshua fought the battle of<br/>Jericho, Jericho, Jericho<br/>Joshua fought the battle of Jericho<br/>And the walls came a-tumbling down</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You may talk about the men of Gideon<br/>You may talk about the men of Saul<br/>But there's none like good old Joshua<br/>At the battle of Jericho</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Up to the walls of Jericho<br/>They marched with spears in hand<br/>"Come blow them ram horns," Joshua said<br/>"Cause the battle is in our hands."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then the lamb ram sheep horns<br/>began to blow<br/>The trumpets began to sound<br/>Joshua commanded the children to shout<br/>And the walls came a-tumblin' down</lines>
+    </verse>
+  </lyrics>
+</song>

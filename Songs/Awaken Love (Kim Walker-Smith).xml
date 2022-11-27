@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Awaken Love</title>
+    </titles>
+    <authors>
+      <author type="words">Kim Walker-Smith</author>
+      <author type="music">Kim Walker-Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3515"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BPM: 72</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Intro</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse:<br/>Take me back to the moment of surrender<br/>Heart completely Yours<br/>Unafraid, just a child within Your presence<br/>Trusting in You, Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>Walk into this place<br/>I give You space<br/>Come and move around me<br/>Meet me face to face<br/>Stir my heart<br/>Awaken love within me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Jesus, come Jesus, come<br/>My first love, my first love<br/>Jesus, come Jesus, come<br/>My first love, my first love</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I have wandered from Your love<br/>Thought my strength was strength enough<br/>I am done relying on myself<br/>You're the One who breaks my chains<br/>You're the One who calls my name<br/>I will look to You and no one else</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Outro:<br/>Take me back to the moment of surrender<br/>Heart completely Yours</lines>
+    </verse>
+  </lyrics>
+</song>

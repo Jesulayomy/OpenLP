@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>It is You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lamp unto my feet<br/>Light unto my path<br/>It is You, Jesus<br/>It is You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This treasure that I hold<br/>More than finest gold<br/>It is You, Jesus<br/>It is You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>With all my heart<br/>With all my soul<br/>I live to worship You<br/>And praise forevermore<br/>Praise forevermore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, everyday<br/>I need You more<br/>On wings of Heaven, I will soar<br/>With You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You take my brokenness<br/>And call me to yourself<br/>There You stand<br/>Heal me in Your hand</lines>
+    </verse>
+  </lyrics>
+</song>

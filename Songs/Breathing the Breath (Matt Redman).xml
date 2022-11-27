@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Breathing the Breath</title>
+    </titles>
+    <copyright>2004 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have nothing to get that didn't first come from your hand<br/>We have nothing to offer you which you did not provide<br/>Every good perfect gift comes from your kind and gracious heart<br/>And all we do is give back to you what always has been yours</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord we're breathing the breath that you gave us to breath<br/>To worship you, to worship you<br/>And we're singing these songs with the very same breath<br/>To worship you, to worship you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who has given to you that it should be paid back to him?<br/>Who has given to you as if you needed anything?<br/>From you and to you and through you come all things oh Lord<br/>And all we do is give back to you what always has been yours</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We are breathing the breath that you gave us to breath<br/>We are breathing the breath that you gave us to breath</lines>
+    </verse>
+  </lyrics>
+</song>

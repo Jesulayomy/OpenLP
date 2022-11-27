@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Call on His Name</title>
+    </titles>
+    <copyright>2004 Elliott Powell</copyright>
+    <authors>
+      <author type="words">Elliott Powell</author>
+      <author type="music">Elliott Powell</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glorify Him!<br/>There's none like Him!<br/>Recognize the faithfulness of God!<br/>Magnify Him!<br/>Come beside Him!<br/>Recognize the graciousness of our God!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Praise God and call on His name! Our lives are never the same...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For the Lord! Lift our voice in one accord!<br/>You are the one who answers, then and again and after.<br/>Show us Lord! By faith and through the Word,<br/>You are the one who leads us; in pain and joy you meet us.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We receive grace upon grace!<br/>We believe you, Lord! (Now shout it out!)</lines>
+    </verse>
+  </lyrics>
+</song>

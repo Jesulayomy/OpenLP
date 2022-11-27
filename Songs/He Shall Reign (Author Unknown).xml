@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>He Shall Reign</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>He shall reign over all the earth (4x)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>There shall come forth a rod out of Jesse<br/>And a branch shall grow from his roots<br/>The Spirit of God will rest upon you<br/>The Spirit of wisdom and truth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You shall not judge with the sight of Your eyes<br/>Or decide witht he hearing of Your ears<br/>But with righteousness judge the poor<br/>And decide with fairness for the meek</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You shall gather the outcast of Israel<br/>The dispersed of Judea from all the earth<br/>You shall stand as an ensign for Your people<br/>And Your resting place shall be glorious</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Come and reign over all the earth (x4)</lines>
+    </verse>
+  </lyrics>
+</song>

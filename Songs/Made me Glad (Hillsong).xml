@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>Made me Glad</title>
+      <title>I will Bless The Lord forever</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will bless the Lord forever<br/>I will trust Him at all times<br/>He has delivered me from all fear<br/>He has set my feet upon a rock</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I will not be moved<br/>And I'll say of the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are my shield, my strength<br/>My portion, deliverer<br/>My shelter, strong tower<br/>My very present help in time of need</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whom have I in heaven but You<br/>There's none I desire besides You<br/>You have made me glad<br/>And I'll say of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Hold To God's Unchanging Hand</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Time is filled with swift transition,<br/>Naught of earth unmoved can stand,<br/>Build your hopes on things eternal,<br/>Hold to God's unchanging hand!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hold to God's unchanging hand!<br/>Hold to God's unchanging hand!<br/>Build your hopes on things eternal,<br/>Hold to God's unchanging hand!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Trust in Him who will not leave you,<br/>Whatsoever years may bring,<br/>If by earthly friends forsaken,<br/>Still more closely to Him cling!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Covet not this world's vain riches,<br/>That so rapidly decay,<br/>Seek to gain the heavenly treasures,<br/>They will never pass away!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When your journey is completed,<br/>If to God you have been true,<br/>Fair and bright the home in glory,<br/>Your enraptured soul will view!</lines>
+    </verse>
+  </lyrics>
+</song>

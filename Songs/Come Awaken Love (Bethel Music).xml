@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Come Awaken Love</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1874"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eb Bb/D F x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>Like a fire in the night, Who's flames reach and touch the sky<br/>Burn within my soul and mind, 'Till are I see are Your eyes<br/>Like the dawn takes back the light, Like Your Son brought back to life<br/>Resurrect my soul's desire, To burn again with true love's fire<br/>With true love's fire</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Lord God come awaken love<br/>Come stir my soul to long for all You are<br/>I'm desperate just to have more of Your heart<br/>Come awaken love</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>'Cause I live to love You<br/>Almighty God of love<br/>And my desire is to know you<br/>And give you all my heart</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Final Chorus:<br/>Lord God come awaken love<br/>Come stir my soul to long for all You are<br/>I'm desperate just to have more of Your heart<br/>Come awaken love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Last:<br/>Gm /// Eb ///  Bb</lines>
+    </verse>
+  </lyrics>
+</song>

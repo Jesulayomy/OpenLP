@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:40">
+  <properties>
+    <titles>
+      <title>E ba wa yin Oluwa Alleluya!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="words">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E ba wa yin Oluwa<br/>Alleluya!<br/>Eni ba m’ore Jesu<br/>Ko ba wa gbega (2ce)<br/>Eni ba mo ‘re Re<br/>Ko ba wa gbega ( 2ce)<br/>E ba wa yin Oluwa<br/>Alleluya!<br/>Eni ba mo ‘re Jesu<br/>ko ba wa gbega<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eni t’ O f’ orun sile to wa<br/>S’ aye<br/>Lati ku fun ese araye<br/>Gbogbo<br/>E korin Alleluya s’Oba<br/>Mimo<br/>Eni ba m’ ore Jesu<br/>K’ o ba wa gbega<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eni T’ O npa wa mo o<br/>Lojojumo<br/>Eni t’ O nyo wa ninu ewu<br/>Gbogbo<br/>Eni t’ Onpa Israeli mo<br/>K’ itogbe<br/>Eni ba m’ ore Jesu <br/>K’ o ba wa gbega<br/><br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines> Eni t’ O npese fun aini wa<br/> L’ aye<br/> Eni t’ O nsore fun wa l’ ojo<br/>Gbogbo<br/>Ore t’ O nse fun wa ko<br/> L’ onka rara<br/> Eni ba m’ ore Jesu<br/> K’oba wa gbega<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>E ni to npa wa mo o lojojumo<br/>Eni t'o nyo wa ninu ewu gbogbo<br/>Eni t'onpa israeli mo k'itogbe<br/>Eni ba m' ore Jesu <br/>K' o ba wa gbega</lines>
+    </verse>
+  </lyrics>
+</song>

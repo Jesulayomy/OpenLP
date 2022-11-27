@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>We Rejoice</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2581"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Our God is with us<br/>And we will not forget<br/>That You're fighting for us<br/>Who can stop the work of your hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>We've seen redemption<br/>At the heartbeat of our church<br/>We've seen addictions<br/>Broken in the hope of your love<br/>Broken in the hope of your love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>We rejoice, we rejoice for You have come<br/>Emmanuel, Emmanuel, our king has come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 3<br/>You saw us running<br/>But You wouldn't let us go<br/>Cause You saw our story<br/>Ending in the arms of Your son<br/>We'll run into the arms of Your son</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>We Sing, we shout<br/>Cause in our city You have moved<br/>Our God, You came to us</lines>
+    </verse>
+  </lyrics>
+</song>

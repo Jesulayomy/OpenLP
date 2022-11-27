@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>All Around the World</title>
+    </titles>
+    <copyright>1997 Kingsway's Thankyou Music</copyright>
+    <authors>
+      <author type="words">Paul Oakley</author>
+      <author type="music">Paul Oakley</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>All around the world there's a new day dawning,<br/>There's a sound coming round, there's a new song rising up,<br/>Ah, it's a new day!<br/>Everywhere you go you can hear this story,<br/>There's a power coming down, there's a glimpse of glory now,<br/>Ah, it's a new day!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>There's a sound of praise, There's a sound of war;<br/>Lift the banner high, let the Lion roar.<br/>Can you hear the sound in the tops of the trees?<br/>Heaven's armies come! Crush the enemy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift your hands before the King,<br/>The sovereign Ruler of the earth;<br/>Let the nations come to Him,<br/>Let the cry of hearts be heard:<br/>Revive us! Revive us! Revive us again!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let the lame run, let the blind see!<br/>Let Your power come, set the captives free!<br/>Let the lost return to the Lover of our souls,<br/>Let the prodigal find the way back home.</lines>
+    </verse>
+  </lyrics>
+</song>

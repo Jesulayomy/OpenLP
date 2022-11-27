@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Children of the light</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2040"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Children in the wilderness<br/>Following the love You poured out for us<br/>Covered by the Name that we confess<br/>Jesus Saviour forever</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Roaming through the dark of night<br/>Clinging to the word that burns deep inside<br/>Eyes fixed on Your Name and endless light<br/>Jesus Saviour forever</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Set alight to follow<br/>In the shadow of Your Name<br/>The world is Yours and I know<br/>Everything will find its place<br/>Under Your Name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Walking on through the fire<br/>Knowing I will not be burned but refined<br/>Fearless in Your Name here by my side<br/>Jesus Saviour forever</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Taking on the raging storm<br/>Anchored to Your kingdom unshakeable<br/>Holding to the Name that outshines all<br/>Jesus Saviour forever</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>_Children of the light<br/>Blazing through the night<br/>Taking back what the devil had stolen<br/>Calling on the Name<br/>Breaking every chain<br/>Jesus everlasting freedom</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Running through the wild<br/>Dancing in the fire<br/>Taking back what the devil had stolen<br/>Calling on the Name<br/>Breaking every chain<br/>Jesus everlasting freedom</lines>
+    </verse>
+    <verse name="b2">
+      <lines>TAG:<br/>_All the power all the glory<br/>__All the praise be to Your Name forever</lines>
+    </verse>
+  </lyrics>
+</song>

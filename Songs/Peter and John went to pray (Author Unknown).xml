@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Peter and John went to pray</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Peter and John went to pray.<br/>they met a lame man on the way<br/>He asked for alms and held out his palms,<br/>and this is what Peter did say"<br/>Silver and gold have I none,<br/>but such as I have give I you.<br/>In the name of Jesus Christ our Lord, in Jesus' name rise up and walk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The man went walking and leaping and praising God,<br/>Walking and leaping and praising God,<br/>"In the name of Jesus Christ our Lord, In Jesus' name rise up and walk".</lines>
+    </verse>
+  </lyrics>
+</song>

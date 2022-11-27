@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Glory</title>
+    </titles>
+    <authors>
+      <author type="words">Audio Adrenaline</author>
+      <author type="music">Audio Adrenaline</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You and me were meant to be<br/>A little lower than the angels.<br/>And on this ground I have found,<br/>Finally found the reason:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To sing glory,<br/>To sing glory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I long to walk hand in hand<br/>Down a golden road with Father,<br/>Where choirs of angels praise His name.<br/>I want to learn:</lines>
+    </verse>
+    <verse name="c2">
+      <lines>To sing glory,<br/>To sing glory.<br/>And I can't find the words to say,<br/>Life gets in the way,<br/>Lord, You know my heart's desire.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>When it all comes down to who You are, words can not convey.<br/>When it all comes down to who You are, words get in the way.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>When it all comes down to who You are, words get in the way.</lines>
+    </verse>
+  </lyrics>
+</song>

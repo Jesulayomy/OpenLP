@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>How to Live</title>
+    </titles>
+    <authors>
+      <author type="words">Дарина Кочанжи</author>
+      <author type="music">Дарина Кочанжи</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1167"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>Oh, my God, here I am, here's my soul in front of You,<br/>I don't have words, I don't have tears and all my hope is in You<br/>You know my life, You know my way and every my step You know<br/>So help me God to understand, what can I do? Where should I go?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Tell me how to live when I don't see the sense<br/>When I don't see the sense<br/>Show me where is the hand that will help me to stand.<br/>That will help me to stand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>How to see we are blind, how to hear we are deaf<br/>to feel, if our mind cannot love and forgive?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Tell me how to live when I don't see the sense<br/>When I don't see the sense, when I don't see<br/>Show me where is the hand that will help me to stand.<br/>That will help me to stand.</lines>
+    </verse>
+  </lyrics>
+</song>

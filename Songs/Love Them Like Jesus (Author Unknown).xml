@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Love Them Like Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3303"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The love of her life is drifting away<br/>They're losing the fight for another day<br/>The life that she's known is falling apart<br/>A fatherless home, a child's broken heart</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You're holding her hand, you're straining for words<br/>You trying to make - sense of it all<br/>She's desperate for hope, darkness clouding her view<br/>She's looking to you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Just love her like Jesus, carry her to Him<br/>His yoke is easy, His burden is light<br/>You don't need the answers to all of life's questions<br/>Just know that He loves her and stay by her side</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love her like Jesus<br/>Love her like Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The gifts lie in wait, in a room painted blue<br/>Little blessing from Heaven would be there soon<br/>Hope fades in the night, blue skies turn to gray<br/>As the little one slips away</lines>
+    </verse>
+    <verse name="p2">
+      <lines>You're holding her hand, you're straining for words<br/>You're trying to make sense of it all<br/>They're desperate for hope, darkness clouding their view<br/>They're looking to you</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Just love them like Jesus, carry them to Him<br/>His yoke is easy, His burden is light<br/>You don't need the answers to all of life's questions<br/>Just know that He loves them and stay by their side<br/>Love them like Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lord of all creation holds our lives in His hands<br/>The God of all the nations holds our lives in His hands<br/>The Rock of our salvation holds our lives in His hands<br/>He cares for them just as He cares for you</lines>
+    </verse>
+    <verse name="c3">
+      <lines>So love them like Jesus, love them like Jesus<br/>You don't need the answers to all of life's questions<br/>Just know that He loves them and stay by their side<br/>Love them like Jesus<br/>Love them like Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Egypt</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>protection</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>gods-might</theme>
+      <theme>commitment</theme>
+      <theme>devotion</theme>
+      <theme>grace</theme>
+      <theme>gods-word</theme>
+      <theme>blessing</theme>
+      <theme>gods-faithfulness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1<br/>I won't forget<br/>The wonder of how You brought<br/>Deliverance<br/>The exodus of my heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pre Chorus<br/>You found me<br/>You freed me<br/>Held back the waters for my release<br/>Oh Yahweh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus<br/>You're the God who fights for me<br/>Lord of every victory<br/>Hallelujah, hallelujah<br/>You have torn apart the sea<br/>You have led me through the deep<br/>Hallelujah, hallelujah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2<br/>A cloud by day<br/>A sign that You are with me<br/>The fire by night<br/>A guiding light to my feet</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bridge<br/>You stepped into my Egypt<br/>You took me by the hand<br/>You marched me out in freedom<br/>Into the promised land<br/>Now I will not forget You<br/>I'll sing of all You've done<br/>Death is swallowed up forever<br/>By the fury of Your love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O Trinity of Blessed Light</title>
+      <title>Thou Who Art Three in Unity</title>
+    </titles>
+    <authors>
+      <author type="music">Latin</author>
+      <author type="words">Ambrose of Milan (340-397)</author>
+      <author type="translate">Neale, John Mason (1818-1866)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Trinity of blessèd light, O Unity of princely might, The fiery sun now goes his way; Shed Thou within our hearts a ray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To Thee our morning song of praise, To Thee our evening prayer we raise; O grant us with Thy saints on high To praise Thee through eternity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All laud to God the Father be, All praise, eternal Son, to Thee, All glory, as is ever meet, To God the holy Paraclete.</lines>
+    </verse>
+  </lyrics>
+</song>

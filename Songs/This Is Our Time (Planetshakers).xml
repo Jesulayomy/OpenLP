@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>This Is Our Time</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2849"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 Verse:<br/>Here and now making loud<br/>At the top of our lungs<br/>There's a sound breaking out<br/>Lord for all that you've done</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>And now, we're turning our<br/>Turning our hearts to You.<br/>And no, we'll never stop<br/>Never stop loving You.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>This will be the best time of our life<br/>As we encounter Your love again<br/>Here with You our hearts will come alive<br/>As we declare Your praises</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Woah, oh, oh, oh,<br/>Woah, oh, oh, oh<br/>As we declare your praises<br/>Woah, oh, oh, oh<br/>Woah, oh, oh, oh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>From the start here we are<br/>To collide with Your love<br/>Every heart set apart<br/>Just to be where You are</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pre Chorus:<br/>And now, we're turning our<br/>Turning our hearts to You.<br/>And no, we'll never stop<br/>Never stop loving You.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Chorus:<br/>This will be the best time of our life<br/>As we encounter Your love again<br/>Here with You our hearts will come alive<br/>As we declare Your praises</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Woah, oh, oh, oh,<br/>Woah, oh, oh, oh<br/>As we declare your praises<br/>Woah, oh, oh, oh<br/>Woah, oh, oh, oh</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>This is our time, this is our place,<br/>This is our moment to lift Your name<br/>This is our time, this is our place,<br/>This is our moment to lift Your name<br/>This is our time, this is our place,<br/>This is our moment to lift Your name<br/>This is our time, this is our place,<br/>This is our moment to lift Your name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hook:</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Chorus:<br/>This will be the best time of our life<br/>As we encounter Your love again<br/>Here with You our hearts will come alive<br/>As we declare Your praises</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Woah, oh, oh, oh,<br/>Woah, oh, oh, oh<br/>As we declare your praises<br/>Woah, oh, oh, oh<br/>Woah, oh, oh, oh</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Deeper in love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a longing<br/>only You can fill<br/>A raging tempest<br/>only You can still<br/>My soul is thirsty Lord<br/>to know You as I'm known<br/>Drink from the river<br/>that flows before Your throne</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus<br/>Take me deeper<br/>Deeper in love with You<br/>Jesus hold me close in Your embrace<br/>Take me deeper<br/>Deeper than I've ever been before<br/>I just want to love You more and more<br/>How I long to be deeper in love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sunrise to sunrise<br/>I will seek Your face<br/>Drawn by the Spirit<br/>to the promise of Your grace<br/>My heart has found in You<br/>a hope that will abide<br/>Here in Your presence<br/>forever satisfied</lines>
+    </verse>
+  </lyrics>
+</song>

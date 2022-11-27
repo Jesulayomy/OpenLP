@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>Thou, Who at Thy First Eucharist</title>
+      <title>Lord, Who the Night You Were Betrayed, At That First Eucharist</title>
+    </titles>
+    <authors>
+      <author type="music">Monk, William Henry (1823-1889)</author>
+      <author type="words">Turton, William H. (1856-1938)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou, who at Thy first Eucharist didst pray That all Thy Church might be forever one, Grant us at ev'ry Eucharist to say With longing heart and soul, "Thy will be done." O may we all one bread, one body be, Through this blest sacrament of unity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For all Thy Church, O Lord, we intercede; Make Thou our sad divisions soon to cease; Draw us the nearer each to each, we plead, By drawing all to Thee, O Prince of Peace; Thus may we all one bread, one body be, Through this blest sacrament of unity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We pray Thee too for wand'rers from Thy fold; O bring them back, good Shepherd of the sheep, Back to the faith which saints believed of old, Back to the Church which still that faith doth keep; Soon may we all one bread, one body be, Through this blest sacrament of unity.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So, Lord, at length when sacraments shall cease, May we be one with all Thy Church above, One with Thy saints in one unbroken peace, One with Thy saints in one unbounded love; More blessèd still, in peace and love to be One with the Trinity in unity.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>At the Cross</title>
+      <title>I Know a Place</title>
+    </titles>
+    <authors>
+      <author type="words">Randy Butler</author>
+      <author type="music">Randy Butler</author>
+      <author type="words">Terry Butler</author>
+      <author type="music">Terry Butler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know a place a wonderful place<br/>Where accused and condemned<br/>Find mercy and grace<br/>Where the wrongs we have done<br/>And the wrongs done to us<br/>Were nailed there with Him<br/>There on the cross<br/>At the cross (at the cross)<br/>He died for our sin<br/>At the cross (at the cross)<br/>He gave us life again</lines>
+    </verse>
+  </lyrics>
+</song>

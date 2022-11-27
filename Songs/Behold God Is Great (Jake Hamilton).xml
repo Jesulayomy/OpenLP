@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Behold God Is Great</title>
+    </titles>
+    <authors>
+      <author type="words">Jake Hamilton</author>
+      <author type="music">Jake Hamilton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4001"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>Behold, God is great and we do not know Him<br/>Behold God is great who can number his years<br/>He's so much bigger than any image I've made in my head<br/>So much greater than any story book I've read, yeah</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>Who is this that sits above the circle of the earth<br/>And who is this that stretches out the heavens like a curtain<br/>And who is this that measures the waters<br/>In the hollow of His hand</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>So lift up your eyes to the heavens<br/>And behold your God<br/>Lift up your eyes to the heavens<br/>He's so much bigger than, He's so much greater than<br/>Lift up your eyes</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Post bridge:<br/>Who am I to question You<br/>Who am I that I might accuse<br/>Who am I to think that You owe me a debt</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Let the fear of the Lord return to the land<br/>And all Your people cry holy, holy</lines>
+    </verse>
+  </lyrics>
+</song>

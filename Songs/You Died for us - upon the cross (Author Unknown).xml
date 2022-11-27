@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:52">
+  <properties>
+    <titles>
+      <title>You Died for us - upon the cross</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You died for us - upon the cross<br/>And You took all our sins away.<br/>With Your blood - You washed us clean.<br/>Today we stand before You, Lord,<br/>In Your righteousness.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// We are free, thanks be to God,<br/>Through Jesus Christ!<br/>We are free and we are rich,<br/>Lord, by Your grace.<br/>We are free, thanks be to God!<br/>We love You, Jesus,<br/>Lamb of God, King of Kings,<br/>Our Prince of Peace.  //<br/>Thank You, Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

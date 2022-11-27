@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>High Above</title>
+    </titles>
+    <authors>
+      <author type="words">Bryan &amp; Katie Torwalt</author>
+      <author type="music">Bryan &amp; Katie Torwalt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3517"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Intro]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 Verse:<br/>We turn our hearts, and fix our eyes<br/>We welcome You, arms open wide<br/>And feel, light of heaven<br/>Let every soul, arise and wake<br/>Lift a song, prepare the way<br/>We feel, light of heaven</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>One heart, One voice<br/>We lift You up, we lift You up<br/>Our hope, Our joy<br/>We lift You up, we lift You up<br/>High   Above<br/>God, your light has come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 Verse:<br/>Overwhelmed, we stand in awe<br/>Words fall short, of all You are<br/>Behold, the King of heaven</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:<br/>Oh, the light has come<br/>Oh, the king has come<br/>Oh, the light has come<br/>Oh, the king has come</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>One heart, One voice<br/>We lift You up, we lift You up<br/>Our hope, Our joy<br/>We lift You up, we lift You up   (x2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>High   Above<br/>God, your light has come<br/>Oh, You're high above<br/>God, your light has come</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Nothing but the Blood</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">Robert Lowry</author>
+      <author type="music">Robert Lowry</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What can wash away my sin? Nothing but the blood of Jesus.<br/>What can make me whole again? Nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh precious is the flow,<br/>That makes me white as snow;<br/>No other fount I know,<br/>Nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For my pardon this I see, nothing but the blood of Jesus.<br/>For my cleansing this my plea, nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing can for sin atone, nothing but the blood of Jesus.<br/>Naught of good that I have done, nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is all my hope and peace, nothing but the blood of Jesus.<br/>This is all my righteousness, nothing but the blood of Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

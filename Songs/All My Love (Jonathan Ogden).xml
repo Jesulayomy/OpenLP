@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>All My Love</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Ogden</author>
+      <author type="music">Jonathan Ogden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3766"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, You know me and You love me<br/>Oh Father, I was made to give You glory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And like a jar of sweet perfume<br/>I will give my life to You<br/>All my love, poured out on the feet of the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, there is no one like You<br/>Oh Jesus, I am longing to be with You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spirit, fill me with your love again<br/>Holy Spirit, come and lead me into truth again</lines>
+    </verse>
+  </lyrics>
+</song>

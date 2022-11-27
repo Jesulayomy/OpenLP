@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Our God is Greater</title>
+      <title>Water you turned into wine, Our God</title>
+    </titles>
+    <authors>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Jonas Myrin</author>
+      <author type="music">Jonas Myrin</author>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+      <author type="words">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3470"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>protection</theme>
+      <theme>violin</theme>
+      <theme>gods-might</theme>
+      <theme>easy</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Water You turned into wine, open the eyes of the blind<br/>There's no one like You, none like You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Into the darkness You shine, out of the ashes we rise<br/>There's no one like You, none like You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Our God is greater, Our God is stronger,<br/>God You are higher than any other<br/>Our God is Healer, awesome in power, our God, our God...</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And if Our God is for us, then who could ever stop us,<br/>And if our God is with us, then what can stand against?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Family Song</title>
+      <title>Here We Are</title>
+    </titles>
+    <copyright>1978, 1985 Scripture in Song</copyright>
+    <authors>
+      <author type="words">Steve Hampton</author>
+      <author type="music">Steve Hampton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here we are<br/>Gathered together as a family<br/>Bound as one<br/>Lifting up our voices<br/>To the King of kings<br/>We cry</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Abba, Father, worthy is Your name<br/>Abba, Father, worthy is Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here we are<br/>Singing together as a family<br/>Bound as one<br/>Lifting up our voices<br/>To the King of kings<br/>We sing</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Abba, Father, holy is Your name<br/>Abba, Father, holy is Your name</lines>
+    </verse>
+  </lyrics>
+</song>

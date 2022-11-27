@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Hvem er som Du</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hvem er som du, ingen er lik deg Gud.<br/>Ingen i himmelen, ingen på jorden.<br/>Jeg elsker deg, Jesus jeg elsker deg.<br/>Du er den ene som står fast.<br/>Du er min klippe min Frelser.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Din nåde hver morgen ny,<br/>din trofasthet står fast.<br/>Din barmhjertighet omslutter meg //</lines>
+    </verse>
+  </lyrics>
+</song>

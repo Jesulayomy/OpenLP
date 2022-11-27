@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Fear Not</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3594"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chorus:<br/>God, He is faithful<br/>Faithful to us<br/>Through troubled waters<br/>He won't abandon<br/>Fear not!<br/>The Lord God is with us</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Verse 1:<br/>Be strong, take heart<br/>The Lord He fights for us<br/>Hold on; our God<br/>Is a mighty warrior</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>Be still and rest<br/>He holds the universe<br/>Lift high your hands<br/>To the Rock unshakable</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>The truth is a sword<br/>The battle is the Lord's<br/>Surely He will deliver<br/>So call on His name<br/>He is mighty to save<br/>Surely He will deliver [x2</lines>
+    </verse>
+  </lyrics>
+</song>

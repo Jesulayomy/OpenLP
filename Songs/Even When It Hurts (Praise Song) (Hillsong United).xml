@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Even When It Hurts (Praise Song)</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2617"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>Take this fainted heart<br/>Take these tainted hands<br/>Wash me in Your love<br/>Come like grace again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS 1<br/>Even when my strength is lost<br/>I'll praise You<br/>Even when I have no song<br/>I'll praise You<br/>Evenwhen it's hard to find the words<br/>Louder then I'll sing Your priase<br/>I will only sing Your praise<br/>I will only sing Your praise<br/>I will only sing Your praise<br/>VERSE 2<br/>Take this mountain weight<br/>Take these ocean tears<br/>Hold me through the trial<br/>Come like hope again<br/>A‹7 C(„ˆˆ2) FŒ„Š7 C G F<br/>CHORUS 2<br/>Even when the fight seems lost<br/>I'll praise You<br/>Even when it hurts like hell<br/>I'll praise You<br/>Even when it makes no sense to sing<br/>Louder then I'll sing Your praise<br/>I will only sing Your praise<br/>I will only sing Your praise<br/>I will only sing Your praise<br/>BRIDGE 1<br/>And my heart burns only for You<br/>You are all, You are all I want<br/>And my soul waits only for You<br/>And I will sing 'til the morning has come<br/>BRIDGE 2<br/>And my heart burns only for You<br/>You are all, You are all I want<br/>And my soul waits only for You<br/>And I will sing 'til the miracle comes<br/>CHORUS 3<br/>Even when the morning comes<br/>I'll praise You<br/>Even when the fight is won<br/>I'll praise You<br/>Even when my time on earth is done<br/>Louder then I'll sing Your praise<br/>I will only sing Your praise</lines>
+    </verse>
+  </lyrics>
+</song>

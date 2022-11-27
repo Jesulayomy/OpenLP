@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>And on That Day</title>
+    </titles>
+    <copyright>1995 Birdwing Music</copyright>
+    <authors>
+      <author type="words">Phil Keaggy</author>
+      <author type="music">Phil Keaggy</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>    In a little corner of the world lived a maiden,<br/>Pure in heart, good in deed, full of grace, gentle rose;<br/>An angelic salutation for the Word's annunciation<br/>She's to be the chosen mother of Jesus, our Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And as she listened to the voice with her gaze upon the splendor<br/>Love embraced her open heart, and she conceived the holy Lord.<br/>"Behold the handmaid, behold your servant,<br/>Be it done unto me according to Your word."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>    In a little time there would be a celebration<br/>Elizabeth would bear a son, they will call his name John.<br/>He will go before the Lord as a faithful messenger<br/>He'll prepare the way for the Lamb who is to come.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And on that day was put in motion the means of our redemption,<br/>And a way was opened up as a highway to our God;<br/>And a child was born to us, and to us a Son was given,<br/>Through the young and blessed Mary came the greatest Gift of all.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Holy, holy, holy Redeemer, Holy, holy is the Lord;<br/>Blessed is He who comes to free us,<br/>Blessed is He who comes in the Name of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

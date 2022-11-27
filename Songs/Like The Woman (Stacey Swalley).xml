@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Like The Woman</title>
+    </titles>
+    <authors>
+      <author type="words">Stacey Swalley</author>
+      <author type="music">Stacey Swalley</author>
+    </authors>
+    <themes>
+      <theme>healer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like the woman<br/>With the issue of blood<br/>We press in, we press in<br/>Like the blind man<br/>Waiting patiently<br/>We press in<br/>Through the crowd</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Then suddenly<br/>A touch from heaven<br/>Jesus came and rescued me<br/>Then suddenly<br/>A touch from heaven<br/>Jesus came and set me free</lines>
+    </verse>
+  </lyrics>
+</song>

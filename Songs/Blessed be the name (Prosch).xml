@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:51">
+  <properties>
+    <titles>
+      <title>Blessed be the name</title>
+    </titles>
+    <authors>
+      <author type="words">Prosch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the name of the Lord.<br/>(4x) (ladies echo)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For He is our Rock, He is our Rock, He is the Lord. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// Jesus reigns on high in all the earth. (echo)<br/>Jesus reigns on high in all the earth. (echo)  //</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// The universe is in the hands of the Lord.  //</lines>
+    </verse>
+  </lyrics>
+</song>

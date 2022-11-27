@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>It was my cross You bore</title>
+    </titles>
+    <authors>
+      <author type="words">Kovčeg cerkovʹ Dnepropetrovsk</author>
+      <author type="music">Kovčeg cerkovʹ Dnepropetrovsk</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6297"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+      <theme>sacrifice</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It was my cross You bore<br/>So I could live in the freedom You died for<br/>And now my life is Yours<br/>And I will sing of Your goodness forevermore</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Worthy is Your name, Jesus<br/>You deserve the praise<br/>Worthy is Your name<br/>Worthy is Your name, Jesus<br/>You deserve the praise<br/>Worthy is Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now my shame is gone<br/>I stand amazed in Your love undeniable<br/>Your grace goes on and on<br/>And I will sing of Your goodness forever more</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Be exalted now in the heavens<br/>As Your glory fills this place<br/>You alone deserve our praise<br/>You're the name above all names</lines>
+    </verse>
+  </lyrics>
+</song>

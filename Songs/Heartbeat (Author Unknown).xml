@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Heartbeat</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5935"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tell me all Your secrets<br/>Tell me everything<br/>Show me how to love You<br/>Show me how to live</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Wherever I go, whatever I lose<br/>All I want is to be with You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I wanna know Your heartbeat, heartbeat<br/>Show me how Your heart beats, heart beats<br/>The rhythm of Your love is for me<br/>I wanna know Your, I wanna know Your heartbeat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You capture my attention<br/>With love so wild and free<br/>You light my soul on fire<br/>I'm burning with Your dreams</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Wherever I go, whatever I lose<br/>All I want is to be with you<br/>Wherever I go, whatever I lose<br/>All I want is to be with you</lines>
+    </verse>
+  </lyrics>
+</song>

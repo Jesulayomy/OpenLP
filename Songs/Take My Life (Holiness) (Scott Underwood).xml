@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>Take My Life (Holiness)</title>
+    </titles>
+    <copyright>1995 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Scott Underwood</author>
+      <author type="music">Scott Underwood</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holiness, holiness<br/>is what I long for;<br/>Holiness is what I need.<br/>Holiness, holiness<br/>is what You want from me...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So Take my heart and form it,<br/>Take my mind transform it,<br/>Take my will conform it,<br/>To Yours, to Yours, oh Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Righteousness, righteousness<br/>is what I long for;<br/>Righteousness is what I need.<br/>Righteousness, righteousness<br/>is what You want from me...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Faithfulness, faithfulness<br/>is what I long for;<br/>Faithfulness is what I need.<br/>Faithfulness, faithfulness<br/>is what You want from me...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Brokenness, brokenness<br/>is what I long for;<br/>Brokenness is what I need.<br/>Brokenness, brokenness<br/>is what You want from me...</lines>
+    </verse>
+  </lyrics>
+</song>

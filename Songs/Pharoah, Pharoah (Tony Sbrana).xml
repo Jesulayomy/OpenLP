@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Pharoah, Pharoah</title>
+    </titles>
+    <authors>
+      <author type="words">Tony Sbrana</author>
+      <author type="music">Tony Sbrana</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well, the burning bush told me just the other day<br/>That I should come over here and say<br/>Got to get my people out of Pharaoh's hand<br/>And lead them on over to the promised land.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I say Pharaoh, Pharaoh, Oh baby<br/>Let my people go! Huh<br/>Yeah yeah yeah... (2X)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well, all of God's people came to the Red Sea<br/>With Pharaoh's army coming after me<br/>I raised my rod, stuck it in the sand<br/>And all of God's people walked across dry land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well all of Pharaoh's army was coming too<br/>So what do you think that I did do?<br/>I raised my rod and cleared my throat<br/>And all of Pharaoh's army did the dead man's float.</lines>
+    </verse>
+  </lyrics>
+</song>

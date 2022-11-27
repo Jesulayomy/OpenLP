@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Somewhere in the middle</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3302"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Somewhere between the hot and the cold<br/>Somewhere between the new and the old<br/>Somewhere between who I am and who I used to be<br/>Somewhere in the middle, You'll find me<br/>Somewhere between the wrong and the right<br/>Somewhere between the darkness and the light<br/>Somewhere between who I was and who You're making me<br/>Somewhere in the middle, You'll find me</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Just how close can I get, Lord, to my surrender<br/>Without losing all control</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fearless warriors in a picket fence,<br/>Reckless abandon wrapped in common sense<br/>Deep water faith in the shallow<br/>And and we are caught in the middle<br/>With eyes wide open to the differences,<br/>The God we want and the God who is<br/>But will we trade our dreams for His<br/>Or are we caught in the middle<br/>Are we caught in the middle</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Somewhere between my heart and my hands<br/>Somewhere between my faith and my plans<br/>Somewhere between the safety of the boat and the crashing waves<br/>Somewhere between a whisper and a roar<br/>Somewhere between the altar and the door<br/>Somewhere between contented peace and always wanting more<br/>Somewhere in the middle You'll find me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, I feel You in this place and I know You're by my side<br/>Loving me even on these nights when I'm caught in the middle</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>All in All</title>
+      <title>When I am Weak, You are My All In All</title>
+    </titles>
+    <copyright>1991 Shepherd's Heart Music, Inc.</copyright>
+    <authors>
+      <author type="words">Dennis L. Jernigan</author>
+      <author type="music">Dennis L. Jernigan</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>freedom</theme>
+      <theme>gospel</theme>
+      <theme>easter</theme>
+      <theme>lords-supper</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+      <theme>grace</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my strength when I am weak<br/>You are the treasure that I seek<br/>You are my all in all<br/>Seeking You as a precious jewel<br/>Lord, to give up I'd be a fool<br/>You are my all in all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, Lamb of God, Worthy is Your Name<br/>Jesus, Lamb of God, Worthy is Your Name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Taking my sin, my cross, my shame<br/>Rising again I bless Your Name<br/>You are my all in all<br/>When I fall down You pick me up<br/>When I am dry You fill my cup<br/>You are my all in all</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You're my everything<br/>The beginning and the end<br/>The first, the last You are<br/>The great I am</lines>
+    </verse>
+  </lyrics>
+</song>

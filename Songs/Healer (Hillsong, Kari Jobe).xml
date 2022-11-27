@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Healer</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+      <author type="words">Kari Jobe</author>
+      <author type="music">Kari Jobe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1703"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You hold my every moment, you calm my raging seas<br/>You walk with me through fire, and heal all my disease<br/>I trust in You, I trust in you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I believe you're my Healer, I believe you are all I need<br/>I believe you're my Portion, I believe you're more than enough for me<br/>Em D 2.C D Em D imm.nothing is...<br/>Jesus you're all I need</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nothing is impossible for you<br/>Nothing is impossible for you<br/>Nothing is impossible for you<br/>You hold my world in your hands x3-&gt;chorus</lines>
+    </verse>
+    <verse name="c2">
+      <lines>The same power that conquered the grave lives in me, lives in me<br/>Your love that rescued the earth lives in me, lives in me</lines>
+    </verse>
+  </lyrics>
+</song>

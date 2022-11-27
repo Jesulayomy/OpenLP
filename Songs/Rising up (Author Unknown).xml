@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Rising up</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Rising up, rising up,<br/>Ther's a new testment church rising up<br/>Rising up, rising up,<br/>Ther's a new testment church rising up</lines>
+    </verse>
+    <verse name="v1">
+      <lines>As I looked out accross the land,<br/>I see God's mighty hand<br/>A Bride of Christ adorned in wedding gown.<br/>Just like in the days of old<br/>They stood with courrag bold.<br/>They turned this old world upside down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now the bible plainly tells<br/>how the Holy Ghost fell<br/>Signs and wonders were done<br/>by the appostles hands<br/>Demon spirits were cast out<br/>And in jail the sung and shout<br/>while surrounded<br/>by God's holy Angel band</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well if you think it's all long gone<br/>and the miracles are done.<br/>I have some good news to bring to you<br/>In the last days He'll pour<br/>of His spirit, more and more<br/>Like a mighty eagle,<br/>His strength He'll renew.</lines>
+    </verse>
+  </lyrics>
+</song>

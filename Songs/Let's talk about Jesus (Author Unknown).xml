@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Let's talk about Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let's talk about Jesus,<br/>The King of Kings is He,<br/>The Lord of lords supreme,<br/>Through all eternity.<br/>The Great I AM, the Way,<br/>The Truth, the Life the Door,<br/>Let's talk about Jesus more and more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let's talk about Jesus,<br/>Let all the world proclaim.<br/>The pow'r and majesty<br/>Of such a wondrous Name.<br/>The Babe of Bethlehem,<br/>The Bright and Morning Star,<br/>Let's sing His praises near and far.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let's talk about Jesus,<br/>The Bread of Life is He,<br/>The Saviour of the world,<br/>The Man of Galilee.<br/>The Prophet, Priest and King,<br/>The Mighty God is He,<br/>The well of Living Water free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let's talk about Jesus,<br/>The Prince of Peace is He,<br/>The Great Physician too,<br/>Down through all history.<br/>The Lily pure and white,<br/>The Rose of Sharon fair,<br/>The Shepherd of such tender care.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let's talk about Jesus,<br/>The Rock of Ages He,<br/>The Lamb for sinners slain,<br/>That Man of Calvary.<br/>The Great Emmanuel,<br/>The word of God sublime,<br/>He is our Bridegroom so divine.</lines>
+    </verse>
+  </lyrics>
+</song>

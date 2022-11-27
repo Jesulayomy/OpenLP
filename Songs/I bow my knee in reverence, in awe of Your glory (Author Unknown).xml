@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>I bow my knee in reverence, in awe of Your glory</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3071"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I bow my knee in reverence, in awe of Your glory;<br/>Humbly I approach You now, with praise and adoration.<br/>I lift my hands in worship, giving You all honor;<br/>I'll join the heavenly hosts of angels now and sing:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy, holy, holy is the Lord God Almighty,<br/>Who was and is and is to come.<br/>The Lion of Judah, the soon and coming King;<br/>Jesus, You are crowned with praise.</lines>
+    </verse>
+  </lyrics>
+</song>

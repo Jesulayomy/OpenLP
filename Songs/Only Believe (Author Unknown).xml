@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Only Believe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Only believe, only believe,<br/>All things are possible, only believe;<br/>Only believe, only believe,<br/>All things are possible, only believe.<br/>(Lord, I believe...)<br/>(Lord, I receive...)<br/>(Jesus is here...)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fear not, little flock,<br/>From the cross to the throne;<br/>From death into life<br/>He went for His own;<br/>All power in earth,<br/>All power above,<br/>Is given to Him<br/>For the flock of His love.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Only believe, only believe,<br/>All things are possible, only believe;<br/>Only believe, only believe,<br/>All things are possible, only believe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fear not, little flock,<br/>He goeth ahead,<br/>Your shepherd selecteth<br/>The path you must tread;<br/>The waters of Marah<br/>He'll sweeten for thee,<br/>He drank all the bitter<br/>in Gethsemane.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fear not, little flock,<br/>What ever your lot,<br/>He enters all rooms,<br/>"The doors being shut;"<br/>He never forsakes,<br/>He never is gone,<br/>So count on His presence<br/>In darkness and dawn.</lines>
+    </verse>
+  </lyrics>
+</song>

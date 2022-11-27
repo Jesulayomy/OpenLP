@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>God Will Take Care of You</title>
+    </titles>
+    <authors>
+      <author type="music">Martin, Walter Stillman (1862-1935)</author>
+      <author type="words">Martin, Civilla Durfee (1866-1948)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be not dismayed whate'er betide, God will take care of you; Beneath His wings of love abide, God will take care of you. God will take care of you, through ev'ry day, o'er all the way; He will take care of you, God will take care of you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through days of toil when heart doth fail, God will take care of you; When dangers fierce your path assail, God will take care of you. God will take care of you, through ev'ry day, o'er all the way; He will take care of you, God will take care of you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All you may need He will provide, God will take care of you; Nothing you ask will be denied, God will take care of you. God will take care of you, through ev'ry day, o'er all the way; He will take care of you, God will take care of you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No matter what may be the test, God will take care of you; Lean, weary one, upon His breast, God will take care of you. God will take care of you, through ev'ry day, o'er all the way; He will take care of you, God will take care of you.</lines>
+    </verse>
+  </lyrics>
+</song>

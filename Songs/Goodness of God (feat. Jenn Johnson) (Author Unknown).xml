@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Goodness of God (feat. Jenn Johnson)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:<br/>I love you, Lord for your mercy never fails me<br/>All my days, I've been held in your hands<br/>From the moment that I wake up till I lay my head down<br/>I will sing of the goodness of God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All my life you have been faithful<br/>All my life you have been so, so good<br/>With every breath that I am able<br/>I will sing of the goodness of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love your voice You have led me through the fire<br/>In darkest night you are close like no other<br/>I've known you as a father I've known you as a friend<br/>I have lived in the goodness of God</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your goodness is running after, It's running after me<br/>Your goodness is running after, It's running after me<br/>With my life laid down, I'm surrendered now I give you everything<br/>Your goodness is running after, It's running after me</lines>
+    </verse>
+  </lyrics>
+</song>

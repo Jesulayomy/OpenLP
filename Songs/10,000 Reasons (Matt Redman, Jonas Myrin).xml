@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>10,000 Reasons</title>
+      <title>Bless The Lord, Bless the Lord o my soul</title>
+    </titles>
+    <authors>
+      <author type="words">Jonas Myrin</author>
+      <author type="music">Jonas Myrin</author>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+      <theme>teaching</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bless the Lord, O my soul,<br/>O my soul,<br/>Worship His holy name<br/>Sing like never before,<br/>O my soul,<br/>I'll worship Your holy name</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The sun comes up, it's a new day dawning;<br/>It's time to sing Your song again<br/>Whatever may pass, and whatever lies before me,<br/>Let me be singing when the even - ing comes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're rich in love, and You're slow to anger<br/>Your name is great, and Your heart is kind<br/>For all Your goodness, I will keep on singing;<br/>Ten thousand reasons for my heart to find</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And on that day when my strength is failing,<br/>The end draws near, and my time has come;<br/>Still my soul will sing Your praise unending;<br/>Ten thousand years and then forevermore!</lines>
+    </verse>
+  </lyrics>
+</song>

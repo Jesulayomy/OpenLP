@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Your Presence Is Heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Israel Houghton</author>
+      <author type="music">Israel Houghton</author>
+      <author type="words">Micah Massey</author>
+      <author type="music">Micah Massey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1169"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is like You Lord in all the earth?<br/>Matchless love and beauty, endless worth<br/>Nothing in this world will satisfy<br/>Jesus You're the cup that won't run dry</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your presence is heaven to me<br/>Your presence is heaven to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Treasure of my heart and of my soul<br/>In my weakness you are merciful<br/>Redeemer of my past and present wrongs<br/>Holder of my future days to come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your presence is heaven to me<br/>Your presence is heaven to me<br/>Your presence is heaven to me!<br/>Your presence is heaven to me!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh Jesus, Oh Jesus<br/>Your presence is heaven to me<br/>Oh Jesus, Oh Jesus<br/>Your presence is heaven to me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All my days on earth I will await<br/>The moment that I see You face to face<br/>Nothing in this world will satisfy<br/>'Cause Jesus You're the cup that won't run dry<br/>Nothing in this world will satisfy<br/>Jesus You're the cup that won't run dry<br/>Jesus You're the cup that won't run dry!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>You Do All Things Well</title>
+    </titles>
+    <copyright>2004 worshiptogether.com songs | sixsteps Music | Acoustic Groove Publishing</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Michael John Clement</author>
+      <author type="music">Michael John Clement</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mountain maker, ocean tamer,<br/>Glimpses of You burn in my eyes;<br/>The worship of heaven<br/>Fills up the skies.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You made it all,<br/>Said let there be,<br/>And there was all that we see.<br/>The sounds of Your voice,<br/>The works of Your hands,<br/>You do all things well.<br/>You do all things well.<br/>You do all things well.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Star creator, wind breather,<br/>The strokes of Your beauty,<br/>Brushed through the clouds;<br/>Light from the heavens,<br/>Touching the ground.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Imagination runs wild<br/>And breathes the breath of life<br/>Across the fields, across the miles...</lines>
+    </verse>
+  </lyrics>
+</song>

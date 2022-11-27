@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Won't Stop Now</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5939"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 verse:<br/>I give You glory for all You've brought me through<br/>And now I'm ready for whatever You wanna do<br/>I'm moving forward to follow after You<br/>And now I'm ready for whatever You wanna do</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Your presence is an open door<br/>We want You Lord like never before<br/>Your presence is an open door<br/>So come now Lord like never before</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse:<br/>In every season Your grace has been enough<br/>And I'm believing the best is yet to come<br/>The cross before me my hope on things above<br/>And in You Jesus the best is yet to come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I know breakthrough is coming<br/>By faith I see a miracle<br/>My God made me a promise<br/>And it won't stop now</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Outro:</lines>
+    </verse>
+  </lyrics>
+</song>

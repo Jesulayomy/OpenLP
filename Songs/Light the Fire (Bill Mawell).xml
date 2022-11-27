@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Light the Fire</title>
+    </titles>
+    <copyright>1987 Boodsmith Music</copyright>
+    <authors>
+      <author type="words">Bill Mawell</author>
+      <author type="music">Bill Mawell</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand to praise You, but I fall on my knees.<br/>My spirit is willing, but my flesh is so weak.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So, light the fire (echo)<br/>In my soul. (echo)<br/>Fan the flame, (echo)<br/>Make me whole. (make my spirit whole)<br/>Lord, You know (echo)<br/>Where I am, (where I've been)<br/>So light the fire in my heart again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I feel Your arms around me, as the power of your healing begins.<br/>Your spirit moves right through me<br/>like a mighty rushing wind.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So light the fire in my heart again.</lines>
+    </verse>
+  </lyrics>
+</song>

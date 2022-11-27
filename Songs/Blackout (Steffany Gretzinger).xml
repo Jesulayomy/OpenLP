@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Blackout</title>
+    </titles>
+    <authors>
+      <author type="words">Steffany Gretzinger</author>
+      <author type="music">Steffany Gretzinger</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3718"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 verse:<br/>I ride the dawn It's in the name I was given<br/>Can't get away from the meaning<br/>I'll always rise I'll always shine<br/>In a blackout i will illuminate the dark<br/>You won't escape the beaming<br/>I will glimmer, I will glow</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>You can't turn out a light<br/>Shining from the inside<br/>Can't turn out a light<br/>Shining from the inside</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse:<br/>Light of the world It's the name we were given<br/>Can't get away from the vision<br/>We are cities on a hill<br/>In a blackout i will illuminate the dark<br/>You won't escape the beaming<br/>I will glimmer, I will glow</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>This our paradigm<br/>The world didn't give it<br/>And they can't take it away<br/>We are made of light<br/>The world didn't give it<br/>And they can't take it away</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tag:<br/>In a blackout, I will illuminate the dark<br/>You won't escape the beaming<br/>In a blackout, we will illuminate the dark<br/>They won't escape the beaming<br/>In a blackout, I will illuminate the dark<br/>They won't escape the beaming</lines>
+    </verse>
+  </lyrics>
+</song>

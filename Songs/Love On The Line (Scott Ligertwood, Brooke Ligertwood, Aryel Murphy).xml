@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>Love On The Line</title>
+    </titles>
+    <authors>
+      <author type="words">Brooke Ligertwood</author>
+      <author type="music">Brooke Ligertwood</author>
+      <author type="words">Scott Ligertwood</author>
+      <author type="music">Scott Ligertwood</author>
+      <author type="words">Aryel Murphy</author>
+      <author type="music">Aryel Murphy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1302"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1:<br/>You put Your love on the line<br/>To bear the weight of sin that was mine<br/>Washing my rivers of wrongs<br/>Into the sea of Your infinite love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>With arms held high<br/>Lord I give my life<br/>Knowing I'm found in Christ<br/>In Your love forever<br/>With all I am<br/>In Your grace I stand<br/>The greatest of all romance<br/>Love of God my Saviour</lines>
+    </verse>
+    <verse name="b1">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2:<br/>Mercy roars like hurricane winds<br/>Furious love laid waste to my sin</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE:<br/>To the One who has rescued my soul<br/>To the One who has welcomed me home<br/>To the One who is Saviour of all<br/>I sing forever</lines>
+    </verse>
+  </lyrics>
+</song>

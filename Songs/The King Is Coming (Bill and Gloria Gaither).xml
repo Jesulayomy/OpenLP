@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>The King Is Coming</title>
+    </titles>
+    <authors>
+      <author type="words">Bill and Gloria Gaither</author>
+      <author type="music">Bill and Gloria Gaither</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>eternal-life</theme>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The marketplace is empty,<br/>No more traffic in the streets,<br/>All the builders' tools are silent,<br/>No more time to harvest wheat,<br/>Busy housewives cease their labors,<br/>In the courtroom no debate,<br/>Work on earth is all suspended<br/>As the King comes thro' the gate.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O the King is coming,<br/>The King is coming!<br/>I just heard the trumpets sounding,<br/>And now His face I see,<br/>O the King is coming,<br/>The King is coming!<br/>Praise God, He's coming for me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Happy faces line the hallways,<br/>Those whose lives have been redeemed,<br/>Broken homes that He has mended,<br/>Those from prison He has freed,<br/>Little children and the aged<br/>Hand in hand stand all aglow,<br/>Who were crippled, broken, ruined,<br/>Clad in garments white as snow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can hear the chariots rumble,<br/>I can see the marching throng,<br/>The flurry of God's trumpets<br/>Spells the end of sin and wrong:<br/>Regal robes are now unfolding,<br/>Heaven's grandstand's all in place,<br/>Heaven's choir now assembled,<br/>Start to sing "Amazing Grace!"</lines>
+    </verse>
+  </lyrics>
+</song>

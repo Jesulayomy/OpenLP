@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>Salvation Belongs to Our God</title>
+    </titles>
+    <copyright>1985 Restoration Music, Ltd.</copyright>
+    <authors>
+      <author type="words">Adrian Howard</author>
+      <author type="music">Adrian Howard</author>
+      <author type="words">Pat Turner</author>
+      <author type="music">Pat Turner</author>
+      <author type="words">Adrian Howard and Pat Turner</author>
+      <author type="music">Adrian Howard and Pat Turner</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>thanksgiving</theme>
+      <theme>truth</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salvation belongs to our God,<br/>Who sits upon the throne;<br/>And unto the Lamb,<br/>Praise and glory, wisdom and thanks,<br/>Honor and power and strength.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be to our God forever and ever,<br/>Be to our God forever and ever,<br/>Be to our God forever and ever, amen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And we, the redeemed shall be strong,<br/>In purpose and unity;<br/>Declaring aloud,<br/>Praise and glory, wisdom and thanks,<br/>Honor and power and strength.</lines>
+    </verse>
+  </lyrics>
+</song>

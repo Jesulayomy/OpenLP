@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Ascend</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1875"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come let us see our Lord and King<br/>He's reigning in glory<br/>Lift up your eyes all earth and sky<br/>His Kingdom is coming</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From glory to glory<br/>We will arise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will ascend the hill of the Lord<br/>And we will declare His holy word<br/>With clean hands and pure hearts<br/>With clean hands and pure hearts<br/>We will see God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We fix our eyes, we give our lives<br/>Our hope is in heaven<br/>So let us run, we have overcome<br/>Now and forever</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And when we see Him we'll be like Him<br/>And face to face we'll know what love is</lines>
+    </verse>
+  </lyrics>
+</song>

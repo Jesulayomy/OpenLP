@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Abide With Me</title>
+    </titles>
+    <authors>
+      <author type="words">Lyte, Henry F. (1793-1847)</author>
+      <author type="music">Monk, William Henry (1823-1889)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>repentance</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abide with me; fast falls the eventide; The darkness deepens; Lord with me abide. When other helpers fail and comforts flee, Help of the helpless, O abide with me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Swift to its close ebbs out life's little day; Earth's joys grow dim; its glories pass away; Change and decay in all around I see; O Thou who changest not, abide with me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not a brief glance I beg, a passing word; But as Thou dwell'st with Thy disciples, Lord, Familiar, condescending, patient, free. Come not to sojourn, but abide with me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come not in terrors, as the King of kings, But kind and good, with healing in Thy wings, Tears for all woes, a heart for every plea? Come, Friend of sinners, and thus bide with me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thou on my head in early youth didst smile; And, though rebellious and perverse meanwhile, Thou hast not left me, oft as I left Thee, On to the close, O Lord, abide with me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I need Thy presence every passing hour.<br/>What but Thy grace can foil the tempter's power?<br/>Who, like Thyself, my guide and stay can be?<br/>Through cloud and sunshine, Lord, abide with me.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I fear no foe, with Thee at hand to bless;<br/>Ills have no weight, and tears no bitterness.<br/>Where is death's sting? Where, grave, thy victory?<br/>I triumph still, if Thou abide with me.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hold Thou Thy cross before my closing eyes;<br/>Shine through the gloom and point me to the skies.<br/>Heaven's morning breaks, and earth's vain shadows flee;<br/>In life, in death, O Lord, abide with me.</lines>
+    </verse>
+  </lyrics>
+</song>

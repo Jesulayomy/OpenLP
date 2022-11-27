@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>Wilt Thou, O Man, Live Happily</title>
+      <title>Man, Wouldst Thou Live All Blissfully</title>
+    </titles>
+    <authors>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="music">Luther, Martin (1483-1546)</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wilt thou, O man, live happily, And dwell with God eternally, The ten commandments keep, for thus Our God Himself biddeth us. Kyr' eleison!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am the Lord and God! take heed No other god doth thee mislead; Thy heart shall trust alone in Me, My kingdom then thou shalt be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Honor My Name in word and deed, And call on Me in time of need: Hallow the Sabbath, that I may Work in thy heart on that day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Obedient always, next to Me, To father and to mother be; Kill no man: even anger dread; Keep sacred thy marriage bed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Steal not, nor do thy neighbor wrong By bearing witness with false tongue; Thy neighbor's wife desire thou not, Nor grudge him aught he hath got.</lines>
+    </verse>
+  </lyrics>
+</song>

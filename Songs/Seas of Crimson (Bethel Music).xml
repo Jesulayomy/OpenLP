@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Seas of Crimson</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4931"/>
+    </songbooks>
+    <themes>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>For every curse, You're the cure<br/>For every sickness, You're the healer<br/>For every storm, You're the calm<br/>For all that's lost, Oh what a Saviour</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Hallelujah<br/>Death is beaten<br/>Christ is risen from the grave<br/>Hallejuah, it is finished<br/>All to You, the highest praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>On that cross of Calvary<br/>Every burden has been defeated<br/>And every wretched heart redeemed<br/>You drown our sins in seas of crimson<br/>(repeat last 2 lines)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 3:<br/>On that day of utmost glory<br/>All of darkness cannot tarry<br/>And every shackle come undone<br/>My solid Rock, Thine is the Kingdom<br/>(Repeat last 2 lines)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Where there was sin, Your love rushed in<br/>Where sin runs deep, Your grace runs deeper<br/>For all enslaved, the ransom paid<br/>Hope of the world, all hail the power</lines>
+    </verse>
+  </lyrics>
+</song>

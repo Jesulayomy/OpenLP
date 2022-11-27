@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Bless the Lord oh my soul</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chorus:<br/>Bless the Lord oh my soul<br/>Oh my soul<br/>Worship His Holy name<br/>Sing like never before<br/>Oh my soul<br/>I'll worship Your Holy name</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The sun comes up<br/>It's a new day dawning<br/>It's time to sing Your song again<br/>Whatever may pass<br/>And whatever lies before me<br/>Let me be singing<br/>When the evening comes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're rich in love<br/>And You're slow to anger<br/>Your name is great<br/>And Your heart is kind<br/>For all Your goodness<br/>I will keep on singing<br/>Ten thousand reasons<br/>For my heart to find</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And on that day<br/>When my strength is failing<br/>The end draws near<br/>And my time has come<br/>Still my soul will<br/>Sing Your praise unending<br/>Ten thousand years<br/>And then forevermore<br/>Forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

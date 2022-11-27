@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>I love you</title>
+      <title>Written in red</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In letters of crimson,<br/>God wrote His love<br/>On a hillside so long, long ago<br/>For you and me our Jesus died<br/>And love's greatest story was told</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kor:<br/>I love you, I love you<br/>That's what Calvary said<br/>I love you, I love you<br/>I love you written in red</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Down through the ages,<br/>God wrote his love<br/>With the same hands<br/>That suffered and bled<br/>He kept giving all that He had to give<br/>A message so easily read</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kor:<br/>I love you, I love you<br/>That's what Calvary said<br/>I love you...<br/>Oh precious is the flow<br/>That makes me white as snow<br/>No other fount I know<br/>Nothing but the blood of Jesus</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Kor:<br/>I love you, I love you<br/>That's what Calvary said<br/>I love you, I love you<br/>I love you written in red</lines>
+    </verse>
+  </lyrics>
+</song>

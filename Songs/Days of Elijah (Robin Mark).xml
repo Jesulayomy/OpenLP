@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Days of Elijah</title>
+    </titles>
+    <copyright>1996 Daybreak Music, Ltd.</copyright>
+    <authors>
+      <author type="words">Robin Mark</author>
+      <author type="music">Robin Mark</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>meditation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>These are the days of Elijah,<br/>Declaring the word of the Lord,<br/>And these are the days of Your servant, Moses,<br/>Righteousness being restored.<br/>And though these are the days of great trials,<br/>Of famine and darkness and sword,<br/>Still, we are the voice in the desert crying,<br/>"Prepare ye the way of the Lord!"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Behold He comes, riding on the clouds,<br/>Shining like the sun at the trumpet call.<br/>So lift your voice, it's the year of jubilee,<br/>And out of Zion's hill, salvation comes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And these are the days of Ezekiel,<br/>The dry bones becoming as flesh.<br/>And these are the days of Your servant, David,<br/>Rebuilding the temple of praise.<br/>And these are the days of the harvest,<br/>The fields are as white in the world.<br/>And we are the laborers in Your vineyard,<br/>Declaring the word of the Lord!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There's no one like Jehovah, there's no one like Jehovah,<br/>There's no one like Jehovah, there's no one like Jehovah.</lines>
+    </verse>
+  </lyrics>
+</song>

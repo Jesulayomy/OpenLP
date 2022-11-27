@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Amazing Love</title>
+      <title>You are my King</title>
+    </titles>
+    <copyright>1996 worshiptogether.com songs</copyright>
+    <authors>
+      <author type="words">Billy James Foote</author>
+      <author type="music">Billy James Foote</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>salvation</theme>
+      <theme>crucifixion</theme>
+      <theme>forgiveness</theme>
+      <theme>meditation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// I'm forgiven because you were forsaken<br/>I'm accepted, You were condemned<br/>I'm alive and well, Your Spirit is within me<br/>Because you died and rose again  //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Amazing love, how can it be?<br/>That you, my king, would die for me<br/>Amazing love, I know it's true<br/>Its my joy to honour you<br/>In all I do, I honour you</lines>
+    </verse>
+  </lyrics>
+</song>

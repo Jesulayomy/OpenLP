@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>That Men a godly Life Might Live</title>
+      <title>These Are the Holy Ten Commands</title>
+    </titles>
+    <authors>
+      <author type="music">from Erfurt Enchiridion</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>That man a godly life might live, God did these ten commandments give By His true servant Moses, high Upon the mount Sinai. Have mercy, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am thy God and Lord alone, No other God besides Me own; On My great mercy venture thee, With all thy heart love thou Me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>By idle word and speech profane Take not My holy Name in vain; And praise not aught as good and true But what God doth say and do.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallow the day which God hath blest, That thou and all thy house may rest; Keep hand and heart from labor free, That God may so work in thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Give to thy parents honor due, Be dutiful and loving too; And help them when their strength decays So shalt thou have length of days.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kill thou not out of evil will,<br/>Nor hate, nor render ill for ill;<br/>Be patient and of gentle mood,<br/>And to thy foe do thou good.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Be faithful to thy marriage vows,<br/>Thy heart give only to thy spouse<br/>Keep thy life pure, and lest thou sin<br/>Keep thyself with discipline.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Steal not; oppressive acts abhor;<br/>Nor wring their life-blood from the poor;<br/>But open wide thy loving hand<br/>To all the poor in the land.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Bear not false witness, nor belie<br/>Thy neighbor by foul calumny;<br/>Defend his innocence from blame,<br/>With charity hide his shame.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Thy neighbor's wife desire thou not,<br/>His house, nor aught that he hath got<br/>But wish that his such good may be<br/>As thy heart doth wish for thee.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>God these commandments gave, therein<br/>To show thee, son of man, thy sin,<br/>And make thee also well perceive<br/>How man for God ought to live.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Help us, Lord Jesus Christ, for we A Mediator have in Thee;<br/>Without Thy help our works so vain Merit naught but endless pain.</lines>
+    </verse>
+  </lyrics>
+</song>

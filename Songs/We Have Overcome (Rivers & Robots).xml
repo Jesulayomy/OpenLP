@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>We Have Overcome</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3650"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We Have Overcome<br/>We are purified<br/>We are hidden in the wounds of Christ<br/>He has paid the price<br/>He has brought us near<br/>To behold the glory of The Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So we will not fear<br/>Through the storm and through the flood<br/>By Your spirit, by Your blood<br/>We will stand, we will stand<br/>And with a trumpet call<br/>You will open up the sky<br/>Come with glory and with might<br/>And we will be with the Lamb</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah,<br/>Hallelujah,<br/>We will be with You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Though the storm may come<br/>We are unashamed<br/>Of the name above all other names<br/>He's our victory<br/>He's our joy and prize<br/>He's the reason we lay down our lives</lines>
+    </verse>
+  </lyrics>
+</song>

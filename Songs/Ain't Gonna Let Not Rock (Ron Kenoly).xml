@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Ain't Gonna Let Not Rock</title>
+    </titles>
+    <authors>
+      <author type="words">Ron Kenoly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We gather as God's dwelling place<br/>A house of living stone<br/>We've given praise Lord<br/>You've made Your presence known</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now we worship and sing<br/>Hallelujah<br/>Christ has risen from the dead<br/>But if our praises cease<br/>If we hold our peace<br/>The rocks will cry out instead</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I ain't gonna let<br/>No rock outpraise me<br/>I ain't gonna let<br/>No rock cry in my place<br/>I ain't gonna let<br/>No rock outpraise me<br/>I ain't gonna let it sing<br/>Ain't gonna let it sing<br/>In my place</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will make a joyful noise<br/>I will sing a joyful song<br/>That is pleasing to<br/>The ear of the Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will make a joyful noise<br/>I will sing a joyful song<br/>That is pleaseing to the ear of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

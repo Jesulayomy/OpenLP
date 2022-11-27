@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Glorious</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5135"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Glorious, shout it out and<br/>Glorious, make it louder<br/>Jesus, we shout Your name<br/>Jesus, we make Your praise<br/>Glorious, You are glorious<br/>God, You are glorious</lines>
+    </verse>
+    <verse name="v1">
+      <lines>My God You reign, forever and ever<br/>How great Your name<br/>Your love remains, forever and ever<br/>You stay the same</lines>
+    </verse>
+    <verse name="c2">
+      <lines>PreShout it out, shout it out, if you know He's good<br/>Sing it out, sing it out, for the Lord is good<br/>Shout it out loud, You are glorious</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Glorious, shout it out and<br/>Glorious, make it louder<br/>Jesus, we shout Your name<br/>Jesus, we make Your praise<br/>Glorious, You are glorious</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My God You reign, forever and ever<br/>How great Your name<br/>Your love remains, forever and ever<br/>You stay the same</lines>
+    </verse>
+    <verse name="c4">
+      <lines>PreShout it out, shout it out, if you know He's good<br/>Sing it out, sing it out, for the Lord is good<br/>Shout it out loud, You are glorious</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Glorious, shout it out and<br/>Glorious, make it louder<br/>Jesus, we shout Your name<br/>Jesus, we make Your praise<br/>Glorious, You are glorious</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Shine Jesus<br/>You shine for all the world to see<br/>You are glorious<br/>Shine Jesus<br/>You shine for all the world to see<br/>You are glorious<br/>Shine Jesus<br/>You shine for all the world to see<br/>You are glorious (You are glorious)<br/>You are glorious (You are glorious)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, God, You are glorious<br/>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, God, You are glorious</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Glorious, shout it out and<br/>Glorious, make it louder<br/>Jesus, we shout Your name<br/>Jesus, we make Your praise<br/>Glorious, You are glorious</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, God, You are glorious<br/>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, God, You are glorious<br/>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, God, You are glorious<br/>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, oh-oh-oh-oh-ooh<br/>Oh-oh-ooh, God, You are glorious</lines>
+    </verse>
+  </lyrics>
+</song>

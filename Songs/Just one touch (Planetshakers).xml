@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Just one touch</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2733"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE:<br/>I am free,<br/>Every sin has been erased<br/>By the power of Your grace<br/>I am healed,<br/>Every sickness and disease<br/>Has no hold on me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS:<br/>'Cause I believe<br/>Yes I believe</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>Hallelujah,<br/>You said it's done, death is overcome<br/>Hallelujah,<br/>You washed me clean and now I'm free</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2:<br/>I am blessed,<br/>O' my cup it overflows<br/>Beyond all that I can hold<br/>I am saved,<br/>By the power of Your name<br/>I will never be the same</lines>
+    </verse>
+    <verse name="c3">
+      <lines>PRE CHORUS:<br/>'Cause I believe<br/>Yes I believe</lines>
+    </verse>
+    <verse name="c4">
+      <lines>CHORUS:<br/>Hallelujah,<br/>You said it's done, death is overcome<br/>Hallelujah,<br/>You washed me clean and now I'm free</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>With just one touch<br/>Every burden fell off my shoulders<br/>With just one touch<br/>Every mountain swept away<br/>Now goodbye guilt and shame<br/>He's overcome the grave<br/>We lift the name of Jesus higher</lines>
+    </verse>
+    <verse name="v4">
+      <lines>coda:<br/>We lift the name of Jesus higher<br/>We lift the name of Jesus higher</lines>
+    </verse>
+  </lyrics>
+</song>

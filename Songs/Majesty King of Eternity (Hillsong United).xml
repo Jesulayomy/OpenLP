@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Majesty King of Eternity</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ma-jes-ty, King for Eternity<br/>Earth and sea and Heaven<br/>All is made by you<br/>Ma-jes-ty, King for Eternity<br/>Fortress of deliverance<br/>Safest place to hide</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We will exault your name King Jesus<br/>Every knee must bow infront of you<br/>We will exault your name king Jesus<br/>There is non like you<br/>For there is non like you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King of kings,<br/>Majesty, God of heaven<br/>Living in me<br/>Gentle Saviour, closest friend<br/>Strong deliverer, beginning and end<br/>All within me, fall at your feet<br/>Your ma-jes-ty</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Your majesty, I can't but bow<br/>I lift my all, before you now<br/>In royal robes, I don't deserve<br/>I live to serve your ma-jes-ty</lines>
+    </verse>
+  </lyrics>
+</song>

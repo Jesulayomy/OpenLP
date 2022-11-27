@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>I will sing</title>
+    </titles>
+    <authors>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord You seem so far away<br/>A million miles or more it feels today<br/>And though I haven't lost my faith,<br/>I must confess right now<br/>that it's hard for me to pray<br/>But I dont know what to say<br/>and I dont know where to start<br/>But as You give the grace<br/>with all that's in my heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will sing<br/>I will praise<br/>even in my darkest time<br/>through the sorrow and the pain<br/>I will sing<br/>I will praise<br/>Lift my hands to honor You<br/>because Your word is true<br/>I will sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord it's hard for me to see<br/>all the thoughts and plans You have for me<br/>But I will put my trust in You,<br/>Knowing that You died to set me free<br/>But I dont know what to say<br/>and I dont know where to start<br/>But as You give the grace<br/>with all that's in my heart</lines>
+    </verse>
+  </lyrics>
+</song>

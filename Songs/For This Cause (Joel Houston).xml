@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:17">
+  <properties>
+    <titles>
+      <title>For This Cause</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hope has found its home within me<br/>Now that I've been found in You<br/>Let all that I am be all You want me to be<br/>'Cause all I want is more of You<br/>'Cause all I want is more of You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let Your presence fall upon us<br/>I want to see You face to face<br/>Let me live forever lost in Your love<br/>'Cause all I want is more of You<br/>'Cause all I want is more of You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm living for this cause<br/>I lay down my life into Your hands<br/>I'm living for the truth<br/>The hope of the world, in You I'll stand</lines>
+    </verse>
+    <verse name="c2">
+      <lines>All I want is You<br/>All I want is You<br/>All I want is You</lines>
+    </verse>
+  </lyrics>
+</song>

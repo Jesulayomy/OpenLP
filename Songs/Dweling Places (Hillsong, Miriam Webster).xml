@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Dweling Places</title>
+    </titles>
+    <authors>
+      <author type="words">Miriam Webster</author>
+      <author type="music">Miriam Webster</author>
+      <author type="words">Hillsong</author>
+    </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lovely are Your dwelling places<br/>Thirsty I come after You<br/>Jesus my joy my reward<br/>Your love's restoring my soul<br/>Now I'm Yours and You are mine<br/>And from my heart a song will rise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I love You I love You I love You<br/>I love You I love You I love You<br/>I love You I love You I love You<br/>And my heart will follow wholly after You D Bm</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus there is none beside You<br/>Righteous ruler of the earth<br/>Nations will come and bow down<br/>Name over all names I sing You praises<br/>And all that I can say to You is</lines>
+    </verse>
+  </lyrics>
+</song>

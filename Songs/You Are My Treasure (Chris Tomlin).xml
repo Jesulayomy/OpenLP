@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>You Are My Treasure</title>
+    </titles>
+    <copyright>1995 Maranatha! Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faithful Lord, fill my cup<br/>With Your grace and love, Your grace and love.<br/>The pleasures that this world's sure of<br/>Will never be enough, can never be enough</lines>
+    </verse>
+    <verse name="c1">
+      <lines>'Cause I'm created for You alone,<br/>Bought with a price I'm not my own<br/>Seated in the heavenlies<br/>There's no place I'd rather be<br/>Than with You forever, Lord<br/>You are my treasure</lines>
+    </verse>
+  </lyrics>
+</song>

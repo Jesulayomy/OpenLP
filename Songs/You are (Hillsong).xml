@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>You are</title>
+      <title>Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4908"/>
+    </songbooks>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my light and salvation, whom shall I fear?<br/>You are the strength of all my days<br/>of whom shall I be afraid<br/>though war may rise against me, of this will I be sure</lines>
+    </verse>
+    <verse name="c1">
+      <lines>that I will bless the Lord forever<br/>I'll bless Your holy name<br/>Yes, I will bless the Lord forever<br/>I'll Bless Your Holy Name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord it is You I desire, it's You that I seek<br/>To live with you in your house forever<br/>Bbmaj7<br/>beholding Your beauty<br/>And in the time of trouble, of this will I be sure</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You ask me who do I, Say that You are and I<br/>Say that You are the Christ, Son of the Living God</lines>
+    </verse>
+  </lyrics>
+</song>

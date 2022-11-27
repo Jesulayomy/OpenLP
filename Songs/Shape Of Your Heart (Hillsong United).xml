@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Shape Of Your Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2606"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Words and Music by Matt Crocker &amp; Joel Houston</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 1<br/>There's a light hanging over me<br/>There's a beam running way down<br/>Turning sorrow to ecstasy<br/>As the dust comes to life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>PRE-CHORUS<br/>See the shape of Your heart<br/>Where the margins collide<br/>There's a life hanging over me, over me<br/>Where Your love crossed the lines</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE 2<br/>There's a love hanging over me<br/>There's a beam running way out<br/>In the shadow of mystery<br/>Where my soul comes alive</lines>
+    </verse>
+    <verse name="v5">
+      <lines>CHORUS<br/>You run deep like the wildest heavens<br/>You run deep like the wild in me<br/>You run wide like the four horizons<br/>You run wide enough to cover me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>POST-CHORUS<br/>How I love You Jesus<br/>I will worship You<br/>I will worship You Jesus<br/>Higher than anything<br/>I see More than the air I breathe<br/>I need You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>VERSE 3<br/>There's a cross hanging over me<br/>There's a fire burning inside out<br/>As the Word comes to life in me<br/>In the shape of Your heart</lines>
+    </verse>
+  </lyrics>
+</song>

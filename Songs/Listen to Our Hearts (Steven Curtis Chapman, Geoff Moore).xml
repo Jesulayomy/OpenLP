@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Listen to Our Hearts</title>
+    </titles>
+    <copyright>1992 Starfield Music</copyright>
+    <authors>
+      <author type="words">Geoff Moore</author>
+      <author type="music">Geoff Moore</author>
+      <author type="words">Steven Curtis Chapman</author>
+      <author type="music">Steven Curtis Chapman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How do you explain,<br/>How do you describe,<br/>A love that goes from East to West<br/>And runs as deep as it is wide?</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You know all our hopes. Lord, You know all our fears.<br/>And words cannot express the love we feel,<br/>But we long for You to hear.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So listen to our hearts,<br/>hear our spirits sing<br/>A song of praise that flows<br/>from those You have redeemed.<br/>We will use the words we know<br/>To tell You what an awesome God You are.<br/>But words are not enough<br/>To tell You of our love,<br/>So listen to our hearts</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If words could fall like rain<br/>From these lips of mine,<br/>And if I had a thousand years,<br/>I would still run out of time.<br/>If You listen to my heart,<br/>every beat will say,<br/>"Thank You for the life,<br/>thank You for the truth,<br/>Thank You for the way."</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Words are not enough to tell You of our love,<br/>So listen to our hearts.</lines>
+    </verse>
+  </lyrics>
+</song>

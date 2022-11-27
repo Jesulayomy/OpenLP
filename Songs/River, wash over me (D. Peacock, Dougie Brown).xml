@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>River, wash over me</title>
+    </titles>
+    <authors>
+      <author type="words">D. Peacock</author>
+      <author type="music">D. Peacock</author>
+      <author type="words">Dougie Brown</author>
+      <author type="music">Dougie Brown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>River, Wash Over Me<br/>Cleanse Me And Make Me New<br/>Bathe Me, Refresh Me And Fill Me Anew<br/>River Wash Over Me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spirit, Watch Over Me<br/>Lead Me To Jesus' Feet<br/>Cause Me To Worship And Fill Me Anew<br/>Spirit, Watch Over Me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, Rule Over Me<br/>Reign Over All My Heart<br/>Teach Me To Praise You And Fill Me Anew<br/>Jesus, Rule Over Me<br/>Teach Me To Praise You And Fill Me Anew<br/>Jesus, Rule Over Me</lines>
+    </verse>
+  </lyrics>
+</song>

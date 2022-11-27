@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Psalm Five</title>
+      <title>Give Ear to my Words, O Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Bill Sprouse Jr.</author>
+      <author type="music">Bill Sprouse Jr.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give ear to my words O Lord<br/>Consider my meditation<br/>Hearken unto the voice of my cry<br/>My King and my God<br/>For unto Thee will I pray<br/>My voice shalt Thou hear in the morning<br/>Oh Lord, in the morning<br/>Will I direct my prayer unto Thee<br/>And will look up</lines>
+    </verse>
+  </lyrics>
+</song>

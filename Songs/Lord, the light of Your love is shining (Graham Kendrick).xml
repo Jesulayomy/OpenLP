@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:49">
+  <properties>
+    <titles>
+      <title>Lord, the light of Your love is shining</title>
+      <title>Shine, Jesus, Shine</title>
+    </titles>
+    <copyright>1987 Make Way Music</copyright>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>forgiveness</theme>
+      <theme>lords-supper</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+      <theme>holy-spirit</theme>
+      <theme>sacrifice</theme>
+      <theme>light</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, the light of Your love is shining,<br/>In the midst of the darkness, shining;<br/>Jesus, Light of the world, shine upon us,<br/>Set us free by the truth You now bring us,<br/>Shine on me, shine on me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Shine, Jesus, shine,<br/>Fill this land with the Father's glory;<br/>Blaze, Spirit, blaze,<br/>Set our hearts on fire.<br/>Flow, river, flow,<br/>Flood the nations with grace and mercy;<br/>Send forth Your word,<br/>Lord, and let there be light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I come to Your awesome presence,<br/>From the shadows into Your radiance;<br/>By the blood I may enter Your brightness,<br/>Search me, try me, consume all my darkness.<br/>Shine on me, shine on me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As we gaze on Your kingly brightness<br/>So our faces display Your likeness.<br/>Ever changing from glory to glory,<br/>Mirrored here may our lives tell Your story.<br/>Shine on me, shine on me.</lines>
+    </verse>
+  </lyrics>
+</song>

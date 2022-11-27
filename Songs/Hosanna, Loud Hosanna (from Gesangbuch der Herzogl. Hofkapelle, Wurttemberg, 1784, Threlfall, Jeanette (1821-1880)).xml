@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Hosanna, Loud Hosanna</title>
+    </titles>
+    <authors>
+      <author type="music">from Gesangbuch der Herzogl. Hofkapelle, Wurttemberg, 1784</author>
+      <author type="words">Threlfall, Jeanette (1821-1880)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hosanna, loud hosanna, the little children sang; Through pillared court and temple the lovely anthem rang. To Jesus, Who had blessed them close folded to His breast, The children sang their praises, the simplest and the best.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From Olivet they followed mid an exultant crowd, The victor palm branch waving, and chanting clear and loud. The Lord of men and angels rode on in lowly state, Nor scorned that little children should on His bidding wait.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"Hosanna in the highest!" that ancient song we sing, For Christ is our Redeemer, the Lord of heav'n our King. O may we ever praise Him with heart and life and voice, And in His blissful presence eternally rejoice!</lines>
+    </verse>
+  </lyrics>
+</song>

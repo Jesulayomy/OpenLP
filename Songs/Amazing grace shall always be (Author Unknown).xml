@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Amazing grace shall always be</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing Grace shall always<br/>be my song of praise,<br/>For it was Grace that<br/>bought my liberty<br/>I do not know just how<br/>He came to love me so<br/>He looked beyond my faults<br/>and saw my needs</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>I shall forever lift<br/>my eyes to Calvary,<br/>to view the cross where<br/>Jesus gave His life for me,<br/>how marvelous the Grace<br/>that caught my falling soul<br/>He looked beyond my<br/>faults and saw my needs</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It was God's Grace that<br/>brought me out of darkness<br/>and to the light where<br/>I can clearly see<br/>I'll shout it from the mountains<br/>and the valleys<br/>He looked beyond my faults<br/>and saw my needs</lines>
+    </verse>
+  </lyrics>
+</song>

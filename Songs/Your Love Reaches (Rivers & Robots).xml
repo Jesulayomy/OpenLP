@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Your Love Reaches</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3494"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If I climbed up to the sky<br/>Where nothing else could ever find<br/>Your love reaches<br/>Your love reaches me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If I descended to the ocean floor<br/>Fathoms down beneath us<br/>Your love reaches<br/>Your love reaches me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Because of what You did that day<br/>Because Your love has made a way<br/>Your love reaches<br/>Your love reaches me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Because You tore the veil in two<br/>Because Your light came breaking through<br/>Your love reaches<br/>Your love reaches me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah,<br/>The Lord Almighty reigns<br/>King forever, and always</lines>
+    </verse>
+  </lyrics>
+</song>

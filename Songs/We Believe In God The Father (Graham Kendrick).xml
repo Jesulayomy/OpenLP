@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>We Believe In God The Father</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We believe in God the Father<br/>Maker of the universe<br/>And in Christ, His Son, our Saviour<br/>Come to us by virgin birth<br/>We believe he died to save us<br/>Bore our sins, was crucified<br/>Then from death he rose victorious<br/>Ascended to the Father's side</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, Lord of all, Lord of all<br/>Jesus, Lord of all, Lord of all<br/>Jesus, Lord of all, Lord of all<br/>Jesus, Lord of all, Lord of all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We believe He sends His Spirit<br/>On His church with gifts of power<br/>God, His word of truth affirming<br/>Sends us to the nations now<br/>He will come again in glory<br/>Judge the living and the dead<br/>Every knee shall bow before Him<br/>Then must every tongue confess</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jesus, Lord of all, Lord of all<br/>Jesus, Lord of all, Lord of all<br/>Jesus, Lord of all, Lord of all<br/>Jesus, Lord of all, Lord of all</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Name above all names<br/>Name above all names<br/>Name above all names<br/>Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

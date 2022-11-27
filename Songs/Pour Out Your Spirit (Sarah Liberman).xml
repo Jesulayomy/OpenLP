@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Pour Out Your Spirit</title>
+    </titles>
+    <authors>
+      <author type="words">Sarah Liberman</author>
+      <author type="music">Sarah Liberman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3776"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adonai, here I am<br/>You are strong in my weakness<br/>And in the desert You revive me<br/>You give rest to my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pour out Your Spirit<br/>Pour out Your Spirit<br/>So that I might become like You, Adonai</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh Lord, take hold of me<br/>Not my will but Yours<br/>I will wait upon You on my knees<br/>Surely I will see Your Glory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That I might see as You see<br/>That I might love as You love, Adonai</lines>
+    </verse>
+  </lyrics>
+</song>

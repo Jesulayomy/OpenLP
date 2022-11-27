@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Beloved</title>
+    </titles>
+    <copyright>2009 So Essential Tunes</copyright>
+    <authors>
+      <author type="words">Mike Donehey</author>
+      <author type="music">Mike Donehey</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love of My life, look deep in My eyes;<br/>There you will find what you need.<br/>Give Me your life, the lust and the lies,<br/>The past you're afraid I might see.<br/>You've been running away from Me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're my beloved, lover I'm yours.<br/>Death shall not part us; it's you I died for.<br/>For better or worse, forever we'll be.<br/>Our love it unites us, and it binds you to Me;<br/>It's a mystery.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love of My life, look deep in My eyes;<br/>There you will find what you need.<br/>I'm the Giver of Life, I'll clothe you in white;<br/>My immaculate bride you will be.<br/>Oh, come running home to Me.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Well you've been a mistress, My wife.<br/>You're chasing lovers, that won't satisfy.<br/>Won't you let Me make you My bride?<br/>You will drink of my lips and you'll taste new life.</lines>
+    </verse>
+  </lyrics>
+</song>

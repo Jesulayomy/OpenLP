@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Angels We Have Heard on High</title>
+      <title>Gloria</title>
+    </titles>
+    <authors>
+      <author type="words">Casting Crowns</author>
+      <author type="music">Casting Crowns</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2910"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BPM: 112 Time Sig: 4/4</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE:<br/>Come to Bethlehem and see<br/>More than a story, it'll set you free<br/>Are you tired of the running?<br/>Are you tired of the shame?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS:<br/>Baby born in a manger's gonna break every chain<br/>Angels fill up the heavens with the sound of His name</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>Gloria<br/>To the Promised One, to the only Son<br/>Gloria<br/>Now the Peasant King changes everything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE:<br/>Angels we have heard on high<br/>Pierce the silent midnight sky<br/>From a throne to a manger, Trading glory for shame</lines>
+    </verse>
+    <verse name="c3">
+      <lines>PRE CHORUS:<br/>From a King to a stranger, With a love to proclaim<br/>Angels fill up the heavens with the sound of His name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>Come adore on bended knee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lay your burden at the feet<br/>Of Christ the Lord, the newborn King<br/>Come adore on bended knee</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lay your burden at His feet<br/>Of Christ the Lord, the newborn King</lines>
+    </verse>
+  </lyrics>
+</song>

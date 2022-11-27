@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Love Goes On</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Young &amp; Free</author>
+      <author type="music">Hillsong Young &amp; Free</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2359"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro: A C#m E (x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>We found love that never runs dry<br/>From the depths to the sky<br/>Eyes fixed on the One who knows no end<br/>You stand strong for all of time<br/>In the joy, in the trial<br/>You are the Beginning and the End</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Prechorus:<br/>Your love goes on<br/>Your love goes on</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Ever our heart will seek<br/>Jesus in everything<br/>From sky to ocean deep<br/>Your love goes on<br/>Through every rise and fall<br/>We are forever Yours<br/>One thing we know is sure<br/>Your love goes on and on and on</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Interlude 1: same as Intro</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>From dawn break into the night<br/>You're here with us, You're on our side<br/>Your arms are forever open wide<br/>You stand strong for all of time<br/>In the joy, in the trial<br/>You are the Beginning and the End</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Prechorus<br/>Chorus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Interlude 2: C#m A E B</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bridge (x4):<br/>Love unfailing<br/>Never shaken<br/>Hope awakens in You, You</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Chorus (x2)<br/>Outro: same as Intro</lines>
+    </verse>
+  </lyrics>
+</song>

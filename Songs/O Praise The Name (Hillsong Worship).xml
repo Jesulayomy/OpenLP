@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>O Praise The Name</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1258"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>easter</theme>
+      <theme>lords-supper</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>I cast my mind to Calvary<br/>Where Jesus bled and died for me<br/>I see His wounds, His hands, His feet<br/>My Saviour on that cursed tree</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>His body bound and drenched in tears<br/>They laid Him down in Joseph's tomb<br/>The entrance sealed by heavy stone<br/>Messiah still and all alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>O praise the Name of the Lord our God<br/>O praise His Name forever - more<br/>For endless days we will sing Your praise<br/>Oh Lord, oh Lord our God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 3:<br/>And then on the third at break of dawn<br/>The Son of heaven rose again<br/>O trampled death, where is your sting<br/>The angels roar for Christ the King</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verse 4:<br/>He shall return in robes of white<br/>The blazing sun shall pierce the night<br/>And I will rise among the saints<br/>My gaze transfixed on Jesus' face</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ending:<br/>Oh Lord, oh Lord our God<br/>Oh Lord, oh Lord our God</lines>
+    </verse>
+  </lyrics>
+</song>

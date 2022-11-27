@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Rescue</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3491"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Old as the hills, new everyday<br/>It's in the bones like it's DNA<br/>First taste is sweet 'til it rots in your mouth<br/>Another old friend who rats you out</lines>
+    </verse>
+    <verse name="p1">
+      <lines>All of the time in this life<br/>Can't loose the ties that bind<br/>They shackle our feet, we trip, we fall, we crawl<br/>I was born in the mess of it all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Then You rescued me, rescued me<br/>Lord, with a touch of Your hand<br/>Another captive free again<br/>Who else in heaven could do this but You?<br/>You rescued me, rescued me<br/>Lord, with a love out of mind<br/>Oh, You know I love it when<br/>Everyday I am rescued again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Over the years your nature's way<br/>Is turning wrongs into roles you play<br/>Caught in a spell that's overcast<br/>You gain perspective, it doesn't last</lines>
+    </verse>
+    <verse name="p2">
+      <lines>All of the time in this life<br/>Can't loose the ties that blind you<br/>They're new everyday, old as the fall, the fall<br/>And I was born in the mess of it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every day, every way, every</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Every cheap imitation<br/>All of my imagination<br/>Even my self-preservation<br/>Is yours in time</lines>
+    </verse>
+  </lyrics>
+</song>

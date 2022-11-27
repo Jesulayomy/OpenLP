@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>You Steady My Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Kari Jobe</author>
+      <author type="music">Kari Jobe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3677"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>Wish it could be easy<br/>Why is life so messy?<br/>Why is pain a part of us?<br/>There are days I feel like<br/>Nothing ever goes right<br/>Sometimes it just hurts so much</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But You're here<br/>You're real<br/>I know I can trust You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Even when it hurts<br/>Even when it's hard<br/>Even when it all just falls apart<br/>I will run to You<br/>'Cause I know that You are<br/>Lover of my soul<br/>Healer of my scars</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You steady my heart<br/>You steady my heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>I'm not gonna worry<br/>I know that You've got me<br/>Right inside the palm of your hand<br/>Each and every moment<br/>What's good and what gets broken<br/>Happens just the way You plan</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are here<br/>You're real<br/>I know I can trust You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Even when it hurts<br/>Even when it's hard<br/>Even when it all just falls apart<br/>I will run to You<br/>'Cause I know that You are<br/>Lover of my soul<br/>Healer of my scars</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You steady my heart<br/>You steady my heart</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>And I will run to You<br/>And find refuge in Your arms<br/>And I will sing to You<br/>'Cause of everything You are</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Choruse:<br/>You steady my heart<br/>You steady my heart<br/>Even when it hurts<br/>Even when it's hard<br/>Even when it all just falls apart<br/>I will run to You<br/>'Cause I know that You are<br/>Lover of my soul<br/>Healer of my scars</lines>
+    </verse>
+    <verse name="v8">
+      <lines>You steady my heart<br/>You steady my heart</lines>
+    </verse>
+    <verse name="v9">
+      <lines>I'm not gonna worry<br/>I know that you've got me<br/>Right inside the palm of your hand</lines>
+    </verse>
+  </lyrics>
+</song>

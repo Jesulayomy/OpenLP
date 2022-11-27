@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>Holy</title>
+      <title>Wedding Day</title>
+    </titles>
+    <authors>
+      <author type="words">The City Harmonic</author>
+      <author type="music">The City Harmonic</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the story of the Son of God<br/>Hanging on the cross for me<br/>But it ends with a bride and groom<br/>And a wedding by a glassy sea<br/>O death where is your sting<br/>Cause I'll be there singing<br/>Holy Holy Holy<br/>Is the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is the story of a bride in white<br/>Waiting on her wedding day<br/>Anticipation welling up inside<br/>While the groom is crowned as king<br/>O death where is your sting<br/>Cause we'll be there singing<br/>Holy Holy Holy is the Lord<br/>Holy Holy Holy Holy Holy Holy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Is the Lord Almighty<br/>Holy Holy Holy Holy Holy Holy<br/>Is the Lord Almighty<br/>Who was and is and is to come<br/>Who was and is and is to come<br/>This is the story of the Son of God<br/>Hanging on the cross for me<br/>And it ends with a bride and groom<br/>And a wedding by a glassy sea</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is the story of the a bride in white<br/>Singing on her wedding day<br/>Of the God who was and is to stand before a bride who sings<br/>Holy Holy Holy Holy Holy Holy is the Lord Almighty</lines>
+    </verse>
+  </lyrics>
+</song>

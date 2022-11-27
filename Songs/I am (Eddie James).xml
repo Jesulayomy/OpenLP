@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>I am</title>
+    </titles>
+    <authors>
+      <author type="words">Eddie James</author>
+      <author type="music">Eddie James</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am the Lord, I'm the almighty God<br/>I am the one for whom nothing is too hard<br/>I am the shepherd and I am the door<br/>I am the good news to the bound and the poor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am, I am, I am, I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am the righteous One and I am the Lamb<br/>I am the Ram in the bush for Abraham<br/>I am the Ultimate Sacrifice for sin<br/>I am your Redeemer, the Beginning and the End</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am, I am, I am, I am</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am Jehovah, and I am your King<br/>I am Messiah, David's Offspring<br/>I am your High Priest, and I am the Christ<br/>I am the Resurrection, I am the Life</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I am, I am, I am, I am</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I am the Bread, and I am the Wine,<br/>I am your Future, so leave your past behind<br/>I am the One in the midst of two or three<br/>I am your Tabernacle, I am your Jubilee</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I am, I am, I am, I am</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I am the Bread, I am the Wine<br/>And I am your Future, so leave your past behind<br/>I am the One in the midst of two or three<br/>I am your Tabernacle, I am your Jubilee</lines>
+    </verse>
+    <verse name="c4">
+      <lines>I am, I am, I am, I am</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am Hope, I am Peace, I am Joy, I am Rest<br/>Oh I am your Comfort, and Relief from your stress<br/>I am Strength, I am Faith, I am Love, I am Power<br/>I am your Freedom, this very hour</lines>
+    </verse>
+    <verse name="c5">
+      <lines>I am, I am, I am, I am</lines>
+    </verse>
+  </lyrics>
+</song>

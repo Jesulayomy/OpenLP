@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>My Faith</title>
+    </titles>
+    <authors>
+      <author type="music">Marben Christopher Urgino</author>
+      <author type="words">Triumphant Voices</author>
+      <author type="music">Triumphant Voices</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will praise you<br/>With all my Heart<br/>I will Sing to you<br/>With all my Best</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I trust in you(4x)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My Faith is to believe in you<br/>You are my God<br/>And our Father Bring</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sacrifice<br/>Through His Son<br/>And I Found your Grace and Peace<br/>Through His love<br/>JESUS.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are Great God<br/>You are Almighty God<br/>Your my Savior</lines>
+    </verse>
+  </lyrics>
+</song>

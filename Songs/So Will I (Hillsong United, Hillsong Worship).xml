@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>So Will I</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5091"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+      <theme>jesus-return</theme>
+      <theme>church</theme>
+      <theme>creation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God of creation<br/>There at the start, before the beginning of time<br/>With no point of reference<br/>You spoke to the dark and fleshed out the wonder of light</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And as You speak<br/>A hundred billion galaxies are born<br/>In the vapour of Your breath the planets form<br/>If the stars were made to worship, so will I<br/>I can see Your heart in everything You've made<br/>Every burning star, a signal fire of grace<br/>If creation sings Your praises, so will I</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God of Your promise<br/>You don't speak in vain, no syllable empty or void<br/>For once You have spoken<br/>All nature and science, follow the sound of Your voice</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And as You speak<br/>A hundred billion creatures catch Your breath<br/>Evolving in pursuit of what You said<br/>If it all reveals Your nature, so will I<br/>I can see Your heart in everything You say<br/>Every painted sky, a canvas of Your grace<br/>If creation still obeys You, so will I<br/>(So will I, so will I)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>If the stars were made to worship, so will I<br/>If the mountains bow in reverence, so will I<br/>If the oceans roar Your greatness, so will I<br/>For if everything exists to lift You high, so will I<br/>And if the wind goes where You send it, so will I<br/>If the rocks cry out in silence, so will I<br/>If the sum of all our praises still falls shy<br/>Then we'll sing again a hundred billion times<br/>Whoa</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 3<br/>God of salvation<br/>You chased down my heart through all of my failure and pride<br/>On a hill You created<br/>The light of the world abandoned in darkness to die</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus: 3<br/>And as You speak<br/>A hundred billion failures disappear<br/>Where You lost Your life so I could find it here<br/>If You left the grave behind You, so will I<br/>I can see Your heart in everything You've done<br/>Every part designed in a work of art called love<br/>If You gladly chose surrender, so will I<br/>I can see in Your heart, eight billion different ways<br/>Every precious one, a child You died to save<br/>If You gave Your life to love them, so will I</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Ending:<br/>Like You would again a hundred billion times<br/>But what measure could amount to Your de - sire<br/>You're the One who never leaves the one behind</lines>
+    </verse>
+  </lyrics>
+</song>

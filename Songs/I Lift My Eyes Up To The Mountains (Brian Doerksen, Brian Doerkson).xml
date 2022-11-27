@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>I Lift My Eyes Up To The Mountains</title>
+    </titles>
+    <copyright>1990 Vineyard Songs Canada | ION Publishing</copyright>
+    <authors>
+      <author type="words">Brian Doerkson</author>
+      <author type="music">Brian Doerkson</author>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>guitar</theme>
+      <theme>hope</theme>
+      <theme>bible</theme>
+      <theme>worship</theme>
+      <theme>god-our-father</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lift my eyes up to the mountains<br/>Where does my help come from?<br/>My help comes from You, maker of heaven<br/>Creator of the earth</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, how I need you, Lord<br/>You are my only hope<br/>You're my only prayer<br/>So I will wait for You<br/>To come and rescue me<br/>Come and give me life</lines>
+    </verse>
+  </lyrics>
+</song>

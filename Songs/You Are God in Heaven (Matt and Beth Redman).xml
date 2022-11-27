@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>You Are God in Heaven</title>
+      <title>Let My Words Be Few, Stand In Awe Of You</title>
+    </titles>
+    <copyright>2000 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt and Beth Redman</author>
+      <author type="music">Matt and Beth Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are God in heaven,<br/>And here am I on earth,<br/>So I'll let my words be few;<br/>Jesus, I am so in love with You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I'll stand in awe of You.<br/>Yes, I'll stand in awe of You.<br/>And I'll let my words be few;<br/>Jesus, I am so in love with You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The simplest of all love songs<br/>I want to bring to You,<br/>So I'll let my words be few;<br/>Jesus, I am so in love with You.</lines>
+    </verse>
+  </lyrics>
+</song>

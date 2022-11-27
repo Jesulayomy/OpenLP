@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Missionary Anthem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse]<br/>For the Lamb has conqured<br/>I will follow him<br/>to the ends of the earth<br/>I will follow him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Chorus]<br/>Jesus You're worthy<br/>of every tribe and tongue<br/>All for your glory<br/>Till every soul is won</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Bridge]<br/>The harvest is ready<br/>We have to go<br/>We won't stop<br/>Till the whole world knows<br/>The power in Your blood<br/>To save every soul<br/>We're not ashamed of the gospel</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Outro]<br/>I will preach the gospel<br/>Die and be forgotten<br/>As long as you get the glory</lines>
+    </verse>
+  </lyrics>
+</song>

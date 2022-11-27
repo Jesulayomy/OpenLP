@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>We're gonna worship the King</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're gonna worship the King<br/>We're gonna praise His name<br/>We're gonna lift up holy hands<br/>We're gonna worship the King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're gonna praise Him in the morning<br/>Praise Him in the night<br/>Praise Him all day long<br/>We're gonna lift up the mighty name of Jesus<br/>You'll hear me singing this song</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Arms of Love</title>
+      <title>I sing a simple song of love</title>
+    </titles>
+    <copyright>1991 Mercy/Vineyard Publishing | Vineyard Songs Canada | ION Publishing</copyright>
+    <authors>
+      <author type="words">Craig Musseau</author>
+      <author type="music">Craig Musseau</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+      <theme>peace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I sing a simple song of love,<br/>To my Saviour, to my Jesus<br/>I'm grateful for the things You've done,<br/>My loving Saviour, O precious Jesus</lines>
+    </verse>
+    <verse name="p1">
+      <lines>My heart is glad that You've called me Your own<br/>There's no place I'd rather be,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Than in Your arms of love<br/>In Your arms of love<br/>Holding me still, holding me near,<br/>In Your arms of love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>God rest you merry, gentlemen</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>gospel</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>meditation</theme>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God rest you merry, gentlemen,<br/>Let nothing you dismay,<br/>For Jesus Christ our Saviour<br/>Was born upon this day,<br/>To save us all from Satan's power<br/>When we were gone astray:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O tidings of comfort and joy, comfort and joy,<br/>O tidings of comfort and joy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From God our heavenly Father<br/>A blessed angel came,<br/>And unto certain shepherds<br/>Brought tidings of the same,<br/>How that in Bethlehem was born<br/>The Son of God by name:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The shepherds at those tidings<br/>Rejoiced much in mind,<br/>And left their flocks a-feeding<br/>In tempest, storm and wind,<br/>And went to Bethlehem straightway,<br/>This blessed Babe to find:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>But when to Bethlehem they came,<br/>Whereat this Infant lay,<br/>They found Him in a manger,<br/>Where oxen feed on hay;<br/>His mother Mary kneeling,<br/>Unto the Lord did pray:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now to the Lord sing praises,<br/>All you within this place,<br/>And with true love and brotherhood<br/>Each other now embrace;<br/>This holy tide of Christmas<br/>All other doth deface:</lines>
+    </verse>
+  </lyrics>
+</song>

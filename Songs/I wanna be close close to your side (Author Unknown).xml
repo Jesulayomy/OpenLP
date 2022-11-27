@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>I wanna be close close to your side</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2555"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wanna be close close to your side<br/>Heaven is real and death is a lie<br/>I wanna hear voices of angels above<br/>Singing as one</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah Holy Holy<br/>God almighty Great I am<br/>Who is worthy<br/>None beside Thee<br/>God Almighty<br/>Great I Am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I wanna be near near to your heart<br/>Loving the world hating the dark<br/>I want to see dry bones living again<br/>Singing as one</lines>
+    </verse>
+    <verse name="b1">
+      <lines>The mountains shake before Him<br/>The demons run and flee<br/>At the mention of the name<br/>King of Majesty<br/>There is no power in hell<br/>Or any who can stand<br/>Before the power and the presence of the Great I am<br/>The Great I am The Great I am<br/>The Great I am The Great I am The Great I am</lines>
+    </verse>
+  </lyrics>
+</song>

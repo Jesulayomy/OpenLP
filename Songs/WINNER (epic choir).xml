@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:45">
+  <properties>
+    <titles>
+      <title>WINNER</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> God of Vengeance<br/>Has won my Battle for me<br/>God of Miracle<br/>Has won my Battle for me<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>{ He entered hell, he took the Keys<br/>He gave me oh<br/>I’m Free indeed<br/>He entered hell, he took the Keys<br/>He gave me oh<br/>I’m Free indeed } <br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>{ Only you deserve the Worship<br/>From my Heart<br/>Only you deserve the Worship<br/>From my Heart } </lines>
+    </verse>
+    <verse name="v5">
+      <lines>{ He entered hell, he took the Keys<br/>He gave me oh<br/>I’m Free indeed<br/>He entered hell, he took the Keys<br/>He gave me oh<br/>I’m Free indeed } </lines>
+    </verse>
+    <verse name="v6">
+      <lines>God of Vengeance<br/>Has won my Battle for me<br/>God of Miracle<br/>Has won my Battle for me<br/>(I’m a Winner Man, I’m a Winner Man<br/>He has won my Battle for me<br/>I’m a Winner Man, I’m a Winner Man<br/>He has won my Battle for me) </lines>
+    </verse>
+    <verse name="v7">
+      <lines>(Won, won, won, won, won it<br/>Won, won, won, won, won it) </lines>
+    </verse>
+    <verse name="v8">
+      <lines>God of Vengeance<br/>Has won my Battle for me<br/>God of Miracle<br/>Has won my Battle for me<br/>(I’m a Winner Man,<br/>I’m a Winner Man, )<br/>Has won my Battle for me</lines>
+    </verse>
+    <verse name="v9">
+      <lines>He entered hell, he took the Keys<br/>He gave me oh<br/>I’m Free indeed<br/>He entered hell, he took the Keys<br/>He gave me oh<br/>I'm free indeed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m a Winner Man, I’m a Winner Man<br/>He has won my Battle for me<br/>I’m a Winner Man, I’m a Winner Man<br/>He has won my Battle for me } </lines>
+    </verse>
+  </lyrics>
+</song>

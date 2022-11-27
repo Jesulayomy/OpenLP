@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>Look to the Lamb of God</title>
+    </titles>
+    <authors>
+      <author type="words">H. G. Jackson</author>
+      <author type="music">H. G. Jackson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1- If you from sin are longing to be free,<br/>Look to the Lamb of God;<br/>He, to redeem you, died on Calvary,<br/>Look to the Lamb of God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Look to the Lamb of God,<br/>Look to the Lamb of God,<br/>For He alone is able to save you<br/>Look to the Lamb of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2- When Satan tempts and doubts and fears assail,<br/>Look to the Lamb of God;<br/>You in His strength shall over all prevail,<br/>Look to the Lamb of God. (Chorus)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3- Are you aweary, does the way seem long?<br/>Look to the Lamb of God;<br/>His love will cheer and fill your heart with song,<br/>Look to the Lamb of God. (Chorus)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4- Fear not when shadows on your pathway fall,<br/>Look to the Lamb of God;<br/>In joy or sorrow Christ is all in all,<br/>Look to the Lamb of God. (Chorus)</lines>
+    </verse>
+  </lyrics>
+</song>

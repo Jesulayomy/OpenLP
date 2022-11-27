@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:04">
+  <properties>
+    <titles>
+      <title>Little Drummer Boy</title>
+    </titles>
+    <authors>
+      <author type="words">for KING &amp; COUNTRY</author>
+      <author type="music">for KING &amp; COUNTRY</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6226"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 verse:<br/>Come they told me, pa rum pum pum pum<br/>A newborn King to see, pa rum pum pum pum<br/>Our finest gifts we bring, pa rum pum pum pum<br/>To lay before the King, pa rum pum pum pum<br/>Rum pum pum pum, rum pum pum pum<br/>So to honor Him, pa rum pum pum pum<br/>When we come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse:<br/>Little Baby, pa rum pum pum pum<br/>I am a poor boy too, pa rum pum pum pum<br/>I have no gifts to bring, pa rum pum pum pum<br/>That's fit to give a King, pa rum pum pum pum<br/>Rum pum pum pum, rum pum pum pum<br/>Shall I play for you, pa rum pum pum pum<br/>On my drum</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3 verse:<br/>Mary nodded, pa rum pum pum pum<br/>The ox and lamb kept time, pa rum pum pum pum<br/>I played my drum for Him, pa rum pum pum pum<br/>I played my best for Him, pa rum pum pum pum<br/>Rum pum pum pum, rum pum pum pum<br/>Then He smiled at me, pa rum pum pum pum<br/>Me and my drum</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>The Great I Am</title>
+    </titles>
+    <authors>
+      <author type="words">Jake Hamilton</author>
+      <author type="music">Jake Hamilton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4000"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 Verse:<br/>Who was and is and is to come<br/>The Savior, Redeemer the Father the Son<br/>His Spirit is on me a fire within<br/>Creator, Sustainer, Beginning and End</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>The Great I Am, the Great I Am<br/>The Great I Am, the Great I Am</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 Verse:<br/>You are everything I will ever need<br/>To complete every thing You are asking of me<br/>I lay it all down for the sake of Your Name<br/>Here I am God, use me, set me aflame</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>The Great I Am, the Great I Am<br/>The Great I Am, the Great I Am</lines>
+    </verse>
+    <verse name="b1">
+      <lines>To Bridge:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>You are dancing and singing the Father's song<br/>You are dancing and singing the Father's song<br/>You are dancing and singing the Father's song<br/>You're rejoicing over me</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:<br/>You are a good, good Daddy<br/>You are a good, good Daddy<br/>You are a good, good Daddy<br/>You're rejoicing over me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Jesus Is All the World To Me</title>
+    </titles>
+    <authors>
+      <author type="words">Thompson, Will Lamartine (1847-1909)</author>
+      <author type="music">Thompson, Will Lamartine (1847-1909)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is all the world to me, My life, my joy, my all; He is my strength from day to day, Without Him I would fall. When I am sad, to Him I go, No other one can cheer me so; When I am sad, He makes me glad, He's my friend.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is all the world to me, my friend in trials sore; I go to Him for blessings and He gives them ov'r and o'er. He sends the sunshine and the rain, He sends the harvest's golden grain; Sunshine and rain, harvest of grain, He's my friend.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is all the world to me, and true to Him I'll be; O how could I this friend deny, when He's so true to me? Following Him I know I'm right, He watches o'er me day and night; Following Him, by day and night, He's my friend.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus is all the world to me, I want no better friend; I trust Him now, I'll trust Him when Life's fleeting days shall end. Beautiful life with such a friend; beautiful life that has no end; Eternal life, eternal joy, He's my friend.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Be Magnified</title>
+    </titles>
+    <copyright>1992 Integrity's Hosanna! Music</copyright>
+    <authors>
+      <author type="words">Lynn DeShazo</author>
+      <author type="music">Lynn DeShazo</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have made You too small in my eyes, O Lord, forgive me;<br/>And I have believed in a lie, That You were unable to help me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have leaned on the wisdom of men, O Lord, forgive me;<br/>And I have responded to them, Instead of Your light and Your mercy.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>But now, O Lord, I see my wrong, Heal my heart and show Yourself strong;<br/>And in my eyes and with my song,<br/>O Lord, be magnified;<br/>O Lord, be magnified.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be magnified, O Lord,You are highly exalted;<br/>And there is nothing You can't do, O Lord, my eyes are on You.<br/>Be magnified, O Lord, be magnified.</lines>
+    </verse>
+  </lyrics>
+</song>

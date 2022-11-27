@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>Praise God From Whom All Blessings Flow</title>
+    </titles>
+    <authors>
+      <author type="music">Genevan Psalter</author>
+      <author type="music">Bourgeois, Louis (1510-1561)</author>
+      <author type="words">Ken, Thomas (1637-1711)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise God from whom all blessings flow,<br/>Praise Him all creatures here below.<br/>Praise Him above you heavenly host,<br/>Praise Father, Son and Holy Ghost.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give glory to the Father,<br/>Give glory to the Son,<br/>Give glory to the Spirit,<br/>While endless ages run.<br/>"Worthy the Lamb" all heaven cries,<br/>"To be exalted thus":<br/>"Worthy the Lamb" our hearts reply,<br/>"For He was slain for us."</lines>
+    </verse>
+  </lyrics>
+</song>

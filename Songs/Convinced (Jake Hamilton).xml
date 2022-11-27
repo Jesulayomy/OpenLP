@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Convinced</title>
+    </titles>
+    <authors>
+      <author type="words">Jake Hamilton</author>
+      <author type="music">Jake Hamilton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3979"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1: (2x)<br/>For I am convinced, that when I pray, You hear me<br/>For I am convinced, that when I sing, You're near me<br/>And I believe...<br/>History belongs to those who pray   (4x)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus: (2x)<br/>I'm gonna pray til' Jesus comes<br/>I'm gonna pray til' Jesus comes<br/>I'm gonna pray til' Jesus comes<br/>I'm gonna pray...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>Your my rock, my sword, my shield, You are the only hand that heals<br/>You are the lily of the valley, The bright and morning star shine, shine<br/>You are the precious lamb of God, You are the first and last of all<br/>I don't care what they say, They're gonna hear me pray</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>In every congregation, In every denomination,<br/>In every church across the nation,  Let-Your-Glory-Fall</lines>
+    </verse>
+  </lyrics>
+</song>

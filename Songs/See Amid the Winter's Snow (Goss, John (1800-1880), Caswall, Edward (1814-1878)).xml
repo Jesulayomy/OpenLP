@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>See Amid the Winter's Snow</title>
+    </titles>
+    <authors>
+      <author type="music">Goss, John (1800-1880)</author>
+      <author type="words">Caswall, Edward (1814-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>See amid the winter's snow, born for us on earth below,<br/>See, the Lamb of God appears, promised from eternal years.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hail, thou ever-blessed morn!<br/>Hail, redemption's happy dawn!<br/>Sing through all Jerusalem,<br/>Christ is born in Bethlehem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lo, within a manger lies He who built the starry skies,<br/>He who, throned in height sublime, sits amid the cherubim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Say, ye holy shepherd, say, what your joyful new today;<br/>Wherefore have ye left your sheep on the lonely mountain steep?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As we watched at dread of night, lo, we saw a wondrous light:<br/>Angels singing "Peace on earth", told us of the Saviour's birth.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sacred infant, all divine, what a tender love was Thine,<br/>Thus to come from highest bliss down to such a world as this!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Teach, O teach us, holy child, by Thy face so meek and mild,<br/>Teach us to resemble Thee in Thy sweet humility.</lines>
+    </verse>
+  </lyrics>
+</song>

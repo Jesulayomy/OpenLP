@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Great is the Lord, He is holy and just</title>
+    </titles>
+    <copyright>1982 Meadowgreen Music Company (Admin. by EMI Christian Music Publishing)</copyright>
+    <authors>
+      <author type="words">Michael W. Smith</author>
+      <author type="music">Michael W. Smith</author>
+      <author type="words">Deborah D. Smith</author>
+      <author type="music">Deborah D. Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>violin</theme>
+      <theme>gods-might</theme>
+      <theme>heaven</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is the Lord, He is holy and just.<br/>By His power we trust in His love.<br/>Great is the Lord, He is faithful and true.<br/>By His mercy He proves He is love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great is the Lord and worthy of glory.<br/>Great is the Lord and worthy of praise.<br/>Great is the Lord, now lift up your voice,<br/>Now lift up your voice, great is the Lord.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Great are You Lord and worthy of glory.<br/>Great are You Lord and worthy of praise.<br/>Great are You Lord, I lift up my voice,<br/>I lift up my voice, great are You, Lord.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Great are You, Lord.<br/>Great are You, Lord.<br/>Great are You, Lord.<br/>Great are You, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

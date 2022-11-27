@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>More</title>
+    </titles>
+    <copyright>1994 Vineyard Songs Canada</copyright>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>More than oxygen, I need your love;<br/>More than life giving food the hungry dream of.<br/>More than an eloquent word depends on the tongue;<br/>More than a passionate song needs to be sung.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>More than a word could ever say<br/>More than a song could ever convey;<br/>I need You more than all of these things.<br/>Father I need You more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More than magnet and steel are drawn to unite.<br/>More than poets love words to rhyme as they write.<br/>More than comforting warmth of sun in spring.<br/>More than the eagle loves wind under its wings.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>More than a blazing fire on a winter's night,<br/>More than the tall evergreens reach for the light.<br/>More than the pounding waves long for the shore;<br/>More than these gifts you give, I love you more.</lines>
+    </verse>
+  </lyrics>
+</song>

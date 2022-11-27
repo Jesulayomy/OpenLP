@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>I can see it clearly now</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6131"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can see it clearly now<br/>There's a reason for this sound - It's Jesus<br/>At the core of who I am<br/>Is the risen son of man - It's Jesus</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You're like no other for your love is greater<br/>And you are the centre of it all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It's all about you, It's all about you<br/>It's all about you, It's all about you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I exist to bring you praise<br/>And to shout no other name but Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are the first, You are the last<br/>You are my future<br/>'Cause you took my past<br/>You are the reason why I sing</lines>
+    </verse>
+  </lyrics>
+</song>

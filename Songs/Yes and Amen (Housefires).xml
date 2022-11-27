@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Yes and Amen</title>
+    </titles>
+    <authors>
+      <author type="words">Housefires</author>
+      <author type="music">Housefires</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3558"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>Father of kindness<br/>you have poured out grace<br/>you brought me out of darkness<br/>you have filled me with peace<br/>Giver of mercy<br/>your my help in time of need<br/>Lord I can't help but sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Faithful, you are<br/>Faithful, forever, you will be<br/>Faithful, you are<br/>All your promises are "yes" and "amen"<br/>All your promises are "yes" and "amen"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse: 2<br/>Beautiful saviour<br/>you have brought me here<br/>you pulled me from the ashes<br/>you have broken every curse<br/>Blessed redeemer<br/>you have set this captive free<br/>Lord I can't help but sing</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Faithful, you are<br/>Faithful, forever, you will be<br/>Faithful, you are<br/>All your promises are "yes" and "amen"<br/>All your promises are "yes" and "amen"</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I will rest<br/>in your promises<br/>my confidence<br/>is your faithfulness</lines>
+    </verse>
+  </lyrics>
+</song>

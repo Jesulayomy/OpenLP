@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>There's No One Like Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's no one, there's no one like Jesus<br/>There's no one, there's no one like Jesus<br/>There's no one, there's no one like Jesus<br/>There's no one, there's no one like Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I walk I walk, here and there<br/>I search I search, everywhere<br/>I turn around, here and there but<br/>There's no one, there's no one like Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You came to earth, a world to save<br/>Was crucified then rose again<br/>You've taken all my sin and shame<br/>There's no one, there's no none like Him</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And one day soon, you'll come again<br/>And take us home to be with Him<br/>And we will all forever sing<br/>There's no one, there's no one like Him.</lines>
+    </verse>
+  </lyrics>
+</song>

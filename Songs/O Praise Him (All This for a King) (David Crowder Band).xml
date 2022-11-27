@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>O Praise Him (All This for a King)</title>
+    </titles>
+    <copyright>2003 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">David Crowder Band</author>
+      <author type="music">David Crowder Band</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Turn your ear to heaven and hear the noise inside:<br/>The sound of angels' awe, the sound of angels' songs,<br/>All this for a King; we could join and sing, all to Christ the King.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>How constant, how divine, this song of ours will rise.<br/>O, how constant, how divine, this love of ours will rise, will rise.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O praise Him! O praise Him! He is Holy! He is Holy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Turn your gaze to heaven and raise a joyous noise:<br/>The sound of salvation come, the sound of rescued ones,<br/>All this for a king; angels join to sing, all for Christ our King.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh, la, la, la, la, la, la.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>How infinite and sweet, this love so rescuing.<br/>O, how infinitely sweet, this great love that has redeemed.<br/>As one we sing:</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Alleluia! Alleluia! He is Holy! He is Holy!<br/>Alleluia! Alleluia! He is Holy! He is Holy!</lines>
+    </verse>
+  </lyrics>
+</song>

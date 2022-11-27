@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>For the One</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson &amp; Jenn Johnson</author>
+      <author type="music">Brian Johnson &amp; Jenn Johnson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4902"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Let me be filled<br/>With kindness and compassion for the one<br/>The one for whom you   loved and gave your son<br/>For humanity increase my love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Help me to love with open arms like you do<br/>A love that erases all the lines and sees the truth<br/>Oh that when they look in my eyes they would see You<br/>Even in just a smile they would feel the Father's love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Oh how you love us<br/>From the homeless to the famous and in-between<br/>You formed us, You   made us carefully<br/>'Cause    in the end, we're all your children</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Let all my life   tell of who you are<br/>And the wonder of Your    never-ending love<br/>Let all my life   tell of who you are<br/>You're wonderful and    such a good Father.</lines>
+    </verse>
+  </lyrics>
+</song>

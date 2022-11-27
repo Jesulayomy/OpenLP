@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Create In Me A Clean Heart</title>
+    </titles>
+    <copyright>1988 One Way Ministries</copyright>
+    <authors>
+      <author type="words">Keith Green</author>
+      <author type="music">Keith Green</author>
+      <author type="words">Andy Gilbert</author>
+      <author type="music">Andy Gilbert</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>christian-living</theme>
+      <theme>repentance</theme>
+      <theme>prayer</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>devotion</theme>
+      <theme>grace</theme>
+      <theme>gods-word</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//  Create in me a clean heart,  O God,<br/>And renew a right Spirit within me.  //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cast me not away from Your presence, O Lord,<br/>Take not Your Holy Spirit from me.<br/>Restore unto me the joy of Your salvation<br/>And renew a right spirit within me.</lines>
+    </verse>
+  </lyrics>
+</song>

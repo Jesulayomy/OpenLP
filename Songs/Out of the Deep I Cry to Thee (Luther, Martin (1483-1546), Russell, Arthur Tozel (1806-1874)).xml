@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Out of the Deep I Cry to Thee</title>
+      <title>From Depths of Woe I Cry to Thee</title>
+    </titles>
+    <authors>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="music">Luther, Martin (1483-1546)</author>
+      <author type="translate">Russell, Arthur Tozel (1806-1874)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Out of the deep I cry to Thee; O Lord God, hear my crying: Incline Thy gracious ear to me, With prayer to Thee applying. For if Thou fix Thy searching eye On all sin and iniquity, Who, Lord, can stand before Thee?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But love and grace with Thee prevail, O God, our sins forgiving; The holiest deeds can naught avail Of all before Thee living. Before Thee none can boast him clear; Therefore must each Thy judgment fear, And live on Thy compassion.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For this, my hope in God shall rest, Naught building on my merit; My heart confides, of Him possest, His goodness stays my spirit. His precious word assureth me; My solace, my sure Rock is he, Whereon my soul abideth.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And though I wait the livelong night And till the morn returneth, My heart undoubting trusts His might Nor in impatience mourneth. Born of His Spirit, Israel In the right Way thus fareth well, And on his God reposeth</lines>
+    </verse>
+    <verse name="v5">
+      <lines>What though our sins are manifold? Supreme His mercy reigneth; No limit can His hand withhold, Where evil most obtaineth. He the good Shepherd is alone, Who Israel will redeem and own, Forgiving all transgression.</lines>
+    </verse>
+  </lyrics>
+</song>

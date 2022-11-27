@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Let the River Flow</title>
+    </titles>
+    <copyright>1995 Mercy/Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Darrell Evans</author>
+      <author type="music">Darrell Evans</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the poor man say<br/>I am rich in him.<br/>Let the lost man say<br/>I am found in him.<br/>Oh, let the river flow.<br/>Let the blind man say<br/>I can see again.<br/>Let the dead man say<br/>I am born again.<br/>Oh, let the river flow.<br/>Oh, let the river flow.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let the river flow, let the river flow.<br/>Holy Spirit come, move in power.<br/>Let the river flow.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let the river flow, Let the river flow.<br/>Let the river flow, Let the river flow.<br/>Let the river flow, Let the river flow.<br/>Let the river flow.</lines>
+    </verse>
+  </lyrics>
+</song>

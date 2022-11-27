@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Never Gonna Stop Singing</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1600"/>
+    </songbooks>
+    <themes>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>You called us into darkness<br/>You reached out to save us</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>You conquored the grave you crossed the divide; lost in our sin<br/>You made us alive how can we ever hold it inside?  We can't hold back</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>We're gonna lift You higher, higher<br/>Hearts burning bright like a fire, fire<br/>Voices unite make it louder, louder<br/>We're never gonna stop the singing!<br/>We're never gonna stop the singing!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Set free no longer bound in chains<br/>You rescued me and called me by name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Every tribe, every tongue every heart will sing<br/>Every knee we will bown to the Risen King<br/>Lift Him up, lift Him up<br/>We're never gonna stop the singing<br/>Ooh we're never gonna stop</lines>
+    </verse>
+  </lyrics>
+</song>

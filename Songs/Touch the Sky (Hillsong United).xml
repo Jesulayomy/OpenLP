@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Touch the Sky</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="195"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>What fortunes lies beyond the stars<br/>Those dazzling heights too vast to climb<br/>I got so high to fall so far<br/>But I found heaven as love swept low</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>My heart beating, my soul breathing<br/>I found my life when I laid it down<br/>Upward falling, spirit soaring<br/>I touch the sky when my knees hit the ground</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>What treasure waits within Your scars<br/>This gift of freedom gold can&amp;amp;#039;t buy<br/>I bought the world and sold my heart<br/>You traded heaven to have me again</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Find me here at Your feet again<br/>Everything I am, reaching out, I surrender<br/>Come sweep me up in Your love again<br/>And my soul will dance<br/>On the wings of forever</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Ending:<br/>Upward falling, spirit soaring<br/>I touch the sky<br/>When my knees hit the ground</lines>
+    </verse>
+  </lyrics>
+</song>

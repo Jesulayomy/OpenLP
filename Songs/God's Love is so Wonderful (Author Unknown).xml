@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>God's Love is so Wonderful</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God's love is so wonderful (3x)<br/>Oh! Wonderful love!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So high, you can't get over it (3x)<br/>Oh! Wonderful love!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So deep, you can't get under it (3x)<br/>Oh! Wonderful love!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So wide, you can't get around it (3x)<br/>Oh! Wonderful love!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God's love is so wonderful (3x)<br/>Oh! Wonderful love</lines>
+    </verse>
+  </lyrics>
+</song>

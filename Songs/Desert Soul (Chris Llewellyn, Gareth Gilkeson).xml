@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Desert Soul</title>
+    </titles>
+    <copyright>Capitol Christian Music Group</copyright>
+    <authors>
+      <author type="words">Chris Llewellyn</author>
+      <author type="music">Chris Llewellyn</author>
+      <author type="words">Gareth Gilkeson</author>
+      <author type="music">Gareth Gilkeson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You Lord<br/>But I want to love You more<br/>I need You God<br/>But I want to need You more</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I'm desperate for a desperate heart<br/>I'm reaching out, I'm reaching</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All that I am is dry bones<br/>Without You Lord, a desert soul<br/>I am broken but running<br/>Towards You God, You make me whole</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm lost without<br/>Your creative spark in me, recreate me<br/>I'm dead inside<br/>Unless Your resurrection sings</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are exactly what we need<br/>Only You can satisfy<br/>You are exactly what we need<br/>Only You can satisfy</lines>
+    </verse>
+  </lyrics>
+</song>

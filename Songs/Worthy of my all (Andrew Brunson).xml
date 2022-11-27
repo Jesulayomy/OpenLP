@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Worthy of my all</title>
+    </titles>
+    <authors>
+      <author type="words">Andrew Brunson</author>
+      <author type="music">Andrew Brunson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are worthy, worthy of my all<br/>My tears and pain I lift up as an offering<br/>Teach me to share in the fellowship of your suffering<br/>Lamb of God, You are worthy of my all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are worthy, worthy of my all<br/>Adopted as a son, a brother to my King<br/>Indeed I will share in Your glory if I share Your suffering<br/>Jesus, you are worthy of my all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are worthy, worthy of my all<br/>But my heart faints, drowned in sorrow, overwhelmed<br/>Make me like You, Cross-bearer, persevering, faithful to the end<br/>To stand the trial and receive the crown of life.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are worthy, worthy of my all<br/>This is my declaration in the darkest hour<br/>Jesus, the Faithful One who loves me, always good and true<br/>You made me yours, You are worthy of my all.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are worthy, worthy of my all<br/>You are worthy, worthy of my all<br/>What can I give to the Son of God, who gave Himself for me?<br/>Here I am, You are worthy of my all.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I want to be found worthy to stand before You on that day<br/>With no regrets from cowardice, things left undone<br/>To hear You say, "Well done, my faithful friend, now enter your reward"<br/>Jesus, my joy, You are the prize I'm running for.<br/>Jesus, my joy, You are the prize I'm running for.</lines>
+    </verse>
+  </lyrics>
+</song>

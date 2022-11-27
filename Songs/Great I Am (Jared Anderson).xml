@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Great I Am</title>
+    </titles>
+    <authors>
+      <author type="words">Jared Anderson</author>
+      <author type="music">Jared Anderson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1801"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>easter</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>I wanna be close - close to Your side<br/>So Heaven is real and death is a lie<br/>I wanna hear voices of angels above<br/>Singing as one</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus: 1<br/>Hallelujah holy holy<br/>God Almighty great I Am<br/>Who is worthy none beside Thee<br/>God Almighty great I Am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(to Instrumental second time)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>I wanna be near - near to Your heart<br/>Loving the world hating the dark<br/>I wanna see dry bones living again<br/>Singing as one</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Instrumental</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>The mountains shake before You, There demons run and flee<br/>At the mention of Your name King of majesty<br/>There is no power in hell or any who can stand<br/>Before the power and the Presence of the great I Am<br/>The great I Am (5X)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus: 2<br/>Hallelujah holy holy<br/>God Almighty great I Am<br/>Who is worthy none beside Thee<br/>God Almighty great I Am<br/>The great I Am<br/>The great I Am<br/>The great I Am</lines>
+    </verse>
+  </lyrics>
+</song>

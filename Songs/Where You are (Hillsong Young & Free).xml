@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Where You are</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Young &amp; Free</author>
+      <author type="music">Hillsong Young &amp; Free</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2915"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>I lived, Heart on a wire<br/>Hand in the fire for so long<br/>But You've shown me better, A new kind of love<br/>It's ever the one, I want</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>I'm lifting you higher, higher<br/>There's nothing that I'd rather do<br/>A sweet elevation of praises<br/>There's no one I love more than You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I never knew a-<br/>Love like this before, The kind of life that-<br/>I cannot find on my own, I've seen the world but I have-<br/>Never been so sure, That I want Your-<br/>Heart, God I just want to be where You are<br/>Where You are, I just want to be where You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Your love, like nothing I've seen<br/>My wildest of dreams don't come close<br/>Life never no better than living like this<br/>I cannot resist You Lord</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>And after all this time with You by my side<br/>I can't imagine what it'd be like on my own<br/>I've made up my heart, this love is all I've got<br/>And You're the only one I know worth living for</lines>
+    </verse>
+  </lyrics>
+</song>

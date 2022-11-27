@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>I Can't Believe</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2588"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>gospel</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>forgiveness</theme>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+      <theme>holy-spirit</theme>
+      <theme>baptism</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE<br/>In the fall you were there<br/>Grace began before I was aware<br/>A shame too great for me to hide<br/>Covered now because of Jesus Christ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>I can't believe<br/>The price you paid for me<br/>What you did not owe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So that I could know you<br/>How can it be<br/>You chose someone like me<br/>To declare your praise<br/>For the glory of your name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE<br/>To the one who gave it all<br/>I belong with all my heart and soul<br/>And every gain I count as loss<br/>When I survey the wonder of the cross</lines>
+    </verse>
+    <verse name="v5">
+      <lines>BRIDGE<br/>You gave your life upon a cross<br/>To make your home within my heart<br/>Oh what a faithful God you are<br/>Your praise forever in my heart</lines>
+    </verse>
+  </lyrics>
+</song>

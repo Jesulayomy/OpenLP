@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-08-07T10:18:55">
+  <properties>
+    <titles>
+      <title>Yaweh</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 v4 v3 v5 v3 v6 v7 v8 v6</verseOrder>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our God is indescribable<br/>His name is hallowed in the firmament<br/>He’s the Passover Lamb through space and time</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So from the pages of my heart<br/>Let my worship begin but never end…oh oh oh<br/>So from the pages of my heart<br/>Let my worship begin but never end to the God of all flesh<br/><br/><br/><br/><br/>For He’s my God and His name is Yahweh<br/>His name is Yahweh, Yahweh</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your majesty revealed to all<br/>Your love is so so overwhelming<br/>To your government, there is no end</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah  Amen<br/>Hallelujah Amen<br/>Hallelujah Amen<br/>Sing hallelujah Amen</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are the mighty God, the great I am<br/>Hallelujah <br/>Hallelujah </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your name is a strong tower Jesus<br/>To you belong all power Jesus <br/>Whenever I call your name<br/>You make a way<br/>Your name is a strong tower </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yeshua Hamasiach<br/>Lion of Judah<br/>Agunechemba</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are the God who parted who parted the red Sea<br/>You are the God<br/>You are the God<br/>You are the God </lines>
+    </verse>
+    <verse name="v8">
+      <lines>You are the God who fight my battle<br/>You are the God who fight my battle<br/>You are  the God <br/>You are the God <br/>You are the God</lines>
+    </verse>
+  </lyrics>
+</song>

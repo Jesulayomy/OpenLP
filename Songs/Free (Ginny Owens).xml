@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Free</title>
+    </titles>
+    <authors>
+      <author type="words">Ginny Owens</author>
+      <author type="music">Ginny Owens</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Turning mole-hills into mountains.<br/>Making big deals out of small ones.<br/>Bearing gifts as if they're burdens.<br/>This is how it's been.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fear of coming out of my shell.<br/>Too many things I can;t do too well.<br/>'fraid I'll try real hard and then I'll fail.<br/>This is how it's been.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>'Til the day You pounded on my heart's door.<br/>And You shouted joyfully, you're not a slave anymore!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're free to dance; forget about your two left feet.<br/>And you're free sing to sing; your joyful noise is music to me.<br/>Free to love, 'cus I have given you my love and it has made you free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My mind finds hard to believe that<br/>You'd become humanity and<br/>Change the course of history<br/>Because You loved me so.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And my heart cannot understand why You'd<br/>Accept me as I am, but, you see,<br/>You've always had a plan and that's<br/>All I need to know.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>So when I am consumed by what the world will say,<br/>It's then You're singing to me as You remove my chains.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Free from worry, free from envy and denial.<br/>Free to laugh, free to give, free to smile.</lines>
+    </verse>
+  </lyrics>
+</song>

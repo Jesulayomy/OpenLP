@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:49">
+  <properties>
+    <titles>
+      <title>Come see the beauty of the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+    </authors>
+    <themes>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come see the beauty of the Lord, (echo)<br/>Come see the beauty of His face. (echo)<br/>See the Lamb that once was slain, (echo)<br/>See on His palms is carved your name. (echo)<br/>See how our pain has pierced His heart, (echo)<br/>And on His brow He bears our pride; (echo)<br/>A crown of thorns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But only love pours from His heart, (echo)<br/>As silently He takes the blame. (echo)<br/>He has my name upon His lips, (echo)<br/>My condemnation falls on Him. (echo)<br/>This love is marvellous to me, (echo)<br/>His sacrifice has set me free (echo)<br/>And now I live!</lines>
+    </verse>
+  </lyrics>
+</song>

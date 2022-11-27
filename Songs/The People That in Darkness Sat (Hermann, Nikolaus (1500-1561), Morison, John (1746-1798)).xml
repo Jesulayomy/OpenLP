@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The People That in Darkness Sat</title>
+    </titles>
+    <authors>
+      <author type="music">Hermann, Nikolaus (1500-1561)</author>
+      <author type="words">Morison, John (1746-1798)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The people that in darkness sat A glorious light have seen; The light has shined on them who long In shades of death have been. In shades of death have been.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To hail Thee, Sun of Righteousness, The gath'ring nations come; They joy as when the reapers bear Their harvest treasures home. Their harvest treasures home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For Thou their burden dost remove And break the tyrant's rod As in the day when Midian fell Before the sword of God. Before the sword of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To us a Child of hope is born, To us a Son is giv'n, And on His shoulder ever rests All pow'r in earth and heav'n. All pow'r in earth and heav'n.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His name shall be the Prince of Peace, The Everlasting Lord, The Wonderful, the Counselor. The God by all adored. The God by all adored.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>His righteous government and power<br/>Shall over all extend;<br/>On judgment and on justice based,<br/>His reign shall have no end.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lord Jesus, reign in us, we pray,<br/>And make us Thine alone,<br/>Who with the Father ever art<br/>And Holy Spirit, one.</lines>
+    </verse>
+  </lyrics>
+</song>

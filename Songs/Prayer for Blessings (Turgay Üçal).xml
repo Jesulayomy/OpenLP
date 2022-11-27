@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>Prayer for Blessings</title>
+    </titles>
+    <authors>
+      <author type="translate">Turgay Üçal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Moda Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, Son and Holy Spirit<br/>In him, the one and only God<br/>Let there be grace and blessings<br/>May his light shine in all the world</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father, Son and Holy Spirit<br/>In him, the one and only God<br/>May all hearts be filled with love<br/>And all future days with light</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>Take Thou My Hand and Lead Me</title>
+      <title>O Take My Hand, Dear Father, Lord Take My Hand and Lead Me</title>
+    </titles>
+    <authors>
+      <author type="music">Silcher, Friedrich (1789-1860)</author>
+      <author type="words">von Hausmann, Julie Katharina (1826-1901)</author>
+      <author type="translate">Horstmann, Julius Herman Edward (1869-1954)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take Thou my hand, and lead me o'er life's rough way, with Heav'nly Manna feed me from day to day. Alone my footsteps falter and straggle wide, Lord who my life canst alter be Thou my guide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take Thou my heart and hide it in folds of grace Though pain or woe betide it to know Thy face Draw, Lord, of Thy good pleasure Thy child to Thee, And grant me faith's full measure though naught I see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though oft I think Thou hidest Thy wondrous might, Still to my goal Thou guidest me through dark night, Take, then, my hands and lead me till life is o'er, With heav'nly manna feed me forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

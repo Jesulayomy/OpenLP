@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>In majesty He will come</title>
+    </titles>
+    <authors>
+      <author type="words">Sandi Patty</author>
+      <author type="music">Sandi Patty</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>In majesty He will come<br/>With the sound of the trumpet<br/>To claim the redeemed<br/>In majesty He will come<br/>Jesus the Savior eternal King<br/>Every knee in heaven and earth will bow<br/>To this most Holy One<br/>In majesty He will come</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Born of a mighty God<br/>Sent from His heavenly throne<br/>Given to reign over kings and priests<br/>The sins of man to atone<br/>The Messiah will return<br/>The hour unknownto men<br/>A fanfare of praise will inhabit the earth<br/>As creation rejoices in Him</lines>
+    </verse>
+  </lyrics>
+</song>

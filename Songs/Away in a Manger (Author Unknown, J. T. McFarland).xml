@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>Away in a Manger</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+      <author>J. T. McFarland</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Away in a manger,<br/>No crib for a bed,<br/>The little Lord Jesus<br/>Laid down His sweet head;<br/>The stars in the bright sky<br/>Looked down where He lay;<br/>The little Lord Jesus<br/>Asleep on the hay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The cattle are lowing, the Baby awakes,<br/>But little Lord Jesus, no crying He makes:<br/>I love You, Lord Jesus! Look down from the sky<br/>And stay by my side until morning is nigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be near me, Lord Jesus: I ask You to stay<br/>Close by me forever and love me, I pray;<br/>Bless all the dear children in Your tender care,<br/>And fit us for heaven to live with You there.</lines>
+    </verse>
+  </lyrics>
+</song>

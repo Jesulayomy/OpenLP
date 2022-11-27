@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-08-07T08:22:23">
+  <properties>
+    <titles>
+      <title>Hymn 12 - O Lord of Heav'n and Earth and Sea</title>
+    </titles>
+    <authors>
+      <author type="music">Meyer, Johann David (1636-1696)</author>
+      <author type="words">Wordsworth, Christopher (1807-1885)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord of Heav'n and earth and sea,<br/>To Thee all praise and glory be; <br/>How shall we show our love to Thee, <br/>Giver of all?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The golden sunshine, vernal air, <br/>Sweet flow'rs and fruits, Thy love declare; <br/>Where harvests ripen, Thou art there, <br/>Giver of all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For peaceful homes and healthful days, <br/>For all the blessings earth displays, <br/>We owe Thee thankfulness and praise, <br/>Giver of all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou didst not spare Thine only Son, <br/>But gav'st Him for a world undone, <br/>And freely, with that blessèd One, <br/>Thou givest all.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thou giv'st the Spirit's blessèd dow'r, <br/>Spirit of life and love and pow'r, <br/>And dost His sev'nfold graces show'r <br/>Upon us all.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>For souls redeemed, for sins forgiv'n,<br/>For means of grace and hopes of Heav'n,<br/>Father, all praise to Thee be giv'n,<br/>Who givest all.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We lose what on ourselves we spend,<br/>We have as treasure without end<br/>Whatever, Lord, to Thee we lend,<br/>Who givest all.</lines>
+    </verse>
+    <verse name="v8">
+      <lines> Whatever, Lord we lend to Thee,<br/>Repaid a thousandfold will be,<br/>Then </lines>
+    </verse>
+    <verse name="v9">
+      <lines>To Thee, from Whom we all derive<br/>Our life, our gifts, our power to give:<br/>O may we ever with Thee live,<br/>Who givest all.</lines>
+    </verse>
+  </lyrics>
+</song>

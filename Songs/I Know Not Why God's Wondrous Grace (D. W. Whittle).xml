@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>I Know Not Why God's Wondrous Grace</title>
+    </titles>
+    <authors>
+      <author>D. W. Whittle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know not why God's wondrous grace<br/>To me hath been made known;<br/>Nor why, unworthy as I am,<br/>He claimed me for His own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But I know whom I have believed;<br/>And am persuaded that He is able<br/>To keep that which I’ve committed<br/>Unto Him against that day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know not how this saving faith<br/>To me He did impart;<br/>Or how believing in His word<br/>Wrought peace within my heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know not how the Spirit moves,<br/>Convincing men of sin;<br/>Revealing Jesus through the word,<br/>Creating faith in Him.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I know not what of good or ill<br/>May be reserved for me,<br/>Of weary ways or golden days<br/>Before His face I see.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I know not when my Lord may come;<br/>I know not how, nor where;<br/>If I shall pass the vale of death,<br/>Or ‘meet Him in the air’.</lines>
+    </verse>
+  </lyrics>
+</song>

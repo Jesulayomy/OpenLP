@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>You Raise Me Up</title>
+    </titles>
+    <authors>
+      <author type="words">Josh Groban</author>
+      <author type="music">Josh Groban</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>meditation</theme>
+      <theme>comfort</theme>
+      <theme>difficulties</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I am down and oh, my soul so weary<br/>When troubles come and my heart burdened be<br/>Then I am still and wait here in the silence<br/>Until You come and sit awhile with me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You raise me up so I can stand on mountains<br/>You raise me up to walk on stormy seas<br/>I am strong when I am on Your shoulders<br/>You raise me up to more than I can be</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is no life, no life without its hunger<br/>Each restless heart beats so imperfectly<br/>But when You come and I am filled with wonder<br/>Sometimes, I think I glimpse eternity</lines>
+    </verse>
+  </lyrics>
+</song>

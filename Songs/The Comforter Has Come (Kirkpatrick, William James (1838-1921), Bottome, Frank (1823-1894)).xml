@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The Comforter Has Come</title>
+    </titles>
+    <authors>
+      <author type="music">Kirkpatrick, William James (1838-1921)</author>
+      <author type="words">Bottome, Frank (1823-1894)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O spread the tidings 'round, wherever man is found, Wherever human hearts and human woes abound; Let ev'ry Christian tongue proclaim the joyful sound: The Comforter has come! The Comforter has come, The Comforter has come! The Holy Ghost from heav'n, The Father's promise giv'n; O spread the tidings 'round, Wherever man is found: The Comforter has come!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The long, long night is past, the morning breaks at last, And hush'd the dreadful wail and fury of the blast, As o'er the golden hills the day advances fast! The Comforter has come! The Comforter has come, The Comforter has come! The Holy Ghost from heav'n, The Father's promise giv'n; O spread the tidings 'round, Wherever man is found: The Comforter has come!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lo, the great King of kings, with healing in His wings, To ev'ry captive soul a full deliv'rance brings; And thro' the vacant cells the song of triumph rings; The Comforter has come! The Comforter has come, The Comforter has come! The Holy Ghost from heav'n, The Father's promise giv'n; O spread the tidings 'round, Wherever man is found: The Comforter has come!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O boundless love divine! how shall this tongue of mine To wond'ring mortals tell the matchless grace divine; That I, a child of hell, should in His image shine! The Comforter has come! The Comforter has come, The Comforter has come! The Holy Ghost from heav'n, The Father's promise giv'n; O spread the tidings 'round, Wherever man is found: The Comforter has come!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sing, till the echoes fly above the vaulted sky, And all the saints above to all below reply, In strains of endless love the song that ne'er will die: The Comforter has come! The Comforter has come, The Comforter has come! The Holy Ghost from heav'n, The Father's promise giv'n; O spread the tidings 'round, Wherever man is found: The Comforter has come!</lines>
+    </verse>
+  </lyrics>
+</song>

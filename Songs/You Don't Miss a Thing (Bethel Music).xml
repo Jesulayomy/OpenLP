@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>You Don't Miss a Thing</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1118"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>When You stand<br/>I feel the floor of Heaven tremble<br/>As You breathe<br/>We live and have our being, oh<br/>When you speak<br/>Oh I feel it in my chest<br/>When You sing<br/>All my fears are put to rest</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>What a wondrous thing<br/>I can stand to sing<br/>'Cause when I fall to my knees<br/>You're the One who pulls me up again<br/>What a mystery<br/>That You notice me<br/>And in a crowd of ten thousand<br/>You don't miss a thing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh oh, oh oh<br/>You don't miss a thing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2 (as verse 1)<br/>When You sigh<br/>The wind becomes a sonnet<br/>When You laugh<br/>The storm around me ceases<br/>You whisper<br/>And all my enemies are scattered<br/>You surround me<br/>With angels on assignment</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chorus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You see everything<br/>Yeah I am seen, and I am known<br/>By the King of kings and the Lord of lords</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge: (Spontaneous)<br/>There's no place I can go that Your love won't find me<br/>No place I can hide that You don't see<br/>No place I could fall and Your love couldn't catch me<br/>You see it all, You see it all<br/>Through the eyes of love, oh whoa, oh oh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There's no place I can go that Your love won't find me<br/>No place I could hide that You can't see<br/>No place I could fall and Your love wouldn't catch me<br/>You see it all, You see it all<br/>And You're in everything and all around me, yeah</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When I was dry, still You pursued</lines>
+    </verse>
+    <verse name="v8">
+      <lines>There's no place I can go that Your love won't find me<br/>No place I can hide that You don't see<br/>When I'm misunderstood, Your love understands me<br/>You see it all, You see it all<br/>You're in everything, oh</lines>
+    </verse>
+    <verse name="v9">
+      <lines>You're all around me, You surround me<br/>Would You soar, would You soar, oh oh oh oh</lines>
+    </verse>
+    <verse name="v10">
+      <lines>There's no place I can go that You won't find me<br/>There's no place I could hide that You don't see<br/>No place I could fall and Your love wouldn't catch me<br/>You see it all, You see it all<br/>Through the eyes of love</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Ending:<br/>So come and see me, come and know me<br/>Come and search my heart and make me like You, like You<br/>I just want to be like You</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Come and see me, come and know me<br/>Come and search my heart, and make me new, make me new<br/>I want it, just like You</lines>
+    </verse>
+  </lyrics>
+</song>

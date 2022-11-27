@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Living With A Fire</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4119"/>
+    </songbooks>
+    <themes>
+      <theme>gospel</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 01</lines>
+    </verse>
+    <verse name="v2">
+      <lines>THERE'S A POWER THAT'S MADE PERFECT IN MY WEAKNESS<br/>FILLS ME UP WITH A STRENGTH THAT IS FEARLESS<br/>I FIND HOPE WITHIN YOUR EVERLASTING PROMISE<br/>IT FANS MY FAITH INTO FLAME</lines>
+    </verse>
+    <verse name="v3">
+      <lines>CHORUS</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'M LIVING WITH A FIRE BURNING INSIDE OF ME<br/>I'M LIVING FOR THE SAVIOUR JESUS ETERNALLY<br/>WITH ALL THAT I AM LORD I GIVE YOU MY HEART<br/>LET THE FLAME SHINE BRIGHTER. LET YOUR PRAISE SING LOUDER.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE 02</lines>
+    </verse>
+    <verse name="v6">
+      <lines>IN A MOMENT YOU TURN MOURNING INTO DANCING<br/>WHEN I PRAISE I CAN FEEL THE DARKNESS TREMBLING<br/>ALL MY FEAR IS SWEPT AWAY BY PERFECT LOVE<br/>YOU FAN MY FAITH INTO FLAME</lines>
+    </verse>
+    <verse name="v7">
+      <lines>BRIDGE</lines>
+    </verse>
+    <verse name="v8">
+      <lines>NO DARKNESS CAN STAND AGAINST THIS BRIGHTER GLORY<br/>HIS PROMISE IS SURE JESUS DECIDES MY STORY</lines>
+    </verse>
+  </lyrics>
+</song>

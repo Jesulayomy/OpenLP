@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>Love Divine</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love divine, all loves excelling,<br/>Joy of heaven to earth come down!<br/>Fix in us Thy humble dwelling,<br/>All Thy faithful mercies crown.<br/>Jesus, Thou art all compassion,<br/>Pure unbounded love Thou art;<br/>Visit us with Thy salvation,<br/>Enter every trembling heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Breathe, O breathe Thy loving Spirit<br/>Into every troubled breast!<br/>Let us all in Thee inherit,<br/>Let us find Thy promised rest.<br/>Take away the love of sinning;<br/>Alpha and Omega be;<br/>End of faith, as its beginning,<br/>Set our hearts at liberty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come, Almighty to deliver,<br/>Let us all Thy grace receive;<br/>Suddenly return, and never,<br/>Never more Thy temples leave.<br/>Thee we would be always blessing,<br/>Serve Thee as Thy hosts above,<br/>Pray, and praise Thee without ceasing,<br/>Glory in Thy perfect love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Finish then Thy new creation,<br/>Pure and spotless let us be;<br/>Let us see Thy great salvation<br/>Perfectly restored in Thee!<br/>Changed from glory into glory,<br/>Till in heaven we take our place;<br/>Till we cast our crowns before Thee,<br/>Lost in wonder, love and praise.</lines>
+    </verse>
+  </lyrics>
+</song>

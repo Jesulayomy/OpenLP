@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>There is a Name I Love to Hear</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Frederick Whitfield</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a name I love to hear,<br/>I love to speak its worth;<br/>It sounds like music in my ear,<br/>The sweetest name on earth.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, how I love the Saviour’s name,<br/>O, how I love the Saviour’s name,<br/>O, how I love the Saviour’s name,<br/>The sweetest name on earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It tells me of a Saviour’s love,<br/>Who died to set me free;<br/>It tells me of His precious blood,<br/>The sinner’s perfect plea.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It tells of One whose loving heart<br/>Can feel my deepest woe;<br/>Who in my sorrow bears a part<br/>That none can bear below.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It bids my trembling heart rejoice,<br/>It dries each rising tear;<br/>It tells me in a still, small voice<br/>To trust and never fear.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, the name I love so well,<br/>The name I love to hear!<br/>No saint on earth its worth can tell,<br/>No heart conceive how dear!</lines>
+    </verse>
+  </lyrics>
+</song>

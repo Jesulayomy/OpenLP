@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Presence (My Heart's Desire)</title>
+    </titles>
+    <authors>
+      <author type="words">Newsboys</author>
+      <author type="music">Newsboys</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lift up my voice to the King, King of Glory.<br/>I hold out my hands to the One who is worthy.<br/>I long for Your presence.<br/>I long, Lord I need Your touch.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come, O Lord, and fill up my life<br/>With the light of Your presence; This is my heart's desire.<br/>Come and let your Spirit abide.<br/>I long for your presence; This is my heart's desire.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I long to be washed in the well of your mercy.<br/>I long to be warmed by the fire of your glory.<br/>I long for your presence.<br/>I long for your healing touch.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>It's my desire.<br/>Lord, you're my desire.<br/>I wanna feel your presence.<br/>I wanna feel your presence.<br/>I wanna feel your presence.<br/>I wanna feel your presence.</lines>
+    </verse>
+  </lyrics>
+</song>

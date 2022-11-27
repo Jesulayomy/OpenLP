@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Take us to the River</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take us to the river<br/>Take us there in unity to sing<br/>a song of Your salvation<br/>To win this generation for our King<br/>A song of Your forgiveness<br/>For it is with grace that river flows<br/>Take us to the river<br/>In the city of our God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Spirit of the sovereign Lord is upon us<br/>This is the year of the Lord<br/>The Spirit of the sovereign Lord is upon us<br/>This is the year of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take us to the throne room<br/>And give us ears to hear the cry of Heaven<br/>For that cry is mercy<br/>Mercy to the fallen sons of men<br/>Mercy it has triumphed<br/>Triumphed over judgement<br/>by Your blood<br/>Take us to the throne room<br/>in the city of our God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take us to the mountain<br/>Lift us in the shadow of Your hand<br/>Is this Your mighty angel<br/>Who stands astride the ocean and the land<br/>In His hand Your mercy<br/>showers O'er a dry and barren place<br/>Take us to the mountain<br/>In the city of our God</lines>
+    </verse>
+  </lyrics>
+</song>

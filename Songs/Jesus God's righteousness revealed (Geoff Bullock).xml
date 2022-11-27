@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Jesus God's righteousness revealed</title>
+    </titles>
+    <authors>
+      <author type="words">Geoff Bullock</author>
+      <author type="music">Geoff Bullock</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, God's righteousness revealed,<br/>The Son of Man, the Son of God,<br/>His Kingdom come.<br/>Jesus, redemption's sacrifice,<br/>Now glorified, now justified<br/>His Kingdom come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And this Kingdom will know no end,<br/>And it's glory shall know no bounds.<br/>For the majesty and power<br/>Of this Kingdom's King has come.<br/>And this Kingdom's reign,<br/>And this Kingdom's rule,<br/>And this Kingdom's power and authority<br/>Jesus, God's righteousness revealed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, the expression of God's love,<br/>The Grace of God, the Word of God, revealed to us.<br/>Jesus, God's holiness displayed,<br/>Now glorified, now justified, His Kingdom come.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And this Kingdom will know no end,<br/>And it's glory shall know no bounds.<br/>For the majesty and power<br/>Of this Kingdom's King has come.<br/>And this Kingdom's reign,<br/>And this Kingdom's rule,<br/>And this Kingdom's power and authority<br/>Jesus, God's righteousness revealed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, God's righteousness revealed.<br/>Jesus, God's righteousness revealed</lines>
+    </verse>
+  </lyrics>
+</song>

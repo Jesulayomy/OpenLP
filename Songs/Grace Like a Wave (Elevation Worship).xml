@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Grace Like a Wave</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1914"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>salvation</theme>
+      <theme>forgiveness</theme>
+      <theme>thanksgiving</theme>
+      <theme>baptism</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>You have brought me to the water<br/>Where my past can be swept away<br/>In the current of your mercy<br/>And I know I'll never be the same<br/>There's no limit to your promise<br/>Jesus you have done it all for me<br/>Jesus you have done it all for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Grace comes like a wave<br/>Crashing over me<br/>Grace comes like a wave<br/>Crashing over and over and over</lines>
+    </verse>
+    <verse name="v3">
+      <lines>TURN:<br/>| F# | G# . A#m . | C#/F | F# . F# . |</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse: 2<br/>I will jump into the water<br/>Where my soul can be satisfied<br/>And your love is overflowing<br/>From within me and it won't run dry<br/>There's no limit to your promise<br/>Jesus you have done it all for me<br/>Jesus you have done it all for me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus: 2X<br/>Grace comes like a wave<br/>Crashing over me<br/>Grace comes like a wave<br/>Crashing over and over and over</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:<br/>| F# | . . G# . | A#m | A#m |<br/>| F# | . . G# . | C#/F | F# |</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>There's healing in the water<br/>With a love that flows so deep<br/>Wash over me<br/>Wash over me<br/>Forgiveness in the water<br/>With a love that flows so deep<br/>Wash over me<br/>Wash over me<br/>Salvation in the water<br/>With a love that flows so deep<br/>Wash over me<br/>Wash over me</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus: 2X<br/>Grace comes like a wave<br/>Crashing over me<br/>Grace comes like a wave<br/>Crashing over and over and over</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Outro:</lines>
+    </verse>
+  </lyrics>
+</song>

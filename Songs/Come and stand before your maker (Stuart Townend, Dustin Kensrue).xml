@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Come and stand before your maker</title>
+      <title>Rejoice</title>
+    </titles>
+    <authors>
+      <author type="words">Dustin Kensrue</author>
+      <author type="music">Dustin Kensrue</author>
+      <author type="words">Stuart Townend</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come and stand before your maker<br/>Full of wonder, full of fear;<br/>Come behold his power and glory<br/>Yet with confidence draw near,<br/>For the one who holds the heavens<br/>And commands the stars above<br/>Is the God who bends to bless us<br/>With an unrelenting love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Rejoice!<br/>Come and lift your hands and raise your voice;<br/>He is worthy of all praise,<br/>Rejoice!<br/>Sing the mercies of your King<br/>And with trembling, rejoice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are children of the promise,<br/>The beloved of the Lord.<br/>Won with everlasting kindness,<br/>Bought with sacrificial blood.<br/>Bringing reconciliation<br/>To a world that longs to know<br/>The affections of a father<br/>Who will never let them go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All our sickness, all our sorrows<br/>Jesus carried up the hill.<br/>He has walked this path before us,<br/>He is walking with us still;<br/>Turning tragedy to triumph,<br/>Turning agony to praise,<br/>There is blessing in the battle<br/>So take heart and stand amazed.</lines>
+    </verse>
+  </lyrics>
+</song>

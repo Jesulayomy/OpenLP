@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Jesus Hope of the Nations</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, hope of the nations<br/>Jesus, comfort for all who mourn<br/>You are the source of heaven's hope on earth<br/>Jesus, light in the darkness<br/>Jesus, truth in each circumstance<br/>You are the source of heaven's light on earth<br/>In history You lived and died<br/>You broke the chains You rose to life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the hope living in us<br/>You are the Rock in whom we trust<br/>You are the light shining for all the world to see<br/>You rose from the dead conquering fear<br/>Our Prince of Peace drawing us near<br/>Jesus our hope living for all who will receive<br/>Lord we believe.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>All in all</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my strength when I am weak<br/>You are the treasure that I seek<br/>You are my all in all<br/>Seeking You as a precious jewel<br/>I want the Holy Ghost to rule<br/>You are my all in all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, Lamb of God,<br/>worthy is Your name<br/>Jesus, Lamb of God,<br/>worthy is Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Taking my sin, my cross, my shame<br/>Rising again, I bless Your name<br/>You are my all in all<br/>When I fall down, You pick me up<br/>When I am dry, You fill my cup<br/>You are my all in all</lines>
+    </verse>
+  </lyrics>
+</song>

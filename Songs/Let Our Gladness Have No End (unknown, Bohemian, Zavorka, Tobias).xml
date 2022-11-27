@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Let Our Gladness Have No End</title>
+    </titles>
+    <authors>
+      <author type="music">Bohemian</author>
+      <author type="words">Zavorka, Tobias</author>
+      <author type="translate">unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let our gladness have no end, Hallelujah! For to earth did Christ descend. Hallelujah! On this day God gave us Christ, His Son, to save us; Christ, His Son, to save us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See, the loveliest blooming rose, Hallelujah! From the branch of Jesse grows. Hallelujah! On this day God gave us Christ, His Son, to save us; Christ, His Son, to save us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Into flesh is made the Word. Hallelujah! He, our refuge and our Lord. Hallelujah! On this day God gave us Christ, His Son, to save us; Christ, His Son, to save us.</lines>
+    </verse>
+  </lyrics>
+</song>

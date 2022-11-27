@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Everything (God in My Living)</title>
+    </titles>
+    <copyright>2005 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Tim Hughes</author>
+      <author type="music">Tim Hughes</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God, in my living, there in my breathing,<br/>God, in my waking, God, in my sleeping...<br/>God, in my resting, there in my working,<br/>God, in my thinking, God, in my speaking...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be my everything.<br/>Be my everything.<br/>Be my everything.<br/>Be my everything.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God, in my hoping, there in my dreaming,<br/>God, in my watching, God, in my waiting...<br/>God, in my laughing, there in my weeping,<br/>God, in my hurting. God, in my healing...</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Christ in me, Christ in me, Christ in me,<br/>The Hope of Glory,<br/>You are everything.<br/>Christ in me, Christ in me, Christ in me,<br/>The Hope of Glory,<br/>be my everything.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You are everything.<br/>You are everything.<br/>You are everything.<br/>You are everything.</lines>
+    </verse>
+  </lyrics>
+</song>

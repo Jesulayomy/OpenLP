@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Faithfulness</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1291"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1:<br/>From rising sun to kingdom come<br/>Your faithful love is unfailing<br/>Through shadows turn and tempests stir<br/>Still You O God are unchanging</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Through every hour<br/>I will recall<br/>All my hope is Jesus</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>Great is Your faithfulness<br/>Great is Your faithfulness<br/>I lift my eyes, I won't forget<br/>How great Your faithfulness</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2:<br/>When battle's near I will not fear<br/>Your promises are unshaken<br/>My faith is sure of nothing more<br/>That Christ alone, my portion</lines>
+    </verse>
+    <verse name="b1">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE:<br/>There'll be a season<br/>For joy and weeping<br/>In everything our God is faithful<br/>A (A/C# 3rd time)<br/>His arms are open<br/>I will come running<br/>Now and always our God is faithful</lines>
+    </verse>
+    <verse name="c3">
+      <lines>FINAL CHORUS:<br/>Great is Your faithfulness<br/>Great is Your faithfulness<br/>I lift my eyes, I won't forget<br/>How great Your faithfulness<br/>I won't forget Your faithfulness<br/>I won't forget Your faithfulness</lines>
+    </verse>
+  </lyrics>
+</song>

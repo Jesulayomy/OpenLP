@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>No longer I</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2815"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>forgiveness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro (x2):</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>At the cross, at the cross<br/>Where I first saw the light<br/>And the burden of my soul rolled a - way<br/>It was there, by faith, I received my sight<br/>Now no longer I but Christ in me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I will run to the cross<br/>Where You opened up my eyes<br/>I will sing of the love that saved me<br/>I will bow in the place<br/>Where Your death became my life<br/>I will run, I will run to the cross</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>O how endless the hope<br/>O how empty the grave<br/>And the joy of a stone rolled a - way<br/>It is there, by grace, I am raised to life<br/>Now no longer I but Christ in me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I will run to the cross<br/>Where You opened up my eyes<br/>I will sing of the love that saved me<br/>I will bow in the place<br/>Where Your death became my life<br/>I will run, I will run to the cross<br/>Yes I will run, I will run to the cross</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Instrumental (x2):</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bridge (x4):<br/>It is no longer I<br/>It is Christ who lives in me<br/>Christ who lives in me<br/>Christ who lives in me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bridge (x2):<br/>It is no longer I<br/>It is Christ who lives in me<br/>Christ who lives in me<br/>Christ who lives in me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Instrumental (x3):</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bridge (x2):<br/>It is no longer I<br/>It is Christ who lives in me<br/>Christ who lives in me<br/>Christ who lives in me</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ending (verse 1):<br/>At the cross, at the cross<br/>Where I first saw the light<br/>And the burden of my soul rolled a - way<br/>It was there, by faith, I received my sight<br/>Now no longer I but Christ in me</lines>
+    </verse>
+  </lyrics>
+</song>

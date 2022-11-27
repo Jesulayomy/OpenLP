@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>I'm Not Ashamed</title>
+    </titles>
+    <copyright>1994 Curious? Music U.K.</copyright>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Was a time as a little boy,<br/>When I said 'I follow you'.<br/>But the years have caused the flame,<br/>To burn much stronger now.<br/>And I'm not burning down any of my bridges,<br/>But I'm burning up inside.<br/>To flee from my religion and love my neighbour more.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm not ashamed of the gospel,<br/>I'm not ashamed of the one I love.<br/>I'm not ashamed of the gospel,<br/>I'm not ashamed of the one I love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There where times in my bitterness<br/>when I felt your pure affection.<br/>And you hear my frail petitions to serve you endlessly.<br/>But I have loved the tree that they put you on?<br/>Or my friend who met me at the cross?<br/>Oh I want to sing again for my brother<br/>And find my way down this mountain.</lines>
+    </verse>
+  </lyrics>
+</song>

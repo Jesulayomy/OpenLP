@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>All The Power You Need</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My God can never fail,<br/>He's been proved time and again<br/>Trust Him and see<br/>He's got all the power you need<br/>He's never early, never late<br/>It takes courage, it takes faith<br/>Trust Him and see<br/>He's got all the power you need</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He saves, forgives, and heals<br/>Takes back what the devil steals<br/>My debt's been paid in full<br/>And every day He does miracles</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I got dreams, turn them into plans<br/>Too big for human hands<br/>Trust Him and see<br/>He's got all the power you need<br/>He's real, He's real<br/>Faith's a lot stronger than what you feel<br/>He's real, He's real<br/>I'm believing for miracles</lines>
+    </verse>
+  </lyrics>
+</song>

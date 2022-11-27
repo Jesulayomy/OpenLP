@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Say So</title>
+    </titles>
+    <copyright>2006 Vertical Worship Songs | New Breed Extended | Integrity's Praise! Music | Sound of the New Breed</copyright>
+    <authors>
+      <author type="words">Israel Houghton</author>
+      <author type="music">Israel Houghton</author>
+      <author type="words">Michael Gungor</author>
+      <author type="music">Michael Gungor</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="p1">
+      <lines>To be salt and light in the world, in the world, to be salt and light in the world!<br/>To be salt and light in the world, in the world, to be salt and light in the world!<br/>To be salt and light in the world, in the world,<br/>In the world, in the world, in the world!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let the redeemed of the Lord rise up, Let the redeemed of the Lord rise up,<br/>Let the redeemed of the Lord rise up, rise up, rise up!<br/>Let the redeemed of the Lord say so, Let the redeemed of the Lord say so,<br/>Let the redeemed of the Lord say so, say so, say so!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am redeemed, I am redeemed, I am redeemed, I am redeemed<br/>I am redeemed, I am redeemed  [these two lines 2x]</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Let the redeemed of the Lord say so, Let the redeemed of the Lord say so,<br/>Let the redeemed of the Lord say so, say so, say so, say so, say so!</lines>
+    </verse>
+  </lyrics>
+</song>

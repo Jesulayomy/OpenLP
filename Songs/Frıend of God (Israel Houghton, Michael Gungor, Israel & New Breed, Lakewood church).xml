@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Frıend of God</title>
+    </titles>
+    <copyright>2003 Integrity's Praise! Music | Vertical Worship Songs</copyright>
+    <authors>
+      <author type="words">Lakewood church</author>
+      <author type="words">Israel Houghton</author>
+      <author type="music">Israel Houghton</author>
+      <author type="words">Michael Gungor</author>
+      <author type="music">Michael Gungor</author>
+      <author type="words">Israel &amp; New Breed</author>
+      <author type="music">Israel &amp; New Breed</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who am I that You are mindful of me,<br/>That You hear me when I call?<br/>Is it true that You are thinking of me,<br/>How You love me?<br/>It's amazing.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>So amazing. It's amazing.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am a friend of God.<br/>I am a friend of God.<br/>I am a friend of God;<br/>He calls me friend.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>God Almighty,<br/>Lord of Glory,<br/>You have called me friend. (3X)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I am a friend of God.<br/>I am a friend of God.<br/>I am a friend of God;<br/>You call me friend.</lines>
+    </verse>
+  </lyrics>
+</song>

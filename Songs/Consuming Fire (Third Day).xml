@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Consuming Fire</title>
+    </titles>
+    <copyright>1996 New Spring Publishing, Inc.</copyright>
+    <authors>
+      <author type="words">Third Day</author>
+      <author type="music">Third Day</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Set this place on fire,<br/>Send Your Spirit, Savior;<br/>Rescue from the mire,<br/>Show Your servant favor.<br/>Yesterday was the day that I was alone,<br/>Now I'm in the presence of Almighty God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yes our God, He is a consuming fire,<br/>And the flames burn down deep in my soul;<br/>Yes our God He is a consuming fire,<br/>He reaches inside and He melts down this cold heart of stone.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Did you realize that inside of you there is a flame?<br/>Did you ever try to let it burn<br/>Let it burn, let it burn?</lines>
+    </verse>
+  </lyrics>
+</song>

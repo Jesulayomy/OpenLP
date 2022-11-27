@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Foreverandever Etc..</title>
+    </titles>
+    <copyright>2005 worshiptogether.com songs | sixsteps Music | Inot Music</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+      <author type="words">Jack Parker</author>
+      <author type="music">Jack Parker</author>
+      <author type="words">Mike Dodson</author>
+      <author type="music">Mike Dodson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love so incredible, to know it's never gonna go,<br/>Never gonna go.<br/>Love too impossible and true<br/>For anyone but you, for anyone but you.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I think I'm on the brink of something large.<br/>Maybe like the breaking of a dawn,<br/>Or maybe like a match being lit,<br/>Or the sinking of a ship,<br/>Letting go gives a better grip.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm finding everything I'll ever need.<br/>By giving up, gaining everything.<br/>Falling for You for eternity.<br/>Right here at Your feet, where I want to be.<br/>I am Yours.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love so indelible, to know You're never gonna go,<br/>Never gonna go.<br/>Love too unthinkable and true<br/>For anyone but you, for anyone but you.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Or maybe like a match being lit,<br/>Or the sinking of a ship,<br/>Letting go gives a better grip.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Forever and ever and ever and ever.<br/>Forever and ever and ever and ever.<br/>(4X)</lines>
+    </verse>
+  </lyrics>
+</song>

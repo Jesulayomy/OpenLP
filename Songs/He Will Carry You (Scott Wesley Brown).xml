@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>He Will Carry You</title>
+    </titles>
+    <authors>
+      <author type="words">Scott Wesley Brown</author>
+      <author type="music">Scott Wesley Brown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no problem so big, God cannot solve it<br/>There is no mountain so tall, He cannot move it<br/>There is no storm so dark, God cannot calm it<br/>There is no sorrow so deep, God cannot soothe it</lines>
+    </verse>
+    <verse name="c1">
+      <lines>If He carried the weight of the world<br/>Upon His shoulders<br/>I know my brother, that He will carry you<br/>If He carried the weight of the world<br/>Upon His shoulders<br/>I know, my sister, that He will carry you</lines>
+    </verse>
+  </lyrics>
+</song>

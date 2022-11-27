@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>Unchanging</title>
+    </titles>
+    <copyright>2002 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is Your faithfulness. Great is Your faithfulness.<br/>You never change. You never fail, O God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>True are Your promises. True are Your promises.<br/>You never change. You never fail, O God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So we raise up holy hands<br/>To praise the Holy One<br/>Who was and is and is to come. (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wide is Your love and grace. Wide is Your love and grace.<br/>You never change. You never fail, O God.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You were. You are.<br/>You will always be. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

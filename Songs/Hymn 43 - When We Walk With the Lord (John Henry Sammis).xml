@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-06T17:04:12">
+  <properties>
+    <titles>
+      <title>Hymn 43 - When We Walk With the Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>John Henry Sammis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When we walk with the Lord<br/>In the light of His word,<br/>What a glory He sheds on our way!<br/>While we do His good will,<br/>He abides with us still,<br/>And with all who will trust and obey!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Trust and obey!<br/>For there’s no other way<br/>To be happy in Jesus,<br/>But to trust and obey.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not a shadow can rise,<br/>Not a cloud in the skies,<br/>But His smile quickly drives it away;<br/>Not a doubt nor a fear,<br/>Not a sigh nor a tear,<br/>Can abide while we trust and obey!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not a burden we bear,<br/>Not a sorrow we share,<br/>But our toil He doth richly repay:<br/>Not a grief nor a loss,<br/>Not a frown nor a cross,<br/>But is blessed if we trust and obey!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>But we never can prove<br/>The delights of His love<br/>Until all on the altar we lay;<br/>For the favour He shows,<br/>And the joy He bestows,<br/>Are for those who will trust and obey.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Then in fellowship sweet<br/>We will sit at His feet,<br/>Or we’ll walk by His side in the way;<br/>What He says we will do,<br/>Where He sends we will go;<br/>Never fear, only trust and obey!</lines>
+    </verse>
+  </lyrics>
+</song>

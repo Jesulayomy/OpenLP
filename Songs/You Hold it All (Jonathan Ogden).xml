@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>You Hold it All</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Ogden</author>
+      <author type="music">Jonathan Ogden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3768"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy one<br/>You've always been<br/>You'll always be the king of kings</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mighty one<br/>You know all things<br/>You'll always be the king of kings</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You hold it all in Your hand<br/>You hold it all in Your hand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Worthy one<br/>You stand alone<br/>Yours is the throne forever</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus Christ<br/>You are the Lord<br/>No one can ever take Your place</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You hold it all in Your hand<br/>You hold it all in Your hand</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Only You can really make things right<br/>Surely You will come and split the skies<br/>Jesus, hear the longing of Your bride<br/>Let Your kingdom come, come<br/>Let Your kingdom come, come</lines>
+    </verse>
+  </lyrics>
+</song>

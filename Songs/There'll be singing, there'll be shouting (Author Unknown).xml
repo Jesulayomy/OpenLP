@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>There'll be singing, there'll be shouting</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There'll be singing, there'll be shouting<br/>When the saints come marching home,<br/>In Jerusalem, in Jerusalem,<br/>Waving palms with loud hosannas<br/>As the King shall take His throne,<br/>In the new Jerusalem.</lines>
+    </verse>
+  </lyrics>
+</song>

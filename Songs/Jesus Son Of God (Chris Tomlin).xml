@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Jesus Son Of God</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You came down, from heaven's throne<br/>This earth You formed, was not Your home<br/>A love like this, the world had never known<br/>A crown of thorns, to mock your name<br/>Forgiveness fell upon Your face<br/>A love like this, the world had never known</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On the altar of our praise<br/>Let there be no higher name<br/>Jesus Son of God<br/>You laid down Your perfect life<br/>You are the sacrifice<br/>Jesus Son of God<br/>You are Jesus Son of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You took our sin<br/>You bore our shame<br/>You rose to life<br/>You defeated the grave<br/>A love like this, the world has never known</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Be lifted higher<br/>Than all You've overcome<br/>Your name be louder<br/>Than any other song<br/>There is no power<br/>That can come against Your love<br/>The cross was enough<br/>The cross was enough</lines>
+    </verse>
+  </lyrics>
+</song>

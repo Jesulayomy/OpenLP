@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:21">
+  <properties>
+    <titles>
+      <title>Joy</title>
+      <title>Let the celebration begin</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You've turned it all around<br/>Where I was hurting now I'm rejoicing<br/>In Your love I'm found and I have joy<br/>Woah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You took away my pain<br/>You turned my mourning into dancing<br/>I can smile again 'cause I have joy<br/>Woah</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Let the celebration begin<br/>Make a joyful noise unto Him<br/>Come on everybody<br/>Let's give Him praise for He is good</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You have given me a joy that ...<br/>won't stop and will never leave, so<br/>I will praise You with gladness<br/>For You are good</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You've turned my sadness into gladness<br/>You've turned my sorrow into joy<br/>Now I'm singing and I'm dancing<br/>And I will shout for joy</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Thank You</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3716"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse 1]<br/>How do I say thank You, Lord<br/>For the way that You love, and the way that You come<br/>For all that You've done, and all that You'll do<br/>My heart pours out, thank You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Chorus 1]<br/>You don't have to come, but You always do<br/>You show up in splendor and change the whole room<br/>You don't have to come, but You always do<br/>You show up in splendor and change the whole room</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Verse 2]<br/>How do I say thank You, Lord<br/>For the life that You gave, the cross that You bore<br/>For the love You poured out to ransom my soul<br/>My heart pours out, this thankful song</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Chorus 1]<br/>You don't have to come, but You always do<br/>You show up in splendor and change the whole room<br/>You don't have to come, but You always do<br/>You show up in splendor and You change the whole room</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Bridge]<br/>You walked through all of my walls<br/>Conquered my shame<br/>Stepped into my past<br/>Filled my world with grace<br/>You didn't have to come, but You wanted to</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You walked through all of my walls<br/>Conquered my shame<br/>Stepped into my past<br/>Filled my world with grace<br/>You didn't have to come, but You wanted to</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[Chorus 2]<br/>You don't have to come, but You always do<br/>You're right here in Your splendor, standing in this room<br/>I see the fire in Your eyes, I see the mercy in Your smile<br/>I feel the fury of Your love all around us</lines>
+    </verse>
+    <verse name="v8">
+      <lines>[Chorus 1]<br/>'Cause You don't have to come, but You always do<br/>You show up in splendor and You change the whole room<br/>You don't have to come, but You always do<br/>You show up in splendor and You change the whole room</lines>
+    </verse>
+    <verse name="v9">
+      <lines>[Outro]<br/>There's a King in the room<br/>With fire in His eyes<br/>And redemption in His heart</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T09:17:52">
+  <properties>
+    <titles>
+      <title>Hymn 25 - Abide With Me</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abide with me; fast falls the eventide; <br/>The darkness deepens; Lord with me abide. <br/>When other helpers fail and comforts flee, <br/>Help of the helpless, O Lord abide with me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Swift to its close ebbs out life's little day; <br/>Earth's joys grow dim; its glories pass away; <br/>Change and decay in all around I see;<br/>O Thou who changest not, abide with me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come not in terrors, as the King of kings, <br/>But kind and good, with healing in Thy wings, <br/>Tears for all woes, a heart for every plea? <br/>Come, Friend of sinners, and thus bide with me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need Thy presence every passing hour.<br/>What but Thy grace can foil the tempter's power?<br/>Who, like Thyself, my guide and stay can be?<br/>Through cloud and sunshine, Lord, abide with me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I fear no foe, with Thee at hand to bless;<br/>Ills have no weight, and tears no bitterness.<br/>Where is death's sting? Where, grave, thy victory?<br/>I triumph still, if Thou abide with me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hold Thou Thy cross before my closing eyes;<br/>Shine through the gloom and point me to the skies.<br/>Heaven's morning breaks, and earth's vain shadows flee;<br/>In life, in death, O Lord, abide with me.</lines>
+    </verse>
+  </lyrics>
+</song>

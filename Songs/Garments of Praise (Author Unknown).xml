@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Garments of Praise</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Put on the garments of praise,<br/>for the spirit of heaviness<br/>Let the oil of gladness flow down<br/>from Your Throne</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Put on the garments of praise,<br/>for the spirit of heaviness<br/>Your joy is my strength alone,<br/>my strength alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Make these broken weary bones<br/>rise to dance again<br/>Wet this dry and thirsty land<br/>with a river<br/>Lord our eyes are fixed on You<br/>and we are waiting<br/>For your garland of grace<br/>as we praise Your Name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hallelujah, sing hallelujah<br/>We give all honor and praise to Your Name<br/>Hallelujah, sing hallelujah<br/>We trade our sorrows for garments of praise</lines>
+    </verse>
+  </lyrics>
+</song>

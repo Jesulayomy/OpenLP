@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>I'm Gonna Trust in God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm gonna trust in God<br/>I'm gonna trust in Jesus<br/>without shame and without fear.<br/>I'm gonna fix my eyes<br/>On the hope of glory<br/>For His day is drawing near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How great is the love of God<br/>How steady is His hand<br/>To guide me through this world.<br/>And though I am weak, in Him I stand<br/>And you will hear me say today<br/>In faith, I'm gonna trust in God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now when the cares of life<br/>Seem overwhelming<br/>And my heart is sinking down<br/>I'm gonna lift my hands<br/>To the One who'll help me<br/>To the One who holds my crown.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>By His word</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is written that man<br/>shall not live by bread alone<br/>But by every word that comes<br/>from the mouth of God<br/>And by his word he gave His son<br/>for us on Calvary<br/>To pay the price of sin for you and for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By His word<br/>He raised the sick man from the bed<br/>By His word<br/>He gave life unto the dead By His word<br/>He brings hope to the hopeless soul<br/>By His word<br/>You can have the victory<br/>By His word<br/>He will set the captive free By His word<br/>He brings life to you and me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just one word was broken in Eden<br/>And that's what caused the fall<br/>So it will take all of the word<br/>To bring us back to God<br/>And through this last day message<br/>All His word has been made known<br/>And through His power we shall overcome</lines>
+    </verse>
+    <verse name="v4">
+      <lines>By His word<br/>He spoke and squirrels did appear<br/>By His word<br/>Storm go back from where you came<br/>By His word<br/>Little fishie Jesus gives you back your life<br/>By His word<br/>He spoke the tumor out of existence<br/>By His word<br/>He gave two boys salvation By His word<br/>He gave life to you and me</lines>
+    </verse>
+  </lyrics>
+</song>

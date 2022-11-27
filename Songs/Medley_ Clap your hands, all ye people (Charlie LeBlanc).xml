@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Medley: Clap your hands, all ye people</title>
+      <title>+ Jesus Christ is the Lord of all</title>
+    </titles>
+    <authors>
+      <author type="words">Charlie LeBlanc</author>
+      <author type="music">Charlie LeBlanc</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Clap your hands all ye people<br/>Shout to God with a voice of triumph<br/>Clap your hands all ye people<br/>Sing for joy to the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Singing halleluiah<br/>Halleluiah //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Christ is the Lord of all<br/>Lord of all the earth<br/>Jesus Christ is the Lord of all<br/>Lord of all the earth</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Only one God<br/>Over the nations<br/>Only one Lord of all<br/>In no other name<br/>Is there salvation<br/>Jesus is Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

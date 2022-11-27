@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T17:35:17">
+  <properties>
+    <titles>
+      <title>Hymn 167 - I surrender all</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">J.W. Van Deventer</author>
+      <author type="music">W.S. Weeden</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All to Jesus I surrender, All to Him I freely give;<br/>I will ever love and trust Him, In His presence daily live.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I surrender all, I surrender all;<br/>All to Thee my blessed Savior,<br/>I surrender all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All to Jesus I surrender, Humbly at His feet I bow;<br/>Wordly pleasures all forsaken, Take me Jesus, take me now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All to Jesus I surrender, Make me Savior, wholly Thine;<br/>Let me feel the Holy Spirit, Truly know that Thou art mine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All to Jesus I surrender, Lord, I give myself to Thee;<br/>Fill me with Thy love and power, Let Thy blessing fall on me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All to Jesus I surrender <br/>Now I feel the Sacred flame <br/>Oh! the joy of full salvation<br/>Glory, glory to his name</lines>
+    </verse>
+  </lyrics>
+</song>

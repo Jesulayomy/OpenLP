@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-29T08:15:32">
+  <properties>
+    <titles>
+      <title>Hymn 116 - For Mercy O Dear Lord I Plead</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For mercy o dear Lord I plead<br/>Thy pardon now humbly I crave<br/>Thy cleansing blood my needs to meet<br/>For health, and life, a ransomed soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For grace and strength dear Lord I pray<br/>Thy power to live ov'r coming life<br/>Spirit divine burning within<br/>My frail vanquished, old life subdue</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My Lord, pure, changeless, Lord revive<br/>My zeal ever to serve inspire<br/>A will and mind the test endure<br/>Till Christ returns and vict'ry won</lines>
+    </verse>
+  </lyrics>
+</song>

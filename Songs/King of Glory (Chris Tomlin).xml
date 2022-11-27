@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>King of Glory</title>
+    </titles>
+    <copyright>2004 worshiptogether.com songs</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift up your gaze, be lifted up.<br/>Tell everyone how great the love,<br/>The love come down from heaven's gate<br/>To kiss the earth with hope and grace.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Who is this King of Glory?<br/>The Lord, strong and mighty!<br/>Who is this King of Glory?<br/>The Lord, strong and mighty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift up your hands, be lifted up.<br/>Let the redeemed declare the love.<br/>And we bow down at heaven's gate<br/>To kiss the feet of hope and grace.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There is one God; He is holy.<br/>There is one Lord over everything.<br/>There is one King; He is Jesus,<br/>King of Glory, strong and mighty. (2X)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You are the King of Glory.<br/>The Lord, strong and mighty!<br/>You are the King of Glory.<br/>The Lord, strong and mighty!</lines>
+    </verse>
+  </lyrics>
+</song>

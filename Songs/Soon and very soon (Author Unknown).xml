@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Soon and very soon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soon and very soon,<br/>We are going to see the King.<br/>Soon and very soon,<br/>We are going to see the King.<br/>Soon and very soon,<br/>We are going to see the King.<br/>Hallelujah, hallelujah,<br/>We're going to see the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No more dying there,<br/>We are going to see the King.<br/>No more dying there,<br/>We are going to see the King.<br/>No more dying there,<br/>We are going to see the King.<br/>Hallelujah, hallelujah,<br/>We're going to see the King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No more crying there,<br/>We are going to see the King.<br/>No more crying there,<br/>We are going to see the King.<br/>No more crying there,<br/>We are going to see the King.<br/>Hallelujah, hallelujah,<br/>We're going to see the King.</lines>
+    </verse>
+  </lyrics>
+</song>

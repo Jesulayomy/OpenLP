@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Awake O Israel</title>
+    </titles>
+    <authors>
+      <author type="words">Merla Watson</author>
+      <author type="music">Merla Watson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Awake O Israel put off Thy slumber<br/>And the truth shall set you free<br/>For out of Zion comes thy Deliv'rer<br/>In the year of Jubilee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For in the furnace of much affliction<br/>I have chosen Thee behold<br/>And so for Iron I'll give Thee silver<br/>And for brass I'll give Thee gold</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou art my chosen for I have sought Thee<br/>Thou art graven on my hand<br/>And I will gather all those that gather<br/>They shall come back to their land</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Hallelujah (2x)<br/>Hallelujah, Praise the Lord<br/>O Hallelujah (2x)<br/>Hallelujah, Praise the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

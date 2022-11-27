@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:44">
+  <properties>
+    <titles>
+      <title>This life tht i have</title>
+    </titles>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>This life that I have, is a life of Christ in me<br/>This life that I have, is a life of Christ </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Zoe Zoe, Zoe Zoe<br/>Zoe Zoe, Zoe Zoe</lines>
+    </verse>
+  </lyrics>
+</song>

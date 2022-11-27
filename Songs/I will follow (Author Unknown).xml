@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>I will follow</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All Your ways are good,<br/>All Your ways are sure<br/>I will trust in You alone<br/>Higher than my sight,<br/>High above my life<br/>I will trust in You alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Where You go, I'll go<br/>Where You stay, I'll stay<br/>When You move, I'll move,  I will follow You<br/>Who You love, I'll love<br/>How You serve I'll serve<br/>If this life I lose, I will follow You,     I will follow You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Light unto the world,<br/>Light unto my life<br/>I will live for You alone<br/>You're the one I seek,<br/>Knowing I will find<br/>All I need in You alone, in You alone</lines>
+    </verse>
+    <verse name="b1">
+      <lines>In You there's life everlasting<br/>In You there's freedom for my soul<br/>In You there's joy, unending joy and I will follow</lines>
+    </verse>
+  </lyrics>
+</song>

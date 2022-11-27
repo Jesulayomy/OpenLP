@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-02T17:23:44">
+  <properties>
+    <titles>
+      <title>Hymn 75 - Amazing Grace</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>John Newton</author>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing Grace! how sweet the sound<br/>That saved a wretch like me;<br/>I once was lost, but now am found,<br/>Was blind, but now I see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>’Twas grace that taught my heart to fear,<br/>And grace my fears relieved;<br/>How precious did that grace appear,<br/>The hour I first believed!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Through many dangers, toils and snares<br/>I have already come;<br/>’Tis grace that brought me safe thus far,<br/>And grace will lead me home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord has promised good to me,<br/>His word my hope secures;<br/>He will my shield and portion be<br/>As long as life endures.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When we’ve been there a thousand years,<br/>Bright shining as the sun,<br/>We’ve no less days to sing God’s praise<br/>Than when we first begun.</lines>
+    </verse>
+  </lyrics>
+</song>

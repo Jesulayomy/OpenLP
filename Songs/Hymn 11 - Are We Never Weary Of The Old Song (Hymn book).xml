@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T08:47:44">
+  <properties>
+    <titles>
+      <title>Hymn 11 - Are We Never Weary Of The Old Song</title>
+      <title>Hymn 11</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are never never weary of the grand <br/>Old song;<br/>Glory to God Hallelujah!<br/>We can sing it loud as ever, with our<br/>Faith more strong <br/>Glory to God Hallelujah!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh the children of the Lord have the <br/>Right to shout and sing<br/>For the way is growing bright, and <br/>Our souls are on the wings;<br/>We are going by and by to the palace<br/>Of the King:<br/>Glory to God Hallelujah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are lost amid the rapture of <br/>Redeeming love;<br/>Glory to God Hallelujah!<br/>We are rising on its pinions to the hills<br/>Above;<br/>Glory to God Hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are going to a place that is built <br/>Of gold;<br/>Glory to God Hallelujah!<br/>Where the King in all His splendour <br/>We shall soon behold<br/>Glory to God Hallelujah!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There we'll shout redeeming mercy<br/>In a glad new song,<br/>Glory to God Hallelujah!<br/>There we'll sing the praise of Jesus<br/>With the blood washed throng<br/>Glory to God Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

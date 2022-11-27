@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>I Will Praise Him</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I saw the cleansing fountain<br/>Open wide for all my sin,<br/>I obeyed the Spirit's wooing,<br/>When He said, Wilt thou be clean?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>I will praise Him! I will praise Him!<br/>Praise the Lamb for sinners slain;<br/>Give Him glory, all ye people,<br/>For His blood has washed away<br/>each stain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though the way seems straight<br/>and narrow,<br/>All I claimed was swept away;<br/>My ambitions, plans, and wishes,<br/>At my feet in ashes lay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then God's fire upon the altar<br/>Of my heart was set aflame;<br/>I shall never cease to praise Him,<br/>Glory, glory to His name!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blessed be the name of Jesus!<br/>I'm so glad He took me in;<br/>He's forgiven my transgressions,<br/>He has cleansed my heart from sin.</lines>
+    </verse>
+  </lyrics>
+</song>

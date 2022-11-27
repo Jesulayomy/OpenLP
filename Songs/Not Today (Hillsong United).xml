@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Not Today</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2607"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Words and Music by Joel Houston &amp; Matt Crocker</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 1<br/>Trouble won't throw me<br/>Won't break me<br/>Won't scare me<br/>No more<br/>Fear must have thought I was faithless<br/>When it came for my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>PRE-CHORUS 1<br/>'Cause I got a song that will never die<br/>I know Your love is the reason why</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS 1<br/>I'll sing the night into the morning<br/>I'll sing the fear into Your praise<br/>I'll sing my soul into Your presence<br/>Whenever I say Your Name<br/>Let the devil know not today</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE 2<br/>Tell me did the enemy panic<br/>As You took up that cross<br/>Tell me did the darkness cry mercy<br/>As You rolled back that rock</lines>
+    </verse>
+    <verse name="v6">
+      <lines>PRE-CHORUS 2<br/>'Cause I know Your life is the life in mine<br/>I know Your love is the reason why</lines>
+    </verse>
+    <verse name="v7">
+      <lines>CHORUS 2<br/>I'll sing the night into the morning<br/>I'll sing the fear into Your praise<br/>I'll sing my soul into Your presence<br/>Whenever I say Your Name<br/>Let the devil know not today<br/>Whenever I say Your Name Jesus<br/>Let the devil know not today<br/>Not now not ever again</lines>
+    </verse>
+    <verse name="v8">
+      <lines>BRIDGE<br/>Your love stood down death<br/>Crushed the devil's head<br/>Fear is just a liar<br/>Running out of breath<br/>The fight beneath Your feet<br/>I'm standing on Jesus' Name<br/>So let the devil know not today<br/>Let the devil know not today No no<br/>Not now not ever again Jesus<br/>Let the devil know not today</lines>
+    </verse>
+  </lyrics>
+</song>

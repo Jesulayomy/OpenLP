@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>I BELIEVE IN YOU</title>
+      <title>We give You all the glory</title>
+    </titles>
+    <authors>
+      <author type="words">Julio Melgar</author>
+      <author type="music">Julio Melgar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just want to lift<br/>my hands to You, Lord<br/>You are a wonderful God<br/>Miraculous King<br/>Fill this place with all<br/>Your Holy Presence<br/>and pour Your power on us<br/>as we seek more of You</lines>
+    </verse>
+    <verse name="p1">
+      <lines>// I believe in You<br/>and what You'll do in me //<br/>in me...in me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We give You<br/>all, all the glory<br/>We give You<br/>all, all the honor<br/>Amazing Son of God.</lines>
+    </verse>
+  </lyrics>
+</song>

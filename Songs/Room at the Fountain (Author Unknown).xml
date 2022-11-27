@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Room at the Fountain</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I heard my loving Savior say,<br/>There's room at the fountain for thee,<br/>Come, wash the stains of sin away,<br/>There's room at the fountain for thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>Room, room, yes, there is room,<br/>Room at the fountain for thee;<br/>Room, room, yes, there is room,<br/>There's room at the fountain for thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I came to Him, my sins confessed,<br/>There was room at the fountain for me;<br/>When I gave up, my heart was blest,<br/>There's room at the fountain for thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I plunged beneath the crimson tide,<br/>There was room at the fountain for me;<br/>And now by faith am sanctified,<br/>There's room at the fountain for thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I found the crimson stream I know,<br/>There was room at the fountain for me;<br/>His blood has washed me white as snow,<br/>There's room at the fountain for thee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He cleansed my heart from inbred sin,<br/>There was room at the fountain for me;<br/>And new He keeps me pure within,<br/>There's room at the fountain for thee,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I'll praise Him while He gives me breath,<br/>There was room at the fountain for mc;<br/>He saved me from an awful death<br/>There's room at the fountain for thee.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>His blood was shed but once for all,<br/>There was room at the fountain for me;<br/>Oh, don't reject sweet Mercy's call,<br/>There's room at the fountain for thee.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>We'll sing with all the saints above,<br/>There was room at the fountain for me;<br/>And praise Him for redeeming love,<br/>There's room at the fountain for thee.</lines>
+    </verse>
+  </lyrics>
+</song>

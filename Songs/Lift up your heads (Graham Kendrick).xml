@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:52">
+  <properties>
+    <titles>
+      <title>Lift up your heads</title>
+      <title>O you gates</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+    </authors>
+    <themes>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift up your heads, O you gates,<br/>Swing wide you everlasting doors<br/>Lift up your heads, O ye gates<br/>Swing wide you everlasting doors</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That the King of glory may come in<br/>That the King of glory may come in<br/>That the King of glory may come in<br/>That the King of glory may come in</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Up from the dead He ascends<br/>Through every rank of heavenly power<br/>Let heaven prepare the highest place<br/>Throw wide the everlasting doors</lines>
+    </verse>
+    <verse name="v4">
+      <lines>With trumpet blast and shouts of joy<br/>All heaven greets the risen King<br/>With angel choirs come line the way<br/>Throw wide the gates and welcome Him</lines>
+    </verse>
+  </lyrics>
+</song>

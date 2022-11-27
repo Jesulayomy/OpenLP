@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Here Comes Heaven</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Children, weep no more<br/>Hope is on the horizon<br/>Weary world behold<br/>Your promised Messiah</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Angels, let your song begin<br/>Here comes Heaven<br/>Christ is born in Bethlehem<br/>Here comes Heaven</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sinner, wait no more<br/>Love has broken the silence<br/>Come let us adore<br/>The Savior is with us</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Angels, let your song begin<br/>Here comes Heaven<br/>Christ is born in Bethlehem<br/>Here comes Heaven<br/>Here comes Heaven</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Now, behold His glory<br/>Glory in the highest<br/>All the earth rejoice for Christ is born<br/>Now, behold His glory<br/>Glory in the highest<br/>All the earth rejoice for Christ is born</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Over all who mourn<br/>Breaks the dawn of salvation<br/>Darkness reigns no more<br/>For Jesus is greater<br/>He is greater</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Angels, let your song begin<br/>Here comes Heaven<br/>Christ is born in Bethlehem<br/>Here comes heaven<br/>Angels, let your song begin<br/>Here comes Heaven<br/>All creation worship Him<br/>Here comes Heaven<br/>Here comes Heaven</lines>
+    </verse>
+  </lyrics>
+</song>

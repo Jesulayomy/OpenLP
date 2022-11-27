@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Jesus, King of Glory</title>
+    </titles>
+    <authors>
+      <author type="music">Haydn, Franz Joseph (1732-1809)</author>
+      <author type="words">Davison, W. Hope (1827-1894)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, King of glory, throned above the sky, Jesus, tender Savior, hear Thy children cry. Pardon our transgressions, cleanse us from our sin, By Thy Spirit help us heav'nly life to win. Jesus, King of glory, throned above the sky, Jesus, tender Savior, hear Thy children cry.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On this day of gladness, Bending low the knee In thine earthly temple, Lord, we worship thee; Celebrate thy goodness, Mercy, grace, and truth, All thy loving guidance Of our heedless youth. Jesus, King of glory, throned above the sky, Jesus, tender Savior, hear Thy children cry.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the little children Who have come to thee; For the glad, bright spirits Who thy glory see; For the loved ones resting In thy dear embrace; For the pure and holy Who behold thy face, Jesus, King of glory, throned above the sky, Jesus, tender Savior, hear Thy children cry.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Help us ever steadfast in the faith to be: In Thy Church's conflicts fighting valiantly. Loving Savior, strengthen these weak hearts of ours, Through Thy cross to conquer crafty evil powers. Jesus, King of glory, throned above the sky, Jesus, tender Savior, hear Thy children cry.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When the shadows lengthen, show us, Lord, Thy way; Through the darkness lead us to the heav'nly day; When our course is finished, ended all the strife, Grant us, with the faithful, palms and crowns of life. Jesus, King of glory, throned above the sky, Jesus, tender Savior, hear Thy children cry.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>For thy faithful servants Who have entered in;<br/>For thy fearless soldiers Who have conquered sin;<br/>For the countless legions Who have followed thee,<br/>Heedless of the danger, On to victory,</lines>
+    </verse>
+  </lyrics>
+</song>

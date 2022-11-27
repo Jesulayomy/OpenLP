@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Shall we gather by the river?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shall we gather at the river,<br/>Where bright angel feet have trod;<br/>With its crystal tide forever<br/>Flowing by the throne of God?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yes, we'll gather at the river,<br/>The beautiful, the beautiful river;<br/>Gather with the saints at the river<br/>That flows by the throne of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On the margin of the river,<br/>Washing up its silver spray,<br/>We will walk and worship ever,<br/>All the happy golden day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ere we reach the shining river,<br/>Lay we ev'ry burden down;<br/>Grace our spirits will deliver,<br/>And provide a robe and crown.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Soon we'll reach the shining river,<br/>Soon our pilgrimage will cease;<br/>Soon our happy hearts will quiver<br/>With the melody of peace.</lines>
+    </verse>
+  </lyrics>
+</song>

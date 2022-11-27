@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Everything</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4442"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everything</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Find me here and speak to me<br/>I want to feel you I need to hear you<br/>You are the light That's leading me<br/>To the place where I find peace again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the strength that keeps me walking<br/>You are the hope that keeps me trusting<br/>You are the life to my soul<br/>You are my purpose you are everything</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And how can I stand here with you and not be moved by you<br/>Would you tell me how could it be any better than this?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You calm the storms you give me rest<br/>You hold me in your hands you won't let me fall<br/>You steal my heart and you take my breath away<br/>Would you take me in would you take me deeper now</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And how can I stand here with you and not be moved by you<br/>Would you tell me how could it be any better than this?<br/>And how can I stand here with you and not be moved by you<br/>Would you tell me how could it be any better than this?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Cause you're all I want, you are all I need, you are everything, everything<br/>You're all I want, you are all I need, you are everything, everything<br/>You're all I want, you are all I need, you are everything, everything<br/>You're all I want, you are all I need, you are everything, everything</lines>
+    </verse>
+    <verse name="c3">
+      <lines>And how can I stand here with you and not be moved by you<br/>Would you tell me how could it be any better than this?<br/>And how can I stand here with you and not be moved by you<br/>Would you tell me how could it be any better, any better than this?<br/>And how can I stand here with you and not be moved by you<br/>Would you tell me how could it be any better than this?<br/>Would you tell me how could it be any better than this?</lines>
+    </verse>
+  </lyrics>
+</song>

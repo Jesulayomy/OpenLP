@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Jesus, I come</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh how I need Your grace<br/>More than my words can say<br/>Jesus I come, Jesus I come<br/>In all my weaknesses<br/>You are my confidence<br/>Jesus I come, Jesus I come</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will rise, stand redeemed<br/>Heaven open over me<br/>To Your name eternally<br/>Endless glory I will bring (oh)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh what amazing love<br/>We need Your cleansing flood<br/>Jesus I come, Jesus I come<br/>In every broken place<br/>You are my righteousness<br/>Jesus I come, Jesus I come</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I will rise, stand redeemed<br/>Heaven open over me<br/>To Your name eternally<br/>Endless glory I will bring (oh)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Thank You Jesus<br/>Just as I am I come<br/>Hallelujah<br/>Oh what amazing love<br/>Oh what amazing love<br/>I will rise, stand redeemed<br/>Heaven open over me<br/>To Your name eternally<br/>Endless glory I will bring<br/>I will rise, stand redeemed<br/>Heaven open over me<br/>To Your name eternally<br/>Endless glory I will bring (oh, oh)</lines>
+    </verse>
+  </lyrics>
+</song>

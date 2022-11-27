@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-07-17T09:39:16">
+  <properties>
+    <titles>
+      <title>Fully alive in Your Spirit</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fully alive in Your Spirit,<br/>Lord, make me fully alive.<br/>Fully aware of Your presence, Lord,<br/><br/>Totally, fully alive.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don’t let me miss all the glory around me,<br/>Waiting for heaven someday to come.<br/>Open my eyes to miraculous things<br/>And make my feet march to eternity’s drum.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don’t let me wait for some far off forever<br/>To say what I feel to the ones I hold dear.<br/>Risking the pain and the joy of loving<br/>Keep me awake and alive while I’m here.</lines>
+    </verse>
+  </lyrics>
+</song>

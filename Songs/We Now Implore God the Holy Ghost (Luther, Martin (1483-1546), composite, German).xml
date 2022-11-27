@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>We Now Implore God the Holy Ghost</title>
+      <title>To God the Holy Spirit Let Us Pray, O Holy Ghost to Thee We Pray, Now Do We  Pray God the Holy Ghost, Now Pray We All God the Comforter, Now Let Us Pray to the Holy Ghost</title>
+    </titles>
+    <authors>
+      <author type="music">German</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">composite</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We now implore God the Holy Ghost For the true faith, which we need the most, That in our last moments He may befriend us And, as homeward we journey, attend us. Lord, have mercy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shine in our hearts, O most precious Light, That we Jesus Christ may know aright, Clinging to our Savior, whose blood hath bought us. Who again to our homeland hath brought us. Lord, have mercy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou sacred Love, grace on us bestow, Set our hearts with heav'nly fire aglow That with hearts united we love each other, Of one mind, in peace with ev'ry brother. Lord, have mercy!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou highest Comfort in ev'ry need, Grant that neither shame nor death we heed, That e'en then our courage may never fail us When the Foe shall accuse and assail us. Lord, have mercy!</lines>
+    </verse>
+  </lyrics>
+</song>

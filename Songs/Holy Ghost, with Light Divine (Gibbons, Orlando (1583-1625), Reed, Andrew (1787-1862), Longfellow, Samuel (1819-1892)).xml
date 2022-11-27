@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Holy Ghost, with Light Divine</title>
+    </titles>
+    <authors>
+      <author type="music">Gibbons, Orlando (1583-1625)</author>
+      <author type="words">Reed, Andrew (1787-1862)</author>
+      <author type="words">Longfellow, Samuel (1819-1892)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Ghost, with light divine Shine upon this heart of mine; Chase the shades of night away, Turn the darkness into day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let me see my Savior's face, Let me all His beauties trace; Show those glorious truths to me Which are only known to Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Ghost, with pow'r divine Cleanse this guilty heart of mine; In Thy mercy pity me, From sin's bondage set me free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy Ghost, with joy divine Cheer this saddened heart of mine; Yield a sacred, settled peace, Let it grow and still increase.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy Spirit, all divine, Dwell within this heart of mine; Cast down every idol\throne, Reign supreme, and reign alone.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>See, to Thee I yield my heart,<br/>Shed Thy life through every part;<br/>A pure temple I would be,<br/>Wholly dedicate to Thee.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Holy Spirit, Truth divine,<br/>Dawn upon this soul of mine;<br/>Word of God and inward light<br/>Wake my spirit, clear my sight.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Holy Spirit, Love divine,<br/>Glow within this heart of mine;<br/>Kindle every high desire;<br/>Perish self in Thy pure fire.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Holy Spirit, Power divine<br/>Fill and nerve this will of mine;<br/>Grant that I may strongly live,<br/>Bravely bear, and nobly strive.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Holy Spirit, Right divine,<br/>King within my conscience reign;<br/>Be my Lord, and I shall be<br/>Firmly bound, forever free.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Holy Spirit, Peace divine,<br/>Still this restless heart of mine;<br/>Speak to calm this tossing sea,<br/>Stayed in Thy tranquility.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Holy Spirit, Joy divine,<br/>Gladden Thou this heart of mine;<br/>In the desert ways I sing,<br/>"Spring, O Well, forever spring."</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Now incline me to repent,<br/>Let me now my sins lament,<br/>Now my foul revolt deplore,<br/>Weep, believe, and sin no more.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>The River</title>
+    </titles>
+    <copyright>2002 worshiptogether.com music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>gods-might</theme>
+      <theme>holy-spirit</theme>
+      <theme>church</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I was held up in chains<br/>The river was free.<br/>When I was covered in stains<br/>The river was clean.<br/>When I was losing my way<br/>The river found me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I can see the river.<br/>I can feel the river.<br/>I'm letting go of all I hold onto.<br/>Let it wash away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When we were broken inside<br/>The river was love.<br/>When we were thirsty and dry<br/>You were more than enough.<br/>When we were drowning in lies<br/>The river saved us.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I'm dancing in the river.<br/>And I'll be here forever.<br/>I'm letting go of everything but You.<br/>Carry me away.<br/>Carry me away.<br/>Carry me away.<br/>Carry me away.<br/>Carry me away.<br/>Carry me away.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I can see the river!<br/>It's washin' me away.<br/>My life is in the river.<br/>And I'll be here forever.<br/>I'm lettin' go of all that I hold onto.<br/>Can you see the river?<br/>When you're standin' in the river,<br/>Letting go of everything,<br/>Everything but You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Thou Didst Leave Thy Throne</title>
+    </titles>
+    <authors>
+      <author>Emily E. Steele Elliott</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou didst Leave Thy throne and Thy kingly crown,<br/>When Thou camest to earth for me;<br/>But in Bethlehem’s home there was found no room<br/>For Thy holy nativity:<br/>O come to my heart, Lord Jesus!<br/>There is room in my heart for Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heaven’s arches rang when the angels sang,<br/>Proclaiming Thy royal degree;<br/>But of lowly birth cam’st Thou, Lord, on earth,<br/>And in great humility,<br/>O come to my heart, Lord Jesus!<br/>There is room in my heart for Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The foxes found rest, and the birds had their nest,<br/>In the shade of the cedar tree;<br/>But Thy couch was the sod, O Thou Son of God,<br/>In the deserts of Galilee.<br/>O come to my heart, Lord Jesus!<br/>There is room in my heart for Thee.<br/>Thou camest, O Lord, with the living word<br/>That should set Thy children free;<br/>But with mocking scorn, and with crown of thorn,<br/>They bore Thee to Calvary.<br/>O come to my heart, Lord Jesus!<br/>Thy cross is my only plea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When heaven’s arches shall ring, and her choirs shall sing,<br/>At Thy coming to victory,<br/>Let Thy voice call me home, saying, ‘Yet there is room,<br/>There is room at My side for thee.’<br/>And my heart shall rejoice, Lord Jesus,<br/>When Thou comest and callest for me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>O Lord Jesus come to me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord Jesus come to me!<br/>Please come lead me in Your way.<br/>I put my life into Your hands<br/>My beloved Jesus Christ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//  How I've longed to be with You, (echo)<br/>How I've longed to know Your peace. (echo)<br/>I cry out to You O Lord, (echo: I cry out to You)<br/>Lead me now and evermore.  //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I won't turn my heart away<br/>I won't seek another love<br/>You alone are my desire<br/>You who bore the cross for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have put my trust in You,<br/>I will always follow You<br/>Be the ruler of my heart,<br/>My beloved Jesus Christ</lines>
+    </verse>
+  </lyrics>
+</song>

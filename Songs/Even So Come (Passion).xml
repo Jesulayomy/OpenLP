@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Even So Come</title>
+    </titles>
+    <authors>
+      <author type="words">Passion</author>
+      <author type="music">Passion</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1297"/>
+    </songbooks>
+    <themes>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>EVEN SO COME<br/>Kristian Stanfill</lines>
+    </verse>
+    <verse name="v2">
+      <lines>INTRO:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 1:<br/>All of creation, all of the earth<br/>Make straight a highway, a path for the Lord<br/>Jesus is coming soon</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE 2:<br/>Call back the sinner, wake up the saint<br/>Let every nation, shout of Your fame<br/>Jesus is coming soon</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Like a bride waiting for her groom, we'll be a church ready for You<br/>Every heart longing for our King, we sing:<br/>Even so come, Lord Jesus come<br/>Even so come, Lord Jesus come</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE 3:<br/>There will be justice, all will be new<br/>Your name forever, faithful and true<br/>Jesus is coming soon</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Chorus]</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE: (x2)<br/>So we wait, we wait for You<br/>God we wait, You're coming soon</lines>
+    </verse>
+    <verse name="c2">
+      <lines>FINAL CHORUS:<br/>Like a bride waiting for her groom, we'll be a church ready for You<br/>Every heart longing for our King, we sing<br/>Like a bride waiting for her groom, we'll be a church, we'll be ready for You<br/>Every heart longing for our King, we sing:<br/>Even so come, Lord Jesus come<br/>Even so come, Lord Jesus come</lines>
+    </verse>
+    <verse name="v7">
+      <lines>OUTRO: (quietly)<br/>Even so come, Lord Jesus come<br/>Even so come, Lord Jesus come</lines>
+    </verse>
+  </lyrics>
+</song>

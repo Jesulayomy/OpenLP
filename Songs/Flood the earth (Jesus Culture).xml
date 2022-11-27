@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Flood the earth</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3095"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>Break down the walls, push back the dark<br/>Light of the world, move in our hearts<br/>There's a stirring in the Spirit, Heaven<br/>Something holy, can you feel it? Heaven</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Let Your glory and Your power<br/>Let Your majesty and worth<br/>Flood the earth, flood the earth<br/>Let the rumors of Your kingdom<br/>Let Your name without reserve<br/>Flood the earth, flood the earth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>Freedom is here, fear has to leave<br/>Pain has to go, darkness retreat<br/>Every heart here, finding healing, Heaven<br/>In this moment, You're revealing, Heaven</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Break down the walls, push back the dark<br/>Light of the world, move in our hearts<br/>Heaven, flood the earth<br/>Freedom is here, fear has to leave<br/>Pain has to go, darkness retreat<br/>Heaven, flood the earth<br/>Freedom is here, fear has to leave<br/>Pain has to go, darkness retreat<br/>Heaven, flood the earth</lines>
+    </verse>
+  </lyrics>
+</song>

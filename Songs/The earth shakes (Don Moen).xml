@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>The earth shakes</title>
+    </titles>
+    <authors>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2745"/>
+    </songbooks>
+    <themes>
+      <theme>salvation</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Earth shakes at the sound of His voice<br/>The nations tremble before Him<br/>The idols of men are all falling<br/>At the feet of the LORD our God<br/>At the feet of the LORD our God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord is warrior; fearless is He<br/>The Lord is mighty in battle<br/>His armies outnumber His enemies<br/>When they shout the strongholds of Satan come crashing down!<br/>And Babylon is falling, falling down!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord is a Saviour; gracious is He<br/>The Lord is full of compassion<br/>His army is also His family<br/>When they shout the strongholds of Satan come crashing down!<br/>And Babylon is falling, falling down!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord has a kingdom; Jesus is King<br/>He reigns forever and ever!<br/>He's given us power and authority<br/>When we shout the strongholds of Satan come crashing down!<br/>And Babylon is falling, falling down!</lines>
+    </verse>
+  </lyrics>
+</song>

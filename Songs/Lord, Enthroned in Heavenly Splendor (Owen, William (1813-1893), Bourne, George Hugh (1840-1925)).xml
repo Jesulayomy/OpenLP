@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lord, Enthroned in Heavenly Splendor</title>
+    </titles>
+    <authors>
+      <author type="music">Owen, William (1813-1893)</author>
+      <author type="words">Bourne, George Hugh (1840-1925)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, enthroned in heav'nly splendor, First begotten from the dead, You alone, our strong Defender, Now lift up Your people's head. Alleluia! Alleluia! Alleluia! Jesus, true and living Bread! Jesus, true and living Bread!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here our humblest homage pay we, Here in loving reference bow; Here for faith's discernment pray we, Lest we fail to know You now. Alleluia! Alleluia! Alleluia! Thou art here, we ask not how. Thou art here, we ask not how.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though the lowliest form doth veil Thee As of old in Bethlehem, Here as there Thine angels hail Thee, Branch and Flow'r of Jesse's stem. Alleluia! Alleluia! Alleluia! We in worship join with them. We in worship join with them.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Paschal Lamb, Your offering finished Once for all when You were slain, In its fullness undiminished Shall forevermore remain. Alleluia! Alleluia! Alleluia! Cleansing souls from every stain. Cleansing souls from every stain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Great High Priest of our profession, Through the veil Thou wentest in, By Thy mighty intercession, Grace and peace for us to win. Alleluia! Alleluia! Alleluia! Jesus, true and living Bread! Jesus, true and living Bread!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Life imparting heavenly Manna,<br/>Smitten Rock with streaming side,<br/>Heaven and earth with loud hosanna<br/>Worship You, the Lamb Who died.<br/>Alleluia! Alleluia! Alleluia!<br/>Risen, Ascended, Glorified!</lines>
+    </verse>
+  </lyrics>
+</song>

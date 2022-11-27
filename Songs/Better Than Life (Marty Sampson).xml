@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Better Than Life</title>
+    </titles>
+    <copyright>2003 Marty Sampson / Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Better than the riches of this world<br/>Better than the sound of my friend's voices<br/>Better than the biggest dreams of my heart<br/>And that's just the start<br/>Better than getting what I say I need<br/>Better than living the life that I want to<br/>Better than the love anyone could give<br/>Your love is</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You hold me now in Your arms<br/>And never let me go</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You oh Lord make the sun shine<br/>And the moon light in the night sky<br/>You give me breath and all Your love<br/>I give my heart to You because</lines>
+    </verse>
+    <verse name="b1">
+      <lines>***I can't stop falling in love with You<br/>***I'll never stop falling in love with You</lines>
+    </verse>
+  </lyrics>
+</song>

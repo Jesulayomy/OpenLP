@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>He Never Sleeps</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When you've prayed every prayer that you know how to pray.<br/>Just remember the Lord will hear and the answer is on it's way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our God is able.<br/>He is mighty.<br/>He is faithful.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And He never sleeps, He never slumbers.<br/>He never tires of hearing our prayer.<br/>When we are weak He becomes stronger.<br/>So rest in His love and cast all of your cares on Him.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do you feel that the Lord has forgotten your need.<br/>Just remember that God is always working in ways you cannot see.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Our God is able.<br/>He is mighty.<br/>He is faithful.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>I stand amazed in the presence</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Gabriel Charles Hutchinson (1856-1932)</author>
+      <author type="music">Gabriel Charles Hutchinson (1856-1932)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand amazed in the presence<br/>Of Jesus the Nazarene,<br/>And wonder how He could love me,<br/>A sinner, condemned, unclean.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>O how marvelous! O how wonderful!<br/>And my song shall ever be:<br/>O how marvelous! O how wonderful!<br/>Is my Savior's love for me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He took my sins and my sorrows,<br/>He made them His very own;<br/>He bore the burden to Calvary,<br/>And suffered and died alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When with the ransomed in glory<br/>His face I at last shall see,<br/>'Twill be my joy through the ages<br/>To sing of His love for me.</lines>
+    </verse>
+  </lyrics>
+</song>

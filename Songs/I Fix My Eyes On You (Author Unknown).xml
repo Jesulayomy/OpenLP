@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>I Fix My Eyes On You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I fix my eyes on you, the author of my faith<br/>Casting aside every sin and every weight<br/>I fix my eyes on you, I lay my burdens down<br/>Letting the cares of this world now fade away</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One thing I ask, this one thing I seek<br/>That I may dwell in your house oh Lord my King<br/>All the days of my life<br/>I want to gaze upon your beauty<br/>And seek you in this Holy place</lines>
+    </verse>
+  </lyrics>
+</song>

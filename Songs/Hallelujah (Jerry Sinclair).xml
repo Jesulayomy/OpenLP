@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Hallelujah</title>
+      <title>Lord We Love You</title>
+    </titles>
+    <copyright>1972 Manna Music, Inc.</copyright>
+    <authors>
+      <author type="words">Jerry Sinclair</author>
+      <author type="music">Jerry Sinclair</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah (x4)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, we love You (x4)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are worthy (x4)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah (x4)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, we praise You (x4)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:17">
+  <properties>
+    <titles>
+      <title>You're an Eagle</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cause you're an Eagle! You where born to soar up in the sky!<br/>Trusting in your wings to rise and fly in liberty<br/>Things beyond this nest you'll view<br/>Greater works than this you'll do<br/>Doubts you will defy to fly so high, so high, so high.<br/>Fly so high, so high, so high.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All the earthly trials I am facing on my way<br/>Help me know my Saviour better day by day<br/>Jesus calls me higher an I hold His promise tight,<br/>I am Joining Him in this celestial fight.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cause I'm an eagle<br/>I was born to soar up in the sky!<br/>Trusting in your wings to rise and fly in liberty<br/>Things beyond this nest you'll view<br/>Greater works than this you'll do<br/>Coming to the place<br/>where my theophany I'll face</lines>
+    </verse>
+  </lyrics>
+</song>

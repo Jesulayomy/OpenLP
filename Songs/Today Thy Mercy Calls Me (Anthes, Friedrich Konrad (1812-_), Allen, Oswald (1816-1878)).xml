@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>Today Thy Mercy Calls Me</title>
+      <title>Today Your Mercy Calls Us</title>
+    </titles>
+    <authors>
+      <author type="music">Anthes, Friedrich Konrad (1812-?)</author>
+      <author type="words">Allen, Oswald (1816-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Today Thy mercy calls me to wash away my sin; However great my trespass, whate'er I may have been; However long from mercy I may have turned away, Thy blood, O Christ, can wash me, and make me clean today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Today Thy gate is open, and all who enter in Shall find a Father's welcome, and pardon for their sin; The past shall be forgotten, a present joy be given; A future grace be promised, a glorious crown in Heav'n.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Today the Father calls me, the Holy Spirit waits, The blessèd angels gather around the heav'nly gates; No question will be asked me, how often I have come; Although I oft have wandered, it is my Father's home.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O all embracing mercy, thou ever open door, What shall I do without thee when heart and eyes run o'er? When all things seem against me, to drive me to despair, I know one gate is open, one ear will hear my prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>For The Beauty Of The Earth</title>
+    </titles>
+    <authors>
+      <author type="music">Kocher, Conrad (1786-1872)</author>
+      <author type="words">Pierpoint, Folliot Sandford (1835-1917)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For the beauty of the earth For the glory of the skies, For the love which from our birth Over and around us lies. Lord of all, to Thee we raise, This our hymn of grateful praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the beauty of each hour, Of the day and of the night, Hill and vale, and tree and flow'r, Sun and moon, and stars of light. Lord of all, to Thee we raise, This our hymn of grateful praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the joy of ear and eye, For the heart and mind's delight, For the mystic harmony Linking sense to sound and sight. Lord of all, to Thee we raise, This our hymn of grateful praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For the joy of human love, Brother, sister, parent, child, Friends on earth and friends above, For all gentle thoughts and mild. Lord of all, to Thee we raise, This our hymn of grateful praise.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For Thy Church, that evermore Lifteth holy hands above, Off'ring up on every shore Her pure sacrifice of love. Lord of all, to Thee we raise, This our hymn of grateful praise.</lines>
+    </verse>
+  </lyrics>
+</song>

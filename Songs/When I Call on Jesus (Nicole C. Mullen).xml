@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>When I Call on Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Nicole C. Mullen</author>
+      <author type="music">Nicole C. Mullen</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm so very ordinary, nothing special own my own.<br/>Oh, I have never walked on water<br/>and I have never calmed a storm.<br/>Sometimes I'm hiding away from the madness around me<br/>like a child who's afraid of the dark.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>But when I call on Jesus, all things are possible.<br/>I can mount on wings like eagles and soar.<br/>When I call on Jesus, mountains are gonna fall<br/>'Cause He'll move heaven and earth to come rescue me when I call.<br/>La la laaaa laaaa la.<br/>La la laaaa laaaa la.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weary brother, broken daughter,<br/>Widowed, widowed lover you're not alone.<br/>If you're tired and scared of the madness around you,<br/>If you can't find the stength to carry on...</lines>
+    </verse>
+    <verse name="c2">
+      <lines>When you call on Jesus, all things are possible.<br/>You can mount on wings like eagles and soar.<br/>When you call on Jesus, mountains are gonna fall<br/>'Cause He'll move heaven and earth to come rescue you when you...</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Call Him in the mornin'.<br/>In the afternoon time,<br/>Late in the evening, He'll be there.<br/>When your heart is broken,<br/>And you feel discouraged,<br/>You can just remember that He said He'll be there.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>When I call on Jesus, all things are possible.<br/>I can mount on wings like eagles and soar.<br/>When I call on Jesus, mountains are gonna fall.<br/>'Cause He'll move heaven and earth to come rescue me when I call.<br/>La la laaaa laaaa la.<br/>La la laaaa laaaa la.</lines>
+    </verse>
+  </lyrics>
+</song>

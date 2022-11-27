@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Humble Thyself</title>
+    </titles>
+    <copyright>1978 Maranatha! Music | CCCM Music</copyright>
+    <authors>
+      <author type="words">Bob Hudson</author>
+      <author type="music">Bob Hudson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Humble thyself in the sight of the Lord. (Echo)<br/>Humble thyself in the sight of the Lord. (Echo)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And He (and He) will lift (will lift) you up, higher and higher.<br/>And He (and He) will lift (will lift) you up.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And He (and He) will lift (will lift) you up, up into heaven!<br/>And He will lift you up.</lines>
+    </verse>
+  </lyrics>
+</song>

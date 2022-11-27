@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>He Is the Lord</title>
+      <title>Show Your Power</title>
+    </titles>
+    <copyright>1991 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Kevin Prosch</author>
+      <author type="music">Kevin Prosch</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>proclamation</theme>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>appeal</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+      <theme>devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is the Lord, and He reigns on high,<br/>He is the Lord.<br/>Spoke into the darkness, created the light,<br/>He is the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is like unto Him, never ending in days?<br/>He is the Lord.<br/>And He comes in power when we call on His name,<br/>He is the Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Show Your power, O Lord, our God,<br/>Show Your power, O Lord, our God,<br/>Our God!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your gospel, O Lord, is the hope for our nation,<br/>You are the Lord.<br/>It's the power of God for our salvation,<br/>You are the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We ask not for riches, but look to the cross,<br/>You are the Lord.<br/>And for our inheritance give us the lost,<br/>You are the Lord.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Send Your power, O Lord, our God,<br/>Send Your power, O Lord, our God,<br/>Our God!</lines>
+    </verse>
+  </lyrics>
+</song>

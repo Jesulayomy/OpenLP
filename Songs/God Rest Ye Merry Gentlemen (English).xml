@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>God Rest Ye Merry Gentlemen</title>
+    </titles>
+    <authors>
+      <author type="words">English</author>
+      <author type="music">English</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God rest ye merry, gentlemen;<br/>Let nothing you dismay<br/>Remember Christ our Savior<br/>Was born on Christmas Day<br/>To save us all from Satan's pow'r<br/>When we were gone a-stray</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O tidings of comfort and joy,<br/>Comfort and joy!<br/>O tidings of comfort and joy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Bethlehem, in Israel,<br/>This blessed Babe was born,<br/>And laid within a manger<br/>Upon this blessed morn;<br/>Of which His Mother Mar-y<br/>Did nothing take in scorn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From God our heav'nly Father,<br/>A blessed angel came;<br/>And unto certain shepherds<br/>Brought tidings of the same;<br/>How that in Bethlehem was born<br/>The Son of God by name.</lines>
+    </verse>
+  </lyrics>
+</song>

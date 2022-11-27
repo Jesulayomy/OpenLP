@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Broken Together</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4905"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What do you think about when you look at me<br/>I know were not the fairy tale you dreamed wed be<br/>You wore the veil, you walked the aisle, you took my hand<br/>And we dove into a mystery</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How I wish we could go back to simpler times<br/>Before all our scars and all our secrets were in the light<br/>Now on this hallowed ground, we've drawn the battle lines<br/>Will we make it through the night</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Its going to take much more than promises this time<br/>Only God can change our minds</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Maybe you and I were never meant to be complete<br/>Could we just be broken together<br/>If you can bring your shattered dreams and I'll bring mine<br/>Could healing still be spoken and save us<br/>The only way well last forever is broken together</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How it must have been so lonely by my side<br/>We were building kingdoms and chasing dreams and left love behind<br/>I'm praying God will help our broken hearts align<br/>And we won't give up the fight</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Its going to take much more than promises this time<br/>Only God can change our minds</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Maybe you and I were never meant to be complete<br/>Could we just be broken together<br/>If you can bring your shattered dreams and I'll bring mine<br/>Could healing still be spoken and save us<br/>The only way well last forever is broken together</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Maybe you and I were never meant to be complete<br/>Could we just be broken together<br/>If you can bring your shattered dreams and I'll bring mine<br/>Could healing still be spoken and save us<br/>The only way well last forever is broken together</lines>
+    </verse>
+  </lyrics>
+</song>

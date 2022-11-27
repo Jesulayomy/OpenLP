@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>I Stand in Awe (feat. Nicole Serrano)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6179"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I consider what You have made<br/>The mighty oceans, the fiery stars<br/>The fields and forests give You praise<br/>My Lord, my God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I stand in awe, I stand in awe<br/>I stand in awe of You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I consider what You have done<br/>I see Your suffering, I see Your scars<br/>Oh, the wonder, and oh, the love<br/>My Lord (My Lord), my God (My God)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And I stand in awe, yes, I stand in awe<br/>I stand in awe of You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All glory, all honor, all worship and all praise<br/>All blessing, all power how worthy is Your name<br/>All glory, all honor, all worship and all my praise<br/>All blessing, all power, Is Yours all the power is Yours</lines>
+    </verse>
+    <verse name="c3">
+      <lines>And I stand in awe, I stand in awe<br/>I stand in awe of You (I stand in awe of You)<br/>God, I stand in awe, yes, I stand in awe<br/>I stand in awe of You<br/>Awe I stand in awe</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>Peace In The Valley</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well, I'm tired and so weary,<br/>But I must go along;<br/>Till the Lord comes and calls<br/>Me away, oh, yes;<br/>Well the morning is bright<br/>And the Lamb is the Light;<br/>And the night, night is as fair<br/>As the day, oh yes.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>There will be peace in the valley<br/>For me some day;<br/>There will be peace in the valley<br/>For me, oh, Lord, I pray;<br/>There'll be no sadness, no sorrow,<br/>no trouble I'll see;<br/>There will be peace<br/>In the valley for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There the flow'rs will be blooming,<br/>And the grass will be green;<br/>And the skies will be clear<br/>And serene, oh, yes;<br/>Well the sun ever beams,<br/>In this valley of dreams;<br/>And no clouds there will ever<br/>Be seen,oh, yes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, the bear will be gentle,<br/>And the wolf will be tame;<br/>And the lion shall lay down<br/>By the lamb, oh, yes;<br/>Well the beast from the wild,<br/>Shall be led by a little child;<br/>And I'll be changed, changed<br/>From this creature that I am, oh, yes.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Let Your Kingdom Come (feat. Chris Jackson)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5482"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your glorious cause, O God<br/>Engages our hearts<br/>May Jesus Christ be known<br/>Wherever we are<br/>We ask not for ourselves, but for Your renown<br/>The cross has saved us so we pray<br/>Your kingdom come</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let Your kingdom come<br/>Let Your will be done<br/>So that everyone might know Your Name<br/>Let Your song be heard everywhere on earth<br/>Till Your sovereign work on earth is done<br/>Let Your kingdom come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give us Your strength, O God<br/>And courage to speak<br/>Perform Your wondrous deeds<br/>Through those who are weak<br/>Lord use us as You want, whatever the test<br/>By grace we'll preach Your gospel<br/>Till our dying breath</lines>
+    </verse>
+  </lyrics>
+</song>

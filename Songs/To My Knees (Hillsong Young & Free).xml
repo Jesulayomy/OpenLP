@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>To My Knees</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Young &amp; Free</author>
+      <author type="music">Hillsong Young &amp; Free</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1926"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>TO MY KNEES</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Words and Music by<br/>JOEL DAVIES &amp; AODHAN KING<br/>♩= 68</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 1<br/>In the Saviour's love<br/>I find joy beyond compare<br/>Endless peace covers all of me<br/>When You breathe within<br/>You turn winter into spring<br/>Grace dissolves every fear in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS<br/>Your love brings me to my knees<br/>Brings me to my knees<br/>My King forever<br/>You are all my heart desires<br/>Until the end of time<br/>My soul surrendered</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE 2<br/>In my vacant heart<br/>Lord You came and made a home<br/>You bring light to the dark in me<br/>When I lose my way<br/>I am beckoned into grace<br/>You alone are my everything</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Repeat CHORUS</lines>
+    </verse>
+    <verse name="v7">
+      <lines>BRIDGE<br/>All the earth sing of mercy never ending<br/>I will worship with all that is within me<br/>Holy, holy Lord God Almighty<br/>King of heaven, Yours is the glory<br/>All the earth sing of mercy never ending<br/>I will worship with all that is within me<br/>Holy, holy Lord God Almighty<br/>King of heaven, Yours is the glory</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Repeat CHORUS</lines>
+    </verse>
+    <verse name="v9">
+      <lines>INSTRUMENTAL<br/>| C Dm | Am7  G | Fmaj9 | C G | (play 10 times)</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Repeat CHORUS X2</lines>
+    </verse>
+  </lyrics>
+</song>

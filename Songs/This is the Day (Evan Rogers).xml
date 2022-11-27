@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>This is the Day</title>
+      <title>Everybody in the Church</title>
+    </titles>
+    <authors>
+      <author type="words">Evan Rogers</author>
+      <author type="music">Evan Rogers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the day, the Lord has made<br/>Let us be glad - Give Him praise<br/>Rejoicing now that we are saved<br/>That's why<br/>Everybody in the church is dancing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your mercy makes us celebrate<br/>And revel in Your lavish grace<br/>This joy we've got to demonstrate<br/>That's why<br/>Everybody in the church is dancing</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Everybody, everybody dance ...</lines>
+    </verse>
+  </lyrics>
+</song>

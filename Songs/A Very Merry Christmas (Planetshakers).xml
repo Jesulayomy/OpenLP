@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>A Very Merry Christmas</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>joy</theme>
+      <theme>guitar</theme>
+      <theme>christmas</theme>
+      <theme>introit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To you and your family<br/>We wish you a Merry Christmas<br/>Let it be full of celebrating<br/>And full of our God's blessing</lines>
+    </verse>
+    <verse name="p1">
+      <lines>So let's come together now<br/>Everyone gather around<br/>Grab the ones that you love and sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We wish you a very merry Christmas<br/>And to you, a very merry Christmas<br/>Let it be full of joy for everyone<br/>To everybody, a very merry Christmas<br/>To you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With the spirit of Giving<br/>We wish you a Merry Christmas<br/>Let's fill the house with celebration<br/>As we remember Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

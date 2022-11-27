@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Beautiful things</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wonder if I'll ever find my way<br/>I wonder if my life could really change<br/>At all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All this earth<br/>Could all that is lost ever be found<br/>Could a garden come up from this ground<br/>At all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You make beaytiful things<br/>You make beaytiful things out of the dust<br/>You make beaytiful things<br/>You make beaytiful things out of us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All around<br/>Hope is sringing up from this old ground<br/>Out of chaos life is being found<br/>In You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You make me new You are making me new<br/>You make me new You are making me new</lines>
+    </verse>
+  </lyrics>
+</song>

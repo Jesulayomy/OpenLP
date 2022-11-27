@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:14">
+  <properties>
+    <titles>
+      <title>Anchor</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1811"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In every season, in every change You are  near<br/>In every sorrow, You are my strength You are near</lines>
+    </verse>
+    <verse name="p1">
+      <lines>A peace in the storm Your voice I will follow<br/>In weakness I rise remembering You hold world</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm holding on to hope I'm holding on to grace<br/>I'm fully letting go I'm surrendered to Your ways<br/>The anchor for my soul Father You will never change<br/>I love You, I love You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My great Redeemer, my constant Friend You are near<br/>My faithful Father, You took me in You are near</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I will remember Your promise forever<br/>My Strength, my Defender I can count on You<br/>You are my Savior, My Hope and my Shelter<br/>Your love is forever I can count on You</lines>
+    </verse>
+  </lyrics>
+</song>

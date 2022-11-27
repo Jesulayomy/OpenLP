@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>All the Way My Saviour Leads Me</title>
+    </titles>
+    <authors>
+      <author>Fanny Crosby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the way my saviour leads me,<br/>What have I to ask beside?<br/>Can I doubt His tender mercy,<br/>Who through life has been my guide?<br/>Heavenly peace, divinest comfort,<br/>Here by faith in Him to dwell,<br/>For I know whate’er befall me,<br/>Jesus doeth all things well.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All the way my Saviour leads me,<br/>Cheers each winding path I tread.<br/>Gives me grace for every trial,<br/>Feeds me with the Living Bread.<br/>Though my weary steps may falter<br/>And my soul athirst may be,<br/>Gushing from a Rock before me,<br/>Lo! a spring of joy I see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And all the way my Saviour leads me,<br/>Oh, the fullness of His love.<br/>Perfect rest to me is promised<br/>In my Father’s house above.<br/>And when my spirit clothed immortal<br/>Wings its flight to realms of day,<br/>This my song through endless ages,<br/>Jesus led me all the way.</lines>
+    </verse>
+  </lyrics>
+</song>

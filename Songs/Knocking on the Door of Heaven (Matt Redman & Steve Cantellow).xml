@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Knocking on the Door of Heaven</title>
+    </titles>
+    <copyright>1996 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman &amp; Steve Cantellow</author>
+      <author type="music">Matt Redman &amp; Steve Cantellow</author>
+    </authors>
+    <songbooks>
+      <songbook name="Işık Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will give ourselves no rest<br/>'Till Your kingdom comes on earth;<br/>You've positioned watchmen on the walls.<br/>Now our prayers will flow like tears,<br/>For You've shared your heart with us;<br/>God of heaven, on our knees we fall.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Come down in power, reveal Your heart again;<br/>Come hear our cries, the tears that plead for rain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We're knocking, knocking on the door of heaven,<br/>We're crying, crying for this generation,<br/>We're praying for Your name to be known in all of the earth.<br/>We're watching, watching on the walls to see You,<br/>We're looking, looking for a time of breakthrough,<br/>We're praying for Your word to bear fruit<br/>In all of the earth, in all of the earth.</lines>
+    </verse>
+  </lyrics>
+</song>

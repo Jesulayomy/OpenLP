@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>I've made up my mind, no compromise</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've made up my mind, no compromise<br/>I will live for You<br/>Because of the Cross and what it cost<br/>I will go for You</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Shout His name out, Jesus<br/>Shout His name out, Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Whoa! I am not ashamed of You<br/>Whoa! I'm singing it loud<br/>Whoa! I am living for You now<br/>No matter what the cost I'll go</lines>
+    </verse>
+    <verse name="b1">
+      <lines>This praise is rising in my soul<br/>I can't contain it any more<br/>I just have to dance</lines>
+    </verse>
+  </lyrics>
+</song>

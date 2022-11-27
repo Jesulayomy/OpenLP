@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>The Way I Was Made</title>
+    </titles>
+    <copyright>2004 worshiptogether.com songs | Alletrop Music | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Caught in the half-light,<br/>I'm caught alone,<br/>Waking up to the sunrise<br/>and the radio.<br/>Feels like I'm tied up. What's holding me?<br/>Just praying today will be the day I go free.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I want to live<br/>like there's no tomorrow.<br/>I want to dance like no one's around.<br/>I want to sing like nobody's listening<br/>Before I lay my body down.<br/>I want to give like I have plenty.<br/>I want to love like I'm not afraid.<br/>I want to be the man<br/>I was meant to be.<br/>I want to be the way I was made.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Made in Your likeness.<br/>Made with Your hands.<br/>Made to discover who You are<br/>and who I am.<br/>All I've forgotten,<br/>help me to find.<br/>All that You've promised,<br/>let it be in my life.</lines>
+    </verse>
+  </lyrics>
+</song>

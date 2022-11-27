@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Victory</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The weapon may be formed but it won't prosper<br/>When the darkness falls it won't prevail<br/>Cause the God I serve knows only how to triumph<br/>My God will never fail<br/>My God will never fail</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm gonna see a victory<br/>I'm gonna see a victory<br/>For the battle belongs to You Lord<br/>I'm gonna see a victory<br/>I'm gonna see a victory<br/>For the battle belongs to You Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's power in the mighty name of Jesus<br/>Every war He wages He will win<br/>I'm not backing down from any giant<br/>I know how this story ends<br/>I know how this story ends</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You take what the enemy meant for evil<br/>And You turn it for good<br/>You turn it for good</lines>
+    </verse>
+  </lyrics>
+</song>

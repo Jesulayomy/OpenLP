@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Bones</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You can take my dry bones<br/>Breathe life into this skin<br/>You called me by name<br/>Raised me to life again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You can calm the oceans<br/>Speak peace into my soul<br/>Take me as I am<br/>Awaken my heart to beat again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh Jesus<br/>Oh Jesus<br/>Oh Jesus<br/>Alive in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You move in the unseen<br/>You set the captives free<br/>As I stand and sing<br/>You're breaking the chains off me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Breathe in me Your life<br/>I can feel You are close now<br/>I can never hide<br/>You are here and You know me<br/>All I need is You<br/>And I love You<br/>I love You<br/>I love You<br/>I love You</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Breathe in me Your life<br/>'Til Your love overtakes me<br/>Open up my eyes<br/>Let me see You more clearly<br/>Falling on my knees<br/>'Til I love like You love<br/>Like You love me<br/>I love You</lines>
+    </verse>
+  </lyrics>
+</song>

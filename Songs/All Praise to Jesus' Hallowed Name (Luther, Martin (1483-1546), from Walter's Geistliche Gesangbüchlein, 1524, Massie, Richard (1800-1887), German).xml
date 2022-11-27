@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>All Praise to Jesus' Hallowed Name</title>
+      <title>All Praise to Thee, O Jesus Christ, O Jesus Christ, All Praise to Thee, We Praise You, Jesus at Your Birth, All Praise to Thee, Eternal Lord</title>
+    </titles>
+    <authors>
+      <author type="music">from Walter's Geistliche Gesangbüchlein, 1524</author>
+      <author type="words">German</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All praise to Jesus' hallowed Name Who of virgin pure became True man for us! The angels sing As the glad news to earth they bring. Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Th'Eternal Father's only Son For a manger leaves His throne Disguised in our poor flesh and blood See now the everlasting Good.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He whom the world could not inwrap Yonder lies in Mary's lap; He is become an infant small, Who by His might upholdeth all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Th'Eternal Light, come down from heav'n, Hath to us new sunshine giv'n; It shineth in the midst of night, And maketh us the sons of light.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The Father's Son, God ever\blest, In the world became a guest; He leads us from this vale of tears, And makes us in his kingdom heirs.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He came to earth so mean and poor, Man to pity and restore,<br/>And make us rich in heaven above, Equal with angels through his love.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>All this He did to show His grace To our poor and sinful race;<br/>For this let Christendom adore And praise His name for evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

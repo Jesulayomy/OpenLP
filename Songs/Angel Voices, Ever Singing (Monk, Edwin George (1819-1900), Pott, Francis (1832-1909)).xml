@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Angel Voices, Ever Singing</title>
+    </titles>
+    <authors>
+      <author type="music">Monk, Edwin George (1819-1900)</author>
+      <author type="words">Pott, Francis (1832-1909)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Angel voices, ever singing, round Thy throne of light, Angel harps, forever ringing, rest not day or night; Thousands only live to bless Thee, and confess Thee Lord of might.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou Who art beyond the farthest mortal eye can scan, Can it be that Thou regardest songs of sinful man? Can we feel that Thou art near us and wilt hear us? Yea, we can.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, we know Thy love rejoices o'er each work of Thine; Thou didst ears and hands and voices for Thy praise combine; Craftsman's art and music's measure for Thy pleasure didst design.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Here, great God, today we offer of Thine own to Thee; And for Thine acceptance proffer, all unworthily, Hearts and minds, and hands and voices, in our choicest melody.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Honor, glory, might and merit, Thine shall ever be, Father, Son, and Holy Spirit, blessed Trinity; Of the best that Thou hast given Earth and Heaven render Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>I'll Fly Away</title>
+    </titles>
+    <copyright>1932 Hartford Music Company | 1960 Albert E. Brumley and Sons</copyright>
+    <authors>
+      <author type="words">Albert E. Brumley</author>
+      <author type="music">Albert E. Brumley</author>
+      <author type="words">Joey+Rory</author>
+      <author type="music">Joey+Rory</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some glad morning when this life is o'er, I'll fly away!<br/>To a home on God's celestial shore, I'll fly away.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'll fly away, oh glory, I'll fly away;<br/>When I die, hallelujah by and by,<br/>I'll fly away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the shadows of this life have gone, I'll fly away!<br/>Like a bird from prison bars has flown, I'll fly away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh how glad and happy when we meet, I'll fly away!<br/>No more cold iron shackles on my feet, I'll fly away!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just a few more weary days and then, I'll fly away!<br/>To a land where joys shall never end, I'll fly away.</lines>
+    </verse>
+  </lyrics>
+</song>

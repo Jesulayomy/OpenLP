@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:59">
+  <properties>
+    <titles>
+      <title>Glorious Things of Thee are Spoken</title>
+    </titles>
+    <authors>
+      <author type="music">Haydn, Franz Joseph (1732-1809)</author>
+      <author type="words">Newton, John (1725-1807)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glorious things of thee are spoken, Zion city of our God; He, Whose Word cannot be broken Formed thee for His Own abode: On the Rock of Ages founded, What can shake thy sure repose? With salvation's walls surrounded, Thou mayst smile at all thy foes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See, the streams of living waters, Springing from Eternal Love, Well supply thy sons and daughters, And all fear of want remove: Who can faint, while such a river Ever will their thirst assuage? Grace, which, like the Lord the Giver, Never fails from age to age.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Round each habitation hov'ring, See the cloud and fire appear, For a glory and a cov'ring: Showing that the Lord is near. Thus deriving from their banner Light by night, and shade by day, Safe they feed upon the manna, Which He gives them on their way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Savior, if of Zion's city I, through grace, a member am, Let the world deride or pity, I will glory in Thy Name: Fading is the worldling's pleasure, All his boasted pomp and show: Solid joys and lasting treasure None but Zion's children know.</lines>
+    </verse>
+  </lyrics>
+</song>

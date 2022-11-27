@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Sheltered in the Arms</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I feel the touch of hands<br/>So warm and tender<br/>They're leading me in paths<br/>That I must trod<br/>I have no fear<br/>When Jesus walks beside me<br/>For I'm sheltered<br/>In the arms of God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus<br/>So let the storms rage high<br/>The dark clouds rise<br/>They won't worry me<br/>For I'm sheltered safe<br/>Within the arms of God<br/>He walks with me<br/>And naught of earth can harm me<br/>Sheltered safe within the arms of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Soon I shall hear<br/>The call from Heaven's portals<br/>"Come home my child,<br/>It's the last mile you must trod"<br/>I'll fall asleep<br/>And wake in God's new heaven<br/>Sheltered safe<br/>Within the arms of God</lines>
+    </verse>
+  </lyrics>
+</song>

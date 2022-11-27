@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T08:45:24">
+  <properties>
+    <titles>
+      <title>Hymn 192 - Fill Thou My Life</title>
+    </titles>
+    <authors>
+      <author>Horatius Bonar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fill thou my life, O Lord my God,<br/>In every part with praise,<br/>That my whole being may proclaim<br/>Thy being and Thy ways.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not for the lip of praise alone,<br/>Nor e’en the praising heart<br/>I ask, but for a life made up<br/>Of praise in every part:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise in the common things of life,<br/>Its goings out and in;<br/>Praise in each duty and each deed,<br/>However small and mean.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fill every part of me with praise;<br/>Let all my being speak<br/>Of Thee and of Thy love, O Lord,<br/>Poor though I be and weak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So shall Thou, gracious Lord, from me<br/>Receive the glory due;<br/>And so shall I begin on earth<br/>The song forever new.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So shall no part of day or night<br/>From sacredness be free;<br/>But all my life, in every step,<br/>Be fellowship with Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>The King of Love</title>
+    </titles>
+    <authors>
+      <author>Henry W. Baker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The King of Love my Shepherd is,<br/>Whose goodness faileth never;<br/>I nothing lack if I am His<br/>And He is mine forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where streams of living water flow<br/>My ransomed soul He leadeth,<br/>And where the verdant pastures grow<br/>With food celestial feedeth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Perverse and foolish oft I strayed,<br/>But yet in love He sought me,<br/>And on His shoulder gently laid,<br/>And home rejoicing brought me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>!n death’s dark vale I fear no ill<br/>With Thee, dear Lord, beside me;<br/>Thy rod and staff my comfort still,<br/>Thy cross before to guide me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thou spread’st a table in my sight;<br/>Thy unction grace bestoweth:<br/>And O what transport of delight<br/>From Thy pure chalice floweth!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And so through all the length of days<br/>Thy goodness faileth never;<br/>Good Shepherd, may I sing Thy praise<br/>Within Thy house forever.</lines>
+    </verse>
+  </lyrics>
+</song>

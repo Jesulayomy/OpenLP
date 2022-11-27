@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Filled with Your Glory</title>
+    </titles>
+    <copyright>2004 Birdwing Music | Starfield Designee</copyright>
+    <authors>
+      <author type="words">Jon and Tim Neufeld</author>
+      <author type="music">Jon and Tim Neufeld</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In my heart, in my heart,<br/>there's a fire burning,<br/>A passion deep within my soul,<br/>not slowing down not growing cold.<br/>An unquenchable flame<br/>that keeps burning brighter,<br/>A love that's blazing like the sun<br/>for who You are and what You've done.<br/>And as the fire is raging on,<br/>So Your praise becomes my song.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The whole earth is filled<br/>with Your glory, Lord.<br/>Angels and men adore;<br/>Creation longs for what's in store.<br/>May You be honored and glorified,<br/>exalted and lifted high.<br/>Here at Your feet I lay my life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From the ends of the earth<br/>to the heights of heaven,<br/>Your glory, Lord, is far and wide;<br/>through history You reign on high.<br/>From the depths of the sea<br/>to the mountain's summit,<br/>Your power, Lord, it knows no bounds;<br/>a higher love cannot be found.<br/>So let the universe proclaim<br/>Your great power and Your great name.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>The whole earth is filled<br/>with Your glory, Lord.<br/>Mountains bow and oceans roar;<br/>Creation longs for what's in store.<br/>May You be honored and glorified,<br/>exalted and lifted high.<br/>Here at Your feet I lay my life.</lines>
+    </verse>
+  </lyrics>
+</song>

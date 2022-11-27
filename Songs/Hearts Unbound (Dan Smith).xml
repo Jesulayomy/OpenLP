@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Hearts Unbound</title>
+      <title>You Raise</title>
+    </titles>
+    <authors>
+      <author type="words">Dan Smith</author>
+      <author type="music">Dan Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hearts unbound; we were lost, now found<br/>Awakened to new life in Jesus<br/>Dead in sin, but we were raised with Him;<br/>The Way into the Father's favour</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Drink it in now; every heart bow<br/>And let joy break through</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All our sin wiped out, we are welcomed now<br/>Jesus is our greatest joy<br/>Let His name be praised, God who lives to raise<br/>Jesus is our greatest joy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Death disarmed forever<br/>Jesus' reign will never end<br/>The One unrivalled<br/>Now the Holy Spirit<br/>Gives the spoils of victory<br/>The Father's kindness</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Released by Your mercy<br/>Restored by Your grace<br/>Refreshed in Your presence<br/>New hope, new life, You raise</lines>
+    </verse>
+  </lyrics>
+</song>

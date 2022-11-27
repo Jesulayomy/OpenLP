@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>No, Not One!</title>
+    </titles>
+    <authors>
+      <author type="music">Hugg, George Crawford (1848-1907)</author>
+      <author type="words">Oatman, Jr., Johnson (1856-1922)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's not a friend like the lowly Jesus, No, not one! no, not one! None else could heal all our soul's diseases, No, not one! no, not one! Jesus knows all about our struggles, He will guide till the day is done; There's not a friend like the lowly Jesus, No, not one! no, not one!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No friend like Him is so high and holy, No, not one! no, not one! And yet no friend is so meek and lowly, No, not one! no, not one! Jesus knows all about our struggles, He will guide till the day is done; There's not a friend like the lowly Jesus, No, not one! no, not one!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's not an hour that He is not near us, No, not one! no, not one! No night so dark but His love can cheer us, No, not one! no, not one! Jesus knows all about our struggles, He will guide till the day is done; There's not a friend like the lowly Jesus, No, not one! no, not one!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Did ever saint find this friend forsake him? No, not one! no, not one! Or sinner find that He would not take him? No, not one! no, not one! Jesus knows all about our struggles, He will guide till the day is done; There's not a friend like the lowly Jesus, No, not one! no, not one!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Was e'er a gift like the Savior given? No, not one! no, not one! Will He refuse us a home in heaven? No, not one! no, not one! Jesus knows all about our struggles, He will guide till the day is done; There's not a friend like the lowly Jesus, No, not one! no, not one!</lines>
+    </verse>
+  </lyrics>
+</song>

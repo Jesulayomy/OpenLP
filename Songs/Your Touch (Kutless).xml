@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Your Touch</title>
+    </titles>
+    <authors>
+      <author type="words">Kutless</author>
+      <author type="music">Kutless</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Staring at a blank wall and all its white washed face<br/>Not knowing why I had to choose this way<br/>I discern I was wrong in my way<br/>Looking for peace in another, another domain</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And I realize that its true I seek you, yes I seek you<br/>And I realize that its true I need you, yes I need you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I reach and I touch you and I know that I need you<br/>To reach out and to touch me and I know<br/>I know that I need your touch</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not knowing why I ever retreated from your arms<br/>A mistake I made<br/>Now oh Lord I feel your warm embrace, contentment<br/>fills my soul as joy lights my face</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You Look into the sky<br/>and see His arms of love reaching out for you<br/>His arms of love and grace<br/>And you know you need him, you need his touch<br/>I need your, I need your.....touch</lines>
+    </verse>
+  </lyrics>
+</song>

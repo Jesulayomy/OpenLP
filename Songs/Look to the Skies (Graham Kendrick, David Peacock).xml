@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:51">
+  <properties>
+    <titles>
+      <title>Look to the Skies</title>
+      <title>Worship the King</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">David Peacock</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>praise</theme>
+      <theme>appeal</theme>
+      <theme>gospel</theme>
+      <theme>christian-living</theme>
+      <theme>salvation</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Look to the skies, there's a celebration<br/>Lift up your heads, join the angel song<br/>For our Creator becomes our Savior<br/>As a baby born!<br/>Angels, amazed, bow in adoration<br/>'Glory to God in the highest heaven!'<br/>Send the good news out to every nation<br/>For our hope has come</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Worship the King - come, see His brightness<br/>Worship the King, His wonders tell<br/>Jesus our King is born today<br/>We welcome You, Emmanuel</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wonderful Counselor, Mighty God<br/>Father for ever, the Prince of Peace<br/>There'll be no end to Your rule of justice<br/>For it shall increase<br/>Light of Your face, come to pierce our darkness<br/>Joy of Your heart come to chase our gloom<br/>Star of the morning, a new day dawning<br/>Make our hearts Your home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quietly He came as a helpless baby<br/>One day in power He will come again<br/>Swift through the skies He will burst with splendour<br/>On the earth to reign<br/>Jesus, I bow at Your manger lowly<br/>Now in my life let Your will be done<br/>Live in my flesh by Your Spirit holy<br/>Till Your kingdom comes</lines>
+    </verse>
+  </lyrics>
+</song>

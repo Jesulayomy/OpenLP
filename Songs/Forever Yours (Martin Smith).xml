@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Forever Yours</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3587"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse 1]<br/>I will wait on You, Lord<br/>I will wait on You, Lord<br/>I'm not going anywhere<br/>So I will wait on You, Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Pre-Chorus]<br/>I'm tearing down this fortress I've built<br/>Nothing would keep us apart<br/>You hold the heavens but never let go of my heart!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Chorus 1]<br/>I'm forever Yours!<br/>I'm forever Yours!<br/>Oh, the greatest joy<br/>You'll always be mine<br/>I'm forever Yours!<br/>Ooh-ooh-ooh, ooh-ooh-ooohh<br/>Ooh-ooh-ooh, ooh-ooh-oooohh<br/>I'm forever Yours<br/>Ooh-ooh-ooh, ooh-ooh-ooohh<br/>Ooh-ooh-ooh, ooh-ooh-oooohh</lines>
+    </verse>
+  </lyrics>
+</song>

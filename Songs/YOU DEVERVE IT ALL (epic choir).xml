@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:45">
+  <properties>
+    <titles>
+      <title>YOU DEVERVE IT ALL</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Heaven and earth adore you<br/>Angels bow before you<br/>Singing glory to th king<br/>Lamb upon the throne<br/>We lift holy hands in worship<br/>And we give all the praise<br/>Alpha and Omega<br/>The beginning and the end<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I give you all the glory<br/>I give you all the honour<br/>I give you all the worship<br/>You deserve the praise<br/>I give you all the glory<br/>Adoration to your name<br/>You deserve it all<br/>You deserve it all</lines>
+    </verse>
+  </lyrics>
+</song>

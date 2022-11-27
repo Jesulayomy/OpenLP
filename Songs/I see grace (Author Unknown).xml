@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>I see grace</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus my help, I call on Your name<br/>I cast my cares on You<br/>Jesus my hope, my tower of strength<br/>My faith is found in You</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I see You pierced, wounded for me<br/>When I look to the cross I see</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I see grace, sealed by Your sacrifice<br/>I see love, reaching for me<br/>Precious blood, washes and sanctifies<br/>Healing flows, setting me free<br/>I see grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bearer of sin, afflicted and tried<br/>You paid redemption's price<br/>Bearing my curse, You've set me on high<br/>Your death has brought me life</lines>
+    </verse>
+  </lyrics>
+</song>

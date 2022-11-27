@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Love Came Down</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson</author>
+      <author type="music">Brian Johnson</author>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1857"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If my heart is overwhelmed and I cannot hear Your voice<br/>I'll hold on to what is true though I cannot see<br/>If the storms of life they come and the road ahead gets steep<br/>I will lift these hands in faith, I will believe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I remind myself of all that You've done<br/>And the life I have because of Your Son</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love came down and rescued me<br/>Love came down and set me free<br/>Now I am Yours, I am forever Yours</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mountain high or valley low</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I sing out, remind my soul<br/>I am Yours, I am forever Yours</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When my heart is filled with hope, when every promise comes my way<br/>When I feel Your hands of grace rest upon me<br/>Staying desperate for You God, staying humbled at Your feet<br/>I will lift these and praise, I will believe</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I am Yours, I am Yours<br/>All my days I am Yours</lines>
+    </verse>
+  </lyrics>
+</song>

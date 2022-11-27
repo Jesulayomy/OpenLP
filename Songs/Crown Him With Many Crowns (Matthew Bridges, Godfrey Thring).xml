@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>Crown Him With Many Crowns</title>
+    </titles>
+    <authors>
+      <author>Matthew Bridges</author>
+      <author>Godfrey Thring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Crown Him with many crowns,<br/>The Lamb upon His throne;<br/>Hark, how the heavenly anthem drowns<br/>All music but its own!<br/>Awake, my soul, and sing<br/>Of Him who died for thee,<br/>And hail Him as thy matchless King<br/>Through all eternity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Crown Him the Lord of life,<br/>Who triumphed o’er the grave<br/>And rose victorious in the strife<br/>For those He came to save:<br/>His glories now we sing,<br/>Who died and rose on high,<br/>Who died eternal life to bring<br/>And lives that death may die.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Crown Him the Lord of love;<br/>Behold His hands and side,<br/>Those wounds yet visible above<br/>In beauty glorified:<br/>No angel in the sky<br/>Can fully bear that sight,<br/>But downward bends His burning eye<br/>At mysteries so bright.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Crown Him the Lord of peace,<br/>Whose power a sceptre sways<br/>From pole to pole, that wars may cease,<br/>And all be prayer and praise:<br/>His reign shall know no end,<br/>And round His pierced feet<br/>Fair flowers of paradise extend<br/>Their fragrance ever sweet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Crown Him the Lord of years,<br/>The Potentate of time,<br/>Creator of the rolling spheres,<br/>Ineffably sublime!<br/>All hail, Redeemer, hail!<br/>For Thou hast died for me;<br/>Thy praise shall never, never fail<br/>Throughout eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

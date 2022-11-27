@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>How Can I Keep From Singing</title>
+    </titles>
+    <copyright>2006 worshiptogether.com songs</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is an endless song,<br/>Echoes in my soul;<br/>I hear the music ring.<br/>And though the storms may come,<br/>I am holding on;<br/>To the Rock I cling.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How can I keep from singing Your praise?<br/>How can I ever say enough?<br/>How amazing is Your Love!<br/>How can I keep from shouting Your Name?<br/>I know I am loved by the King<br/>And it makes my heart want to sing!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will lift my eyes<br/>In the darkest night,<br/>For I know my Savior lives.<br/>And I will walk with You,<br/>Knowing You'll see me through,<br/>And sing the songs You give.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I can sing in the troubled times,<br/>Sing when I win.<br/>I can sing when I lose my step<br/>And fall down again.<br/>I can sing, 'cause You pick me up,<br/>Sing, 'cause You're there.<br/>I can sing, 'cause You hear me, Lord,<br/>When I call to You in prayer.<br/>I can sing with my last breath,<br/>Sing, for I know<br/>That I'll sing with the angels<br/>And the saints around the throne!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>How can I keep from singing Your praise?<br/>How can I ever say enough?<br/>How amazing is Your Love!<br/>How can I keep from shouting Your Name?<br/>I know I am loved by the King,</lines>
+    </verse>
+    <verse name="b2">
+      <lines>And it makes my heart...<br/>I am loved by the King,<br/>And it makes my heart...<br/>I am loved by the King,<br/>And it makes my heart want to sing!<br/>Yeah, I can sing!</lines>
+    </verse>
+  </lyrics>
+</song>

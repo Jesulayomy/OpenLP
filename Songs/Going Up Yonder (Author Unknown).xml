@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Going Up Yonder</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do you wanna know?<br/>Where I'm going?<br/>Where I'm going, soon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If anybody asks you,<br/>Where I'm going,<br/>Where I'm going, soon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>CHORUS<br/>I'm goin' up yonder<br/>I'm goin' up yonder<br/>I'm goin' up yonder<br/>To be with my Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can take the pain,<br/>The heartaches they bring,<br/>The comfort in knowing,<br/>I'll soon be gone.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>As God gives me grace,<br/>I'll run this race,<br/>Until I see my Savior,<br/>face to face.</lines>
+    </verse>
+  </lyrics>
+</song>

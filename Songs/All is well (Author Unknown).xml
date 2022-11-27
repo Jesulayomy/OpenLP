@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>All is well</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a story in the Bible of Elisha,<br/>a Shunammite woman and her son.<br/>The woman found favour with God<br/>and He gave her a son.<br/>While working in the field<br/>the little boy died.<br/>But the woman's faith never failed,<br/>even in death she testified<br/>that - All is well! -</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>All is well, all is well.<br/>I have heard the message "Shalom"<br/>and all is well.<br/>There is a place of perfect rest<br/>inside the inner veil.<br/>So rest, little Bride, rest,<br/>for all is well.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now things have not worked out<br/>like God's people thought.<br/>For we're still here, to fight the<br/>greatest battle ever fought.<br/>We must have the faith of Abraham,<br/>knowing God's Word never fails.<br/>If you trust in Him you will find<br/>that - All is well! -</lines>
+    </verse>
+  </lyrics>
+</song>

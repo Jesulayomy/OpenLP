@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>Is anything too hard for God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's out of your hands,<br/>you've done all you can do.<br/>You've given God the problem,<br/>It's no longer up to you.<br/>You've prayed the prayer of faith,<br/>you're standing on God's truth.<br/>While you're waiting on the answer,<br/>He has a question for you.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Is anything too hard for God?<br/>Who's got a problem beyond His power to solve?<br/>Are there situations, He's not the master of?<br/>Is anything too hard for God?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Only believe,<br/>trust His Word, You'll see<br/>His plans are now unfolding,<br/>performing perfectly.<br/>It's clear how much He loves you,<br/>look at all He's done.<br/>For all your questions, there's really only one.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Is anything too hard for God?<br/>Who's got a problem beyond His power to solve?<br/>Are there situations, He's not the master of?<br/>Is anything too hard for God?<br/>There is nothing too hard for God!</lines>
+    </verse>
+  </lyrics>
+</song>

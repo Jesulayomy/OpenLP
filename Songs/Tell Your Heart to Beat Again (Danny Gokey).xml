@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Tell Your Heart to Beat Again</title>
+    </titles>
+    <authors>
+      <author type="words">Danny Gokey</author>
+      <author type="music">Danny Gokey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1966"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>repentance</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>You're shattered<br/>Like you've never been before<br/>The life you knew<br/>In a thousand pieces on the floor<br/>And words fall short in times like these<br/>When this world drives you to your knees<br/>You think you're never gonna get back<br/>To the you that used to be</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Tell your heart to beat again<br/>Close your eyes and breathe it in<br/>Let the shadows fall away<br/>Step into the light of grace<br/>Yesterday's a closing door<br/>You don't live there anymore<br/>Say goodbye to where you've been<br/>And tell your heart to beat again</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Beginning<br/>Just let that word wash over you<br/>It's alright now<br/>Love's healing hands have pulled you through<br/>So get back up, take step one<br/>Leave the darkness, feel the sun<br/>Cause your story's far from over<br/>And your journey's just begun</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Let every heartbreak<br/>And every scar<br/>Be a picture that reminds you<br/>Who has carried you this far<br/>'Cause love sees farther than you ever could<br/>In this moment heaven's working</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Everything for your good</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ohhhh, so tell your heart to beat again</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>'Twas On That Dark, That Doleful Night</title>
+    </titles>
+    <authors>
+      <author type="music">Dykes, John Bacchus (1823-1876)</author>
+      <author type="words">Watts, Isaac (1674-1748)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Twas on that dark, that doleful night When pow'rs of earth and hell arose Against the Son of God's delight, And friends betrayed Him to His foes:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Before the mournful scene began, He took the bread, and blessed, and brake: What love through all His actions ran! What wondrous words of grace He spake!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"This is My body, broke for sin; Receive and eat the living food:" Then took the cup, and blessed the wine; "'Tis the new cov'nant in My blood."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For us His flesh with nails was torn, He bore the scourge, He felt the thorn; And justice poured upon His head Its heavy vengeance in our stead.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For us His vital blood was spilt, To buy the pardon of our guilt, When, for black crimes of biggest size, He gave His soul a sacrifice.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>"Do this," He cried, "till time shall end,<br/>In memory of your dying friend;<br/>Meet at My table, and record<br/>The love of your departed Lord."</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesus, Thy feast we celebrate,<br/>We show Thy death, we sing Thy name,<br/>Till Thou return, and we shall eat<br/>The marriage supper of the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

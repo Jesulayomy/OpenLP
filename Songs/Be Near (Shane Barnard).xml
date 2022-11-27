@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Be Near</title>
+    </titles>
+    <copyright>2003 Waiting Room Music | True Bliss Music | River Oaks Music Company</copyright>
+    <authors>
+      <author type="words">Shane Barnard</author>
+      <author type="music">Shane Barnard</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are all, big and small, beautiful.<br/>How wonderful to trust in grace through faith,<br/>But I'm asking to taste.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>For dark is light to You,<br/>Depths are height to You,<br/>Far is near, but, Lord, I need to hear from You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be near, O God.<br/>Be near, O God of us.<br/>Your nearness is to us our good.<br/>Be near, O God.<br/>Be near, O God of us.<br/>Your nearness is to us our good,<br/>Our good.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your fullness is mine, revelation divine.<br/>But, oh to taste, to know more than a page,<br/>To feel Your embrace.</lines>
+    </verse>
+  </lyrics>
+</song>

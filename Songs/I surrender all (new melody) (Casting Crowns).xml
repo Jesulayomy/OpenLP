@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>I surrender all (new melody)</title>
+    </titles>
+    <authors>
+      <author type="words">Casting Crowns</author>
+      <author type="music">Casting Crowns</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1605"/>
+    </songbooks>
+    <themes>
+      <theme>hymn</theme>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>commitment</theme>
+      <theme>separation</theme>
+      <theme>grace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All to Jesus I surrender all to Him I freely give<br/>I will ever love and trust Him in His presence I will live<br/>All to Jesus I surrender Savior make me wholly thine<br/>Let me feel Your Holy Spirit truly know that You are mine</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All to Jesus I surrender<br/>All to Him I freely give<br/>I will ever love and trust Him<br/>And in His presence I will live<br/>I surrender all, I surrender all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All to Jesus I surrender Lord, I give myself to thee<br/>Fill me with Your love and power let Your blessing fall on me<br/>All to Jesus I surrender now I feel the sacred flame<br/>O the joy of Your salvation Glory,glory, to His name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>At Your feet I lay me down<br/>All my scars and all my crowns<br/>Jesus, I surrender all (I.surrender.all)<br/>No more having my own way<br/>No more chasing yesterday<br/>Jesus, I surrender all (I.surrender.all)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>All to Jesus I surrender<br/>All to Him, all to Him I freely give</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All to Jesus I surrender<br/>All to Him I freely give<br/>I will ever  love and trust Him<br/>And in His presence I will live<br/>I surrender all,  I surrender all</lines>
+    </verse>
+    <verse name="b2">
+      <lines>No more having my own way<br/>No more chasing yesterday<br/>Jesus, I surrender all (I.surrender...all)<br/>I.surrender.all</lines>
+    </verse>
+  </lyrics>
+</song>

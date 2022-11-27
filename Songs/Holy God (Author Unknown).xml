@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>Holy God</title>
+      <title>Faithful Mighty Glorious</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy God, generations know<br/>Your promises, Your covenant of love.<br/>Lord of all, every promise made<br/>You remain faithful to fulfil.<br/>For Your ways are holy,<br/>And Your name is worthy,<br/>All honour and glory belongs to You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You are faithful, mighty, glorious,<br/>Awesome and victorious,<br/>Beautiful and wonderful, O Lord.<br/>Now our hearts are resolute,<br/>Our confidence is all in You,<br/>Everything is possible, O Lord, my God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When trouble's hard, when life overwhelms,<br/>You are Lord, You are in control.<br/>I trust in You for in my darkest day,<br/>You remain worthy of my praise.<br/>For Your ways are higher,<br/>And Your arm is stronger,<br/>And Your rest is sweeter than any other.</lines>
+    </verse>
+  </lyrics>
+</song>

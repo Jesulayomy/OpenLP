@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Tell me the story</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a story come down thru the ages</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But it's fresh every time that it's told<br/>You can find it in sweet holy pages<br/>And on lips of the young and the old.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus: Tell me the story most precious<br/>Tell me the story so dear<br/>Tell me the story of Jesus<br/>that I still love to hear</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let me hear how the children stood 'round Him<br/>Let me hear how He walked on the sea<br/>How I long to hear how He gave His life<br/>For sinners like you and like me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's the story of Shepherds and Angels<br/>How He healed and forgave from all sin<br/>But I know that the story's not over<br/>For His coming from glory again</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Chorus for the last verse:<br/>Won't you tell me the story most precious<br/>Tell me the story so dear<br/>Tell me the story of Jesus<br/>that I still love to hear<br/>That I still love to hear, to hear</lines>
+    </verse>
+  </lyrics>
+</song>

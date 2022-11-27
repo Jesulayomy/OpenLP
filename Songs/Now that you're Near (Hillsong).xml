@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Now that you're Near</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="p1">
+      <lines>Intro:Bm G D A x2<br/>Hold me in your arms. Never let me go<br/>I wanna spend eternity with you<br/>D Em F#m Em x3</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I stand before You Lord and give You all my praise<br/>Your love is all I need. Jesus, You're all I need<br/>Verse 2:<br/>My life belongs to You. You gave Your life for me<br/>Your grace is all I need. Jesus, You're all I need</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Hold me in Your arms. Never let me go<br/>I wanna spend eternity with You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And now that You're near<br/>Everything is different<br/>Everything so different, Lord<br/>And I know, I'm not the same<br/>My life You've changed<br/>I wanna be with You. I wanna be with You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I will sing for You always<br/>Cause in Your presence God is where I wanna stay</lines>
+    </verse>
+  </lyrics>
+</song>

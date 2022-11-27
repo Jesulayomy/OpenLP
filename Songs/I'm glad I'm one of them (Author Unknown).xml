@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>I'm glad I'm one of them</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are people almost everywhere,<br/>Whose hearts are all aflame,<br/>With the fire that fell at Pentecost,<br/>Which cleansed and made them clean;<br/>It is burning now within my heart,<br/>All glory to His name!<br/>I'm so glad that I can say<br/>I'm one of them!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>One of them, one of them,<br/>I'm so glad that I can say<br/>I'm one of them!<br/>One of them, one of them,<br/>I'm so glad that I can say<br/>I'm one of them!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though these people may not<br/>learned be,<br/>Nor boast of worldly fame,<br/>They have all received their Pentecost,<br/>Baptized in Jesus' name;<br/>And are telling now, both far and wide,<br/>His pow'r is yet the same,<br/>I'm so glad that I can say<br/>I'm one of them!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>They were gathered in the upper room,<br/>All praying in His name,<br/>They were baptized with the<br/>Holy Ghost,<br/>And pow'r for service came;<br/>Now what He did for them that day<br/>He'll do for you the same;<br/>I'm so glad that I can say<br/>I'm one of them!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come, my brother, seek this blessing<br/>That will cleanse your heart from sin,<br/>That will start the joy-bells ringing<br/>And will keep the soul aflame;<br/>It is burning now within my heart,<br/>All glory to His name,<br/>I'm so glad that I can say<br/>I'm one of them!</lines>
+    </verse>
+  </lyrics>
+</song>

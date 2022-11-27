@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Nearer, My God, To Thee</title>
+    </titles>
+    <authors>
+      <author type="music">Mason, Lowell (1792-1872)</author>
+      <author type="words">Adams, Sarah Fuller Flower (1805-1848)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nearer, my God, to Thee, nearer to Thee! E'en though it be a cross that raiseth me, Still all my song shall be, nearer, my God, to Thee. Nearer, my God, to Thee, Nearer to Thee!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though like the wanderer, the sun gone down, Darkness be over me, my rest a stone. Yet in my dreams I'd be nearer, my God to Thee. Nearer, my God, to Thee, Nearer to Thee!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nearer, my Lord, to thee, Nearer to thee! Who to the cross didst come, Dying for me! Strengthen my willing feet, Hold me in service sweet Nearer, my God, to Thee, Nearer to Thee!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nearer, O Comforter, Nearer to thee! Who with my loving Lord Dwellest with me! Grant me thy fellowship! Help me each day to keep Nearer, my God, to Thee, Nearer to Thee!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But to be nearer still, Bring me, O God, Not by the visioned steeps Angels have trod. Here where thy cross I see, Jesus, I wait for thee, Then evermore to be Nearer to Thee!</lines>
+    </verse>
+  </lyrics>
+</song>

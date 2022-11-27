@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>You Hold Me Now</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1469"/>
+    </songbooks>
+    <themes>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE: 1<br/>On that day when I see all that You have for me<br/>When I see You face to face there surrounded by Your grace<br/>All my fears swept away in the light of Your embrace<br/>Where Your love is all I need and forever I am free</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS: 1<br/>Where the streets are made of gold<br/>In Your presence healed and whole<br/>Let the songs of heaven rise to You alone</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>No weeping no hurt or pain<br/>No suffering You hold me now You hold me now<br/>No darkness no sick or lame<br/>No hiding You hold me now You hold me now</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE: 2<br/>In this life I will stand through my joy and my pain<br/>Knowing there's a greater day there's a hope that never fails<br/>Where Your Name is lifted high and forever praises rise<br/>For the glory of Your Name i'm believing for the day</lines>
+    </verse>
+    <verse name="c3">
+      <lines>PRE CHORUS: 2<br/>Where the wars and violence cease<br/>All creation lives in peace<br/>Let the songs of heaven Rise to You alone</lines>
+    </verse>
+    <verse name="b1">
+      <lines>INSTRUMENTAL:<br/>G / | / / | A / | / / | Hm / | / / |<br/>D/F# / | / / | G / | / / | A / | / / |</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE:<br/>For eternity all my heart will give<br/>All the glory to Your Name</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Through all the changing scenes of life</title>
+    </titles>
+    <copyright>N. Tate (1652-1715) &amp; N. Brady (1659-1726)</copyright>
+    <authors>
+      <author>N. Tate</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Through all the changing scenes of life,<br/>In trouble and in joy,<br/>The praises of my God shall still<br/>My heart and tongue employ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Of His deliverance I will boast,<br/>Till all that are distressed<br/>From my example comfort take,<br/>And charm their griefs to rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O magnify the Lord with me,<br/>With me exalt His name;<br/>When in distress to Him I called,<br/>He to my rescue came.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The hosts of God encamp around<br/>The dwellings of the just;<br/>Deliverance He affords to all<br/>Who on His succour trust.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O make but trial of His love;<br/>Experience will decide<br/>How blest are they, and only they,<br/>Who in His truth confide.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fear Him, ye saints, and you will then<br/>Have nothing else to fear;<br/>Make you His service your delight;<br/>Your wants shall be His care.</lines>
+    </verse>
+  </lyrics>
+</song>

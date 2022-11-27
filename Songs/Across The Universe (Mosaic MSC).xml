@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Across The Universe</title>
+    </titles>
+    <authors>
+      <author type="words">Mosaic MSC</author>
+      <author type="music">Mosaic MSC</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3170"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 verse:<br/>Moon and stars<br/>Telling us of who You are<br/>You light the way and move our hearts<br/>From across the universe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse:<br/>Day and night<br/>The song we bring is Your delight<br/>You listen close to every cry<br/>You hang on every word</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>All across the universe<br/>We can feel Your love on earth<br/>All across the universe<br/>Your love revealed Your love is real</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3 verse:<br/>Infinite<br/>No limit to the love You give<br/>Pouring out and reaching in<br/>Pleasing like the sun like the sun</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tag:<br/>Ohh, ohh<br/>Your love revealed Your love is real<br/>Ohh, ohh<br/>Your love revealed Your love is real</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4 verse:<br/>Moon and stars<br/>Telling us of who You are</lines>
+    </verse>
+  </lyrics>
+</song>

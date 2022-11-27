@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>You say</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5816"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I keep fighting voices in my mind that say I'm not enough<br/>Every single lie that tells me I will never measure up<br/>Am I more than just the sum of every high and every low?<br/>Remind me once again just who I am, because I need to know (ooh oh)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You say I am loved when I can't feel a thing<br/>You say I am strong when I think I am weak<br/>You say I am held when I am falling short<br/>When I don't belong, oh You say that I am Yours<br/>And I believe, oh I believe what You say of me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The only thing that matters now is everything You think of me<br/>In You I find my worth, in You I find my identity, (ooh oh)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Taking all I have and now I'm laying it at Your feet<br/>You have every failure God, and You'll have every victory, (ooh oh)</lines>
+    </verse>
+  </lyrics>
+</song>

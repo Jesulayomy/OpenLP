@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Zeal (feat. Henry Seeley)</title>
+    </titles>
+    <authors>
+      <author type="words">The Belonging Co</author>
+      <author type="music">The Belonging Co</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4066"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>holy-spirit</theme>
+      <theme>baptism</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE<br/>This one thing I'm asking<br/>One thing I'm needing<br/>A moment that's passing is not what I'm seeking</lines>
+    </verse>
+    <verse name="v2">
+      <lines>PRECHORUS<br/>Like it's air that I'm breathing<br/>I want your presence<br/>Feet on the earth<br/>Heart full of heaven</lines>
+    </verse>
+    <verse name="v3">
+      <lines>CHORUS<br/>Zeal for You completely consumes me<br/>I can't get enough<br/>Can't get enough of<br/>You, The fire burning right through me<br/>I can't get enough<br/>Can't get enough of You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE<br/>I'm after Your Spirit<br/>More than a feeling<br/>I don't need a reason<br/>To keep chasing who You are</lines>
+    </verse>
+    <verse name="v5">
+      <lines>BRIDGE<br/>Every beat is yours<br/>You can have it all<br/>Take over like only You can<br/>All I'm reaching for<br/>You and nothing more<br/>Take over like only You can</lines>
+    </verse>
+  </lyrics>
+</song>

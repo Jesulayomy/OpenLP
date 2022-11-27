@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Overcome</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4900"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now the darkness fades into new beginnings<br/>As we lift our eyes to a hope beyond<br/>All creation waits with an expectation<br/>To declare the reign of the Lord our God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We will not be moved when the earth gives way<br/>For the risen One has overcome<br/>And for every fear there's an empty grave<br/>For the risen One has overcome</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now the silence breaks in the name of Jesus<br/>As the heavens cry let the earth respond<br/>All creation shouts with a voice of triumph<br/>To declare the reign of the Lord our God</lines>
+    </verse>
+    <verse name="c2">
+      <lines>We will not be moved when the earth gives way<br/>For the risen One has overcome<br/>And for every fear there's an empty grave<br/>For the risen One has overcome</lines>
+    </verse>
+    <verse name="b1">
+      <lines>He shall reign forever strongholds now surrender<br/>For the Lord our God has overcome<br/>Who can be against us? Jesus our Defender<br/>He is Lord and He has overcome</lines>
+    </verse>
+    <verse name="c3">
+      <lines>We will not be moved when the earth gives way<br/>For the risen One has overcome<br/>And for every fear there's an empty grave<br/>For the risen One has overcome</lines>
+    </verse>
+  </lyrics>
+</song>

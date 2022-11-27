@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>Who Am I?</title>
+    </titles>
+    <copyright>2003 SWECS Music | Club Zoo Music</copyright>
+    <authors>
+      <author type="words">Casting Crowns</author>
+      <author type="music">Casting Crowns</author>
+      <author type="words">Mark Hall</author>
+      <author type="music">Mark Hall</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1554"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>hope</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+      <theme>teaching</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who am I, that the<br/>Lord of all the earth<br/>Would care to know my name, would care to feel my hurt?<br/>Who am I, that the<br/>Bright and Morning Star<br/>Would choose to light the way, for my ever-wandering heart?</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Not because of who I am, but because of what You've done.<br/>Not because of what I've done, but because of who You are.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am a flower quickly fading, here today and gone tomorrow,<br/>A wave tossed in the ocean, a vapor in the wind.<br/>Still You hear me when I'm calling.<br/>Lord, You catch me when I'm falling.<br/>And You've told me who I am: I am Yours. I am Yours.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who am I, that the<br/>eyes that see my sin<br/>Would look on me with love, and watch me rise again?<br/>Who am I, that the<br/>voice that calmed the sea<br/>Would call out through the rain, and calm the storm in me?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I am a flower quickly fading, here today and gone tomorrow,<br/>A wave tossed in the ocean, a vapor in the wind.<br/>Still You hear me when I'm calling.<br/>Lord, You catch me when I'm falling.<br/>And You've told me who I am: I am Yours.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am Yours.<br/>Whom shall I fear, whom shall I fear?<br/>Cause I am Yours, I am Yours.</lines>
+    </verse>
+  </lyrics>
+</song>

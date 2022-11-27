@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>A Love That Carries Me</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3528"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>What love is this!<br/>Fighting for my heart when I lose my grip<br/>Rescuing my life from a sinking ship<br/>You deliver me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cause I was dead in my sin<br/>Struggling 'til you came and you brought me in<br/>Giving me a new chance to begin<br/>And live again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I love, I love, I love<br/>'Cause you first loved me, 'cause you first loved me<br/>I sing, I sing, I sing,<br/>'Cause you sing over me, 'cause you sing over me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse: 2<br/>You are my strength<br/>Faithful from the start and You have no end<br/>A perfect Father and a perfect friend<br/>You will always be<br/>'Cause You have hold of my life<br/>From the moment I am born 'til the day I die<br/>Nothing else could truly satisfy me like You Lord</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I love, I love, I love<br/>'Cause you first loved me, 'cause you first loved me<br/>I sing, I sing, I sing,<br/>'Cause you sing over me, 'cause you sing over me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Transition:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>A love so strong, I can hardly understand it<br/>A grace so deep, I can hardly comprehend it<br/>Now I am held by a love that carries me<br/>Now I am held by a love that carries me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Coda: (x2)<br/>What can I give to you Lord?<br/>I pour out all my love<br/>What can I bring to you but my life laid down for You</lines>
+    </verse>
+  </lyrics>
+</song>

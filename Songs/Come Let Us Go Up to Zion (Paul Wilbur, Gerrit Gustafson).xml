@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>Come Let Us Go Up to Zion</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Wilbur</author>
+      <author type="music">Paul Wilbur</author>
+      <author type="words">Gerrit Gustafson</author>
+      <author type="music">Gerrit Gustafson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Come let us go up to Zion<br/>Let us draw near to the Lord our God;<br/>Come let us go up to Zion<br/>Let us draw near to the presence of the Lord.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You have not come to a desert mountain<br/>But you have come to The Living God<br/>You have come to The Heavenly city<br/>The New Jerusalem</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And there are thousands and thousands of angels<br/>rejoicing before the Throne<br/>This is the Kingdom that cannot be shaken<br/>Worship God alone !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You have come to The Judge of the ages<br/>Unto Jesus and to His Blood;<br/>You have come to the church of the firstborn<br/>and to the righteous ones.</lines>
+    </verse>
+  </lyrics>
+</song>

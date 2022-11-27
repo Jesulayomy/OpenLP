@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>In this Desert Called the World</title>
+    </titles>
+    <authors>
+      <author type="translate">Turgay Üçal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Moda Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In this desert called the world<br/>I will walk both day and night<br/>With the guidance of your Spirit<br/>I will walk with a joyful heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will walk with love<br/>I will walk with your Spirit<br/>I will walk with pleasure<br/>With you by my side (through eternity)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On this path that we call life<br/>I will walk on rocky ground<br/>With you, Jesus, in my heart<br/>I will walk without fear</lines>
+    </verse>
+  </lyrics>
+</song>

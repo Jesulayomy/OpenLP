@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Over All the Earth</title>
+      <title>Lord, Reign in Me</title>
+    </titles>
+    <copyright>1998 Vineyard Songs</copyright>
+    <authors>
+      <author type="words">Brenton Brown</author>
+      <author type="music">Brenton Brown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Over all the earth, You reign on high,<br/>Every mountain stream, every sunset sky;<br/>But my one request, Lord, my only aim,<br/>Is that You reign in me again.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, reign in me, reign in Your power;<br/>Over all my dreams, in my darkest hour,<br/>You are the Lord of all I am,<br/>So won't You reign in me again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Over every thought, over every word,<br/>May my life reflect the beauty of my Lord;<br/>'Cause You mean more to me than any earthly thing,<br/>So won't You reign in me again.</lines>
+    </verse>
+  </lyrics>
+</song>

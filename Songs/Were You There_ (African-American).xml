@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>Were You There?</title>
+    </titles>
+    <authors>
+      <author type="words">African-American</author>
+      <author type="music">African-American</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>crucifixion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Were you there when they crucified my Lord? Were you there when they crucified my Lord? Sometimes it causes me to tremble, tremble, tremble. Were you there when they crucified my Lord?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Were you there when they nailed Him to the tree? Were you there when they nailed Him to the tree? Sometimes it causes me to tremble, tremble, tremble. Were you there when they nailed Him to the tree?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Were you there when they pierced Him in the side? Were you there when they pierced Him in the side? Oh! Sometimes it causes me to tremble, tremble, tremble. Were you there when they pierced Him in the side?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Were you there when the sun refused to shine? Were you there when the sun refused to shine? Sometimes it causes me to tremble, tremble, tremble. Were you there when the sun refused to shine?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Were you there when they laid Him in the tomb? Were you there when they laid Him in the tomb? Sometimes it causes me to tremble, tremble, tremble. Were you there when they laid Him in the tomb?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Were you there when God raised Him from the tomb?<br/>Were you there when God raised Him from the tomb?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble.<br/>Were you there when God raised Him from the tomb?</lines>
+    </verse>
+  </lyrics>
+</song>

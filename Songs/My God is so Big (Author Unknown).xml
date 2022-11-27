@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>My God is so Big</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4828"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>kids</theme>
+      <theme>bible</theme>
+      <theme>gods-might</theme>
+      <theme>grace</theme>
+      <theme>creation</theme>
+      <theme>victory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My God is so big<br/>And so strong<br/>And so mighty<br/>There's nothing my God cannot do</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>How deep the Father's love for us</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How deep the Father's love for us,<br/>How vast beyond all measure<br/>That He should give His only Son<br/>To make a wretch His treasure<br/>How great the pain of searing loss,<br/>The Father turns His face away<br/>As wounds which mar the chosen One,<br/>Bring many sons to glory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold the Man upon the cross,<br/>My sin upon His shoulders<br/>Ashamed I hear my mocking voice,<br/>Call out among the scoffers<br/>It was my sin that held Him there<br/>Until it was accomplished<br/>His dying breath has brought me life<br/>I know that it is finished</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will not boast in anything<br/>No gifts, no power, no wisdom<br/>But I will boast in Jesus Christ<br/>His death and resurrection<br/>Why should I gain from His reward?<br/>I cannot give an answer<br/>But this I know with all my heart<br/>His wounds have paid my ransom</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>None Other Lamb</title>
+    </titles>
+    <authors>
+      <author type="music">Jeater, William (1858-?)</author>
+      <author type="words">Rossetti, Christina Georgina (1830-1894)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>None other Lamb, none other name, None other hope in Heav'n or earth or sea, None other hiding place from guilt and shame, None beside Thee!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My faith burns low, my hope burns low; Only my heart's desire cries out in me By the deep thunder of its want and woe, Cries out to Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, Thou art life, though I be dead; Love's fire Thou art, however cold I be: Nor Heav'n have I, nor place to lay my head, Nor home, but Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

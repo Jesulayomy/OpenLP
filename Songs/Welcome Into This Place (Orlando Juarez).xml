@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>Welcome Into This Place</title>
+    </titles>
+    <authors>
+      <author type="words">Orlando Juarez</author>
+      <author type="music">Orlando Juarez</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Welcome into this place<br/>Welcome into this broken vessel<br/>You desire to abide<br/>In the praises of Your people<br/>So we lift our hands<br/>And we lift our hearts<br/>As we offer up this praise<br/>Unto Your name</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Creation declares Your glory<br/>And the universe proclaims Your majesty<br/>Yet you choose to abide<br/>In the praises of Your people<br/>So we offer up this praise<br/>Unto Your name</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>O Praise The lord</title>
+      <title>Hallelu Et Adonai</title>
+    </titles>
+    <authors>
+      <author type="words">Rachel Boskey</author>
+      <author type="music">Rachel Boskey</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise The Lord all you nations<br/>Praise Him all you people<br/>for His Lovingkindness is great to us<br/>His truth is everlasting</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise The Lord, Hallelujah ! (x3)<br/>Praised be The Lord !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelu et Adonai kol goyim<br/>Shabechu Hu kol ha'mim<br/>ki gavar aleinu chasdo<br/>v'emet Adonai l'olam</lines>
+    </verse>
+  </lyrics>
+</song>

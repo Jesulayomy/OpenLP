@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Your Beloved</title>
+    </titles>
+    <copyright>1996 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Brent Helming</author>
+      <author type="music">Brent Helming</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, it was You<br/>who created the heavens.<br/>Lord, it was Your hand<br/>that put the stars in their place.<br/>Lord, it is Your voice<br/>that commands the morning.<br/>Even oceans and their waves will bow at Your feet.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Lord, who am I compared to Your glory, oh Lord?<br/>Lord, who am I compared to Your majesty?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm Your beloved, Your creation,<br/>And You love me as I am.<br/>You've called me chosen<br/>for Your kingdom,<br/>Unashamed to call me Your own.<br/>I'm Your beloved.</lines>
+    </verse>
+  </lyrics>
+</song>

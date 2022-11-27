@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Prince of Peace</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="530"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>My heart a storm, clouds raging deep within<br/>The Prince of peace came bursting through the wind<br/>The violent sky held its breath<br/>And in Your light I found rest</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Tearing through the night<br/>Riding on the storm<br/>Staring down the fight<br/>My eyes found Yours<br/>Shining like the sun<br/>Striding through my fear<br/>The Prince of peace<br/>Met me there</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You heard my prayer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>Hope like the sun, light piercing through the dark<br/>The Prince of peace came and broke into my heart<br/>The violent cross, the empty grave<br/>And in Your light I found grace</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Tearing through the night<br/>Riding on the storm<br/>Staring down the fight<br/>My eyes found Yours<br/>Shining like the sun<br/>Striding through my fear<br/>The Prince of peace<br/>Met me there</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You're always there<br/>And You hear my prayer</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Your love surrounds me<br/>When my thoughts wage war<br/>When night screams terror<br/>There Your voice will roar<br/>Come death or shadow<br/>God I know Your light will meet me there</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When fear comes knocking<br/>There You'll be my guard<br/>When day breeds trouble<br/>There You'll hold my heart<br/>Come storm or battle<br/>God I know Your peace will meet me there</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, be still my heart<br/>I know that You are God<br/>Oh fear no  e - vil<br/>For I know You are here</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>And my soul will know Your love surrounds me<br/>When my thoughts wage war<br/>When night screams terror<br/>There Your voice will roar<br/>Come death or shadow<br/>God I know Your light will meet me there</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And my soul will know when fear comes knocking<br/>There You'll be my guard<br/>When day breeds trouble<br/>There You'll hold my heart<br/>Come storm or battle<br/>God I know Your peace will meet me there</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Ending:<br/>Oh, be still my heart<br/>And my soul will ever know that You are God<br/>And You heard my prayer</lines>
+    </verse>
+  </lyrics>
+</song>

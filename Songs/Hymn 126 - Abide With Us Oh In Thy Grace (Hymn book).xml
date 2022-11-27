@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-02T17:12:43">
+  <properties>
+    <titles>
+      <title>Hymn 126 - Abide With Us Oh In Thy Grace</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abide with us oh in Thy grace<br/>Lord Jesus my Saviour<br/>That never trickish creature<br/>Militate against us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abide with us just in Thy word<br/>The only precious Lordhav<br/>We may have life in salvation<br/>Yonder and here beneath</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abide with us in Thy blessing<br/>The most glorious Saviour<br/>Give Thy good heavenly blessing<br/>To us in abundance</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Protect us always oh our Lord<br/>Thou powerful Saviour<br/>That we may sidetrack enemies<br/>To go out of bondage</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abide with us in Thy truth Lord<br/>Oh our merciful God<br/>In afflictions abide with us <br/>Let us surely endure</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Abide with us in Thy peace, Lord<br/>When death thus close our eyes<br/>At that crucial moment O Lord <br/>Speak salvation to us</lines>
+    </verse>
+  </lyrics>
+</song>

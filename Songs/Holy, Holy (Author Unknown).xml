@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Holy, Holy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, holy<br/>Lord God Almighty<br/>Who was and is and is to come<br/>Lord most holy<br/>Worthy of glory<br/>Power and majesty are Yours</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Blessing and honour,<br/>To You forever<br/>Unto the lamb upon the throne<br/>Strength and salvation<br/>Belong to the Saviour<br/>Holy, holy is the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

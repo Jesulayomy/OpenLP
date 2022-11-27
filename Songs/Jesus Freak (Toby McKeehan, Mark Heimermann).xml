@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Jesus Freak</title>
+    </titles>
+    <copyright>1995 Up In The Mix Music, Achtober Songs, Fun Attic Music</copyright>
+    <authors>
+      <author type="words">Toby McKeehan</author>
+      <author type="music">Toby McKeehan</author>
+      <author type="words">Mark Heimermann</author>
+      <author type="music">Mark Heimermann</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Separated, I cut myself clean<br/>from a past that comes back<br/>in my darkest of dreams.<br/>Been apprehended by a spiritual force<br/>and a grace that replaced all the me I divorced.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kamikaze, my death is gain.<br/>I've been marked by my Maker, a peculiar display.<br/>The high and lofty, they see me as weak,<br/>'cause I won't live and die, for the power they seek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I saw a man with a tat on his big fat belly.<br/>It wiggled around like marmalade jelly.<br/>It took me a while to catch what it said,<br/>'cause I had to match the rhythm of his belly with my head.<br/>    "Jesus Saves" is what it raved, in a typical tatoo green.<br/>He stood on a box in the middle of the city<br/>and he claimed he had a dream.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>There was a man from the desert with naps in his head.<br/>The sand that he walked was also his bed.<br/>The words that he spoke made the people assume,<br/>there wasn't too much left in the upper room.<br/>With skins on his back and hair on his face,<br/>they thought he was strange by the locust he ate.<br/>Ya see the Pharisees tripped when they heard him speak,<br/>until the king took the head of this Jesus Freak.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>What will people think when they hear that I'm a Jesus Freak?<br/>What will people do when they find out it's true?<br/>I don't really care if they label me a Jesus Freak.<br/>There ain't no disguising the truth.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>People say I'm strange, does that make me a stranger?<br/>My best friend was born in a manger.<br/>(2x)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>What will people think?<br/>(What will people think?)<br/>What will people do?<br/>(What will people do?)<br/>I don't really care.<br/>(What else can I say?)<br/>There ain't no disguising the truth.<br/>(Jesus is the way.)</lines>
+    </verse>
+  </lyrics>
+</song>

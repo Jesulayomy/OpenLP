@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>It's Your Love</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2189"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: I<br/>From the start You loved me<br/>You saw who I could be<br/>So You gave Your life to save my soul</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>Woah - oh - oh,   now I am forgiven<br/>Woah - oh - oh,   Your grace has set me free<br/>Woah - oh - oh,   now I'm really living<br/>Woah - oh - oh - oh - oh</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Your love is never giving up<br/>It's never giving up on me yeah<br/>Your grace came and made a way<br/>I'll never be the same forever<br/>It's Your love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: II<br/>Lord I want to thank You<br/>For all that I've been through<br/>'Cause now I see that You are in control</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>I can hear the sound of the broken chains<br/>Freedom is alive running through my veins<br/>Victory is mine over sin and shame<br/>I am free, I am free</lines>
+    </verse>
+  </lyrics>
+</song>

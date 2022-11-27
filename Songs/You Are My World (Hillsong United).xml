@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>You Are My World</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Nehir Kilisesi"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>salvation</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>separation</theme>
+      <theme>god-our-father</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>My Father, I adore You more<br/>than anything my heart could wish for<br/>I just want You<br/>And Jesus, my beloved Saviour<br/>Everything I am I owe to You<br/>I owe it all to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>And angels come and adore You<br/>And we Your children worship You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>You are my world. You are my God<br/>And I lay down my life for You<br/>You are my Lord. The One I love<br/>C Cm6,9<br/>No one could ever take Your place</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>And everything I have<br/>I give to You, my Lord, the One I live for<br/>I live for You<br/>And all my days are gifts from You<br/>I pray I'd use them as You want me to<br/>Use them for you</lines>
+    </verse>
+  </lyrics>
+</song>

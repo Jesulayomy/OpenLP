@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>I Will Sing of the Mercies</title>
+    </titles>
+    <authors>
+      <author type="words">James H. Fillmore</author>
+      <author type="music">James H. Fillmore</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing of the mercies of the Lord forever,<br/>I will sing, I will sing;<br/>I will sing of the mercies of the Lord forever,<br/>I will sing of the mercies of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With my mouth will I make make known<br/>Thy faithfulness, Thy faithfulness;<br/>With my mouth will I make make known<br/>Thy faithfulness to all generations!</lines>
+    </verse>
+  </lyrics>
+</song>

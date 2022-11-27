@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Christ My King On High</title>
+    </titles>
+    <authors>
+      <author type="words">Wingard, Jay C.</author>
+      <author type="music">Wingard, Jay C.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, my sin, it grieves me so. How I long for my Lord to come. Bless my God who clothes me bright, wraps me pure in heav'n's Great Light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spotless Lamb made sin for me. God, Great Judge, just always be. Sealed on high with Christ's Great Pledge never more shall death I dread.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One with Him, I stand secure, Safe in Triune hands I'm sure. Christ's great merits giv'n to me. I now hear Him say, "Whom I'm pleased."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Long to see the skies burn bright, heaven's hosts all clothed in white. See the King, His vic'try won. Come, pure Bride behold the Son.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Where Jesus Is, 'Tis Heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Charles F. Butler</author>
+      <author type="music">Charles F. Butler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1- Since Christ my soul from sin set free,<br/>This world has been a Heav'n to me;<br/>And 'mid earth's sorrows and its woe,<br/>'Tis Heav'n my Jesus here to know.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, hallelujah, yes, 'tis Heav'n,<br/>'Tis Heav'n to know my sins forgiv'n;<br/>On land or sea, what matters where?-<br/>Where Jesus is, 'tis Heaven there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2- Once Heaven seemed a far-off place,<br/>Till Jesus showed His smiling face;<br/>Now it's begun within my soul,<br/>'Twill last while endless ages roll.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3- What matters where on earth we dwell?<br/>On mountaintop, or in the dell,<br/>In cottage, or a mansion fair,<br/>Where Jesus is, 'tis Heaven there.</lines>
+    </verse>
+  </lyrics>
+</song>

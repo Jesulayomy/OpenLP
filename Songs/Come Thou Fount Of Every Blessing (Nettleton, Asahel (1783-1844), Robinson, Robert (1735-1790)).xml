@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:50">
+  <properties>
+    <titles>
+      <title>Come Thou Fount Of Every Blessing</title>
+    </titles>
+    <authors>
+      <author type="music">Nettleton, Asahel (1783-1844)</author>
+      <author type="words">Robinson, Robert (1735-1790)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4874"/>
+    </songbooks>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, Thou fount of every blessing, Tune my heart to sing Thy grace;<br/>Streams of mercy, never ceasing, Call for songs of loudest praise.<br/>Teach me some melodious sonnet, Sung by flaming tongues above;<br/>Praise His name, I'm fixed upon it, name of God's redeeming love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hitherto Thy love has blest me; Thou hast brought me to this place,<br/>And I know Thy hand will bring me Safely home by Thy good grace.<br/>Jesus sought me when a stranger, Wandering from the fold of God;<br/>He to rescue me from danger, Bought me with His precious blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here I raise mine Ebenezer; Hither by Thy help I come,<br/>And I hope, by Thy good pleasure, Safely to arrive at home.<br/>Jesus sought me when a stranger, Wandering from the fold of God;<br/>He to rescue me from danger, Interposed His precious blood.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, to grace how great a debtor, Daily I'm constrained to be;<br/>Let Thy goodness, like a fetter, Bind my wandering heart to Thee.<br/>Prone to wander, Lord, I feel it, Prone to leave the God I love.<br/>Here's my heart, oh take and seal it, Seal it for Thy courts above.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Praise His name, I'm fixed upon it, name of God's redeeming love.</lines>
+    </verse>
+  </lyrics>
+</song>

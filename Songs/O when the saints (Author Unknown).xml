@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>O when the saints</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, when the saints go marching in<br/>Oh, when the saints go marching in<br/>Oh Lord I want to be in that number<br/>When the saints go marching in</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, when the drums begin to bang<br/>Oh, when the drums begin to bang<br/>Oh Lord I want to be in that number<br/>When the saints go marching in</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, when the stars fall from the sky<br/>Oh, when the stars fall from the sky<br/>Oh Lord I want to be in that number<br/>When the saints go marching in</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, when the moon turns red with blood<br/>Oh, when the moon turns red with blood<br/>Oh Lord I want to be in that number<br/>When the saints go marching in</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, when the trumpet sounds its call<br/>Oh, when the trumpet sounds its call<br/>Oh Lord I want to be in that number<br/>When the saints go marching in</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, when the horsemen begin to ride<br/>Oh, when the horsemen begin to ride<br/>Oh Lord I want to be in that number<br/>When the saints go marching in</lines>
+    </verse>
+  </lyrics>
+</song>

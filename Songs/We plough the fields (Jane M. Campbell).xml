@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>We plough the fields</title>
+    </titles>
+    <authors>
+      <author type="words">Jane M. Campbell</author>
+      <author type="music">Jane M. Campbell</author>
+    </authors>
+    <themes>
+      <theme>harvest</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1- We plough the fields and scatter<br/>The good seed on the land,<br/>But it is fed and watered<br/>By God's almighty hand.<br/>He sends the snow in winter,<br/>The warmth to swell the grain,<br/>The breezes and the sunshine,<br/>And soft refreshing rain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All good gifts around us<br/>Are sent from heav'n above;<br/>Then thank the Lord, O thank the Lord<br/>For all his love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2- He only is the Maker<br/>Of all things near and far;<br/>He paints the wayside flower,<br/>He lights the evening star;<br/>The winds and waves obey him,<br/>By him the birds are fed;<br/>Much more to us, his children,<br/>He gives our daily bread.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3- We thank you, then, O Father,<br/>For all things bright and good:<br/>The seed-time and the harvest,<br/>Our life, our health, our food;<br/>Accept the gifts we offer<br/>For all thy love imparts,<br/>And what Thou most desirest, our humble, thankful hearts</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Loved</title>
+    </titles>
+    <authors>
+      <author type="words">Kutless</author>
+      <author type="music">Kutless</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2110"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1<br/>I've tasted shame, I know regret,<br/>still get it wrong, even at my best,<br/>some days I stand, an inch from the edge,<br/>no way across, so lost.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus 1<br/>And loved, by the One who's seen the corners of my soul,<br/>I'm loved, by the One who reaches out and calls me home,<br/>so loved, by the One who chose to give up His life,<br/>I may never know how deep and how wide,<br/>I'm loved,<br/>I'm loved, oh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2<br/>In spite of fear, it never ends,<br/>and hope can grow, no matter where I've been,<br/>I'm finding joy, in the middle of my pain,<br/>surprising truth, that cannot be contained.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chorus 2<br/>I'm loved, by the One who's seen the corners of my soul,<br/>I'm loved, by the One who reaches out and calls me home,<br/>so loved, by the One who chose to give up His life,<br/>I may never know how deep and how wide, I'm loved.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bridge<br/>(I'm), nothing, nothing, nothing can separate us,<br/>from His love, from His love,<br/>nothing, nothing, nothing can separate us,<br/>from His love.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Chorus 3<br/>I'm loved, by the One who's seen the corners of my soul,<br/>I'm loved, by the One who reaches out and calls me home,<br/>so loved, by the One who chose to give up His life,<br/>I may never know how deep and how wide<br/>I'm loved, by the One who's seen the corners of my soul,<br/>Yes I'm loved, by the One who reaches out and calls me home,<br/>so loved, by the One who chose to give up His life,<br/>I may never know how deep and how wide,<br/>I may never know how deep and how wide, I'm loved.<br/>OUTRO: Hm | D | G</lines>
+    </verse>
+  </lyrics>
+</song>

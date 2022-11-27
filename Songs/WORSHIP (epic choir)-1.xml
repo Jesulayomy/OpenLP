@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:45">
+  <properties>
+    <titles>
+      <title>WORSHIP</title>
+    </titles>
+    <authors>
+      <author type="words">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the reason why I lift my hands<br/>Why I lift my voice<br/>Why I sing to you<br/>You are the reason I'm alive today<br/>I am here to say<br/>It's all because of You<br/>You are the reason why I lift my hands<br/>Why I lift my voice<br/>Why I sing to You<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the reason I'm alive today<br/>I am here to say<br/>It's all because of You<br/>You are the reason<br/>You are the reason<br/>You are the reason<br/>You are the reason<br/>You are the reason<br/>You are the reason</lines>
+    </verse>
+  </lyrics>
+</song>

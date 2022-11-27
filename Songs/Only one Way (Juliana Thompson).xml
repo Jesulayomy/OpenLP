@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Only one Way</title>
+    </titles>
+    <authors>
+      <author type="words">Juliana Thompson</author>
+      <author type="music">Juliana Thompson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2650"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have this hope as an anchor for my soul<br/>I'm sure that steadfast hope is an anchor for my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's no other way for a man<br/>to dwell in the presence of God<br/>there's no other way to please Him<br/>but by faith in what He's done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's only one way for me to come<br/>into a precense of divine love<br/>and it's believing that i am washed<br/>and enjoyed by You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To the same measure that You love Your Son<br/>is the same way that You love me God</lines>
+    </verse>
+  </lyrics>
+</song>

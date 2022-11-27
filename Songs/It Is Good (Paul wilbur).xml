@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>It Is Good</title>
+    </titles>
+    <authors>
+      <author type="words">Paul wilbur</author>
+      <author type="music">Paul wilbur</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It Is Good To Praise The Lord<br/>And Make Music To Your Name<br/>O God Most High<br/>To Proclaim Your Love And Faithfulness<br/>All The Day And Through The Night</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lai Lai Lai<br/>Lai Lai Lai Lai Lai...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>May I Dwell In Your Courts O Lord<br/>Then To Flourish Like The Trees Of Lebanon<br/>Planted In The House Of Adonai<br/>There To Live Forever more</lines>
+    </verse>
+  </lyrics>
+</song>

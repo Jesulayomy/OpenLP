@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Holy spirit Thou art welcome (You are welcome)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit Thou art welcome<br/>in this place,<br/>Holy Spirit Thou art welcome<br/>in this place.<br/>Omnipotent Father<br/>of mercy and grace<br/>Thou art welcome in this place</lines>
+    </verse>
+  </lyrics>
+</song>

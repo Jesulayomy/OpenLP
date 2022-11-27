@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>On My Side</title>
+    </titles>
+    <authors>
+      <author type="words">Kim Walker-Smith</author>
+      <author type="music">Kim Walker-Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3516"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Intro]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Verse 1]<br/>In the front lines, You fight for me<br/>Oh, Your kindness is my shield<br/>When the armies rise and I am scared<br/>My heart You will defend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Chorus]<br/>You are on my side<br/>You go before me<br/>You stand behind<br/>You tell my fear to run<br/>Always and forever<br/>I am loved</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are on my side, oh oh<br/>You are on my side, oh oh</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Verse 2]<br/>In the tragedy, You grieve with me<br/>Your comfort is my song<br/>In my wandering, You're still rescuing<br/>You will never, never give up</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Chorus]<br/>You are on my side<br/>You go before me<br/>You stand behind<br/>You tell my fear to run<br/>Always and forever<br/>I am loved</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are on my side, oh oh<br/>You are on my side, oh oh</lines>
+    </verse>
+    <verse name="v8">
+      <lines>[Bridge]<br/>You were on my side<br/>You were on my side<br/>When I couldn't see<br/>When I couldn't feel<br/>When the pain was real<br/>You were on my side<br/>You were on my side<br/>When You saved me from my heart of stone<br/>You awoke these bones<br/>You were on my side<br/>You were on my side<br/>Nothing on this earth could ever<br/>Separate me from Your love</lines>
+    </verse>
+    <verse name="v9">
+      <lines>[Chorus]<br/>You are on my side<br/>You go before me<br/>You stand behind<br/>You tell my fear to run<br/>Always and forever<br/>I am loved</lines>
+    </verse>
+    <verse name="v10">
+      <lines>You are on my side<br/>You go before me<br/>You stand behind<br/>You tell my fear to run<br/>Always and forever<br/>I am loved</lines>
+    </verse>
+    <verse name="v11">
+      <lines>You are on my side, oh oh<br/>You are on my side, oh oh</lines>
+    </verse>
+  </lyrics>
+</song>

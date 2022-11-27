@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>In the Name of Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>kids</theme>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the name of Jesus, in the name of Jesus,<br/>we have the victory.<br/>In the name of Jesus, in the name of Jesus,<br/>Satan, you have to flee.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, what can ever stand before us<br/>when we call on that great name!<br/>Jesus, Jesus, precious Jesus,<br/>we have the victory.</lines>
+    </verse>
+  </lyrics>
+</song>

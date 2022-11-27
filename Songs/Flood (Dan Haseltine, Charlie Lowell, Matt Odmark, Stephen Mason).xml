@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Flood</title>
+    </titles>
+    <copyright>1995 Pogostick Music | Bridge Building Music, Inc. | Benson Music Publishing, Inc.</copyright>
+    <authors>
+      <author type="words">Dan Haseltine</author>
+      <author type="music">Dan Haseltine</author>
+      <author type="words">Charlie Lowell</author>
+      <author type="music">Charlie Lowell</author>
+      <author type="words">Matt Odmark</author>
+      <author type="music">Matt Odmark</author>
+      <author type="words">Stephen Mason</author>
+      <author type="music">Stephen Mason</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rain, rain on my face.<br/>Hasn't stopped raining for days.<br/>My world is a flood.<br/>Slowly I've becomeone with the mud.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>But if I can't swim after forty days,<br/>And my mind is crushed by the crashing waves,<br/>Lift me up so high that I cannot fall.<br/>Lift me, oh woh!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lift me up when I'm falling.<br/>Lift me up when I'm weak and I'm dying.<br/>Lift me up;I need you to hold me.<br/>Lift me up and keep me from drowning again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Downpour on my soul.<br/>Splashing in the ocean, I'm losing control.<br/>Dark sky all around.<br/>Can't feel my feet touching the ground.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Calm the storms that drench my eyes.<br/>Dry the streams still flowing.<br/>Cast down all the waves of sin<br/>And guilt that overthrow me.</lines>
+    </verse>
+  </lyrics>
+</song>

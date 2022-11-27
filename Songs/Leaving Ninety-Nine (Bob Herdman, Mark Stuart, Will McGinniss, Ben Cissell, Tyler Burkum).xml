@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Leaving Ninety-Nine</title>
+    </titles>
+    <copyright>2003 Up In The Mix Music | Flicker USA Publishing</copyright>
+    <authors>
+      <author type="words">Mark Stuart</author>
+      <author type="music">Mark Stuart</author>
+      <author type="words">Ben Cissell</author>
+      <author type="music">Ben Cissell</author>
+      <author type="words">Bob Herdman</author>
+      <author type="music">Bob Herdman</author>
+      <author type="words">Tyler Burkum</author>
+      <author type="music">Tyler Burkum</author>
+      <author type="words">Will McGinniss</author>
+      <author type="music">Will McGinniss</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm lost and broken, all alone on this road.<br/>The wheels keep turnin', but the feelin' is gone.<br/>When I fear I'm on my own,<br/>You remind me I am not alone when You said,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>"I'd leave ninety-nine, leave them all behind,<br/>to find you, for you alone.<br/>I'd leave ninety-nine, leave them all behind,<br/>to find you."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's dark and lonely and the path is unclear.<br/>Can't move my feet because I'm frozen in fear.<br/>Then you say, "My child, my child -<br/>I am always here, I'm by your side."</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You're never too far down;<br/>I promise you'll be found.<br/>I'll reach into the mud and mire and clay,<br/>pursue you to the end<br/>like a faithful friend.<br/>Nothing in this world can keep me away.</lines>
+    </verse>
+  </lyrics>
+</song>

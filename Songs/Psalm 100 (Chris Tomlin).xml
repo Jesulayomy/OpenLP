@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Psalm 100</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3596"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1<br/>Enter in through the gates<br/>Enter in here with praise<br/>Come be-fore Him; come bring your song<br/>We are His people, He is our God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>For the Lord is good, and His love endures<br/>His love endures<br/>For the Lord is good,  and His love endures<br/>His love endures<br/>Forevermore  His faithfulness, it has no end<br/>For the Lord is good,  and His love endures<br/>His love endures</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2<br/>Enter in to His courts<br/>Enter in with grateful hearts<br/>Come be - fore Him; come bring your song<br/>We are His people, He is our God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bridge<br/>Raise Your voice, Shout for joy all the earth<br/>We sing a new  song now, we sing a new  song now</lines>
+    </verse>
+  </lyrics>
+</song>

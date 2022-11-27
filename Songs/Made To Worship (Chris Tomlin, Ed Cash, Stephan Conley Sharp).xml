@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Made To Worship</title>
+    </titles>
+    <copyright>2006 worshiptogether.com songs | sixsteps Music | Alletrop Music | Stenpan Music | Vamos Publishing</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="words">Stephan Conley Sharp</author>
+      <author type="music">Stephan Conley Sharp</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before the day, before the light,<br/>Before the world revolved around the sun,<br/>God on high stepped down into time<br/>And wrote the story<br/>Of His love for everyone.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>He has filled our hearts with wonder<br/>So that we always remember:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You and I are made to worship.<br/>You and I are called to love.<br/>You and I are forgiven and free.<br/>When you and I embrace surrender,<br/>When you and I choose to believe,<br/>Then you and I will see<br/>Who we were meant to be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All we are and all we have<br/>Is all a gift from God that we receive.<br/>Brought to life, we open up our eyes<br/>To see the majesty and glory of the King.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Even the rocks cry out,<br/>Even the heavens shout<br/>At the sound of His Holy name.<br/>So let ev'ry voice sing out,<br/>Let ev'ry knee bow down;<br/>He's worthy of all our praise.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You and I are made to worship.<br/>You and I are called to love.<br/>You and I are forgiven and free.<br/>When you and I embrace surrender,<br/>When you and I choose to believe,<br/>You and I will see:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Yeah, we were meant to be, oo.<br/>You and I, you and I,<br/>Yeah, yeah, oo,<br/>We were meant to be.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>You Are the Lord</title>
+      <title>Famous One</title>
+    </titles>
+    <copyright>2002 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>You are the Lord, the Famous One, Famous One.<br/>Great is Your name in all the earth.<br/>The heavens declare<br/>You are glorious, glorious.<br/>Great is Your fame beyond the earth.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>And for all You've done and yet to do,<br/>With every breath I'm praising You.<br/>Desire of nations and every heart,<br/>You alone are God, You alone are God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The morning star is shining through,<br/>And every eye is watching You.<br/>Revealed by nature and miracles,<br/>You are beautiful, You are beautiful.</lines>
+    </verse>
+  </lyrics>
+</song>

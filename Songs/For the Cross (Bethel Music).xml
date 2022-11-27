@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>For the Cross</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1856"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>The life You gave, Your body was broken<br/>Your love poured out, You bled and You died for me<br/>There on that cross, You breathed Your last as you were crucified<br/>You gave it all for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus: 1<br/>Hallelujah, what a Savior<br/>Hallelujah, what a friend<br/>Hallelujah, King forever<br/>We thank You for the cross</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>There in the ground, sealed in the darkness<br/>Lifeless laid, the frame of the Father's son<br/>In agony, He watched His only Son be sacrificed<br/>He gave it all for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse: 3<br/>But on that day, what seemed as the darkest hour<br/>A violent hope, broke through and shook the ground<br/>And as You rose, The Light of all the world was magnified<br/>And You rose in victory</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus: 2<br/>Hallelujah, it is finished<br/>Hallelujah, it is done<br/>Hallelujah King forever<br/>We thank you for the cross</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Big Crashes:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>End tag:<br/>And though our sins are scarlet<br/>You have made us white as snow</lines>
+    </verse>
+  </lyrics>
+</song>

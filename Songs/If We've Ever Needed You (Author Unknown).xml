@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>If We've Ever Needed You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3300"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear our cry, Lord we pray,<br/>Our faces down, our hands are raised,<br/>You called us out, we turned away,<br/>We've turned away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With ship wrecked faith, idols rise,<br/>We do what is right, in our own eyes,<br/>Our children now, will pay the price,<br/>We need Your light, Lord, shine Your light.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>If we've ever needed You,<br/>Lord, it's now, Lord, it's now,<br/>We are desperate for Your hand,<br/>We're reachin' out, we're reachin' out.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All our hearts, all our strength,<br/>With all our minds, we're at Your fate,<br/>May Your Kingdom come, in our hearts and lives,<br/>Let Your Church arise, let Your Church arise!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>If we've ever needed You,<br/>Lord, it's now, Lord, it's now,<br/>We are desperate for Your hand,<br/>We're reachin' out, we're reachin' out, we're reachin' out</lines>
+    </verse>
+    <verse name="c3">
+      <lines>If we've ever needed You,<br/>Lord, it's now, Lord, it's now,<br/>We're are desperate for Your hand,<br/>We're reachin' out, we're reachin' out,<br/>If we've ever needed You,<br/>Lord, it's now, Lord, it's now,<br/>We are desperate for Your hand,<br/>We're reachin' out, we're reachin' out</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We need You now<br/>Revive us now<br/>We need You now</lines>
+    </verse>
+  </lyrics>
+</song>

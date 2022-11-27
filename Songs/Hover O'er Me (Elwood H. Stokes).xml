@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Hover O'er Me</title>
+    </titles>
+    <authors>
+      <author>Elwood H. Stokes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hover o'er me, Holy Spirit,<br/>Bathe my trembling heart and brow;<br/>Fill me with Thy hallowed presence,<br/>Come, O come and fill me now.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fill me now, fill me now,<br/>Jesus, come and fill me now.<br/>Fill me with Thy hallowed presence,<br/>Jesus, come and fill me now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou can fill me, gracious Spirit,<br/>Though I cannot tell Thee how;<br/>But I need Thee, greatly need Thee,<br/>Come, O come and fill me now.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am weakness, full of weakness,<br/>At Thy sacred feet I bow;<br/>Blest, divine, eternal Spirit,<br/>Come with power, and fill me now.</lines>
+    </verse>
+  </lyrics>
+</song>

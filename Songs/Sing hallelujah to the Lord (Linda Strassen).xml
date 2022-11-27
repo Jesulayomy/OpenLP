@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Sing hallelujah to the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Linda Strassen</author>
+      <author type="music">Linda Strassen</author>
+    </authors>
+    <themes>
+      <theme>hymn</theme>
+      <theme>guitar</theme>
+      <theme>prayer</theme>
+      <theme>worship</theme>
+      <theme>peace</theme>
+      <theme>victory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing Hallelujah to the Lord<br/>(Sing Hallelujah to the Lord)<br/>Sing Hallelujah to the Lord (sing Hallelujah)<br/>Sing Hallelujah, sing Hallelujah (Hallelujah)<br/>Sing Hallelujah to the Lord<br/>(Sing Hallelujah to the Lord)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is risen from the dead<br/>(Jesus is risen from the dead)<br/>Jesus is risen from the dead, (Jesus is risen)<br/>Jesus is risen, Jesus is risen, (Hallelujah)<br/>Jesus is risen from the dead<br/>(Jesus is risen from the dead)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is living in His church<br/>(Jesus is living in His church)<br/>Jesus is living in His church (Jesus is living)<br/>Jesus is living, Jesus is living<br/>Jesus is living in His church<br/>(Jesus is living in His church)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus is coming back again<br/>(Jesus is coming back again)<br/>Jesus is coming back again (Jesus is coming)<br/>Jesus is coming, Jesus is coming<br/>Jesus is coming back again<br/>(Jesus is coming back again)</lines>
+    </verse>
+  </lyrics>
+</song>

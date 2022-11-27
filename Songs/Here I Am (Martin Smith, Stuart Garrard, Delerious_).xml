@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>Here I Am</title>
+      <title>Majesty</title>
+    </titles>
+    <copyright>2003, 2004 Curious? Music UK</copyright>
+    <authors>
+      <author type="words">Stuart Garrard</author>
+      <author type="music">Stuart Garrard</author>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+      <author type="words">Delerious?</author>
+      <author type="music">Delerious?</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am, humbled by Your majesty,<br/>Covered by Your grace so free.<br/>Here I am, knowing I'm a sinful man,<br/>Covered by the blood of the Lamb.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Now I've found<br/>the greatest love of all is mine<br/>Since You laid down your life,<br/>The greatest sacrifice.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Majesty, Majesty,<br/>Your grace has found me just as I am,<br/>Empty handed, but alive in Your hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here I am,<br/>humbled by the love that You give,<br/>Forgiven so that I can forgive.<br/>Here I stand,<br/>knowing that I'm Your desire,<br/>Sanctified by glory and fire.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Majesty, Majesty,<br/>Forever I am changed by Your love<br/>In the presence of Your majesty.</lines>
+    </verse>
+  </lyrics>
+</song>

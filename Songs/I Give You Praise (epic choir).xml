@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-06-05T10:03:40">
+  <properties>
+    <titles>
+      <title>I Give You Praise</title>
+    </titles>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You gave to me great victories<br/>Anointed me with unfailing love<br/>Your help oh God has made me great</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the one who saved me from my foes<br/>Set my table before them <br/>You give strength to run the race</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For this I praise Your name<br/>For all that You have done<br/>For this I praise Your name<br/>With all my heart<br/>You are my rock<br/>You are my strength<br/>You are my rock<br/>I praise you again and again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My Rock<br/>My strength, My Rock<br/>I praise you again and again<br/>For this I praise Your name<br/>For all that You have done<br/>For this I praise Your name<br/>With all my heart</lines>
+    </verse>
+  </lyrics>
+</song>

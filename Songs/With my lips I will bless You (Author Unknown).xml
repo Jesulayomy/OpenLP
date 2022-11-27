@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:58">
+  <properties>
+    <titles>
+      <title>With my lips I will bless You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>longing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With my lips I will bless You<br/>With my mouth I'll sing Your praise<br/>With my eyes I long to see You<br/>Show me Your face<br/>With my ears I long to hear You<br/>With my hands I long to touch You<br/>With all my heart I surrender to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let all that is within me<br/>bless Your holy Name<br/>Let all that is within me<br/>bless Your holy Name</lines>
+    </verse>
+  </lyrics>
+</song>

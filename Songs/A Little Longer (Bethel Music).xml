@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>A Little Longer</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5632"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>What can I do for You<br/>What can I bring to You<br/>What kind of song would You like me to sing<br/>'Cause I'll dance a dance for You<br/>Pour out my love to You<br/>What can I do for You, beautiful King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What can I do for You<br/>What can I bring to You<br/>What kind of song would You like me to sing<br/>'Cause I'll dance a dance for You<br/>Pour out my love to You, yeah</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>Cause I can't thank You enough<br/>Cause I can't thank You enough</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge: 2x<br/>I hear you saying<br/>You don't have to do a thing<br/>Just simply be with me<br/>and let those things go<br/>'Cause they can wait another minute<br/>Wait, this moment is too sweet<br/>Would you please stay here with me<br/>And love on me a little longer<br/>'Cause I'm in love with you<br/>I'm in love with you<br/>'Cause I'm in love with you<br/>Oh How my heart it burns for you</lines>
+    </verse>
+  </lyrics>
+</song>

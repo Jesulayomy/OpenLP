@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>The circuit rider preacher</title>
+      <title>Medley - Leaning/There is Power/Glory Glory Hallelujah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The circuit rider preacher<br/>went riding through the land,<br/>With a rifle on his shoulder<br/>and a Bible in his hand;<br/>He told the prairie people<br/>of a blessed promised land,<br/>As he went riding, singing along.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Leaning, leaning,<br/>Leaning on the everlasting arms.<br/>Leaning, leaning,<br/>Leaning on the everlasting arms.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He preached the coming judgment<br/>of fire and brimstone;<br/>And a glorious, endless heaven<br/>of the justified alone.<br/>As he rode across the mountains<br/>you could hear him sing this song,<br/>As he went riding on.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>There is power, power,<br/>wonder-working power,<br/>In the blood of the Lamb;<br/>There is power, power,<br/>oh, wonder-working power,<br/>In the precious blood of the Lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now his rifle's old and rusty<br/>and is hanging on the wall;<br/>His Bible's very worn and dusty<br/>and is seldom touched at all;<br/>But the message that It brings us<br/>will meet us on that day,<br/>For God's Truth's still marching on.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Glory! Glory, hallelujah!<br/>Glory! Glory, hallelujah!<br/>Glory! Glory, hallelujah!<br/>His Truth is marching on.</lines>
+    </verse>
+  </lyrics>
+</song>

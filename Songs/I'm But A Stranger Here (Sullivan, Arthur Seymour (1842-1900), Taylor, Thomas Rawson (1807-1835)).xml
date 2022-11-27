@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>I'm But A Stranger Here</title>
+    </titles>
+    <authors>
+      <author type="music">Sullivan, Arthur Seymour (1842-1900)</author>
+      <author type="words">Taylor, Thomas Rawson (1807-1835)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm but a stranger here, Heav'n is my home; Earth is a desert drear, Heav'n is my home. Danger and sorrow stand round me on every hand; Heav'n is my fatherland, Heav'n is my home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What though the tempest rage, Heav'n is my home; Short is my pilgrimage, Heav'n is my home; Time's wild and wintry blast soon shall be over past; I shall reach home at last, Heav'n is my home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There at my Savior's side Heav'n is my home; I shall be glorified, Heav'n is my home. There are the good and blest, those I loved most and best; There, too, I soon shall rest, Heav'n is my home.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Therefore I murmur not, Heav'n is my home; Whate'er my earthly lot, Heav'n is my home; And I shall surely stand there at my Lord's right hand. Heav'n is my fatherland, Heav'n is my home.</lines>
+    </verse>
+  </lyrics>
+</song>

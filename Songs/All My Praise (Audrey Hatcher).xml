@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>All My Praise</title>
+    </titles>
+    <copyright>2002 BMG Songs, Inc.</copyright>
+    <authors>
+      <author type="words">Audrey Hatcher</author>
+      <author type="music">Audrey Hatcher</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will follow You through green pastures and sing<br/>Halleluja to Your name.<br/>I will follow You through dark disaster and sing<br/>Hallelujah through the pain.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And even in the shadow of death I will praise You.<br/>And even in the valley I will say:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy, My God, You are worthy of all my praise.<br/>Holy, My God, You are worthy of all my praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are seated on Your throne in heaven and You<br/>see all of us down here.<br/>You have promised you will not abandon and so I<br/>shall not fear.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You made every star, and you taught it how to shine.<br/>You knew my name before there was time.<br/>And all this was just part of your glorious design.<br/>Hallelujah, Hallelujah.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Holy, My God, You are worthy of all my praise.<br/>Holy, My God, You are worthy of all my praise.</lines>
+    </verse>
+  </lyrics>
+</song>

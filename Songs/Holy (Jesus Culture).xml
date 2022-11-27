@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:14">
+  <properties>
+    <titles>
+      <title>Holy</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>violin</theme>
+      <theme>gods-holiness</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just one look on Your face<br/>Just one glance of Your eyes<br/>My whole world is changed<br/>my whole world is changed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh I seek only to see Your face<br/>I don't wanna go anywhere without You God<br/>Without Your presence<br/>Oh let me see Your face<br/>The beauty of Your holiness God<br/>Take me into the holy place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And only one word comes to mind<br/>There's only one word to describe</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy, Holy, Lord God Almighty</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is no one like You<br/>You are Holy<br/>Holy</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>The steadfast love of the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Edith McNeill</author>
+      <author type="music">Edith McNeill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The steadfast love of the Lord never ceases,<br/>His mercies never come to an end;</lines>
+    </verse>
+    <verse name="c1">
+      <lines>They are new every morning, new every morning,<br/>Great is Thy faithfulness, O Lord,<br/>Great is Thy faithfulness</lines>
+    </verse>
+  </lyrics>
+</song>

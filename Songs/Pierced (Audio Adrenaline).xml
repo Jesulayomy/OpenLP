@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Pierced</title>
+    </titles>
+    <copyright>Forefront Records</copyright>
+    <authors>
+      <author type="words">Audio Adrenaline</author>
+      <author type="music">Audio Adrenaline</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Make me... Take me... Break me.<br/>I am pierced.<br/>Make me... Take me... Break me.<br/>I am pierced.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Though I am wounded and unworthy,<br/>Though I am selfish and untrue,<br/>You are holy, You're the healer.<br/>You forgave me and made me new,<br/>You made me new.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh this love how can it be<br/>That my God would die for me?<br/>For my sins, His wounds did bleed.<br/>Jesus, you were pierced for me.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Make me (make me, Lord Jesus)<br/>Take me (take me, Lord Jesus)<br/>Break me (break me, Lord Jesus)<br/>I am pierced (oh, oh, oh)<br/>(4X)</lines>
+    </verse>
+  </lyrics>
+</song>

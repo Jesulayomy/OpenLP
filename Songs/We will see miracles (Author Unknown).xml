@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>We will see miracles</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>worship</theme>
+      <theme>youth</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You said that when we ask we will receive<br/>We take You at Your Word, so Lord we're asking<br/>You said Your people will do greater things<br/>We believe it, we believe</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We will see miracles<br/>We will see giants fall<br/>We'll walk on water<br/>This is Your Kingdom come<br/>This is the battle won<br/>This is revival<br/>We will see miracles</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You said that<br/>Nothing is impossible<br/>We won't back down we know that You are able<br/>You said Your people will do greater things<br/>We believe it, we believe</lines>
+    </verse>
+    <verse name="b1">
+      <lines>The whole earth will be filled<br/>With the glory of the Lord<br/>Like the waters cover the sea</lines>
+    </verse>
+    <verse name="b2">
+      <lines>We will see Your glory<br/>We will see Your glory<br/>We will see Your glory here</lines>
+    </verse>
+  </lyrics>
+</song>

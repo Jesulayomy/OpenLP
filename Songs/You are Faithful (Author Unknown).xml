@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>You are Faithful</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse 1]<br/>Lord of all the earth<br/>How You care for me<br/>You have made me<br/>You will save<br/>And carry me always</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Chorus]<br/>You are faithful<br/>You are faithful<br/>You are faithful<br/>Your joy is my strength</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Interlude]<br/>E</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Verse 2]<br/>Lord You are my guide<br/>I rely on You<br/>I put my hope in things not seen<br/>Your promises all true</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Chorus]<br/>You are faithful<br/>You are faithful<br/>You are faithful<br/>Your joy is my strength</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are faithful<br/>You are faithful<br/>You are faithful<br/>Your joy is my strength</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[Bridge]<br/>Always You're with me<br/>Your hand will lead me<br/>My trust is in Your Name</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Always You're with me<br/>Your hand will lead me<br/>My trust is in Your Name</lines>
+    </verse>
+  </lyrics>
+</song>

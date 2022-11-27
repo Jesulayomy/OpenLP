@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>What Blessed Assurance I've found in You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>youth</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All my attempts to be satisfied were vain and empty<br/>Until the moment You rescued me and Your love filled me<br/>My soul sings, now my soul sings</lines>
+    </verse>
+    <verse name="c1">
+      <lines>What blessed assurance<br/>I've found in You, I've found in You<br/>I won't be shaken, I will not be moved<br/>How steadfast Your strong hand<br/>Is keeping me, is keeping me<br/>I won't be shaken, I will not be moved<br/>O blessed assurance</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No other love that I've ever known compares to You, God<br/>No other love that I've ever found has done what You've done<br/>My soul sings, now my soul sings</lines>
+    </verse>
+    <verse name="c2">
+      <lines>What blessed assurance<br/>I've found in You, I've found in You<br/>I won't be shaken, I will not be moved<br/>How steadfast Your strong hand<br/>Is keeping me, is keeping me<br/>I won't be shaken, I will not be moved<br/>O blessed assurance</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ever my anchor, ever my strength<br/>Ever my portion, and all I need<br/>Ever my healing, ever my hope<br/>Ever the truth that leads me home<br/>That leads me home</lines>
+    </verse>
+    <verse name="c3">
+      <lines>What blessed assurance<br/>I've found in You, I've found in You<br/>I won't be shaken, I will not be moved<br/>How steadfast Your strong hand<br/>Is keeping me, is keeping me<br/>I won't be shaken, I will not be moved<br/>Oh, what blessed assurance<br/>I've found in You, I've found in You<br/>I won't be shaken, I will not be moved<br/>How steadfast Your strong hand<br/>Is keeping me, is keeping me<br/>I won't be shaken, I will not be moved<br/>O blessed assurance</lines>
+    </verse>
+  </lyrics>
+</song>

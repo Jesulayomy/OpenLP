@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>It Is You</title>
+    </titles>
+    <copyright>2002 Ariose Music</copyright>
+    <authors>
+      <author type="words">Peter Furler</author>
+      <author type="music">Peter Furler</author>
+    </authors>
+    <songbooks>
+      <songbook name="Işık Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As we lift up our hands will You meet us here?<br/>As we call on Your name will You meet us here?<br/>We have come to this place to worship You,<br/>God of mercy and grace.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>It is You, we adore,<br/>It is You, praises are for,<br/>Only You, the heavens declare,<br/>It is You, It is You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy holy is our God Almighty,<br/>Holy holy is His name alone,<br/>Holy holy is our God Almighty,<br/>Holy holy is His name alone,<br/>It is You, we adore,<br/>It is You, only You.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>As we lift up our hands, as we call on Your name,<br/>Will You visit this place by Your mercy and grace?<br/>As we lift up our hands, as we call on Your name,<br/>Will You visit this place by Your mercy and grace?</lines>
+    </verse>
+  </lyrics>
+</song>

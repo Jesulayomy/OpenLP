@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Your Spirit (feat. Kierra Sheard)</title>
+    </titles>
+    <authors>
+      <author type="words">Tasha Cobbs Leonard</author>
+      <author type="music">Tasha Cobbs Leonard</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3560"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Not by might, not by power<br/>By your spirit God send your spirit God<br/>Not by might, not by power<br/>By your spirit God send your spirit God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 verse:<br/>You are the fire we are the temple<br/>Your are the voice we are your song<br/>You are our God we are your people<br/>You are the light we stand in awe</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pre chorus:<br/>We stand in awe of you<br/>We stand in awe of you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse:<br/>You called us out Out of the darkness<br/>Into your love into your light<br/>Grace upon grace beauty for ashes<br/>You come to us we come alive</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Breathe<br/>Come and breathe on us<br/>Spirit breathe<br/>Come and breathe on us</lines>
+    </verse>
+  </lyrics>
+</song>

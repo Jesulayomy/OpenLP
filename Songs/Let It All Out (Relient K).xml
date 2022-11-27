@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Let It All Out</title>
+    </titles>
+    <authors>
+      <author type="words">Relient K</author>
+      <author type="music">Relient K</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let it all out. (Get it all out.)<br/>Rip it out, remove it.<br/>Don't be alarmed when the wound begins to bleed.<br/>Cause we're so scared to find out (what this life's all about),<br/>so scared we're going to lose it.<br/>And knowing all along that's exactly what we need.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And today I will trust you with the confidence<br/>of a man who's never known defeat.<br/>But tomorrow, upon hearing what I did<br/>I will stare at you in disbelief.<br/>Oh, inconsistent me... crying out for consistency.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And you said I know that this will hurt,<br/>but if I don't break your heart,<br/>then things will just get worse.<br/>If the burden seems too much to bear,<br/>Remember, the end will justify<br/>the pain it took to get us there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'll let it be known (at times I have shown)<br/>signs of all my weakness,<br/>but somewhere in me there is strength.<br/>And you promise me (that you believe)<br/>in time I will defeat this,<br/>'cause somewhere in me there is strength.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>And today I will trust you with the confidence<br/>of a man who's never known defeat.<br/>And I'll try my best to just forget<br/>that that man isn't me.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Reach out to me, make my heart brand new<br/>every beat will be for you, for you.<br/>And I know you know you touched my life<br/>when you touched my heavy heart and made it light.</lines>
+    </verse>
+  </lyrics>
+</song>

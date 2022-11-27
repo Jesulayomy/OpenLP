@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Water and Dust</title>
+    </titles>
+    <authors>
+      <author type="words">Cory Asbury</author>
+      <author type="music">Cory Asbury</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3148"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>One part water and one part dust<br/>Yet You're still making trophies out of us<br/>Making something out of nothing, it's what You do<br/>Yet Your work is never finished and it's never past due</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Gently Your voice like a calming embrace<br/>Calls me from out of the noise<br/>You whisper to me, "Child, forget not your dreams"<br/>As we lie awake in the dark<br/>Just don't lose heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>From the dirt to a throne with a brand new name<br/>And the blood of the King runnin' through our veins<br/>There's hidden gold in these jars of clay<br/>All these hidden crowns will be revealed one day<br/>Yeah, we'll lay them down at your feet one day</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Gently Your voice like a calming embrace<br/>Calls me from out of the noise<br/>You whisper to me, "Child, forget not your dreams"<br/>As we lie awake in the dark<br/>Just don't lose heart</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Don't lose heart<br/>He's got your hand<br/>Don't lose heart<br/>He knows your name<br/>When everything is falling apart<br/>Child, don't lose heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When everything is falling apart<br/>Just don't lose heart</lines>
+    </verse>
+  </lyrics>
+</song>

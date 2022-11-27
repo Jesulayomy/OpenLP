@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Lean on Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes in our lives, we all have pain<br/>We all have sorrows, but if we are wise<br/>We know that there's always tomorrow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lean on me, when you're not strong<br/>And I'll be your friend, I'll help you carry on,<br/>For it won't be long, til I'm gonna need,<br/>Somebody to lean on</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just call on me brother, when you need a hand,<br/>We all need somebody to lean on,<br/>I might just have a problem, that you'd understand,<br/>We all need somebody to lean on</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>Nothing is impossible</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Through You I can do anything, I can do all things<br/>Cause its you who gives me strength, nothing is impossible<br/>Through you, blind eyes are open, Strongholds are broken<br/>I am living by faith, nothing is impossible</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm not gonna live by what I see,<br/>I'm not gonna live by what I feel</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Deep down I, Know that You're here with me<br/>I know that, You can do anything</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I believe, I believe,<br/>I believe, I believe in You x2</lines>
+    </verse>
+  </lyrics>
+</song>

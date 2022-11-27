@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Audience of One</title>
+    </titles>
+    <authors>
+      <author type="words">Big Daddy Weave</author>
+      <author type="music">Big Daddy Weave</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I come on my knees<br/>To lay down before you,<br/>Bringing all that I am,<br/>Longing only to know you.<br/>Seeking your face,<br/>And not only your hand,<br/>I find you embracing me<br/>Just as I am.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And I lift these songs to you and you alone.<br/>As I sing to you, in my praises make your home.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To my audience of one,<br/>You are Father, and You are Son.<br/>As Your Spirit flows free,<br/>Let it find within me<br/>A heart that beats to praise you.<br/>And now just to know you more<br/>Has become my great reward,<br/>To see Your kingdom come<br/>And Your will be done.<br/>I only desire to be Yours, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So what could I bring<br/>To honor your majesty?<br/>What song could I sing<br/>That would move the heart of royalty?<br/>And all that I have<br/>Is the life that You've given me.<br/>So Lord let me live for You,<br/>This song with humility.</lines>
+    </verse>
+  </lyrics>
+</song>

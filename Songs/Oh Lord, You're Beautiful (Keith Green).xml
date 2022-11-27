@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Oh Lord, You're Beautiful</title>
+    </titles>
+    <copyright>1980 Birdwing Music</copyright>
+    <authors>
+      <author type="words">Keith Green</author>
+      <author type="music">Keith Green</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>response</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>longing</theme>
+      <theme>grace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord, You're beautiful;<br/>Your face is all I see;<br/>And when Your eyes are on this child,<br/>Your grace abounds to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord, please light the fire<br/>That once burned bright and clear;<br/>Replace the lamp of my first love,<br/>That burns with holy fear.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I want to take Your Word and shine it all around,<br/>But first help me just to live it, Lord;<br/>And when I'm doing well, help me to never seek a crown,<br/>For my reward is giving glory to You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:02">
+  <properties>
+    <titles>
+      <title>Be Still My Soul</title>
+    </titles>
+    <authors>
+      <author type="music">Sibelius, Jean (1865-1957)</author>
+      <author type="words">von Schlegel, Katharina Amalia Dorothea (1697-1768)</author>
+      <author type="translate">Borthwick, Jane Laurie (1813-1897)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>funeral</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be still, my soul: the Lord is on thy side. Bear patiently the cross of grief or pain. Leave to thy God to order and provide; In every change, He faithful will remain. Be still, my soul: thy best, thy heav'nly Friend Through thorny ways leads to a joyful end.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be still, my soul: thy God doth undertake To guide the future, as He has the past. Thy hope, thy confidence let nothing shake; All now mysterious shall be bright at last. Be still, my soul: the waves and winds still know His voice Who ruled them while He dwelt below.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be still, my soul: when dearest friends depart, And all is darkened in the vale of tears, Then shalt thou better know His love, His heart, Who comes to soothe thy sorrow and thy fears. Be still, my soul: thy Jesus can repay From His own fullness all He takes away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be still, my soul: the hour is hast'ning on When we shall be forever with the Lord. When disappointment, grief and fear are gone, Sorrow forgot, love's purest joys restored. Be still, my soul: when change and tears are past All safe and blessèd we shall meet at last.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Be still, my soul: begin the song of praise On earth, believing, to Thy Lord on high; Acknowledge Him in all thy words and ways, So shall He view thee with a well pleased eye. Be still, my soul: the Sun of life divine Through passing clouds shall but more brightly shine.</lines>
+    </verse>
+  </lyrics>
+</song>

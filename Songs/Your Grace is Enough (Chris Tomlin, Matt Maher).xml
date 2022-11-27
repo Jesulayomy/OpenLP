@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Your Grace is Enough</title>
+    </titles>
+    <copyright>2003 spiritandsong.com</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="words">Matt Maher</author>
+      <author type="music">Matt Maher</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is your faithfulness oh God<br/>You wrestle with the sinners heart<br/>You lead us by still waters and to mercy<br/>And nothing can keep us apart</lines>
+    </verse>
+    <verse name="p1">
+      <lines>So remember your people, remember your children<br/>Remember your promise Oh God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your grace is enough, your grace is enough<br/>Your grace is enough for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great is your love and justice God<br/>You use the weak to lead the strong<br/>You lead us in the song of your salvation<br/>And all your people sing along</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>All the Earth Will Sing Your Praises</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>You lived, You died,<br/>You said in three days You would rise<br/>You did, You're alive<br/>You rule, You reign,<br/>You said You're coming back again<br/>I know You will<br/>and all the earth will sing Your praises</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You took, You take our sins away oh God<br/>You give, You gave Your life away for us<br/>You came down, You saved us through the cross<br/>Our hearts are changed because of Your great love</lines>
+    </verse>
+  </lyrics>
+</song>

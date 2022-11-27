@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>Crown Him with Many Crowns</title>
+    </titles>
+    <authors>
+      <author type="music">Elvey, George Job (1816-1893)</author>
+      <author type="words">Bridges, Matthew (1800-1894)</author>
+      <author type="words">Thring, Godfrey (1823-1903)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3528"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Crown Him with many crowns, the Lamb upon His throne;<br/>Hark how the heavenly anthem drowns, all music but its own;<br/>Awake my soul and sing, of Him who died for Thee,<br/>And hail Him as Thy matchless King through all eternity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Crown Him the Lord of life, who triumphed o'er the grave;<br/>And rose victorious in the strife, for those He came to save;<br/>His glories now we sing, who died and rose on high,<br/>Who died eternal life to bring and lives that death may die.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Crown Him the Lord of love, behold His hands and side;<br/>Rich wounds yet visible above, in beauty glorified;<br/>All hail Redeemer hail, for Thou hast died for me,<br/>Thy praise shall never, never fail, throughout eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

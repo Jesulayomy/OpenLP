@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Awake, My Soul, And With The Sun</title>
+      <title>(see also 'Praise God, From Whom All Blessings Flow'</title>
+    </titles>
+    <authors>
+      <author type="music">Genevan Psalter</author>
+      <author type="music">Bourgeois, Louis (1510-1561)</author>
+      <author type="words">Ken, Thomas (1637-1711)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Awake, my soul, and with the sun Thy daily stage of duty run; Shake off dull sloth, and joyful rise, To pay thy morning sacrifice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy precious time misspent, redeem, Each present day thy last esteem, Improve thy talent with due care; For the great day thyself prepare.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>By influence of Light divine Let thy own light to others shine. Reflect all Heaven's propitious ways In ardent love, and cheerful praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In conversation be sincere; Keep conscience as the noontide clear; Think how all seeing God thy ways And all thy secret thoughts surveys.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wake, and lift up thyself, my heart, And with the angels bear thy part, Who all night long unwearied sing High praise to the eternal King.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All praise to Thee, Who safe has kept<br/>And hast refreshed me while I slept<br/>Grant, Lord, when I from death shall wake<br/>I may of endless light partake.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Heav'n is, dear Lord, where'er Thou art,<br/>O never then from me depart;<br/>For to my soul 'tis hell to be<br/>But for one moment void of Thee.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Lord, I my vows to Thee renew;<br/>Disperse my sins as morning dew.<br/>Guard my first springs of thought and will,<br/>And with Thyself my spirit fill.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Direct, control, suggest, this day,<br/>All I design, or do, or say,<br/>That all my powers, with all their might,<br/>In Thy sole glory may unite.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>I would not wake nor rise again<br/>And Heaven itself I would disdain,<br/>Wert Thou not there to be enjoyed,<br/>And I in hymns to be employed.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Praise God, from Whom all blessings flow;<br/>Praise Him, all creatures here below;<br/>Praise Him above, ye heavenly host;<br/>Praise Father, Son, and Holy Ghost.</lines>
+    </verse>
+  </lyrics>
+</song>

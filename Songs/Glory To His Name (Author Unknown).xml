@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Glory To His Name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down at the cross<br/>Where my Savior died,<br/>Down where for cleansing<br/>From sin I cried;<br/>There to my heart<br/>Was the blood applied;<br/>Glory to His name!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glory to His name!<br/>Glory to His name!<br/>There to my heart<br/>Was the blood applied;<br/>Glory to His name!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am so wondrously<br/>Saved from sin,<br/>Jesus so sweetly<br/>Abides within,<br/>There at the cross<br/>Where He took me in;<br/>Glory to His name!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, precious fountain<br/>That saves from sin!<br/>I am so glad I have entered in;<br/>There Jesus saves me<br/>And keeps me clean;<br/>Glory to His name!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come to this fountain<br/>So rich and sweet;<br/>Cast thy poor soul<br/>At the Savior's feet;<br/>Plunge in today<br/>And be made complete;<br/>Glory to His name!</lines>
+    </verse>
+  </lyrics>
+</song>

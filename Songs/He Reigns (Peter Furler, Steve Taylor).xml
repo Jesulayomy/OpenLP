@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>He Reigns</title>
+    </titles>
+    <copyright>2003 Ariose Music | Soylent Tunes</copyright>
+    <authors>
+      <author type="words">Peter Furler</author>
+      <author type="music">Peter Furler</author>
+      <author type="words">Steve Taylor</author>
+      <author type="music">Steve Taylor</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's the song of the redeemed rising from the African plain.<br/>It's the song of the forgiven drowning out the Amazon rain.<br/>The song of Asian believers filled with God's holy fire.<br/>It's ev'ry tribe, ev'ry tongue, ev'ry nation;<br/>a love song born of a grateful choir.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It's all God's children singing,<br/>"Glory, glory, hallelujah!<br/>He reigns, He reigns!"<br/>It's all God's children singing,<br/>"Glory, glory, hallelujah!<br/>He reigns, He reigns!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let it rise above the four winds, caught up in the heavenly sound.<br/>Let praises echo from the towers of cathedrals<br/>to the faithful gathered underground.<br/>Of all the songs sung from the dawn of creation,<br/>some were meant to persist.<br/>Of all the bells rung from a thousand steeples,<br/>none rings truer than this:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And all the powers of darkness tremble at what they've just heard,<br/>'Cause all the powers of darkness can't drown out a single word.</lines>
+    </verse>
+  </lyrics>
+</song>

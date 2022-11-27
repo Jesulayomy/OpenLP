@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>No Place Love Won't Go</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Schultz</author>
+      <author type="music">Mark Schultz</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3584"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don't know how I wound up here<br/>Don't know where it all went wrong<br/>I bought into the lies<br/>And nearly lost it all<br/>But in the midst of fear<br/>His [?] voice I hear<br/>Telling me I'm worthy<br/>Saying that just for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love will walk through any storm<br/>Will see you through it all<br/>Oh, can it be there's no place love won't go<br/>As hopeless as it seems<br/>No, you're not out of reach<br/>To set you free<br/>There's no place love won't go</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know you're a lot like me<br/>And I know that it's hard to see<br/>There is a greater plan<br/>When you don't understand<br/>You're not a victim of<br/>The pain you can outrun<br/>Cause He took your burden<br/>And He came to set you free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love will walk through any storm<br/>Will see you through it all<br/>Oh, can it be there's no place love won't go<br/>As hopeless as it seems<br/>No, you're not out of reach<br/>To set you free<br/>There's no place love won't go</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cause your God, He longs to meet you<br/>No matter where you are<br/>His arms are gonna reach you<br/>You never gone too far</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Love will walk through any storm<br/>Will see you through it all<br/>Oh, can it be there's no place love won't go<br/>As hopeless as it seems<br/>No, you're not out of reach<br/>To set you free<br/>There's no place love won't go<br/>[Repeat]</lines>
+    </verse>
+    <verse name="v7">
+      <lines>He's gonna lift you out<br/>He's gonna pull you up<br/>He's gonna lead you home<br/>No place that love won't go<br/>[Repeat]</lines>
+    </verse>
+  </lyrics>
+</song>

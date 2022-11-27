@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>In His Temple Now Behold Him</title>
+    </titles>
+    <authors>
+      <author type="music">Purcell, Henry (1658-1695)</author>
+      <author type="words">Pye, Henry John (1825-1903)</author>
+      <author type="words">Cooke, William (1821-1894)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In His temple now behold Him, See the long expected Lord; Ancient prophets had foretold Him; God has now fulfilled His word. Now to praise Him, His redeemèd Shall break forth with one accord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the arms of her who bore Him, Virgin pure, behold Him lie, While his agèd saints adore Him Ere in faith and hope they die. Hallelujah! Hallelujah! Lo, th'incarnate God most high.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, by Thy presentation, Thou, who didst for us endure, Make us see our great salvation, Seal us with Thy promise sure. And present us in Thy glory To Thy Father, cleansed and pure.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Prince and Author of salvation, Be Thy boundless love our theme! Jesus, praise to Thee be given By the world Thou didst redeem. With the Father and the Spirit, Lord of majesty supreme!</lines>
+    </verse>
+  </lyrics>
+</song>

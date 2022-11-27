@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Let the Lower Lights Be Burning</title>
+    </titles>
+    <authors>
+      <author type="words">Philip Paul Bliss</author>
+      <author type="music">Philip Paul Bliss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brightly beams our Father's mercy from His lighthouse evermore,<br/>But to us He gives the keeping, of the lights along the shore<br/>Let the lower lights be burning! Send a gleam a cross the wave!<br/>For to us He gives the keeping of the lights along the shore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dark the night of sin has settled, loud the angry billows roar.<br/>Eager eyes are watching, longing, for the lights, along the shore<br/>Let the lower lights be burning! Send a gleam a cross the wave!<br/>For to us He gives the keeping of the lights along the shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trim your feeble lamp, my brother, some poor sailor tempest tossed,<br/>Trying now to make the harbor, in the darkness may be lost.<br/>Let the lower lights be burning! Send a gleam a cross the wave!<br/>Trying now to make the harbor, some poor sailor may be lost.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>I love your presence</title>
+    </titles>
+    <copyright>1999 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Darren Clarke &amp; Jessie Lane</author>
+      <author type="music">Darren Clarke &amp; Jessie Lane</author>
+    </authors>
+    <songbooks>
+      <songbook name="Işık Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the glory of Your presence,<br/>I find rest for my soul;<br/>In the depths of Your love,<br/>I find peace makes me whole.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I love, I love, I love Your presence;<br/>I love, I love, I love Your presence;<br/>I love, I love, I love You Jesus;<br/>I love, I love, I love Your presence.</lines>
+    </verse>
+  </lyrics>
+</song>

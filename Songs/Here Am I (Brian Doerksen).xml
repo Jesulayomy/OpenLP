@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Here Am I</title>
+    </titles>
+    <copyright>1995 Vineyard Songs Canada</copyright>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here am I.<br/>Send me Lord<br/>In my weakness I know you will be strong<br/>Here am I.<br/>Empower me<br/>Stretch out your hand to heal the sick<br/>Stretch out your arm and set the prisoners free</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come fill me, with mercy<br/>Send me out to heal<br/>the broken-hearted<br/>Come fill me, with boldness<br/>I will speak your words of life<br/>I will go in your authority</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh, oh</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:57">
+  <properties>
+    <titles>
+      <title>God of Wonders</title>
+    </titles>
+    <copyright>2000 New Spring | Storm Boy Music | Meaux Mercy</copyright>
+    <authors>
+      <author type="words">Marc Byrd</author>
+      <author type="music">Marc Byrd</author>
+      <author type="words">Steve Hindalong</author>
+      <author type="music">Steve Hindalong</author>
+      <author type="words">Third Day</author>
+      <author type="music">Third Day</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+      <theme>celebration</theme>
+      <theme>easy</theme>
+      <theme>creation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of all creation, of water earth and sky;<br/>The heavens are Your tabernacle, glory to the Lord on high.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Early in the morning<br/>I will celebrate the light;<br/>When I stumble in the darkness<br/>I will call Your name by night.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God of wonders beyond our galaxy! You are holy, holy!<br/>The universe declares Your majesty! You are holy, holy!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lord of heaven and earth. (2x)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Hallelujah, to the Lord of heaven and earth! (3x)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>God of wonders beyond our galaxy! You are holy, holy!<br/>Precious Lord, reveal your heart to me. Father, hold me, hold me.<br/>The universe declares Your majesty! You are holy, holy!</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Lord of heaven and earth. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

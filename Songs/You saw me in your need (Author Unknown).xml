@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>You saw me in your need</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You saw me in my need<br/>You paid the price for me<br/>And through Your love<br/>I have been set free<br/>Now I am not the same<br/>You took my sin and shame<br/>Forever I will bless Your Holy Name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I adore You<br/>I adore You<br/>Lamb of God<br/>My Savior, Prince of Peace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I adore You<br/>I adore You<br/>Jesus You mean all the world to me<br/>I adore You Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

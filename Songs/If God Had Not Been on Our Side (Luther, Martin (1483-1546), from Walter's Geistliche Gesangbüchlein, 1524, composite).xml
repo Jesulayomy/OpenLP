@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>If God Had Not Been on Our Side</title>
+      <title>Had God not Come, May Israel Say, Were God Not With Us At This Time</title>
+    </titles>
+    <authors>
+      <author type="music">from Walter's Geistliche Gesangbüchlein, 1524</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">composite</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If God had not been on our side And had not come to aid us, The foes with all their pow'r and pride Would surely have dismayed us; For we, His flock, would have to fear The threat of men both far and near Who rise in might against us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Their furious wrath, did God permit, Would surely have consumed us And as a deep and yawning pit With life and limb entombed us. Like men o'er whom dark waters roll Their wrath would have engulfed our soul And, like a flood, o'erwhelmed us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blest be the Lord, who foiled their threat That they could not devour us; Our souls, like birds, escaped their net, They could not overpow'r us. The snare is broken we are free! Our help is ever, Lord, in Thee, Who madest earth and heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

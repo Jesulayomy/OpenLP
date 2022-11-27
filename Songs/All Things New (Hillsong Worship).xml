@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:17">
+  <properties>
+    <titles>
+      <title>All Things New</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1308"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ALL THINGS NEW<br/>Words and Music by<br/>BEN FIELDING &amp; DEAN USSHER<br/>♩ = 75</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 1<br/>Your love's making all things new<br/>You're working in all for good<br/>For the things of this world<br/>There is hope renewed<br/>In the life that is found in You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>CHORUS<br/>You make all things new<br/>You make all things new<br/>Yesterday and forever<br/>Your love never changing<br/>This hope never fading<br/>Hallelujah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE 2<br/>My faith is in things unseen<br/>Bringing life where it has not been<br/>Speaking things that are not<br/>As if they were<br/>I am alive in You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>INSTRUMENTAL</lines>
+    </verse>
+    <verse name="v6">
+      <lines>BRIDGE<br/>The heavens have been opened<br/>I know that I am chosen<br/>I am alive in You<br/>I am alive in You<br/>God You are restoring<br/>All things for Your glory<br/>I am alive in You<br/>I am alive in You</lines>
+    </verse>
+  </lyrics>
+</song>

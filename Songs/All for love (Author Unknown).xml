@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>All for love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>G A/C# D</lines>
+    </verse>
+    <verse name="v2">
+      <lines>G/B A/C# D</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All for love, a Father gave<br/>For only love could make a way<br/>All for love, the heavens cried<br/>For love was crucified</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh how many times have I broken Your heart<br/>But still You forgive if only I ask<br/>And how many times have You heard me pray<br/>Draw near to me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Everything I need is You<br/>My beginning, my forever<br/>Everything I need is You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let me sing all for love<br/>I will join the angel song<br/>Ever holy is the Lord<br/>King of glory, King of all</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Oh how many times have I broken Your heart<br/>But still You forgive if only I ask<br/>And how many times have You heard me pray<br/>Draw near to me</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Everything I need is You<br/>My beginning, my forever<br/>Everything I need is You<br/>Is You</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Everything I need is You<br/>My beginning, my forever<br/>Everything I need is You<br/>Is You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>F#m D</lines>
+    </verse>
+    <verse name="v6">
+      <lines>F#m D</lines>
+    </verse>
+    <verse name="v7">
+      <lines>All for love a savior prayed<br/>Abba Father, have Your way<br/>Though they know not what they do<br/>Let the cross draw man to You, to You<br/>To You, to You</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Everything I need is You<br/>My beginning, my forever<br/>Everything I need is You<br/>Is You</lines>
+    </verse>
+    <verse name="c7">
+      <lines>Everything I need is You<br/>My beginning, my forever<br/>Everything I need is You</lines>
+    </verse>
+  </lyrics>
+</song>

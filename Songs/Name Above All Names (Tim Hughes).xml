@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Name Above All Names</title>
+    </titles>
+    <copyright>2003 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Tim Hughes</author>
+      <author type="music">Tim Hughes</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your name is highly exalted;<br/>Jesus, forever be glorified,<br/>forever be glorified.<br/>Your name has power to conquer.<br/>Your fame resounds throughout heaven and earth,<br/>resounds throughout heaven and earth.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Name above all names, You are glorious.<br/>Wonderful and true, powerful are You.<br/>There will be a day when every knee will bow<br/>Before Your holiness, every tongue confess<br/>You're the name, the name above all names.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rulers will one day be silent,<br/>Lost in the wonder and awe of Your name,<br/>The wonder and awe of Your name.<br/>Eternal, none is Your equal.<br/>We cry no other God but You,<br/>no other God but You.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Every knee will bow, every knee must bow,<br/>Every knee must bow to You.<br/>Every knee will bow, every knee must bow,<br/>Every knee must bow to You, yes, to You.</lines>
+    </verse>
+  </lyrics>
+</song>

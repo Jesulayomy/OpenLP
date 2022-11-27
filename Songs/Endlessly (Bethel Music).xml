@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Endlessly</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2624"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>It's already been done You can't add to His blood<br/>It was once for all the Father gave His Son<br/>Forever we are changed by the miracle of grace<br/>Throughout history the Father's light remains</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Praises rise, endlessly<br/>We lay our lives before the King<br/>Who was, who is His love will always be<br/>The hope for all eternity</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>We've only just begun to see all of heaven come<br/>Every fear will bow at the Father's perfect love<br/>Your Kingdom is at hand and the gates of hell won't stand<br/>Now in victory we lift our song again</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Open up the doors<br/>We are ready we are ready<br/>Crying out for more<br/>In Your presence we come alive</lines>
+    </verse>
+  </lyrics>
+</song>

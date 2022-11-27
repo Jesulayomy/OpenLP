@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Slow Fade</title>
+    </titles>
+    <copyright>2007 My Refuge Music | Club Zoo Music | SWECS Music</copyright>
+    <authors>
+      <author type="words">Mark Hall</author>
+      <author type="music">Mark Hall</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be careful little eyes what you see;<br/>It's the second glance that ties your hands as darkness pulls the strings.<br/>Be careful little feet where you go,<br/>For it's the little feet behind you that are sure to follow.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It's a slow fade when you give yourself away.<br/>It's a slow fade when black and white have turned to gray.<br/>Thoughts invade, choices are made, a price will be paid<br/>When you give yourself away.<br/>People never crumble in a day.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>It's a slow fade, it's a slow fade.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be careful little ears what you hear;<br/>When flattery leads to compromise, the end is always near.<br/>Be careful little lips what you say,<br/>For empty words and promises lead broken hearts astray.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>The journey from your mind to your hands<br/>Is shorter than you're thinking.<br/>Be careful if you think you stand;<br/>You just might be sinking.</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Daddies never crumble in a day.<br/>Families never crumble in a day.<br/>Oh be careful little eyes what you see,<br/>Oh be careful little eyes what you see,<br/>For the Father up above is looking down in love.<br/>Oh be careful little eyes what you see.</lines>
+    </verse>
+  </lyrics>
+</song>

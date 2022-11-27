@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Sweet By And By</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a land that is fairer than day,<br/>And by faith we can see it afar;<br/>For the Father waits over the way,<br/>To prepare us a dwelling place there.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>In the sweet by and by,<br/>We shall meet on that beautiful shore.<br/>In the sweet by and by,<br/>We shall meet on that beautiful shore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We shall sing on that beautiful shore<br/>The melodious songs of the blest,<br/>And our spirits shall sorrow no more,<br/>Not a sigh for the blessing of rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To our bountiful Father above<br/>We will offer our tribute of praise,<br/>For the glorious gift of His love<br/>And the blessings that hallow our days.</lines>
+    </verse>
+  </lyrics>
+</song>

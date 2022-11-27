@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Still</title>
+    </titles>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>hope</theme>
+      <theme>protection</theme>
+      <theme>worship</theme>
+      <theme>violin</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>peace</theme>
+      <theme>difficulties</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro: F Am C G x2<br/>Hide me now, Under Your wings<br/>Cover me, within your mighty hands</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When the oceans rise and thunders roar<br/>I will soar with You above the storm<br/>Father You are King over the flood<br/>I will be still know You are God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Find rest my soul, in Christ alone<br/>Know His pow'r, in quietness and trust</lines>
+    </verse>
+  </lyrics>
+</song>

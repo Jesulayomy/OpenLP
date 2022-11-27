@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Friend of Sinners</title>
+    </titles>
+    <copyright>1994 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Friend of sinners, Lord of truth,<br/>I am falling in love with You;<br/>Friend of sinners, Lord of truth,<br/>I have fallen in love with You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, I love Your name,<br/>The name by which we're saved;<br/>Jesus, I love Your name,<br/>The name by which we're saved.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Friend of sinners, Lord of truth,<br/>I am giving my life to You;<br/>Friend of sinners, Lord of truth,<br/>I have given my life to You.</lines>
+    </verse>
+  </lyrics>
+</song>

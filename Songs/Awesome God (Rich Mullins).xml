@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Awesome God</title>
+    </titles>
+    <copyright>1988 BMG Songs, Inc.</copyright>
+    <authors>
+      <author type="words">Rich Mullins</author>
+      <author type="music">Rich Mullins</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1775"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>violin</theme>
+      <theme>gods-holiness</theme>
+      <theme>gods-might</theme>
+      <theme>heaven</theme>
+      <theme>meditation</theme>
+      <theme>jesus-return</theme>
+      <theme>easy</theme>
+      <theme>sacrifice</theme>
+      <theme>truth</theme>
+      <theme>creation</theme>
+      <theme>resurrection</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh when He rolls up his sleeves, He ain't just puttin' on the ritz;<br/>Our God is an awesome God.<br/>There is thunder in His footsteps and lightning in His fists;<br/>Our God is an awesome God.<br/>And the Lord wasn't joking when He kicked 'em out of Eden,<br/>It wasn't for no reason that He shed his blood.<br/>His return is very close and so you'd better be believin' that<br/>Our God is an awesome God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Our God is an awesome God, He reigns from heaven above<br/>With wisdom, pow'r, and love; our God is an awesome God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when the sky was starless in the void of the night,<br/>Our God is an awesome God.<br/>He spoke into the darkness and created the light,<br/>Our God is an awesome God.<br/>Judgment and wrath He poured out on Sodom,<br/>Mercy and grace He gave us at the cross.<br/>I hope that we have not too quickly forgotten that<br/>Our God is an awesome God.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Our God is an awesome God</lines>
+    </verse>
+  </lyrics>
+</song>

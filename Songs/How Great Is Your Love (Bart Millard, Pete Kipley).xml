@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>How Great Is Your Love</title>
+    </titles>
+    <copyright>2001 Simpleville Music</copyright>
+    <authors>
+      <author type="words">Bart Millard</author>
+      <author type="music">Bart Millard</author>
+      <author type="words">Pete Kipley</author>
+      <author type="music">Pete Kipley</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart is steadfast, O God,<br/>And I will sing<br/>With all my heart and soul<br/>Music for the King,<br/>And I will awake the dawn<br/>With my praise to You, O Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How great is Your love -<br/>So much higher than the heavens<br/>With faithfulness that reaches the sky.<br/>How great is Your love -<br/>So much higher than the heavens<br/>With faithfulness that reaches the sky.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise the Lord, O my soul,<br/>And glory to the King.<br/>Forever You are robed with majesty.<br/>We come to You, O Lord,<br/>And lay our praise at Your feet.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Be exalted, O God, and let Your glory reign. (2X)<br/>Let it reign, let it reign, let it reign.<br/>Let it reign, let it reign, let it reign.</lines>
+    </verse>
+  </lyrics>
+</song>

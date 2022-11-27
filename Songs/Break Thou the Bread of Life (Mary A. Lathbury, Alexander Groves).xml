@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>Break Thou the Bread of Life</title>
+    </titles>
+    <authors>
+      <author>Mary A. Lathbury</author>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Break thou the bread of Life,<br/>Dear Lord, to me,<br/>As Thou didst break the bread<br/>Beside the sea;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beyond the sacred page<br/>I seek Thee, Lord;<br/>My spirit longs for Thee,<br/>Thou Living Word.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou art the Bread of Life,<br/>O Lord, to me,<br/>Thy holy Word the truth<br/>That saveth me;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Give me to eat and live<br/>With Thee above;<br/>Teach me to love Thy truth,<br/>For Thou art love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O send Thy Spirit, Lord,<br/>Now unto me,<br/>That He may touch my eyes<br/>And make me see;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Show me the truth concealed<br/>Within Thy Word,<br/>And in Thy Book revealed,<br/>I see Thee, Lord.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bless Thou the Bread of Life<br/>To me, to me,<br/>As Thou didst bless the loaves<br/>By Galilee;</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Then shall all bondage cease,<br/>All fetters fall,<br/>And I shall find my peace,<br/>My all in all.</lines>
+    </verse>
+  </lyrics>
+</song>

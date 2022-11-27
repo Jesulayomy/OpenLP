@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Hark the Glad Sound</title>
+    </titles>
+    <authors>
+      <author type="music">Haweis, Thomas (1734-1820)</author>
+      <author type="words">Doddridge, Philip (1702-1751)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark, the glad sound! the Savior comes! The Sa-vior promised long; Let every heart prepare a throne, And every voice a song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On Him the Spirit, largely poured, Exertsits sacred Fire; Wisdom and might, and zeal and love, His holy Breast inspire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He comes the pris'ners to release, In Sa-tan's bondage held; The gates of brass before Him burst, The iron fetters yield.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He comes from thickest films of vice To clearthe mental ray, And on the eyeballs of the blind To pour celestial day.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He comes the broken heart to bind, The bleed-ing soul to cure; And with the treasures of His grace T'enrich the humble poor.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>His silver trumpets publish loud<br/>The jub'lee of the Lord<br/>Our debts are all remitted now<br/>Our heritage restored.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Our glad hosannas, Prince of Peace,<br/>Thy welcome shall proclaim;<br/>And Heav'n's eternal arches ring<br/>With Thy belovèd name.</lines>
+    </verse>
+  </lyrics>
+</song>

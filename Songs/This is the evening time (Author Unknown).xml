@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>This is the evening time</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The god of this evil age,<br/>has blinded the minds today.<br/>Of people who walk their own way,<br/>accordind to God´s own Word.<br/>Denying the things he´s done.<br/>Of sending his Only Son.<br/>Accepting the creeds og man,<br/>rejecting the word of God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is the evening time,<br/>it´s later than you think.<br/>The bride is preparing now,<br/>for her Lord to meet.<br/>All things are ready now,<br/>so come by nigh here.<br/>He that hath an ear to hear,<br/>the evening time is near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The darkness throughout the land.<br/>This world just can´t understand.<br/>A prophet has walked this land,<br/>proclaiming the way to God.<br/>If you would be saved today,<br/>then follow the words he gave.<br/>Accepting the word of God.<br/>For this is the evening time.</lines>
+    </verse>
+  </lyrics>
+</song>

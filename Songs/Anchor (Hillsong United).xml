@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Anchor</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1356"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>I have this hope<br/>As an anchor for my soul<br/>Through every storm<br/>I will hold to You<br/>With endless love<br/>All my fear is swept away<br/>In everything<br/>I will trust in You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>There is hope in the promise of the cross<br/>You gave everything to save the world you love<br/>And this hope is an anchor for my soul<br/>Our God will stand<br/>Unshakeable</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>Unchanging One<br/>You who was and is to come<br/>Your promise sure<br/>You will not let go</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus (x2)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Instrumental: C#m  A  E  H</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:<br/>Your Name is higher<br/>Your Name is greater<br/>All my hope is in You<br/>Your word unfailing<br/>Your promise unshaken<br/>All my hope is in You</lines>
+    </verse>
+  </lyrics>
+</song>

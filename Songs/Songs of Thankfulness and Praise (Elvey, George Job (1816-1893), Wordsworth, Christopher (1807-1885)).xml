@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Songs of Thankfulness and Praise</title>
+    </titles>
+    <authors>
+      <author type="music">Elvey, George Job (1816-1893)</author>
+      <author type="words">Wordsworth, Christopher (1807-1885)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Songs of thankfulness and praise, Jesus, Lord, to Thee we raise, Manifested by the star To the sages from afar; Branch of royal David's stem In Thy birth at Bethlehem; Anthems be to Thee addressed, God in man made manifest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Manifest at Jordan's stream, Prophet, Priest, and King supreme; And at Cana, wedding guest, In Thy Godhead manifest; Manifest in pow'r divine, Changing water into wine; Anthems be to Thee addressed, God in man made manifest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Manifest in making whole Palsied limbs and fainting soul; Manifest in valiant fight, Quelling all the devil's might; Manifest in gracious will, Ever bringing good from ill; Anthems be to Thee addressed, God in man made manifest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sun and moon shall darkened be, Stars shall fall, the heav'ns shall flee, Christ will then like lightning shine, All will see His glorious sign: All will then the trumpet hear; All will see the Judge appear; Thou by all wilt be confessed, God in man made manifest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Grant us grace to see Thee, Lord, Mirrored in Thy holy Word; May we imitate Thee now, And be pure, as pure art Thou; That we like to Thee may be At Thy great Epiphany; And may praise Thee, ever blest, God in man made manifest.</lines>
+    </verse>
+  </lyrics>
+</song>

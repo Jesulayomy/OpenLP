@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-05T18:47:08">
+  <properties>
+    <titles>
+      <title>Hymn 106 - By The Cool Siloan's Shady Rill</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>By cool Siloam's shady rill<br/>how sweet the lily grows!<br/>How sweet the breath beneath the hill<br/>of Sharon's dewy rose!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lo! such the child whose early feet<br/>the paths of peace have trod,<br/>whose secret heart with influence sweet<br/>is upward drawn to God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>By cool Siloam's shady rill<br/>the lily must decay,<br/>the rose that blooms beneath the hill<br/>must shortly fade away;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O thou, whose infant feet were found<br/>within thy Father's shrine,<br/>whose years, with changeless virtue crowned,<br/>were all alike divine,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dependent on thy bounteous breath<br/>we seek thy grace alone,<br/>through every stage of life, and death,<br/>to keep us still thine own.</lines>
+    </verse>
+  </lyrics>
+</song>

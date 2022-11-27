@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Joyful, Joyful, We Adore You</title>
+    </titles>
+    <copyright>1985, 1988 Lillenas Publishing Co.</copyright>
+    <authors>
+      <author type="words">Linda Lee Johnson</author>
+      <author type="music">Linda Lee Johnson</author>
+      <author type="words">Ludwig van Beethoven</author>
+      <author type="music">Ludwig van Beethoven</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joyful, joyful, we adore You, God of glory, Lord of light;<br/>Angels lifting praise before You Sing throughout this holy night.<br/>In a manger lies a Baby Child of Mary, Son of God.<br/>Voices joined in joyful chorus Praise You for Your gift of love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All Your works declare Your glory; All creation joins to sing.<br/>Praise resounds as earth rejoices In the birth of Christ, the King.<br/>Shepherds kneel before the Infant. Trumpets sound and anthems raise<br/>As with joy our hearts are lifted, Joined in wonder, love, and praise.</lines>
+    </verse>
+  </lyrics>
+</song>

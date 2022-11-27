@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O Love, How Deep, How Broad, How High</title>
+    </titles>
+    <authors>
+      <author type="music">English</author>
+      <author type="words">unknown</author>
+      <author type="translate">Webb, Benjamin (1819-1885)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O love, how deep, how broad, how high, How passing thought and fantasy, That God, the Son of God, should take Our mortal form for mortals' sake!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He sent no angel to our race Of higher or of lower place, But wore the robe of human frame And He Himself, to this world came.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nor willed He only to appear; His pleasure was to tarry here; And God and Man with man would be The space of thirty years and three.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For us baptized, for us He bore His holy fast and hungered sore, For us temptations sharp He knew; For us the tempter overthrew.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For us He prayed; for us He taught; For us His daily works He wrought; By words and signs and actions thus Still seeking not Himself, but us.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>For us to wicked men betrayed,<br/>Scourged, mocked, in crown of thorns arrayed,<br/>For us He bore the cross's death,<br/>For us at length gave up His breath.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>For us He rose from death again;<br/>For us He went on high to reign;<br/>For us He sent His Spirit here,<br/>To guide, to strengthen, and to cheer.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>All honor, laud, and glory be,<br/>O Jesus, virgin-born to Thee!<br/>All glory, as is ever meet<br/>To Father and to Paraclete.</lines>
+    </verse>
+  </lyrics>
+</song>

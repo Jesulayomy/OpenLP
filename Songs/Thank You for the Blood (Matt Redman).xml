@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Thank You for the Blood</title>
+    </titles>
+    <copyright>1999 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank You, thank You for the blood that You shed.<br/>Standing in Your blessing, we sing these freedom songs.<br/>Thank You, thank You for the battle You won.<br/>Standing in Your vict'ry, we sing salvation songs.<br/>We sing salvation's song.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You have opened a way to the Father<br/>Where before we could never have come.<br/>Jesus, count us as Your's now and forever<br/>As we sing these freedom songs.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We sing of all You've done.<br/>We sing of all You've done.<br/>We sing of all You've done for us.<br/>Won for us, paid for us.</lines>
+    </verse>
+  </lyrics>
+</song>

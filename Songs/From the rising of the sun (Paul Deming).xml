@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>From the rising of the sun</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Deming</author>
+      <author type="music">Paul Deming</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the rising of the sun<br/>to the going down of the same,<br/>the name of the Lord shall be praised.<br/>From the rising of the sun<br/>to the going down of the same,<br/>the Lord's name shall be praised.<br/>So praise ye the Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise ye the Lord.<br/>From the rising of the sun<br/>to the going down of the same,<br/>the name of the Lord shall be praised.</lines>
+    </verse>
+  </lyrics>
+</song>

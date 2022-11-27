@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Let God arise</title>
+    </titles>
+    <authors>
+      <author type="words">John Sellers</author>
+      <author type="music">John Sellers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>// Let God Arise //<br/>Let His Enemies be scattered<br/>But let the righteous be glad<br/>Yes let them rejoice with Gladness<br/>God has triumphed mightily</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>O Saviour Lifted</title>
+    </titles>
+    <authors>
+      <author>W. W. How</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O my Saviour, lifted<br/>From the earth for me, <br/>Draw me, in Thy mercy, <br/>Nearer unto Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift my earthbound longings, <br/>Fix them, Lord, above; <br/>Draw me with the magnet <br/>Of Thy mighty love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I come, Lord Jesus; <br/>Dare I turn away? <br/>No! Thy love hath conquered, <br/>And I come today.<br/>Bringing all my burdens,<br/>Sorrow, sin, and care;<br/>At Thy feet I lay them,<br/>And I leave them there.</lines>
+    </verse>
+  </lyrics>
+</song>

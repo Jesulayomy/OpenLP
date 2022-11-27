@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:50">
+  <properties>
+    <titles>
+      <title>You Are My Hiding Place</title>
+    </titles>
+    <copyright>1981 Maranatha! Music</copyright>
+    <authors>
+      <author type="words">Michael Ledner</author>
+      <author type="music">Michael Ledner</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>protection</theme>
+      <theme>meditation</theme>
+      <theme>comfort</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my hiding place,<br/>You always fill my heart<br/>With songs of deliverance,<br/>Whenever I am afraid</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will trust in You,<br/>I will trust in You;<br/>Let the weak say: 'I am strong<br/>In the strength of my Lord.'</lines>
+    </verse>
+  </lyrics>
+</song>

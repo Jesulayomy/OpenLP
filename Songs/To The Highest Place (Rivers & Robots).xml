@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>To The Highest Place</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3737"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lyrics:<br/>Before the earth was made You were living<br/>And over every heart You've been singing<br/>Your very word spoke life into being<br/>You even give the breath we are breathing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now, we sing our songs back to You<br/>Oh Lord, we gladly lay down our lives at Your feet<br/>We take the breath You gave<br/>And we give it back in praise<br/>You are exalted to the highest place<br/>You have the name above all other names</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stepping down into a world You made<br/>The uncreated God in a human frame<br/>Creator dwelling with creation<br/>You made Yourself of no reputation</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And You made Yourself nothing for us<br/>And You gave up Your life for the least of men<br/>You entered the gates of death<br/>But rose with the keys in Your hands</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is no one like You, There is none besides You</lines>
+    </verse>
+  </lyrics>
+</song>

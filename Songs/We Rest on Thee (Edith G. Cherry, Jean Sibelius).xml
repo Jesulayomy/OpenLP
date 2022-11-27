@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>We Rest on Thee</title>
+    </titles>
+    <authors>
+      <author type="music">Jean Sibelius</author>
+      <author type="words">Edith G. Cherry</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We rest on Thee, our Shield and our Defender!<br/>We go not forth alone against the foe;<br/>Strong in Thy strength, safe in Thy keeping tender,<br/>We rest on Thee, and in Thy Name we go.<br/>Strong in Thy strength, safe in Thy keeping tender,<br/>We rest on Thee, and in Thy Name we go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes, in Thy Name, O Captain of salvation!<br/>In Thy dear Name, all other names above;<br/>Jesus our Righteousness, our sure Foundation,<br/>Our Prince of glory and our King of love.<br/>Jesus our Righteousness, our sure Foundation,<br/>Our Prince of glory and our King of love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We go in faith, our own great weakness feeling,<br/>And needing more each day Thy grace to know:<br/>Yet from our hearts a song of triumph pealing,<br/>"We rest on Thee, and in Thy Name we go."<br/>Yet from our hearts a song of triumph pealing,<br/>"We rest on Thee, and in Thy Name we go."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We rest on Thee, our Shield and our Defender!<br/>Thine is the battle, Thine shall be the praise;<br/>When passing through the gates of pearly splendor,<br/>Victors, we rest with Thee, through endless days.<br/>When passing through the gates of pearly splendor,<br/>Victors, we rest with Thee, through endless days.</lines>
+    </verse>
+  </lyrics>
+</song>

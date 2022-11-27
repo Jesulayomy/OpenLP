@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>My Song is Love Unkown</title>
+    </titles>
+    <authors>
+      <author>Samuel Crossman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My song is love unknown,<br/>My Saviour’s love to me: <br/>Love to the loveless shown, <br/>That they might lovely be. <br/>O who am I, that for my sake <br/>My Lord should take frail flesh and die?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He came from His blessed throne,<br/>Salvation to bestow; <br/>But men made strange, and none <br/>The longed-for Christ would know: <br/>But O! my Friend, my Friend indeed, <br/>Who at my need His life did spend.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes they strew His way, <br/>And His sweet praises sing; <br/>Resounding all the day <br/>Hosannas to their King: <br/>Then ‘Crucify!’ is all their breath, <br/>And for His death they thirst and cry.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>They rise and needs will have <br/>My dear Lord made away; <br/>A murderer they save, <br/>The Prince of life they slay, <br/>Yet cheerful He to suffering goes, <br/>That He His foes from thence might free.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In life no house, no home <br/>My Lord on earth might have; <br/>In death, no friendly tomb, <br/>But what a stranger gave. <br/>What may I say? Heaven was His home; <br/>And mine the tomb wherein He lay.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Here might I stay and sing, <br/>No story so divine; <br/>Never was love, dear King! <br/>Never was grief like Thine. <br/>This is my Friend, in whose sweet praise <br/>I all my days could gladly spend.</lines>
+    </verse>
+  </lyrics>
+</song>

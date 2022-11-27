@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>I Worship You</title>
+    </titles>
+    <authors>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Nehir Kilisesi"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>response</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+      <theme>longing</theme>
+      <theme>rubob</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I worship You, Almighty God,<br/>There is none like You.<br/>I worship You, O Prince of Peace,<br/>That is what I love to do.<br/>I give You praise,<br/>For You are my righteousness.<br/>I worship You, Almighty God,<br/>There is none like You.</lines>
+    </verse>
+  </lyrics>
+</song>

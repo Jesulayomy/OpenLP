@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Let There Be Light</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2164"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LET THERE BE LIGHT<br/>Words and Music by<br/>MICHAEL GUY CHISLETT, MATT CROCKER,<br/>JOEL HOUSTON, BROOKE LIGERTWOOD<br/>&amp; SCOTT LIGERTWOOD<br/>♩= 71</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE: 1<br/>There's no darkness in Your eyes<br/>There's no question in Your mind<br/>God almighty, God of mercy<br/>There's no hiding from Your face<br/>There's no striving in Your grace<br/>God of mercy, God almighty</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS: 1<br/>Let there be light, open the eyes of the blind<br/>Purify our hearts in Your fire<br/>Breathe in us we pray</lines>
+    </verse>
+    <verse name="b1">
+      <lines>TAG:<br/>Jesus have Your way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Repeat INTRO</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE: 2<br/>There's no borders in Your love<br/>No division in Your heart<br/>God of heaven, God of freedom<br/>There's no taking back the cross<br/>No regret in what it cost<br/>God of freedom, God of heaven</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Repeat CHORUS: 1</lines>
+    </verse>
+    <verse name="c3">
+      <lines>CHORUS: 2<br/>Let there be light, open our eyes to Your heart<br/>Desperate just to know who You are<br/>Shine in us we pray, Jesus have Your way</lines>
+    </verse>
+    <verse name="b2">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+    <verse name="b3">
+      <lines>BRIDGE:<br/>Good news embracing the poor<br/>Comfort for all those who mourn<br/>For the broken hearted, we sing louder</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Release from prison and shame<br/>Oppression turning to praise<br/>For every captive, sing louder<br/>Restoring sight to the blind<br/>Breaking the curse of the night<br/>For all in darkness, sing louder<br/>Proclaiming freedom for all<br/>This is the day of the Lord<br/>Beauty for ashes</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Repeat CHORUS: 1 &amp; 2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>VERSE: 3<br/>Let the light that shines above<br/>Become the light that shines in us<br/>There's no darkness in Your way<br/>So have Your way, Lord, have Your way</lines>
+    </verse>
+  </lyrics>
+</song>

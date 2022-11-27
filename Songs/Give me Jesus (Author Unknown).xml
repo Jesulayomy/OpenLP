@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Give me Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the morning when I rise,<br/>In the morning when I rise,<br/>In the morning when I rise<br/>Give me Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus<br/>Give me Jesus<br/>Give me Jesus<br/>You can have all this world,<br/>but give me Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when I am alone,<br/>And when I am alone,<br/>And when I am alone<br/>Give me Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And if I come to die,<br/>And if I come to die,<br/>And if I come to die<br/>Give me Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

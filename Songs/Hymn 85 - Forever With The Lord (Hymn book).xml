@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T10:41:51">
+  <properties>
+    <titles>
+      <title>Hymn 85 - Forever With The Lord</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Forever with the Lord!<br/>Amen, so let it be!<br/>Life from His death is in that word<br/>’Tis immortality.<br/>Here in the body pent,<br/>Absent from Him I roam,<br/>Yet nightly pitch my moving tent<br/>A day’s march nearer home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Father’s house on high,<br/>Home of my soul, how near<br/>At times to faith’s foreseeing eye<br/>Thy golden gates appear!<br/>Ah! then my spirit faints<br/>To reach the land I love,<br/>The bright inheritance of saints,<br/>Jerusalem above.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yet clouds will intervene,<br/>And all my prospect flies;<br/>Like Noah’s dove, I flit between<br/>Rough seas and stormy skies.<br/>Anon the clouds depart,<br/>The winds and waters cease,<br/>While sweetly o’er my gladdened heart<br/>Expands the bow of peace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I hear at morn and even,<br/>At noon and midnight hour,<br/>The choral harmonies of Heaven<br/>Earth’s Babel tongues o’erpower;<br/>That resurrection word,<br/>That shout of victory:<br/>Once more, Forever with the Lord!<br/>Amen, so let it be!</lines>
+    </verse>
+  </lyrics>
+</song>

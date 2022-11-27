@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Be still for the presence of the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">David J. Evans</author>
+      <author type="music">David J. Evans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be still for the presence of the Lord<br/>The Holy One is here<br/>Come bow before Him now<br/>With reverence and fear<br/>In Him no sin is found<br/>We stand on holy ground<br/>Be still for the presence of the Lord<br/>The Holy One is here</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be still for the glory of the Lord<br/>Is shining all around<br/>He burns with holy fire<br/>With splendour He is crowned<br/>How awesome is the sight<br/>Our radiant King of light<br/>Be still for the glory of the Lord<br/>Is shining all around</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be still for the power of the Lord<br/>Is moving in this place<br/>He comes to cleanse and heal<br/>To minister His grace<br/>No work too hard for Him<br/>In faith receive from Him<br/>Be still for the power of the Lord<br/>Is moving in this place</lines>
+    </verse>
+  </lyrics>
+</song>

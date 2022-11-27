@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Overflow</title>
+    </titles>
+    <copyright>2003 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Daniel Carson</author>
+      <author type="music">Daniel Carson</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I bring my stains and crowns. Gentle river wash me now.<br/>Your love is deeper than I know, Your ways higher than I can go.<br/>Lead me in Your holiness; I will follow, I confess.<br/>Glory is the song I sing. Your life is living me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And where would I be<br/>Without You, without You?<br/>Where would I be without You?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will bow before the cross, cherish my Redeemer's cost.<br/>There is nothing I can do, but only stand amazed by You.<br/>Mercy new with ev'ry day, wrapped up in Your arms of grace.<br/>Nothing more, You're all I need. Your life is living me.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Like a waterfall, You fill my heart and overflow.<br/>Like a candle flame, You light my way<br/>And lead me as I go, lead me as I go.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Where would I be without You, without You?<br/>Spirit overflow; let me overflow.<br/>Spirit overflow; let me overflow.<br/>Spirit overflow; let me overflow.<br/>Spirit overflow; let me overflow.<br/>Let me overflow; let me overflow.<br/>Let me overflow; let me overflow.</lines>
+    </verse>
+  </lyrics>
+</song>

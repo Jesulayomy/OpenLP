@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>All My Days</title>
+      <title>Beautiful Saviour</title>
+    </titles>
+    <copyright>1998 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Stuart Townend</author>
+      <author type="music">Stuart Townend</author>
+      <author type="words">Mark Hall</author>
+      <author type="music">Mark Hall</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All my days, I will sing this song of gladness,<br/>Give my praise to the Fountain of delights.<br/>For in my helplessness, You heard my cry,<br/>And waves of mercy poured down on my life.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Beautiful Savior, Wonderful Counselor,<br/>Clothed in majesty, Lord of history,<br/>You're the Way, the Truth, and the Life.<br/>Star of the Morning, glorious in holiness,<br/>You're the Risen One, heaven's Champion,<br/>And You reign, You reign over all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will trust in the cross of my Redeemer.<br/>I will sing of the Lamb that never fails,<br/>Of sins forgiven, of conscience clear,<br/>Of death defeated, and life without end.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Wonderful Conselor, beautiful Risen One!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I long to be  where the praise is never ending,<br/>Yearn to dwell where the glory never fades,<br/>Where countless worshipers sing one song,<br/>And the voices of nations sing, "Worthy! Worthy! Worthy!"<br/>Worthy, beautiful, beautiful, One.<br/>Jesus, You are worthy, beautiful, beautiful, One.<br/>Jesus, You're worthy, beautiful, beautiful, One.<br/>You are worthy, beautiful, Risen One.</lines>
+    </verse>
+  </lyrics>
+</song>

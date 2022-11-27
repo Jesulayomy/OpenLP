@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>The Greatness Of Our God</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+      <author type="music">Hillsong</author>
+    </authors>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>violin</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+      <theme>commitment</theme>
+      <theme>longing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

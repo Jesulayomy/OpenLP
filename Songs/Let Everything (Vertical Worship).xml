@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Let Everything</title>
+    </titles>
+    <authors>
+      <author type="words">Vertical Worship</author>
+      <author type="music">Vertical Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4016"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:<br/>We give you the highest praise<br/>We give you the highest praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>Praise God in the sanctuary</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise God in the heavens above<br/>Praise God for His way is mighty<br/>O praise Him<br/>Praise God for His endless mercy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise God for His love endures<br/>Praise God for His name is holy<br/>O praise Him</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Let everything that has breath<br/>Let everything that has breath<br/>Let everything that has breath<br/>Praise the Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verse: 2<br/>Praise God for His awesome power</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Praise God, He has overcome<br/>Praise God, He alone is worthy<br/>O praise Him</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>With all we have</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We're pouring out<br/>A life of praise before you now</lines>
+    </verse>
+  </lyrics>
+</song>

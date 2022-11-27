@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Salvation Has a Name</title>
+    </titles>
+    <authors>
+      <author type="words">33Miles</author>
+      <author type="music">33Miles</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I come to the altar, and I<br/>bow before you.<br/>You are everything my<br/>heart desires,<br/>A friend that is closer than any brother could be.<br/>I'm so amazed I can call out to you,<br/>And you hear me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Salvation has a Name.<br/>Mercy has a face.<br/>Holiness was crucified, rose to give us grace.<br/>Salvation has a Name.<br/>Mercy has a face.<br/>Jesus, our holiness,<br/>Worthy of all praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every moment that I<br/>come to know you,<br/>I find a new depth<br/>of love surrounding me.<br/>Deeper than oceans, higher than any mountain peak.<br/>I'm so amazed at the wonder you hold,<br/>I can hardly believe.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jesus, Father, the Maker of time,<br/>Healer, Teacher, the Maker of light,<br/>You are sustainer to every life,<br/>God, our Saviour.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Salvation has a Name.<br/>Mercy has a face.<br/>Holiness was crucified,<br/>And He rose.<br/>Jesus, our holiness,<br/>Worthy of all praise.<br/>Jesus, our holiness,<br/>Worthy of all praise.<br/>Salvation has a Name.<br/>Salvation has a Name.<br/>Salvation has a Name.</lines>
+    </verse>
+  </lyrics>
+</song>

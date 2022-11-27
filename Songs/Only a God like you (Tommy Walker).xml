@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Only a God like you</title>
+    </titles>
+    <authors>
+      <author type="words">Tommy Walker</author>
+      <author type="music">Tommy Walker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For the praises of man<br/>I will never ever stand<br/>For the kingdoms of this world<br/>I'll never give my heart away or shout my praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My allegiance and devotion<br/>My heart's desire and all emotion<br/>Oh, go to serve The Man who died upon that tree</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Only a God like You<br/>could be worthy of my praise<br/>and all my hope and faith<br/>To only a King of all kings<br/>Do I bow my knee and sing<br/>Give my everything</lines>
+    </verse>
+    <verse name="b1">
+      <lines>To only my Maker, my Father, my Savior<br/>Redeemer, Restorer, Rebuilder, Rewarder<br/>To only a God like you, do I give my praise</lines>
+    </verse>
+  </lyrics>
+</song>

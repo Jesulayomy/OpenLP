@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>To Avert From Men God's Wrath</title>
+    </titles>
+    <authors>
+      <author type="music">Redhead, Richard (1820-1901)</author>
+      <author type="words">Hus, John (1369-1415)</author>
+      <author type="translate">Latrobe, Christian Ignatius (1758-1836)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To avert from men God's wrath Jesus suffered in our stead; By an ignominious death He a full atonement made; And by His most precious blood, Brought us, sinners, nigh to God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That we never should forget This great Love on us bestowed, He gave us His flesh to eat, and to drink His precious blood; All who sick and needy are May receive in Him a share.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hither each afflicted soul May repair, though filled with grief; To the sick, not to the whole, the Physician brings relief; Fear not, therefore, but draw nigh, Christ will all your wants supply.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He who in self\righteousness Fixes any hope or stay, Has not on a wedding dress, And with shame is sent away; To the hungry, weary heart, He will food and rest impart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But examine first your case, Whether you be in the faith; Do you long for pard'ning grace? Is your only hope His death? Then, howe'er your soul's oppressed, Come, you are a worthy guest.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He who Jesus' mercy knows, Is from wrath and envy freed;<br/>Love unto our neighbor shows That we are His flock indeed;<br/>Thus we may in all our ways Show forth our Redeemer's praise.</lines>
+    </verse>
+  </lyrics>
+</song>

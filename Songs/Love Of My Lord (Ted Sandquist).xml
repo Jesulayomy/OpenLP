@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Love Of My Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Ted Sandquist</author>
+      <author type="music">Ted Sandquist</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For I know that nothing can keep me<br/>From the love of my Lord<br/>Neither death nor life,<br/>The fears we have today,<br/>Or our worries for tomorrow<br/>For the angels speed it on its way,<br/>And the powers of hell itself<br/>Can not keep it away!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It makes no difference<br/>If I'm on mountain top<br/>Or at the ocean's end,<br/>For the Lord has made it all,<br/>And all is in his hands!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>Listen Closely, O My Heart</title>
+    </titles>
+    <authors>
+      <author type="translate">Turgay Üçal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Moda Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Listen closely, O my heart<br/>'Midst the hush of silence<br/>Not in the wind or the breeze<br/>Or the fire, or the flood<br/>Listen closely, O my heart<br/>'Midst the hush of silence<br/>Speak, speak to my heart<br/>With your sweet and soft voice<br/>Speak, O Word, speak to my heart<br/>Speak deep down in my heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Feel, feel, O my heart<br/>'Midst the sound of silence<br/>Not in the wind or the breeze<br/>Or the fire, or the flood<br/>Feel, feel, O my heart<br/>'Midst the sound of silence<br/>Touch, touch, touch my heart<br/>With your sweet and soft voice<br/>Touch, O Word, touch my heart<br/>Touch deep down in my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Shine, O my heart, shine<br/>'Midst the pow'r of silence</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T08:50:32">
+  <properties>
+    <titles>
+      <title>Hymn 56 - Olotito Ni O, 'Wo Olorun</title>
+      <title>Great Is Thy Faithfulness Yoruba</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Olotito ni o 'wo l'olorun mi <br/>Ko si iyipada ni odo Re<br/>'Wo kinyipada <br/>Aanu Re ko le ye <br/>Iwo wa sibe titi lailai </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Olotito ni O, olotito ni O <br/>Lojojumo aanu Re ni mo nri<br/>Gbo 'hun ti mo nfe <br/>'Wo ti fifun mi <br/>Olotito ni O, Oluwa mi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igba erun, ojo, igba ikore <br/>Orun, osupa latodo Re ni <br/>Gbogbo eda wonyi <br/>Nse ijewo Re <br/>Fun otito, aanu, ati 'fe Re</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fun idarijii at' alafia lailai <br/>Iwo nikan lole to 'sise wa <br/>Agbara fo 'jo oni <br/>'Reti fun ola <br/>Egbegberun ibikun ni temi</lines>
+    </verse>
+  </lyrics>
+</song>

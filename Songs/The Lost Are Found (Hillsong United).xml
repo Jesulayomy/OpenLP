@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:17">
+  <properties>
+    <titles>
+      <title>The Lost Are Found</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1462"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Everlasting while earthly ages fade<br/>In mercy Our God Your kingdom reigns</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>Lord over everything you are near<br/>All of the universe at Your feet</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>In the Saviour injustice brought to right<br/>For Your glory that Your Name be lifted high</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>The lost are found the blind will see<br/>The lame will walk the dead will live<br/>And You our God forever You will reign</lines>
+    </verse>
+  </lyrics>
+</song>

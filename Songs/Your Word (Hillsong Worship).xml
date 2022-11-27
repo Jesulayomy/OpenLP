@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Your Word</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2163"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YOUR WORD<br/>Words and Music by<br/>CHRIS DAVENPORT<br/>♩. = 110</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE: 1<br/>Be-fore the earth knew its foundation<br/>You spoke the dust into creation<br/>Until the end when all has withered<br/>Then still Your Word will endure forever</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The lamp unto my feet<br/>The light unto my path<br/>Oh</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>Your Word will not be shaken<br/>Your Word will never fail me<br/>Like a fire in my bones<br/>Like a whisper to my soul<br/>You Word is revelation</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE: 2<br/>Deep calls to deep within Your presence<br/>When I hear You speak, my soul awakens<br/>Your Spirit leads my heart to worship<br/>As Your Word reveals the light of Jesus</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Repeat PRE-CHORUS:<br/>Repeat CHORUS:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>INSTRUMENTAL:<br/>| C | C | C | C | (Play 6 times)</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Repeat CHORUS: three times</lines>
+    </verse>
+    <verse name="v4">
+      <lines>FINAL CHORD</lines>
+    </verse>
+  </lyrics>
+</song>

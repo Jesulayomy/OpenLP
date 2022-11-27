@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Beautiful Scandalous Night</title>
+      <title>On That Beautiful Scandalous Night</title>
+    </titles>
+    <copyright>1995 New Spring | Never Say Never Songs</copyright>
+    <authors>
+      <author type="words">Derald Daugherty</author>
+      <author type="music">Derald Daugherty</author>
+      <author type="words">Steve Hindalong</author>
+      <author type="music">Steve Hindalong</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Go on up to the mountain of mercy,<br/>To the crimson perpetual tide.<br/>Kneel down on the shore<br/>And be thirsty no more;<br/>Go under and be purified.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Follow Christ to the holy mountain,<br/>Sinner sorry and wrecked by the fall.<br/>Cleanse your heart and your soul<br/>In the fountain that flows<br/>For you and for me and for all.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>At the wonderful tragic mysterious tree,<br/>On that beautiful scandalous night You and me<br/>Were atoned by His blood<br/>And forever washed white<br/>On that beautiful scandalous night</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On the hillside you will be delivered,<br/>At the foot of the cross justified<br/>And your spirit restored<br/>By the river that pours<br/>From our blessed Savior's side.</lines>
+    </verse>
+  </lyrics>
+</song>

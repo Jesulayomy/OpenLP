@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>O Lord To You</title>
+    </titles>
+    <copyright>1995 Integrity's Hosanna! Music</copyright>
+    <authors>
+      <author type="words">Gary Sadler</author>
+      <author type="music">Gary Sadler</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will seek You first, Lord.<br/>You will hear our voices<br/>Early in the morning<br/>And late in the night.<br/>We will sing Your praises,<br/>Giving You the glory,<br/>Offering our lives to You,<br/>A holy sacrifice.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>May our praise arise as incense,<br/>O Lord, to You.<br/>May our worship be a fragrance,<br/>O Lord, to You.</lines>
+    </verse>
+  </lyrics>
+</song>

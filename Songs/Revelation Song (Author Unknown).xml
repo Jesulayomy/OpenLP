@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Revelation Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy is the,<br/>Lamb who was slain<br/>Holy, Holy, is He<br/>Sing a new song, to him who sits on<br/>Heaven's mercy seat [2X]</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Holy, Holy, Holy<br/>Is the Lord God Almighty<br/>Who was, and is, and is to come<br/>With all creation I sing<br/>Praise to the King of Kings<br/>You are my everything<br/>And I will adore You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Clothed in rainbows,<br/>of living color<br/>Flashes of lightning,<br/>rolls of thunder<br/>Blessing and honor, strength and<br/>glory and power be<br/>to You the only wise King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Filled with wonder,<br/>awestruck wonder<br/>At the mention of your name<br/>Jesus your name is power<br/>Breath, and living water<br/>Such a marvelous mystery</lines>
+    </verse>
+  </lyrics>
+</song>

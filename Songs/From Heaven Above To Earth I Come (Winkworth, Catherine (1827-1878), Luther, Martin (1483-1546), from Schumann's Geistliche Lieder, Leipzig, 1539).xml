@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>From Heaven Above To Earth I Come</title>
+    </titles>
+    <authors>
+      <author type="music">from Schumann's Geistliche Lieder, Leipzig, 1539</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From Heaven above to earth I come, To bear good news to every home; Glad tidings of great joy I bring, Whereof I now will say and sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To you, this night, is born a Child Of Mary, chosen mother mild; This tender Child of lowly birth, Shall be the joy of all your earth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Tis Christ our God, Who far on high Had heard your sad and bitter cry; Himself will your Salvation be, Himself from sin will make you free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He brings those blessings long ago Prepared by God for all below; That in His heavenly kingdom blest You may with us forever rest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>These are the tokens ye shall mark, The swaddling clothes and manger dark; There shall ye find the young Child laid, By Whom the heav'ns and earth were made.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Now let us all, with gladsome cheer,<br/>Follow the shepherds, and draw near<br/>To see this wondrous Gift of God,<br/>Who hath His own dear Son bestowed.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Give heed, my heart, lift up thine eyes!<br/>What is it in yon manger lies?<br/>Who is this Child, so young and fair?<br/>The blessèd Christ Child lieth there!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Welcome to earth, Thou noble Guest,<br/>Through Whom e'en wicked men are blest!<br/>Thou com'st to share our misery,<br/>What can we render, Lord, to Thee!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ah, Lord, Who hast created all,<br/>How hast Thou made Thee weak and small,<br/>To lie upon the coarse dry grass,<br/>The food of humble ox and ass.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Were earth a thousand times as fair,<br/>Beset with gold and jewels rare,<br/>She yet were far too poor to be<br/>A narrow cradle, Lord, for Thee.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>For velvets soft and silken stuff<br/>Thou hast but hay and straw so rough,<br/>Whereon Thou King, so rich and great,<br/>As 'twere Thy heaven, art throned in state.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Thus hath it pleased Thee to make plain<br/>The truth to us, poor fools and vain,<br/>That this world's honor, wealth and might<br/>Are naught and worthless in Thy sight.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Ah, dearest Jesus, holy Child,<br/>Make Thee a bed, soft, undefiled,<br/>Here in my poor heart's inmost shrine,<br/>That I may evermore be Thine.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>My heart for very joy doth leap,<br/>My lips no more can silence keep,<br/>I too must sing, with joyful tongue,<br/>That sweetest ancient cradle song.</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Glory to God in highest Heaven,<br/>Who unto man His Son hath given,<br/>While angels sing, with pious mirth,<br/>A glad New Year to all the earth.</lines>
+    </verse>
+  </lyrics>
+</song>

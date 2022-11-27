@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>Hosanna</title>
+    </titles>
+    <copyright>2006 Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Brooke Fraser</author>
+      <author type="music">Brooke Fraser</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>worship</theme>
+      <theme>gods-might</theme>
+      <theme>heaven</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the king of glory<br/>Coming on the clouds with fire<br/>The whole earth shakes, the whole earth shakes<br/>I see his love and mercy, washing over all our sin<br/>The people sing, the people sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hosanna, hosanna<br/>Hosanna in the highest<br/>Hosanna, hosanna<br/>Hosanna in the highest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see a generation<br/>Rising up to take the place<br/>With selfless faith, with selfless faith<br/>I see a fresh revival, Stirring as we pray and seek<br/>We're on our knees, we're on our knees</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Heal my heart and make it clean<br/>Open up my eyes to the things unseen<br/>Show me how to love like you have loved me<br/>Break my heart for what breaks yours<br/>Everything I am for your kingdom's cause<br/>As I walk from earth into eternity</lines>
+    </verse>
+  </lyrics>
+</song>

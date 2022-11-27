@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Diamonds</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4883"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here and now I'm in the fire,<br/>In above my head<br/>Oh, oh, oh oh, oh, oh<br/>Being held under the pressure,<br/>Don't know what'll be left<br/>Oh, oh, oh oh, oh, oh<br/>But it's here in the ashes<br/>I'm finding treasure</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He's making diamonds, diamonds<br/>Making diamonds out of dust<br/>He is refining in his timing<br/>He's making diamonds out of us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll surrender to the power<br/>Of being crushed by love<br/>Oh, oh, oh oh, oh, oh<br/>Till the beauty that was hidden<br/>Isn't covered up<br/>Oh, oh, oh oh, oh, oh<br/>Oh it's not what I hoped for<br/>It's something much better</lines>
+    </verse>
+    <verse name="c2">
+      <lines>He's making diamonds, diamonds<br/>Making diamonds out of dust<br/>He is refining in his timing<br/>He's making diamonds out of us</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh the joy of the Lord<br/>It will be my strength<br/>When the pressure is on<br/>He's making diamonds<br/>Oh the joy of the Lord<br/>It will be my strength<br/>When the pressure is on<br/>He's making diamonds<br/>Oh the joy of the Lord<br/>It will be my strength<br/>When the pressure is on<br/>He's making, he's making</lines>
+    </verse>
+    <verse name="c3">
+      <lines>He's making diamonds, diamonds<br/>Making us rise up from the dust<br/>He is refining in his timing<br/>He's making diamonds out of dust<br/>Making diamonds out of us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I won't be afraid to shine<br/>I won't be afraid to shine<br/>I won't be afraid to shine<br/>Cause he's making diamonds out of dust<br/>Making diamonds out of us﻿</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Seasons Change</title>
+    </titles>
+    <authors>
+      <author type="words">United Pursuit</author>
+      <author type="music">United Pursuit</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3087"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse]<br/>Though the music changes and the songs we sing<br/>We still lift our praises to our loving God and King<br/>Though the music changes and the songs we sing<br/>We still lift our praises to our loving God and King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Chorus]<br/>Though the seasons change<br/>Your love remains, Your love remains<br/>Though the seasons change<br/>Your love remains, Your love remains</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Verse 2]<br/>Lord, you've been faithful to plant the seed<br/>And you will be faithful to always send your rain<br/>Lord, you've been faithful to plant the seed<br/>And you will be faithful to always send your rain</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Instrumental]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Outro]<br/>When we were far apart<br/>You came running   with open arms</lines>
+    </verse>
+  </lyrics>
+</song>

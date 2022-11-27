@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>I Am A Christian</title>
+    </titles>
+    <authors>
+      <author type="words">NewSong</author>
+      <author type="music">NewSong</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4194"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Intro]<br/>I am a Christian and my name is Pilgrim<br/>I'm on a journey but I'm not alone<br/>Jesus is with me and He goes before me<br/>And His love surrounds me, He's leading me Home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Verse 1]<br/>One step at a time for now<br/>Just keep your feet on the ground<br/>Don't lose your way chasing the crowd<br/>Here's where your road begins<br/>Don't stop don't settle in<br/>Just tell yourself there's something more than this<br/>Just tell yourself there's something more than this<br/>Everybody say ...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Chorus 1]<br/>I am a Christian and my name is Pilgrim<br/>I'm on a journey but I'm not alone<br/>Jesus is with me and He goes before me<br/>And His love surrounds me, He's leading me Home<br/>Walk o-on, walk o-on (traveler)<br/>Walk o-on, walk on</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Verse 2]<br/>Head high keep your eyes above<br/>Don't think of giving up<br/>He brought you this far He won't stop now<br/>Don't ever run away no matter what you face<br/>Don't be afraid 'cause He will not back down<br/>Remind yourself that He is with you now<br/>And say ...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Chorus 2]<br/>I am a Christian and my name is Pilgrim<br/>I'm on a journey but I'm not alone<br/>Jesus is with me and He goes before me<br/>And His love surrounds me, He's leading me Home<br/>Walk o-on, walk o-on<br/>Walk o-on, walk on (traveler)<br/>Walk o-on, walk o-on<br/>Walk o-on, walk on (Christian ...)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Bridge]<br/>Walk on in your weakness<br/>Walk on through the night<br/>Walk on in the darkness<br/>Till you see the Light<br/>Remember who's with you<br/>Remember He's strong<br/>And when you are weary<br/>He'll carry you on<br/>Walk on in your weakness<br/>Walk on through the night<br/>Walk on in the darkness<br/>Till you see the Light<br/>And remember who's with you<br/>Remember He's strong<br/>And when you are weary<br/>He'll carry you on!!!<br/>Everybody say ...</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[Chorus 3]<br/>I am a Christian and my name is Pilgrim<br/>I'm on a journey but I'm not alone<br/>Jesus is with me and He goes before me<br/>And His love surrounds me, He's leading me Home<br/>Walk o-on, walk o-on<br/>Walk o-on, walk on (Christian)<br/>Walk o-on, walk o-on<br/>Walk o-on, walk on</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>He Shall Reign Forevermore</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4922"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the bleak mid-winter, all creation groans<br/>For a world in darkness, frozen like a stone<br/>Light is breaking, in a stable for a throne</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And He shall reign forevermore, forevermore<br/>And He shall reign forevermore, forevermore<br/>Unto us a child is born<br/>The King of kings and Lord of lords<br/>And He shall reign forevermore, forevermore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If I were a wise man, I would travel far<br/>And if I were a shepherd, I would do my part<br/>But poor as I am, I will give to Him my heart</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Here within a manger lies<br/>The One who made the starry skies<br/>This baby born for sacrifice<br/>Christ, the Messiah<br/>Into our hopes, into our fears<br/>The Savior of the world appears<br/>The promise of eternal years<br/>Christ, the Messiah</lines>
+    </verse>
+  </lyrics>
+</song>

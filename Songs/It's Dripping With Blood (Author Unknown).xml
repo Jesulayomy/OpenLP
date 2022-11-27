@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>It's Dripping With Blood</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The first one to die for<br/>This Holy Ghost plan,<br/>Was John the Baptist,<br/>But he died like a man;<br/>Then came the Lord Jesus,<br/>They crucified Him,<br/>He taught that the Spirit<br/>Would save men from sin.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>It's dripping with blood, Yes,<br/>It's dripping with blood,<br/>This Holy Ghost Gospel<br/>Is dripping with blood,<br/>The blood of disciples<br/>Who died for the Truth,<br/>This Holy Ghost Gospel<br/>Is dripping with blood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There was Peter and Paul,<br/>And John the divine,<br/>They gave up their lives so<br/>This Gospel could shine;<br/>They mingled their blood,<br/>Like the prophets of old,<br/>So the true Word of God<br/>Could honest be told.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then they stoned Stephen,<br/>He preached against sin,<br/>He made them so angry,<br/>They dashed his head in;<br/>But he died in the Spirit,<br/>And gave up the ghost,<br/>And went to join others,<br/>In that life-giving host.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's souls under the altar,<br/>Crying, "How long?"<br/>For the Lord to punish<br/>Those who've done wrong;<br/>But there's going to be more<br/>Who'll give their life's blood<br/>For this Holy Ghost Gospel<br/>And its crimson flood.</lines>
+    </verse>
+  </lyrics>
+</song>

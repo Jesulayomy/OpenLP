@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>It's still a mystery to me</title>
+    </titles>
+    <authors>
+      <author type="words">Spasenie cerkovʹ g. Višnevoe</author>
+      <author type="music">Spasenie cerkovʹ g. Višnevoe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's still a mystery to me<br/>That the hands of God could be so small<br/>How tiny fingers reaching in the night<br/>Were the very hands that measured the sky</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah, hallelujah<br/>Heaven's love reaching down to save the world<br/>Hallelujah, hallelujah, son of God, servant King<br/>Here with us, You're here with us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's still a mystery to me<br/>How His infant eyes have seen the dawn of time<br/>How His ears have heard an angel's symphony<br/>But still Mary had to rock her Savior to sleep</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, the Christ, born in Bethlehem<br/>A baby born to save, to save the souls of man</lines>
+    </verse>
+  </lyrics>
+</song>

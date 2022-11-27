@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T17:32:20">
+  <properties>
+    <titles>
+      <title>Hymn 1 - All Hail The Power Of Jesus' Name</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All hail the pow'r of Jesus' name, <br/>Let angels prostrate fall!<br/>Bring forth the royal diadem, <br/>And crown Him, Lord of all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ye chosen seed of Israel's race, <br/>Ye ransomed from the fall,<br/>Hail Him Who saves you by His grace, <br/>And crown Him, Lord of all.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let every kindred, every tribe,<br/>On this terrestrial ball<br/>To Him all majesty ascribe, <br/>And crown Him, Lord of all.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O that with yonder sacred throng<br/>We at His feet may fall.<br/>We'll join the everlasting song, <br/>And crown Him Lord of all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O crown Him all ye matyr<br/>Who at his altar call<br/>Exalt the root of Jesse's tree<br/>And crown Him, Lord of all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ye gentle sinners, never forget<br/>The wormwood and the gall<br/>Go spread your trophies at His feet<br/>And crown Him, Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

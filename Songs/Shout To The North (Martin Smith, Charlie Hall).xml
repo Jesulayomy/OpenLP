@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Shout To The North</title>
+      <title>Men Of Faith</title>
+    </titles>
+    <copyright>1995 Curious? Music UK</copyright>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+      <author type="words">Charlie Hall</author>
+      <author type="music">Charlie Hall</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>appeal</theme>
+      <theme>salvation</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>testimony</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Men of faith, rise up and sing of the great and glorious King<br/>You are strong when you feel weak, in your brokenness, complete.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Shout to the north and the south! Sing to the east and the west!<br/>Jesus is Savior to all, Lord of heaven and earth!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rise up women of the truth; stand and sing to broken hearts,<br/>Who can know the healing power of our glorious King of love?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We've been through fire, we've been through rain;<br/>We've been refined by the pow'r of His name;<br/>We've fallen deeper in love with You;<br/>You've burned the truth on our lips.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rise up church with broken wings; fill this place with songs again<br/>Of our God who reigns on high; by His grace again we'll fly.</lines>
+    </verse>
+  </lyrics>
+</song>

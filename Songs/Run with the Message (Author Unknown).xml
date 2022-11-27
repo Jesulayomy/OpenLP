@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>Run with the Message</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You've gotta run, run, run, run<br/>Run with the Message of Malachi 4<br/>You've got to tell it<br/>like you've never told it before<br/>Let him that readeth run<br/>Let him that heareth run<br/>For this Message<br/>is the coming of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:51">
+  <properties>
+    <titles>
+      <title>You Are Beautiful Beyond Description</title>
+      <title>I stand in awe of You</title>
+    </titles>
+    <copyright>1987 Sovereign Grace Praise</copyright>
+    <authors>
+      <author type="words">Mark Altrogge</author>
+      <author type="music">Mark Altrogge</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>repentance</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+      <theme>commitment</theme>
+      <theme>thanksgiving</theme>
+      <theme>longing</theme>
+      <theme>separation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are beautiful beyond description,<br/>Too marvellous for words,<br/>Too wonderful for comprehension,<br/>Like nothing ever seen or heard.<br/>Who can grasp Your infinite wisdom?<br/>Who can fathom the depth of Your love?<br/>You are beautiful beyond description,<br/>Majesty, enthroned above.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I stand, I stand in awe of You.<br/>I stand, I stand in awe of You.<br/>Holy God, to whom all praise is due,<br/>I stand in awe of You.</lines>
+    </verse>
+  </lyrics>
+</song>

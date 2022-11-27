@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:42">
+  <properties>
+    <titles>
+      <title>my halleluyah belongs to you</title>
+    </titles>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>My hallelujah belongs to You<br/>My hallelujah belongs to You<br/>My hallelujah belongs to You <br/>My hallelujah belongs to You </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You deserve it<br/>You deserve it <br/>You deserve it<br/>You deserve it <br/>You deserve it <br/>You deserve it<br/>You deserve it <br/>You deserve it</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>We say, all the glory (all the glory)<br/>All the honour (all the honour)<br/>All the praise (all the praise)</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Hallelujah (hallelujah)<br/>Hallelujah (hallelujah)<br/>Hallelujah (hallelujah)<br/>Hallelujah (hallelujah)<br/>Hallelujah (hallelujah)<br/>Hallelujah (hallelujah)<br/>Hallelujah (hallelujah)<br/>Hallelujah (hallelujah)</lines>
+    </verse>
+  </lyrics>
+</song>

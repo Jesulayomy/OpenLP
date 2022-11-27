@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:21">
+  <properties>
+    <titles>
+      <title>It's not about falling snow</title>
+    </titles>
+    <authors>
+      <author type="words">Ekaterina Lihačëva</author>
+      <author type="music">Ekaterina Lihačëva</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5609"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's not about falling snow<br/>And not because my table is full.<br/>The Star is shining in the sincere heart ,<br/>And it does not depend on calendar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My holiday is Christ,<br/>Every day I rejoice with Him!<br/>And even more my soul sings<br/>On the day of Christ's birth!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will wrap my soul in love<br/>And I will tell everyone Who has come to the world.<br/>The Star used to witness about it,<br/>And now I will testify!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'll tell the whole world<br/>That Child has come down from heaven.<br/>The sky has lean down<br/>So that I could meet God!</lines>
+    </verse>
+  </lyrics>
+</song>

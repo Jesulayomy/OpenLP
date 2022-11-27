@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:51">
+  <properties>
+    <titles>
+      <title>You have been given</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You have been given the Name above all names,<br/>And we worship You, yes, we worship You.<br/>You have been given the Name above all names,<br/>And we worship You, yes, we worship You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are Your people, made for Your glory,<br/>And we worship You, yes, we worship You.<br/>We are Your people, made for Your glory<br/>And we worship You, yes, we worship You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You have redeemed us from every nation,<br/>And we worship You, yes, we worship You.<br/>You have redeemed us from every nation<br/>And we worship You, yes, we worship You.</lines>
+    </verse>
+  </lyrics>
+</song>

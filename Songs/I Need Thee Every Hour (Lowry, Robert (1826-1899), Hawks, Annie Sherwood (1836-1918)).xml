@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:59">
+  <properties>
+    <titles>
+      <title>I Need Thee Every Hour</title>
+    </titles>
+    <authors>
+      <author type="music">Lowry, Robert (1826-1899)</author>
+      <author type="words">Hawks, Annie Sherwood (1836-1918)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need Thee every hour, most gracious Lord.<br/>No tender voice like Thine can peace afford.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need Thee every hour, stay Thou nearby.<br/>Temptations lose their power, when Thou art nigh.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I need thee, oh, I need thee, every hour I need Thee.<br/>I need thee, I need thee, I need Thee every hour.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I need Thee every hour in joy or pain.<br/>Come quickly and abide or life is in vain.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I need thee, oh, I need thee, every hour I need Thee.<br/>I need thee, I need thee, I need Thee every hour.<br/>I need thee, I need thee, I need Thee every hour.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh, bless me now, my Savior, I come to Thee.<br/>Oh, bless me now, my Savior, I come to Thee.<br/>I need Thee every hour, teach me Thy will<br/>And Thy rich promises in me fulfill.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>I need Thee, oh, I need Thee, oh, I need Thee every hour.<br/>I need thee, I need thee, I need Thee every hour.<br/>I need thee, I need thee, I need Thee every hour.<br/>I need thee, I need thee, I need Thee every hour.<br/>Oh, bless me now, my Savior, I come to Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

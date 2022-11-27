@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Be Unto Your Name</title>
+    </titles>
+    <copyright>1998 Integrity's Hosanna! Music</copyright>
+    <authors>
+      <author type="words">Gary Sadler</author>
+      <author type="music">Gary Sadler</author>
+      <author type="words">Lynn Deshazo</author>
+      <author type="music">Lynn Deshazo</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are a moment, You are forever, Lord of the ages, God before time;<br/>We are a vapor, You are eternal, Love everlasting, reigning on high.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy, holy, Lord God Almighty, Worthy is the Lamb Who was slain;<br/>Highest praises, honor, and glory,<br/>Be unto Your name, Be unto Your name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are the broken, You are the Healer, Jesus Redeemer, mighty to save;<br/>You are the love song we'll sing forever, Bowing before You, blessing Your name.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Holy, holy Lord God Almighty, Worthy is the Lamb Who was slain;<br/>Highest praises, honor, and glory,<br/>Be unto Your name, Be unto Your name.</lines>
+    </verse>
+  </lyrics>
+</song>

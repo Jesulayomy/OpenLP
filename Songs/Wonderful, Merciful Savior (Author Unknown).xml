@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Wonderful, Merciful Savior</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3982"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wonderful Merciful Savior<br/>Precious Redeemer and Friend<br/>Who would have thought that a Lamb could<br/>Rescue the souls of men, Oh You rescue the souls of men</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Counselor, Comforter, Keeper<br/>Spirit we long to embrace<br/>You offer hope when our hearts have<br/>Hopelessly lost the way, Oh we hopelessly lost the way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the One that we praise<br/>You are the One we adore<br/>You give the healing and grace our<br/>Hearts always hunger for, Oh our hearts always hunger for</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Almighty infinite Father<br/>Faithfully loving Your own<br/>Here in our weakness You find us<br/>Falling before Your throne, Oh we're falling before Your throne</lines>
+    </verse>
+  </lyrics>
+</song>

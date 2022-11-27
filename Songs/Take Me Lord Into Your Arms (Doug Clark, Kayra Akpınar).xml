@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Take Me Lord Into Your Arms</title>
+    </titles>
+    <authors>
+      <author type="translate">Doug Clark</author>
+      <author type="words">Kayra Akpınar</author>
+      <author type="music">Kayra Akpınar</author>
+    </authors>
+    <themes>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take me, Lord, into your arms<br/>Let me hear the beat of Your heart<br/>Reveal Your presence to me<br/>All I long for is You, only You!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Longing to look on Your face... evermore<br/>Longing to live before You... evermore<br/>Longing to walk in Your way... evermore<br/>Lord, I'm longing for You!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All that I seek is Your face<br/>All of my hope is in You<br/>Hold my hand, Lord, don't let it go!<br/>All that I long for is You!</lines>
+    </verse>
+  </lyrics>
+</song>

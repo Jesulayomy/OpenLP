@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Precious Lord, take my hand</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Precious Lord, take my hand<br/>Lead me on, let me stand<br/>I'm tired, I'm weak, I'm wory<br/>Through the storm, through the night<br/>Lead me on to the light<br/>Take my hand precious Lord, lead me home</lines>
+    </verse>
+    <verse name="v1">
+      <lines>When my way grows drear precious Lord linger near<br/>When my life is almost gone<br/>Hear my cry, hear my call<br/>Hold my hand lest I fall<br/>Take my hand precious Lord, lead me home<br/>When the darkness appears and the night draws near<br/>And the day is past and gone<br/>At the river I stand<br/>Guide my feet, hold my hand<br/>Take my hand precious Lord, lead me home<br/>Precious Lord, take my hand<br/>Lead me on, let me stand<br/>I'm tired, I'm weak, Lord I'm worn<br/>Through the storm, through the night<br/>Lead me on to the light</lines>
+    </verse>
+  </lyrics>
+</song>

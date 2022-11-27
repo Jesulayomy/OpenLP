@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>This is how we overcome</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+    <themes>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>response</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>meditation</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+      <theme>grace</theme>
+      <theme>difficulties</theme>
+      <theme>blessing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your light broke through my night,<br/>Restored exceeding joy.<br/>Your grace fell like the rain,<br/>And made this desert live.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You have turned  my mourning into dancing.<br/>You have turned  my sorrow into joy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your hand lifted me up,<br/>I stand on higher ground.<br/>Your praise rose in my heart,<br/>And made this valley sing.</lines>
+    </verse>
+  </lyrics>
+</song>

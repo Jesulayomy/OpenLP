@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>You Have Been Raised</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Altrogge</author>
+      <author type="music">Mark Altrogge</author>
+      <author type="words">Bob Kauflin</author>
+      <author type="music">Bob Kauflin</author>
+      <author type="words">Ken Boer</author>
+      <author type="music">Ken Boer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>How do we know we've been forgiven?<br/>How do we know that we've been made clean?<br/>How do we know we'll go to heaven?<br/>How do we know we've been redeemed?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>You have been raised, the tomb has been opened<br/>Nothing can take away our hope in You<br/>You have been raised<br/>You have been raised, the work is completed<br/>Hell and its powers have been defeated<br/>You have been raised</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2<br/>Now we are free from condemnation<br/>There is no judgment left for us to fear<br/>We don't have to wonder if we're welcome<br/>You are the One who's brought us near</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE<br/>The price You paid for us<br/>Has fully been accepted<br/>Because of Your shed blood<br/>We cannot be rejected</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Beautiful Lord</title>
+    </titles>
+    <copyright>2006 Blue Raft Music</copyright>
+    <authors>
+      <author type="words">Leeland Mooring</author>
+      <author type="music">Leeland Mooring</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the storm is raging all around me,<br/>You are the peace that calms my troubled sea.<br/>And when the cares of this world darken my day,<br/>You are the light that shines and shows me the way.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Oh the beauty of Your majesty,<br/>On the cross You showed Your love to me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Beautiful Lord,awesome and mighty,<br/>I'm captured by this love I see.<br/>Beautiful Lord,tender and holy,<br/>Your mercy brings me to my knees.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>It's Your mercy that has made me free, Beautiful Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When my sin is all that I can see,<br/>Your grace remains the shelter that I seek.<br/>And when my weakness is all I can give,<br/>Your gentle Spirit gives me strength again.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>And I am lifted by Your love to sing.<br/>It's Your mercy that has made me free. (2X)</lines>
+    </verse>
+    <verse name="b3">
+      <lines>You're beautiful, my Lord. You're beautiful, my Lord.<br/>You're beautiful.</lines>
+    </verse>
+  </lyrics>
+</song>

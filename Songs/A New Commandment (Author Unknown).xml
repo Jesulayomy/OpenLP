@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>A New Commandment</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A new commandment<br/>I give unto you,<br/>That you love one another<br/>As I have loved you,<br/>That you love one another<br/>As I have loved you.<br/>By this shall all men know<br/>That you are My disciples,<br/>If you have love one for another.<br/>By this shall all men know<br/>That you are My disciples,<br/>If you have love one for another.</lines>
+    </verse>
+  </lyrics>
+</song>

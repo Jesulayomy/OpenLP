@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Joy of My Desire</title>
+    </titles>
+    <authors>
+      <author type="words">Randy Rothwell</author>
+      <author type="music">Randy Rothwell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joy of my desire, all consuming fire;<br/>Lord of glory, Rose of Sharon,<br/>Rare and sweet.<br/>You are now my peace,<br/>Comforter and friend,<br/>Wonderful, so beautiful,<br/>You are to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I worship You in spirit and in truth.<br/>Lord, I worship You in spirit and in truth.<br/>There will never be a friend as dear to me,<br/>There will never be a friend as dear to me,<br/>There will never be a friend as dear to me,<br/>As dear to me as You, You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Joy of my desire,<br/>All consuming fire.</lines>
+    </verse>
+  </lyrics>
+</song>

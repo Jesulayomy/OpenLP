@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Remembrance</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3244"/>
+    </songbooks>
+    <themes>
+      <theme>response</theme>
+      <theme>piano</theme>
+      <theme>praise</theme>
+      <theme>freedom</theme>
+      <theme>gospel</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>crucifixion</theme>
+      <theme>repentance</theme>
+      <theme>forgiveness</theme>
+      <theme>prayer</theme>
+      <theme>gods-holiness</theme>
+      <theme>celebration</theme>
+      <theme>thanksgiving</theme>
+      <theme>eternal-life</theme>
+      <theme>sacrifice</theme>
+      <theme>difficulties</theme>
+      <theme>baptism</theme>
+      <theme>mbb-lyrics</theme>
+      <theme>mbb-style</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1:<br/>I take the bread of life<br/>Broken for all my sin<br/>Your body crucified<br/>To make me whole again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2:<br/>I will recall the cup<br/>Poured out in sacrifice<br/>To trade this sinners' end<br/>For Your new covenant</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Hallelujah<br/>I'll live my life in remembrance<br/>Hallelujah Your promise I won't forget</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 3:<br/>I'll walk salvation's road<br/>With fear and trembling<br/>Your way borne as my own<br/>As Christ is formed in me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>Hallelujah<br/>I'll live my life in remembrance<br/>Hallelujah<br/>Your promise I won't forget</lines>
+    </verse>
+    <verse name="v4">
+      <lines>POST CHORUS 1:<br/>If ever I should lose my way<br/>If ever I deny Your grace<br/>Remind me of the price You paid<br/>Hallelujah<br/>I'll live in remembrance</lines>
+    </verse>
+    <verse name="v5">
+      <lines>BRIDGE (repeated):<br/>You've been so so good to me<br/>You've been so so good to me<br/>Oh to think where I would be<br/>If not for You<br/>If not for You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>POST CHORUS 2:<br/>As far as heights reach from the depths<br/>As far as east is from the west<br/>So far Your grace has carried me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>POST CHORUS 3:<br/>Until I see You face to face<br/>Until at last I've won my race<br/>Remind me Youʼre not finished yet</lines>
+    </verse>
+    <verse name="b1">
+      <lines>TAG:<br/>Hallelujah<br/>Hallelujah<br/>Hallelujah<br/>I'll live in remembrance</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Words and Music byChris Davenport &amp; Benjamin Hastings<br/>© 2017 Hillsong Music Publishing<br/>CCLI: 7102398</lines>
+    </verse>
+  </lyrics>
+</song>

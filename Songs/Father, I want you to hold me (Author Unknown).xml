@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>Father, I want you to hold me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, I want You to hold me.<br/>I want to rest in Your arms today.<br/>Father, I want You to show me<br/>How much You care for me in every way.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I bring all my cares<br/>And I lay them at Your feet.<br/>You are always there<br/>And You love me as  I  am,<br/>Yes, You love me as  I  am.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father, I know You will hold me.<br/>I know I am Your child, Your own.<br/>Father, I know You will show me<br/>I feel Your arms holding me, I'm not alone.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I bring all my fears<br/>And I lay them at Your feet.<br/>You are always here<br/>And You love me as  I  am,<br/>Yes, You love me as  I  am.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-06T17:27:07">
+  <properties>
+    <titles>
+      <title>Hymn 52 - Calvary Covers It All</title>
+      <title>Calvary covers it all, The Saviour Alone</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+      <author type="words">Jonas Myrin</author>
+      <author type="music">Jonas Myrin</author>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1306"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Far dearer than all that<br/>The world can impart<br/>Was the message that came<br/>To my (To my heart)<br/>Now that Jesus alone <br/>For my sin did atone<br/>And calvary covers it all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The stripes that He bore and<br/>The thorns that He wore<br/>Told His mercy and love <br/>For evermore (For evermore)<br/>And my heart bowed in shame <br/>As I called on His name<br/>And calvary covers it all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Calvary covers it all<br/>My past with its sin and stain<br/>My guilt and despair<br/>Jesus took on Him there <br/>And calvary covers it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How matchless the grace <br/>When i looked in the face<br/>Of this Jesus my crucified<br/>Lord (Of my Lord)<br/>My redemption complete<br/>I then found at His feet<br/>And calvary covers it all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How blessed the thought <br/>That my soul by him bought<br/>Shall be His in the glory <br/>On high (His on high)<br/>Where with gladness and song <br/>I'll be one of the throng<br/>And calvary covers it all</lines>
+    </verse>
+  </lyrics>
+</song>

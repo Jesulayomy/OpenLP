@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>O Come O Come Immanuel</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>John Mason Neale</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O come, O come, Immanuuel,<br/>And ransom captive Israel, <br/>That mourns in lonely exile here <br/>Until the Son of God appear.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Rejoice, rejoice! Immanuel <br/>Shall come to thee, O Israel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O come, O come, Thou Lord of might <br/>Who to Thy tribes on Sinai’s height <br/>In ancient times didst give the law <br/>In cloud, and majesty, and awe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O come, Thou Rod of Jesse, free <br/>Thine own from Satan’s tyranny; <br/>From depths of hell Thy people save <br/>And give them victory o’er the grave.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O come, Thou Dayspring, come and cheer <br/>Our spirits by Thine advent here; <br/>Disperse the gloomy clouds of night, <br/>And death’s dark shadows put to flight.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O come, Thou Key of David, come <br/>And open wide our heavenly home; <br/>Make safe the way that leads on high, <br/>And close the path to misery.</lines>
+    </verse>
+  </lyrics>
+</song>

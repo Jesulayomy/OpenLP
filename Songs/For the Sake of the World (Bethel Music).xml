@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>For the Sake of the World</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3027"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>I'm laying down my life<br/>I'm giving up control<br/>I'm never looking back<br/>I surrender all<br/>I'm living for Your glory on the earth<br/>This passion in my heart<br/>This stirring in my soul<br/>To see the nations bow<br/>For all the world to know<br/>I'm living for Your glory on the earth</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>For the sake of the world burn like a fire in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Light a flame in my soul for every eye to see</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the sake of the world burn like a fire in me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>For every knee to bow down<br/>For every heart to believe<br/>For every voice to cry out<br/>Burn like a fire in me<br/>For every tongue to confess<br/>You alone are the King<br/>You are the hope of the earth<br/>Burn like a fire in me</lines>
+    </verse>
+  </lyrics>
+</song>

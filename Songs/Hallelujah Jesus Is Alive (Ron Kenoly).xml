@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Hallelujah Jesus Is Alive</title>
+    </titles>
+    <authors>
+      <author type="words">Ron Kenoly</author>
+      <author type="music">Ron Kenoly</author>
+    </authors>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>easter</theme>
+      <theme>lords-supper</theme>
+      <theme>celebration</theme>
+      <theme>resurrection</theme>
+      <theme>victory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>HALLELUJAH, JESUS IS ALIVE<br/>DEATH HAS LOST ITS VICT'RY<br/>AND THE GRAVE HAS BEEN DENIED<br/>JESUS LIVES FOREVER<br/>HE'S ALIVE, HE'S ALIVE<br/>HE'S THE ALPHA AND OMEGA<br/>THE FIRST AND LAST IS HE<br/>THE CURSE OF SIN IS BROKEN<br/>WE HAVE PERFECT LIBERTY<br/>THE LAMB OF GOD IS RISEN<br/>HE'S ALIVE, HE'S ALIVE</lines>
+    </verse>
+    <verse name="v2">
+      <lines>HAL-LE-LUJAH, JESUS IS ALIVE</lines>
+    </verse>
+  </lyrics>
+</song>

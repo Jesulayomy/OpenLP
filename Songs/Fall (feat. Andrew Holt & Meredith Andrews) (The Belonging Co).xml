@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Fall (feat. Andrew Holt &amp; Meredith Andrews)</title>
+    </titles>
+    <authors>
+      <author type="words">The Belonging Co</author>
+      <author type="music">The Belonging Co</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4068"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE<br/>My eyes above what it looks like<br/>My eyes above what it looks like<br/>I will only see, All You promised me<br/>My eyes above what it looks like<br/>My eyes above what it looks like<br/>I want what You want, I want Kingdom come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the weight of Heaven<br/>Let the weight of Heaven</lines>
+    </verse>
+    <verse name="v3">
+      <lines>CHORUS<br/>Fall, Fall, Fall<br/>Have your way, Have your way<br/>Fall, Fall, Fall<br/>Have your way, Have your way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE<br/>My faith beyond what it feels like<br/>My faith beyond what it feels like<br/>All the way to You,<br/>All the way to breakthrough, breakthrough<br/>My faith beyond what it feels like<br/>My faith beyond what it feels like<br/>Not by power or might, Holy Spirit right now</lines>
+    </verse>
+    <verse name="v5">
+      <lines>BRIDGE<br/>Something's changing in the spirit<br/>Something's breaking I can feel it<br/>Heaven come down, Heaven come down</lines>
+    </verse>
+  </lyrics>
+</song>

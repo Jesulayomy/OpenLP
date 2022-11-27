@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>You Are Worthy</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Any crown I've ever worn<br/>I lay it down<br/>Any praise I've ever gained<br/>I give it all to You<br/>For there's nothing in this world<br/>That can compare<br/>For You alone are worthy<br/>You alone are worthy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are near to all who call<br/>Upon Your name<br/>Ever giving, ever loving<br/>You remain the same<br/>For You open up Your hands<br/>And satisfy<br/>I give You all the glory<br/>Give You all the glory</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are worthy oh Lord<br/>Of all honour<br/>You are worthy to receive<br/>All praise<br/>In Your presence I live<br/>And with all I have to give<br/>I will worship You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Honour You<br/>Glorify Your holy name<br/>I will worship You<br/>Honor You<br/>Glorify Your holy name</lines>
+    </verse>
+  </lyrics>
+</song>

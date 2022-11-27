@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>And Can it Be</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And can it be that I should gain<br/>An interest in the Saviour’s blood?<br/>Died He for me, who caused His pain?<br/>For me, who Him to death pursued?<br/>Amazing love! how can it be<br/>That Thou, my God, shouldst die for me?<br/>Amazing love! how can it be<br/>That Thou, my God, shouldst die for me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>’Tis mystery all! The Immortal dies:<br/>Who can explore His strange design?<br/>In vain the first-born seraph tries<br/>To sound the depths of love divine!<br/>’Tis mercy all! let earth adore,<br/>Let angel minds inquire no more.<br/>Amazing love! how can it be<br/>That Thou, my God, shouldst die for me?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He left His Father’s throne above,<br/>So free, so infinite His grace;<br/>Emptied Himself of all but love,<br/>And bled for Adam’s helpless race.<br/>‘Tis mercy all, immense and free;<br/>For, O my God, it found out me.<br/>Amazing love! how can it be<br/>That Thou, my God, shouldst die for me?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Long my imprisoned spirit lay<br/>Fast bound in sin and nature’s night;<br/>Thine eye diffused a quickening ray,<br/>I woke, the dungeon flamed with light;<br/>My chains fell off, my heart was free;<br/>I rose, went forth, and followed Thee.<br/>Amazing love! how can it be<br/>That Thou, my God, shouldst die for me?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No condemnation now I dread;<br/>Jesus, and all in Him, is mine!<br/>Alive in Him, my living Head,<br/>And clothed in righteousness divine,<br/>Bold I approach the eternal throne,<br/>And claim the crown, through Christ my own. <br/>Amazing love! how can it be<br/>That Thou, my God, shouldst die for me?</lines>
+    </verse>
+  </lyrics>
+</song>

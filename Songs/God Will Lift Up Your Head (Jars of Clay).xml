@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>God Will Lift Up Your Head</title>
+    </titles>
+    <copyright>2005 Bridge Building / Pogostick Music (BMI).</copyright>
+    <authors>
+      <author type="words">Jars of Clay</author>
+      <author type="music">Jars of Clay</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give to the wind your fear;<br/>Hope and be undismayed.<br/>God hears your sighs and counts your tears.<br/>God will lift up, God will lift up...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lift up your head<br/>(God will lift up your head)<br/>He'll lift up your head<br/>(God will lift up your head)<br/>God'll lift up your head<br/>(God will lift up your head)<br/>Lift up your head ... will lift up<br/>(God will lift up)<br/>He will lift up, lift up your head.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Leave to His sovereign sway<br/>To choose and to command.<br/>Then shall we wandering on His way;<br/>Know how wise and how strong...</lines>
+    </verse>
+    <verse name="c2">
+      <lines>How wise and how strong<br/>(God will lift up your head)<br/>Strong is His hand<br/>(God will lift up your head)<br/>How wise and how strong<br/>(God will lift up your head)<br/>How strong is His hand<br/>    (God will lift up)<br/>Lift up your head.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through waves and clouds and storms, He gently clears the way.<br/>Wait 'cause in His time, so shall this night<br/>Soon end in joy, soon end in joy,<br/>Soon end in joy, soon end in joy.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>    (God will lift up your head)<br/>Soon end in joy<br/>(God will lift up your head)<br/>Soon end in joy<br/>(God will lift up your head)<br/>Soon end in joy<br/>(God will lift up your head)<br/>God will lift your head<br/>(God will lift up your head)<br/>God'll lift up your head<br/>(God will lift up your head)<br/>God'll lift up your head<br/>(God will lift up your head)<br/>God'll lift up your head<br/>    (God will lift your head)<br/>He'll lift up ...<br/>He'll lift up your head<br/>    (God will lift it up)<br/>your head ... your head<br/>God will lift up your head<br/>    (God will lift your head)</lines>
+    </verse>
+  </lyrics>
+</song>

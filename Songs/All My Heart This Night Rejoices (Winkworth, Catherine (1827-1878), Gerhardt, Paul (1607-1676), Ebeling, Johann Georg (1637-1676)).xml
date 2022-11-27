@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>All My Heart This Night Rejoices</title>
+      <title>All My Heart Again Rejoices</title>
+    </titles>
+    <authors>
+      <author type="music">Ebeling, Johann Georg (1637-1676)</author>
+      <author type="words">Gerhardt, Paul (1607-1676)</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All my heart this night rejoices, As I hear, Far and near, Sweetest angel voices; "Christ is born," their choirs are singing, Till the air Ev'rywhere Now with joy is ringing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For it dawns,\the promised morrow Of His birth Who the earth Rescues from her sorrow. God to wear our form descendeth, Of His grace To our race Here His Son He lendeth:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yea, so truly for us careth, That His Son All we've done As our off'ring beareth; As our Lamb who, dying for us, Bears our load, And to God Doth in peace restore us.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hark! a voice from yonder manger, Soft and sweet, Doth entreat, "Flee from woe and danger; Brethren come, from all doth grieve you You are freed, All you need I will surely give you."</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come then, let us hasten yonder; Here let all, Great and small, Kneel in awe and wonder. Love Him who with love is yearning; Hail the Star That from far Bright with hope is burning!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ye who pine in weary sadness, Weep no more, For the door<br/>Now is found of gladness. Cling to Him for He will guide you<br/>Where no cross, Pain or loss, Can again betide you.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hither come, ye heavy\- hearted, Who for sin Deep within,<br/>Long and sore have smarted; For the poison'd wounds you're feeling<br/>Help is near, One is here Mighty for their healing!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hither come, ye poor and wretched; Know His will Is to fill<br/>Every hand outstretched; Here are riches without measure,<br/>Here forget All regret, Fill your hearts with treasure.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Blessed Savior, let me find Thee! Keep Thou me Close to Thee,<br/>Cast me not behind Thee! Life of life, my heart Thou stillest,<br/>Calm I rest On Thy breast, All this void Thou fillest.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Thee, dear Lord, with heed I'll cherish, Live to Thee, And with Thee<br/>Dying, shall not perish; But shall dwell with Thee for ever,<br/>Far on high In the joy That can alter never.</lines>
+    </verse>
+  </lyrics>
+</song>

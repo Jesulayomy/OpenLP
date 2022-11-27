@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-06T17:39:09">
+  <properties>
+    <titles>
+      <title>Hymn 77 - Christ the Lord is Risen Today</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ the Lord is Risen today: Hallelujah!<br/>Sons of men and angels say: Hallelujah!<br/>Raise your joys and triumphs high: Hallelujah!<br/>Sing, ye heavens, and earth reply: Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love’s redeeming work is done: Hallelujah!<br/>Fought the fight, the battle won: Hallelujah!<br/>Lo our Son's eclipse is o'er l: Hallelujah!<br/>Lo He sets in blood no morel: Hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vain the stone, the watch, the seal: Halleluyah<br/>Christ hath burst the gates of hell: Halleluyah<br/>Death is vain forbids His rise: Halleluyah<br/>Christ hath open'd paradise: Halleluyah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lives again our glorious King: Hallelujah!<br/>Where, O death, is now thy sting? Hallelujah!<br/>Once He died, our souls to save: Hallelujah!<br/>Where thy victory, O grave? Hallelujah!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Soar we now where Christ hath led: Hallelujah!<br/>Following our exalted Head: Hallelujah!<br/>Made like Him, like Him we rise: Hallelujah!<br/>Ours the cross, the grave, the skies: Hallelujah!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hail the Lord of earth and heaven: Hallelujah!<br/>Praise to Thee by both be given: Hallelujah!<br/>Thee we greet, in triumph now: Hallelujah!<br/>Hail the resurrection Thou: Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

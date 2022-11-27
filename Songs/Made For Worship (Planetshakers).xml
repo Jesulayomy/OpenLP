@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Made For Worship</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1641"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>INTRO: -- x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>I abandon every distraction<br/>My attention is set on You<br/>My devotion Jesus my portion<br/>My affection is set on You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS:<br/>I was made to worship<br/>I was made for Your embrace<br/>I was made to worship<br/>I was made to bless Your name</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>I will bless the Lord at all times<br/>I will bless the Lord at all times<br/>I was made to worship<br/>I was made to bless Your name<br/>I will shout Your praise forever<br/>I will shout Your praise forever<br/>I was made to worship<br/>I was made to bless Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>Captivated by Your goodness<br/>Overwhelmed by Your majesty<br/>Swept away in Your holy presence<br/>Giving over all of me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE: -- x4<br/>My heart and flesh cry out<br/>For You to fill me up<br/>You satisfy me<br/>Fill me with power and truth<br/>Fill me with love from You<br/>You satisfy (me)</lines>
+    </verse>
+  </lyrics>
+</song>

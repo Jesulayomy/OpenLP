@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>O Holy, Blessed Trinity</title>
+      <title>O Blessed Holy Trinity, O Holy, Holy, Holy Three, O Thou Most Holy Trinity</title>
+    </titles>
+    <authors>
+      <author type="music">Hermann, Nikolaus (1500-1561)</author>
+      <author type="words">Behm, Martin (1557-1622)</author>
+      <author type="translate">Schuette, Conrad Herman Louis (1843-1926)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Holy, Blessed Trinity, Divine, Essential Unity, God Father, Son, and Holy Ghost, Be Thou this day my Guide and Host.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My soul and body keep from harm, O'er all I have extend Thine arm, That Satan may not cause distress Nor bring me shame or wretchedness.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Father's might shield me this day, The Son's pure wisdom cheer my way, The Holy Spirit's light divine Illume my heart's benighted shrine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My Maker, strengthen Thou my heart, O my Redeemer, help impart, Blest Comforter, keep at my side That faith and love in me abide.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, bless and keep Thou me as Thine; Lord, make Thy face upon me shine; Lord, lift Thy countenance on me And give me peace\sweet peace, from Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

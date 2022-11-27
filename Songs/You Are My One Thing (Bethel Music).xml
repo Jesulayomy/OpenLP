@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>You Are My One Thing</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1122"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>Your voice ever close you called me<br/>You never gave up pursuing<br/>I fell in love you stole my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your hand ever near I hold to<br/>I long for your heart to know you<br/>Just to live in your fellowship</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Just to be close to you<br/>Just to walk next to you<br/>This is my one thing<br/>You are my one thing<br/>Just to be close to you<br/>Just to walk next to you<br/>This is my one thing<br/>You are my one thing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>My eyes ever fixed upon you<br/>To live like a child to trust you<br/>I'll hold on to this treasured love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My life ever set at your feet<br/>I give you my heart completely<br/>To live this life always by your side</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I have to know you<br/>All that's within me<br/>Cries out for your presence, God</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nothing compares<br/>There's no one else<br/>Jesus you're my one desire (Last time end on )</lines>
+    </verse>
+  </lyrics>
+</song>

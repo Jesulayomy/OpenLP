@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Blessed Jesus at Thy Word</title>
+    </titles>
+    <authors>
+      <author type="music">Ahle, Johann Rudolph (1625-1673)</author>
+      <author type="words">Clausnitzer, Tobias (1619-1684)</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed Jesus, at Thy Word We are gathered all to hear Thee; Let our hearts and souls be stirred Now to seek and love and fear Thee, By Thy teachings sweet and holy, Drawn from earth to love Thee solely.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All our knowledge, sense, and sight Lie in deepest darkness shrouded, Til Thy Spirit breaks our night With the beams of truth unclouded; Thou alone to God canst win us; Thou must work all good within us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glorious Lord, Thyself impart! Light of light, from God proceeding, Open Thou our ears and heart; Help us by Thy Spirit's pleading; Hear the cry Thy people raises; Hear and bless our prayers and praises.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Father, Son, and Holy Ghost, Praise to Thee and adoration! Grant that we Thy Word may trust And obtain true consolation, While we here below must wander, Till we sing Thy praises yonder.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Glory Be My Song</title>
+    </titles>
+    <copyright>2008 Aaron Wagner</copyright>
+    <authors>
+      <author type="words">Aaron Wagner</author>
+      <author type="music">Aaron Wagner</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yesterday, I thought I heard you speak to me,<br/>Giving me a song to sing,<br/>And I can't get it out of my head.<br/>So hard to sing the words behind the melody;<br/>You're whispering Your heart to me,<br/>But there's no way to speak it.<br/>So go out ahead,<br/>And lead me on<br/>To the places I<br/>have never been before.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let Your glory be my song.<br/>Let it shine on me.<br/>Let it shine on me.<br/>Let salvation be my song.<br/>Let it shine on,<br/>Shine on me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You and me - it's beyond my wildest fantasy<br/>That You would bring eternity<br/>For the whole world to sing it.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I've got a song in my soul and it sings for You. (10x)</lines>
+    </verse>
+  </lyrics>
+</song>

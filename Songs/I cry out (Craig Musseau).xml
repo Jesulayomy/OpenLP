@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:52">
+  <properties>
+    <titles>
+      <title>I cry out</title>
+    </titles>
+    <copyright>1990 Vineyard Songs Canada | ION Publishing</copyright>
+    <authors>
+      <author type="words">Craig Musseau</author>
+      <author type="music">Craig Musseau</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>gods-faithfulness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I cry out<br/>For Your hand of mercy to heal me<br/>I am weak<br/>I need Your love to free me<br/>Oh Lord my rock<br/>My strength in weakness<br/>Come rescue me oh Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my hope<br/>Your promise never fails me<br/>And my desire is to follow You forever.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For You are good<br/>You are good<br/>You are good to me<br/>For You are good<br/>You are good<br/>You are good to me.</lines>
+    </verse>
+  </lyrics>
+</song>

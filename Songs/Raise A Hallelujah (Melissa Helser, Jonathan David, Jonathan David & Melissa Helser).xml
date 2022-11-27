@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Raise A Hallelujah</title>
+      <title>I'm gonna sing in the middle of the storm</title>
+    </titles>
+    <authors>
+      <author type="words">Melissa Helser</author>
+      <author type="music">Melissa Helser</author>
+      <author type="words">Jonathan David</author>
+      <author type="music">Jonathan David</author>
+      <author type="words">Jonathan David &amp; Melissa Helser</author>
+      <author type="music">Jonathan David &amp; Melissa Helser</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3733"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>easter</theme>
+      <theme>gods-might</theme>
+      <theme>gloria</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I raise a Hallelujah in the presence of<br/>my enemies<br/>I raise a Hallelujah louder than the unbelief<br/>I raise a Hallelujah, my weapon is a melody<br/>I raise a Hallelujah, heaven comes to fight<br/>for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm gonna sing in the middle of the storm<br/>Louder and louder, you're gonna hear my<br/>praises roar<br/>Up from the ashes, hope will arise<br/>Death is defeated, the King is alive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I raise a Hallelujah with everything inside of me<br/>I raise a Hallelujah I will watch the darkness<br/>flee<br/>I raise a Hallelujah in the middle of the<br/>mystery<br/>I raise a Hallelujah fear you lost your hold<br/>on me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sing a little louder (Sing a little louder)<br/>Sing a little louder (Sing a little louder)<br/>Sing a little louder (Sing a little louder)<br/>Sing a little louder (Sing a little louder)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing a little louder (in the presence of my<br/>enemies)<br/>Sing a little louder (louder than the unbelief)<br/>Sing a little louder (my weapon is a melody)<br/>Sing a little louder (heaven comes to fight for<br/>me) x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sing a little louder</lines>
+    </verse>
+    <verse name="b2">
+      <lines>I raise a Hallelujah<br/>I raise a Hallelujah<br/>I raise a Hallelujah<br/>I raise a Hallelujah</lines>
+    </verse>
+    <verse name="b3">
+      <lines>We raise a Hallelujah<br/>We raise a Hallelujah<br/>We raise a Hallelujah<br/>We raise a Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

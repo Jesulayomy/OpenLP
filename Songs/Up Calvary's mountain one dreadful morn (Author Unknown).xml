@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Up Calvary's mountain one dreadful morn</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4231"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Up Calvary's mountain one dreadful morn<br/>Walked Christ my Savior, weary and worn<br/>Facing for sinners death on the cross<br/>That He might save them from endless loss</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Blessed Redeemer, precious Redeemer<br/>Seems now I see Him on Calvary's tree<br/>Wounded and bleeding, for sinners pleading<br/>Blind and unheeding, dying for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Father, forgive them," my Savior prayed<br/>Even while His lifeblood flowed fast away<br/>Praying for sinners while in such woe<br/>No one but Jesus ever loved so</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh how I love Him, Savior and friend<br/>How can my praises ever find end<br/>Through years unnumbered on Heaven's shore<br/>My songs shall praise Him forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

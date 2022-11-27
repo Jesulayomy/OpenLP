@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Sing to the King</title>
+    </titles>
+    <copyright>2003 worshiptogether.com songs</copyright>
+    <authors>
+      <author type="words">Billy Foote</author>
+      <author type="music">Billy Foote</author>
+      <author type="words">Charles Silvester Horne</author>
+      <author type="music">Charles Silvester Horne</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing to the King who is coming to reign<br/>Glory to Jesus the Lamb that was slain<br/>Life and salvation, His empire shall bring<br/>Joy to the nations when Jesus is King</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come let us sing a song<br/>A song declaring we belong to Jesus<br/>He's all we need<br/>Lift up a heart of praise<br/>Sing now with voices raised to Jesus<br/>Sing to the King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For His returning we watch and we pray<br/>We will be ready the dawn of that day<br/>We'll join in singing with all the redeemed<br/>Satan is vanquished and Jesus is King!</lines>
+    </verse>
+  </lyrics>
+</song>

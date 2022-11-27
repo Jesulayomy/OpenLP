@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Holy Holy Holy Lord God Almighty</title>
+    </titles>
+    <authors>
+      <author>Reginald Heber</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, holy, holy, Lord God almighty!<br/>Early in the morning<br/>Our song shall rise to Thee:<br/>Holy, holy, holy, merciful and mighty,<br/>God in three Persons, blessed Trinity!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, holy, holy! all the saints adore Thee,<br/>Casting down their golden crowns<br/>Around the glassy sea;<br/>Cherubim and seraphim falling down before Thee,<br/>Who were, and are, and ever more shall be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy, holy, holy! though the darkness hide Thee,<br/>Though the eye of sinful man<br/>Thy glory may not see;<br/>Only Thou art holy, there is none beside Thee,<br/>Perfect in power, in love and purity.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy, holy, holy, Lord God Almighty!<br/>All Thy works shall praise Thy name<br/>In earth, and sky, and sea;<br/>Holy, holy, holy, merciful and mighty,<br/>God in three Persons, blessed Trinity!</lines>
+    </verse>
+  </lyrics>
+</song>

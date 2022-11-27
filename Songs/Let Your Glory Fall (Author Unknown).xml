@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Let Your Glory Fall</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4755"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A longing stirs in my soul<br/>Draws me near, calls me close<br/>Deeper into this love<br/>That won't run out, won't dry up</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Oh, let it rain<br/>Oh, let it rain</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let Your glory fall<br/>Overwhelm my soul<br/>Let Your presence flood my life,<br/>O Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deep is calling to deep<br/>Revival's tide breaking free<br/>Jesus, reign in this place<br/>Thirsty we cry, Heaven invade</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Let Your glory fall<br/>Overwhelm my soul<br/>Let Your presence flood my life,<br/>O Lord<br/>Break upon me now<br/>Let Your love crash down<br/>Let Your glory fall<br/>Let Your glory fall</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Oh, let it rain<br/>Oh, let it rain<br/>Oh, let it rain<br/>Oh, let it rain</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Let Your glory fall<br/>Overwhelm my soul<br/>Let Your presence flood my life,<br/>O Lord<br/>Break upon me now<br/>Let Your love crash down<br/>Let Your glory fall<br/>Let Your glory fall</lines>
+    </verse>
+  </lyrics>
+</song>

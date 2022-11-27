@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:05">
+  <properties>
+    <titles>
+      <title>Spirit Song</title>
+    </titles>
+    <authors>
+      <author type="words">John Wimber</author>
+      <author type="music">John Wimber</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh let the Son of God enfold you<br/>With His Spirit and His love<br/>Let Him fill your heart<br/>And satisfy your soul<br/>Oh let Him have those things<br/>That hold you<br/>And His Spirit like a dove<br/>Will descend upon your life<br/>And make you whole</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus oh Jesus<br/>Come and fill Your lambs<br/>Jesus oh Jesus<br/>Come and fill Your lambs</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh come and sing this song<br/>With gladness as your hearts<br/>Are filled with joy<br/>Lift your hands in sweet surrender<br/>To His name<br/>Oh give Him all your tears and sadness<br/>Give Him all your years of pain<br/>And you'll enter into life in Jesus' name</lines>
+    </verse>
+  </lyrics>
+</song>

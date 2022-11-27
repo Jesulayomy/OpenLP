@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>The Potter's Hand</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beautiful Lord, Wonderful Saviour<br/>I know for sure, all of my days are held in Your hands, crafted<br/>into Your perfect plan<br/>You gently call me into Your presence guiding me by Your Holy Spirit<br/>Teach me dear Lord to live all of my life through Your eyes<br/>I'm captured by Your holy calling<br/>Set me apart, I know You're drawing me to Yourself<br/>Lead me Lord I pray</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take me, mold me, use me, fill me<br/>I give my life to the Potter's hand<br/>Call me, guide me, lead me, walk beside me<br/>I give my life to the Potter's hand</lines>
+    </verse>
+  </lyrics>
+</song>

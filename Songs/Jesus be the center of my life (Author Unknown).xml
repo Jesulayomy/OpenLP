@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Jesus be the center of my life</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Jesus at the center of it all<br/>Jesus at the center of it all<br/>From beginning to the end<br/>It will always be<br/>It's always been You Jesus<br/>Jesus. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing else matters<br/>Nothing in this world will do<br/>Jesus You're the center<br/>And everything revolves around<br/>Jesus You, are the center of it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// Jesus at the center of my life<br/>Jesus at the center of my life<br/>From beginning to the end<br/>It will always be<br/>It's always been You Jesus<br/>Jesus. //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nothing else matters<br/>Nothing in this world will do<br/>Jesus You're the center<br/>And everything revolves around<br/>Jesus You, are the center of it all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nothing else matters<br/>Nothing in this world will do<br/>Jesus You're the center<br/>And everything revolves around<br/>Jesus You, are the center of it all</lines>
+    </verse>
+    <verse name="v6">
+      <lines>From my heart to the heavens<br/>Jesus be the center<br/>It's all about You<br/>Yes, it's all about You x3</lines>
+    </verse>
+    <verse name="v7">
+      <lines>// Jesus at the center of it all<br/>Jesus at the center of it all<br/>From beginning to the end<br/>It will always be<br/>It's always been You Jesus<br/>Jesus. //<br/>Jesus, You at the center of it all.</lines>
+    </verse>
+  </lyrics>
+</song>

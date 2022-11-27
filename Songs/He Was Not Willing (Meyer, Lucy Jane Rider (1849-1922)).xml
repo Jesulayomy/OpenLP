@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>He Was Not Willing</title>
+    </titles>
+    <authors>
+      <author type="words">Meyer, Lucy Jane Rider (1849-1922)</author>
+      <author type="music">Meyer, Lucy Jane Rider (1849-1922)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"He was not willing that any should perish"; Jesus enthroned in the glory above, Saw our poor fallen world, pitied our sorrows, Poured out His life for us, wonderful love! Perishing, perishing! Thronging our pathway, Hearts break with burdens too heavy to bear: Jesus would save, but there's no one to tell them, No one to lift them from sin and despair.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"He was not willing that any should perish"; Clothed in our flesh with its sorrow and pain, Came He to seek the lost, comfort the mourner, Heal the heart broken by sorrow and shame. Perishing, perishing! Harvest is passing, Reapers are few and the night draweth near: Jesus is calling thee, haste to the reaping, Thou shalt have souls, precious souls for thy hire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Plenty for pleasure, but little for Jesus; Time for the world with its troubles and toys, No time for Jesus' work, feeding the hungry, Lifting lost souls to eternity's joys. Perishing, perishing! Hark, how they call us; Bring us your Savior, oh, tell us of Him! We are so weary, so heavily laden, And with long weeping our eyes have grown dim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>"He was not willing that any should perish"; Am I His follower, and can I live Longer at ease with a soul going downward, Lost for the lack of the help I might give! Perishing, perishing! Thou wast not willing; Master, forgive, and inspire us anew; Banish our worldliness, help us to ever Live with eternity's values in view.</lines>
+    </verse>
+  </lyrics>
+</song>

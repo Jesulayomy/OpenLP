@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Is He Worthy</title>
+    </titles>
+    <authors>
+      <author type="words">Andrew Peterson</author>
+      <author type="music">Andrew Peterson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do you feel the world is broken?<br/>(We do)<br/>Do you feel the shadows deepen?<br/>(We do)<br/>But do you know that all the dark won't<br/>stop the light from getting through?<br/>(We do)<br/>Do you wish that you could see it all made new?<br/>(We do)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Is all creation groaning?<br/>(It is)<br/>Is a new creation coming?<br/>(It is)<br/>Is the glory of the Lord to be the light within our midst?<br/>(It is)<br/>Is it good that we remind ourselves of this?<br/>(It is)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Is anyone worthy? Is anyone whole?<br/>Is anyone able to break the seal and open the scroll?<br/>The Lion of Judah who conquered the grave<br/>He was David's root and the Lamb who died to ransom the slave<br/>Is He worthy? Is He worthy?<br/>Of all blessing and honor and glory<br/>Is He worthy of this?<br/>He is</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Does the Father truly love us?<br/>(He does)<br/>Does the Spirit move among us?<br/>(He does)<br/>And does Jesus, our Messiah hold forever those He loves?<br/>(He does)<br/>Does our God intend to dwell again with us?<br/>(He does)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Is anyone worthy? Is anyone whole?<br/>Is anyone able to break the seal and open the scroll?<br/>The Lion of Judah who conquered the grave<br/>He is David's root and the Lamb who died to ransom the slave<br/>From every people and tribe<br/>Every nation and tongue<br/>He has made us a kingdom and priests to God<br/>To reign with the Son</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Is He worthy? Is He worthy?<br/>Of all blessing and honor and glory<br/>Is He worthy? Is He worthy?<br/>Is He worthy of this?<br/>He is! He is! He is! He is!<br/>He is worthy! He is worthy!<br/>Of all blessing and honor and glory<br/>He is worthy of this! He is.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>More Than Enough</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3646"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I return once again<br/>To the place where I belong<br/>Though I've turned, I repent<br/>God I know that I've done wrong<br/>I need You, I need love<br/>God, You're more than enough for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now this fight is as real<br/>As the ground beneath my feet<br/>And it pulls, and it draws<br/>And it eats away at me<br/>But I choose You, I choose love<br/>God, You're more than enough for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though I swim against the tide<br/>I know I'll be satisfied by You<br/>And though I fight against my flesh<br/>I know I will find my rest in You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Make a highway in me<br/>For Your love to come on through<br/>Break the chains, break the walls<br/>In between my heart and You<br/>Fill me up, fill me up<br/>God, You're more than enough for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You're my rock and my joy<br/>You're the everlasting truth<br/>There is none in this world<br/>I desire more than You<br/>I want You, I want love<br/>God, You're more than enough for me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus, You can satisfy<br/>Only You can satisfy<br/>When I'm thirsty and I'm dry<br/>I come to You Lord</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh God fill me completely<br/>And make me completely in love</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Don't let me go away<br/>Just keep me by Your side<br/>You see me differently<br/>Behind those burning eyes</lines>
+    </verse>
+    <verse name="v9">
+      <lines>So keep me here, keep my now, forever<br/>I am Yours, I am Yours, forever<br/>There is none besides You God, forever<br/>And forever we will sing<br/>Forever we will sing</lines>
+    </verse>
+  </lyrics>
+</song>

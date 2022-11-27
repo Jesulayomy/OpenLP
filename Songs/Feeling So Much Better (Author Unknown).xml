@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Feeling So Much Better</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feeling so much better<br/>Talking about this good old Way,<br/>Feeling so much better<br/>Talking about the Lord;<br/>Let's go on, let's go on<br/>Talking about this good old Way,<br/>Let's go on, let's go on<br/>Talking about the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The devil he don't like it,<br/>Talking about this good old Way,<br/>The devil he don't like it,<br/>Talking about the Lord.<br/>So, let's go on, let's go on<br/>Talking about this good old Way,<br/>Let's go on, let's go on<br/>Talking about the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

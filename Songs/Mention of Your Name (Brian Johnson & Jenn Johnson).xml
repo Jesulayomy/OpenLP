@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Mention of Your Name</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson &amp; Jenn Johnson</author>
+      <author type="music">Brian Johnson &amp; Jenn Johnson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4901"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1<br/>You're here with the grace of the Savior<br/>With the heart of the Father<br/>You're all we need<br/>You're here with the hands of the Healer<br/>With the power of Your Spirit<br/>You're all we need</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus<br/>At the mention of Your name<br/>Every chain will break<br/>I know everything will change<br/>Jesus, just the whisper of Your name<br/>Will silence wind and waves<br/>At the mention of Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2<br/>You're here, You're the Provider<br/>All I've ever needed<br/>Jesus, You supply<br/>You're here, with wonder-working power<br/>Everything You breathe on<br/>Coming back to life</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bridge<br/>You are my strength<br/>You are my anchor<br/>And You never fail<br/>You are my hope<br/>You will deliver<br/>Emmanuel</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Outro<br/>At the mention of Your name<br/>Every chain will break<br/>I know everything will change<br/>Jesus, just the whisper of Your name<br/>Will silence wind and waves<br/>At the mention of Your name</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Just the mention, Oh<br/>Just the whisper, Oh<br/>You're just a breath away<br/>You're just a breath away</lines>
+    </verse>
+  </lyrics>
+</song>

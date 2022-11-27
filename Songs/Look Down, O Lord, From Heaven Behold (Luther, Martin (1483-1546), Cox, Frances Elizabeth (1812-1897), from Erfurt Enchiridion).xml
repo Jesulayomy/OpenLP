@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Look Down, O Lord, From Heaven Behold</title>
+      <title>O God, from Heaven Look Down, O God, Look Down from Heaven and See</title>
+    </titles>
+    <authors>
+      <author type="music">from Erfurt Enchiridion</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Cox, Frances Elizabeth (1812-1897)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Look down, O Lord, from heav'n behold, And let thy pity waken! How few the flock within thy fold, Neglected and forsaken! Almost thou'lt seek for faith in vain, And those who should thy truth maintain Thy Word from us have taken.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With frauds which they themselves invent Thy truth they have confounded; Their hearts are not with one consent On thy pure doctrine grounded; And, whilst they gleam with outward show, They lead thy people to and fro, In error's maze astounded.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God surely will uproot all those With vain deceits who store us, With haughty tongue who God oppose, And say, "Who'll stand before us? By right or might we will prevail; What we determine cannot fail, For who can lord it o'er us?"</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For this, saith God, I will arise, These wolves my flock are rending; I've heard my people's bitter sighs To heav'n my throne ascending: Now will I up, and set at rest Each weary soul by fraud opprest, The poor with might defending.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The silver sev'n times tried is pure From all adulteration; So, through God's word, shall men endure Each trial and temptation: Its worth gleams brighter through the cross, And, purified from human dross, It shines through every nation.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Thy truth thou wilt preserve, O Lord, From this vile generation;<br/>Make us to lean upon thy word, With calm anticipation.<br/>The wicked walk on every side When, 'mid thy flock, the vile abide In pow'r and exaltation.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-06T17:50:52">
+  <properties>
+    <titles>
+      <title>Hymn 187 - Come, my soul, thy suit prepare</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+    <themes>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, my soul, thy suit prepare,<br/>Jesus loves to answer pray'r.<br/>He Himself has bid thee pray,<br/>rise and ask without delay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou art coming to a King,<br/>large petitions with thee bring,<br/>for his grace and pow'r are such,<br/>none can ever ask too much.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord! I come to Thee for rest,<br/>take possession of my breast;<br/>there Thy blood-bought right maintain,<br/>and without a rival reign.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As the image in the glass<br/>Answers the beholder's face<br/>Thus unto my heart appear<br/>Print Thine own resemblance there</lines>
+    </verse>
+    <verse name="v5">
+      <lines>While I am a pilgrim here,<br/>let Thy love my spirit cheer;<br/>as my Guide, my Guard, my Friend,<br/>lead me to my journey’s end.</lines>
+    </verse>
+  </lyrics>
+</song>

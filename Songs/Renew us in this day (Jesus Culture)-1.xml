@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Renew us in this day</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5498"/>
+    </songbooks>
+    <themes>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Renew us in this day<br/>Just like You said You would<br/>Your Word is not in vain<br/>Our hearts reaching heavenward</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Fresh outpouring tear the fabric open<br/>Come, Jesus come<br/>Breath of heaven nothing left unshaken<br/>We long for more</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We need a fresh outpouring<br/>Unleash a fresh outpouring<br/>We need a fresh outpouring<br/>Unleash a fresh outpouring</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As temporary fades<br/>Let glory invade this earth<br/>Your power on display<br/>Our eyes looking heavenward</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There is fire, stirring in our bones<br/>A shout is rising, rising up inside<br/>Soak the earth, come and fill our hearts<br/>Your voice is calling, calling us to life!</lines>
+    </verse>
+  </lyrics>
+</song>

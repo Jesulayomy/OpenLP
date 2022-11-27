@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>It Came Upon A Midnight Clear</title>
+    </titles>
+    <authors>
+      <author type="music">Willis, Richard Storrs (1819-1900)</author>
+      <author type="words">Sears, Edmund Hamilton (1810-1876)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5174"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It came upon a midnight clear<br/>That glorious song of old<br/>From angels bending near the earth<br/>To touch their harps of gold<br/>"Peace on the earth, good will to men<br/>From heaven's all gracious King;"<br/>The world in solemn stillness lay,<br/>To hear the angels sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Still through the cloven skies they come<br/>With peaceful wings unfurled,<br/>And still their heavenly music floats<br/>O'er all the weary world<br/>Above its sad and lowly plains<br/>They bend on hovering wing;<br/>And ever o'er its Babel sounds<br/>The blessed angels sing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And ye, beneath life's crushing load<br/>Whose forms are bending low,<br/>Who toil along the climbing way<br/>With painful steps and slow<br/>Look now! for glad and golden hours<br/>Come swiftly on the wing;<br/>O rest beside the weary road<br/>And hear the angels sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For lo the days are hast'ning on<br/>By prophets seen of old<br/>When with the ever-circling years<br/>Shall come the time foretold<br/>When peace shall over all the earth<br/>Its ancient splendour fling<br/>And all the world give back the song<br/>Which now the angels sing</lines>
+    </verse>
+  </lyrics>
+</song>

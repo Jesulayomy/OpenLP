@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>As A Parched Land Thirsts for Water</title>
+    </titles>
+    <authors>
+      <author type="translate">Turgay Üçal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Moda Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As a parched land thirsts for water<br/>So I yearn and long for you<br/>As a wilting leaf thirsts for rain<br/>So I watch for you<br/>Messiah, Messiah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In desolate deserts<br/>I search for an oasis<br/>I am weary. I long to rest<br/>In the shadow of your wings<br/>Messiah, Messiah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amidst the angry waters<br/>I search for safe harbor<br/>I am weary. I long to rest<br/>In the shelter of your presence<br/>Messiah, Messiah</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Furious</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1861"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nothing can tear us from<br/>The grip of His mighty love<br/>We've only glimpsed His vast affection<br/>Heard whispers of His heart and passion<br/>It's pouring down</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His love is deep, His love is wide and it covers us<br/>His love is fierce, His love is strong, it is furious<br/>His love is sweet, His love is wild<br/>And it's waking hearts to life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Father loves and sends His son</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Son lays down His life for all<br/>He lavishes His love upon us<br/>He calls us now, His sons and daughters</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He's reaching out<br/>And it's waking hearts to life<br/>He is waking hearts to life</lines>
+    </verse>
+  </lyrics>
+</song>

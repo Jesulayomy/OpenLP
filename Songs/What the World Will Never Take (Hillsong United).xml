@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>What the World Will Never Take</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With all I'm holding inside<br/>With all my hopes and desires<br/>And all the dreams that I've dreamt<br/>With all I'm hoping to be<br/>And all that the world will bring<br/>And all that fails to compare</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You say You want all of me<br/>I wouldnt have it any other way</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I've got a Saviour and He's living in me<br/>WHOA!<br/>I wana know<br/>I wana know You today<br/>And You're the best thing that has happened to me<br/>And the world will never take<br/>The world will never take You away</lines>
+    </verse>
+    <verse name="c2">
+      <lines>No-one could ever take You away</lines>
+    </verse>
+  </lyrics>
+</song>

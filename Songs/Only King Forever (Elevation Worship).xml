@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Only King Forever</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2595"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our God, a firm foundation<br/>Our rock, the only solid ground<br/>As nations rise and fall<br/>Kingdoms once strong now shaken<br/>But we trust forever in your name<br/>The name of Jesus<br/>We trust the name of Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are the only King forever<br/>Almighty God we lift you higher<br/>You are the only King forever<br/>Forevermore, you are victorious</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unmatched in all your wisdom<br/>In love and justice you will reign<br/>Every knee will bow<br/>We bring our expectations<br/>Our hope is anchored in your name<br/>The name of Jesus<br/>We trust the name of Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We lift our banner high<br/>We lift the name of Jesus<br/>From age to age you reign<br/>Your kingdom has no end<br/>We lift our banner high<br/>We lift the name of Jesus<br/>From age to age you reign<br/>Your kingdom has no end</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You are the only King forever<br/>Almighty God we lift you higher<br/>You are the only King forever<br/>Forevermore, you are victorious</lines>
+    </verse>
+  </lyrics>
+</song>

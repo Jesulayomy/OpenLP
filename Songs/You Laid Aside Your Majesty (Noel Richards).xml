@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>You Laid Aside Your Majesty</title>
+    </titles>
+    <authors>
+      <author type="words">Noel Richards</author>
+      <author type="music">Noel Richards</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>forgiveness</theme>
+      <theme>worship</theme>
+      <theme>easy</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You laid aside Your majesty<br/>Gave up everything for me<br/>Suffered at the hands<br/>Of those You had created<br/>You took all my guilt and shame<br/>When You died and rose again<br/>Now today You reign<br/>In heaven and earth exalted</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I really want to worship You, my Lord<br/>You have won my heart, and I am Yours<br/>For ever and ever I will love You<br/>You are the only one who died for me<br/>Gave Your life to set me free<br/>So I lift my voice to You in adoration</lines>
+    </verse>
+  </lyrics>
+</song>

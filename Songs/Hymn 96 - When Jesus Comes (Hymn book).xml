@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T08:50:52">
+  <properties>
+    <titles>
+      <title>Hymn 96 - When Jesus Comes</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When Jesus comes to reward His servants <br/>Whether it be noon or night <br/>Faithful to Him will He find us watching <br/>With our lamps all trimmed and bright</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh can we say we are ready, brother <br/>Ready for the soul's bright home?<br/>Say, will He find you and me still watching <br/>Waiting, waiting when the Lord shall come?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If at the dawn of the early morning <br/>He shall call us one by one <br/>When to the Lord we restore our talents <br/>Will He answer thee well done? <br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Have we been true to the trust He left us <br/>Do we seek to do our best? <br/>If in our hearts there is naught condemn us <br/>We shall have a glorious rest</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blessed are those whom the Lord finds watching <br/>In his glory they shall share <br/>If He shall come at the dawn or midnight <br/>Will He find us watching there?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Holy Spirit</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1813"/>
+    </songbooks>
+    <themes>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's nothing worth more, that will ever come close<br/>No thing can compare, You're our living hope<br/>Your Presence Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've tasted and seen, of the sweetest of Loves<br/>Where my heart becomes free, and my shame is undone<br/>In Your Presence Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy Spirit You are welcome here<br/>Come flood this place and fill the atmosphere<br/>Your Glory God is what our hearts long for<br/>To be overcome by Your Presence Lord</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let us become more aware of Your Presence<br/>Let us experience the Glory of Your Goodness</lines>
+    </verse>
+  </lyrics>
+</song>

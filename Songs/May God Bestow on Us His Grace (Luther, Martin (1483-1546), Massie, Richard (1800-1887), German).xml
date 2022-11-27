@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>May God Bestow on Us His Grace</title>
+      <title>May God Unto Us Gracious Be, Would that the Lord Would Grant Us Grace</title>
+    </titles>
+    <authors>
+      <author type="music">German</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="music">Luther, Martin (1483-1546)</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>May God bestow on us His grace, With blessings rich provide us, And may the brightness of His face To life eternal guide us That we His saving health may know, His gracious will and pleasure, And also to the heathen show Christ's riches without measure And unto God convert them.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thine over all shall be the praise And thanks of every nation, And all the world with joy shall raise The voice of exultation; For Thou shalt judge the earth, O Lord, Nor suffer sin to flourish; Thy people's pasture is Thy Word Their souls to feed and nourish, In righteous paths to keep them.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, let the people praise Thy worth, In all good works increasing; The land shall plenteous fruit bring forth, Thy Word is rich in blessing. May God the Father, God the Son, And God the Spirit bless us! Let all the world praise Him alone, Let solemn awe possess us. Now let our hearts say, Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

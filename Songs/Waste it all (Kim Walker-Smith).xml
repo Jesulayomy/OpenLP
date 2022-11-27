@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Waste it all</title>
+    </titles>
+    <authors>
+      <author type="words">Kim Walker-Smith</author>
+      <author type="music">Kim Walker-Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3519"/>
+    </songbooks>
+    <themes>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>Covered in shame, hiding my face<br/>I owed a debt I could not pay<br/>Searching in vain to fill my heart's ache<br/>I threw my worth away<br/>When I thought all was lost<br/>You sought me and You came to my defense<br/>This priceless gift You gave<br/>Was not meant for me to hold</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus: 1<br/>I want to waste it all on You<br/>I want to pour my heart's perfume<br/>I don't care if I'm called a fool<br/>I'm wasting it all on You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lifting my head, holding my face<br/>Wiping my endless tears away<br/>You unlock my heart whispering grace<br/>How could I leave this place?<br/>When I'm here at Your feet<br/>I can feel You, all the voices fade away<br/>I will spend all my days<br/>Giving back the love You gave</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus: 2<br/>I'm gonna waste it all on You<br/>I'm gonna pour my heart's perfume<br/>I don't care if I'm called a fool<br/>I'm wasting it all on You</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:<br/>All for love and all for me<br/>You gave it all for me to be<br/>Alive in You and You in me<br/>Lord I surrender<br/>To Your love and to Your touch<br/>And to the way You give too much<br/>I'm too in love to not be all for You!</lines>
+    </verse>
+    <verse name="b4">
+      <lines>Instrumental: break down</lines>
+    </verse>
+  </lyrics>
+</song>

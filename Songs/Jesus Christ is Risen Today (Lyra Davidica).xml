@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Jesus Christ is Risen Today</title>
+    </titles>
+    <authors>
+      <author>Lyra Davidica</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Christ is risen today; Hallelujah!<br/>Our triumphant holy day; Hallelujah!<br/>Who did once upon the cross; Hallelujah!<br/>Suffer to redeem our loss; Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hymns of praise then let us sing; Hallelujah!<br/>Unto Christ our heavenly King; Hallelujah!<br/>Who endured the cross and grave; Hallelujah!<br/>Sinners to redeem and save: Hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But the pains which He endured; Hallelujah!<br/>Our salvation have procured; Hallelujah!<br/>Now in heaven above He’s King; Hallelujah!<br/>Where the angels ever sing: Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

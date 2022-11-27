@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>A Child of The King</title>
+      <title>My Father is Rich in Houses and Lands</title>
+    </titles>
+    <authors>
+      <author type="music">Sumner, John Bunnell (1838-1918)</author>
+      <author type="words">Buell, Harriet Eugenia Peck (1834-1910)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Father is rich in houses and lands, He holdeth the wealth of the world in His hands! Of rubies and diamonds of silver and gold His coffers are full,\He has riches untold. I'm a child of the King, a child of the King: With Jesus my Savior I'm a child of the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Father's own Son, the Savior of men, Once wander'd o'er earth as the poorest of men, But now He is reigning forever on high, And will give me a home in heaven by and by. I'm a child of the King, a child of the King: With Jesus my Savior I'm a child of the King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I once was an outcast stranger on earth, A sinner by choice, and an alien by birth! But I've been adopted, my name's written down,\An heir to a mansion, a robe, and a crown. I'm a child of the King, a child of the King: With Jesus my Savior I'm a child of the King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A tent or a cottage, why should I care? They're building a palace for me over there! Tho' exiled from home, yet, still I may sing: All glory to God, I'm the child of a King. I'm a child of the King, a child of the King: With Jesus my Savior I'm a child of the King.</lines>
+    </verse>
+  </lyrics>
+</song>

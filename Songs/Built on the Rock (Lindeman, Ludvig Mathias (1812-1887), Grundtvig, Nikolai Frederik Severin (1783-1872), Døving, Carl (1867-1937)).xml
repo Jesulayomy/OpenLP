@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Built on the Rock</title>
+    </titles>
+    <authors>
+      <author type="music">Lindeman, Ludvig Mathias (1812-1887)</author>
+      <author type="words">Grundtvig, Nikolai Frederik Severin (1783-1872)</author>
+      <author type="translate">Døving, Carl (1867-1937)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Built on the Rock the church doth stand, Even when steeples are falling; Crumbled have spires in every land, Bells still are chiming and calling; Calling the young and old to rest, But above all the soul distressed, Longing for rest everlasting.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Surely in temples made with hands, God, the Most High, is not dwelling; High above earth His temple stands, All earthly temples excelling; Yet He whom heav'ns cannot contain Chose to abide on earth with men, Built in our bodies His temple.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are God's house of living stones, Built for His own habitation; He through baptismal grace us owns, Heirs of His wondrous salvation; Were we but two His Name to tell, Yet He would deign with us to dwell, With all His grace and His favor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now we may gather with our King; Ev'n in the lowliest dwelling: Praises to Him we there may bring, His wondrous mercy foretelling; Jesus His grace to us accords, Spirit and life are all His words, His truth doth hallow the temple.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Still we our earthly temples rear, That we may herald His praises; They are the homes where He draws near And little children embraces, Beautiful things in them are said, God there with us His cov'nant made, Making us heirs of His kingdom.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Here stands the font before our eyes<br/>Telling how God did receive us;<br/>The altar recalls Christ's sacrifice<br/>And what His table doth give us;<br/>Here sounds the Word that doth proclaim<br/>Christ yesterday, today, the same, Yea, and for aye our Redeemer.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Grant then, O God, where'er men roam,<br/>That, when the church bells are ringing,<br/>Many in saving faith may come<br/>Where Christ His message is bringing:<br/>"I know Mine own, Mine own know Me;<br/>Ye, not the world, My face shall see. My peace I leave with you."</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>All Depends On Our Possessing</title>
+    </titles>
+    <authors>
+      <author type="music">König, Johann Balthasar (1691-1758)</author>
+      <author type="words">unknown</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All depends on our possessing God's abundant grace and blessing, Though all earthly wealth depart. He who trusts with faith unshaken In His God is not forsaken And e'er keeps a dauntless heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He who hitherto hath fed me And to many joys hath led me, Is and ever shall be mine. He who did so gently school me, He who still doth guide and rule me, Will remain my Help divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Many spend their lives in fretting Over trifles and in getting Things that have no solid ground. I shall strive to win a treasure That will bring me lasting pleasure And that now is seldom found.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When with sorrow I am stricken, Hope my heart anew will quicken, All my longing shall be stilled. To His loving\kindness tender Soul and body I surrender; For in Him alone I build.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Well He knows what best to grant me; All the longing hopes that haunt me, Joy and sorrow, have their day. I shall doubt His wisdom never, As God wills, so be it ever, I to Him commit my way.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>If on earth my days He lengthen,<br/>He my weary soul will strengthen;<br/>All my trust in Him I place.<br/>Earthly wealth is not abiding,<br/>Like a stream away is gliding;<br/>Safe I anchor in His grace.</lines>
+    </verse>
+  </lyrics>
+</song>

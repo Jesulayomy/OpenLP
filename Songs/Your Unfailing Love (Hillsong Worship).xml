@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Your Unfailing Love</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the darkness fills my senses<br/>When my blindness keeps me from Your touch<br/>Jesus come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When my burden keeps me doubting<br/>When my memories take the place of You<br/>Jesus come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I'll follow You there<br/>To the place where we meet<br/>And I'll lay down my pride<br/>As You search me again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your unfailing love, Your unfailing love<br/>Your unfailing love over me again<br/>Your unfailing love, Your unfailing love<br/>Your unfailing love over me again</lines>
+    </verse>
+  </lyrics>
+</song>

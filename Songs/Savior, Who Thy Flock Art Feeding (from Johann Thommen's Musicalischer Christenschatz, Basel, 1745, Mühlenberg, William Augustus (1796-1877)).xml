@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Savior, Who Thy Flock Art Feeding</title>
+    </titles>
+    <authors>
+      <author type="music">from Johann Thommen's Musicalischer Christenschatz, Basel, 1745</author>
+      <author type="words">Mühlenberg, William Augustus (1796-1877)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior, who Thy flock art feeding With the Shepherd's kindest care, All the feeble gently leading, While the lambs Thy bosom share.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now, these little ones receiving, Fold them in Thy gracious arm; There, we know, Thy Word believing, Only there secure from harm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Never, from Thy pasture roving, Let them be the lion's prey; Let Thy tenderness, so loving, Keep them through life's dang'rous way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then within Thy fold eternal Let them find a resting place, Feed in pastures ever vernal, Drink the rivers of Thy grace.</lines>
+    </verse>
+  </lyrics>
+</song>

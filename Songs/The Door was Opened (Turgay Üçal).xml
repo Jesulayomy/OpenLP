@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>The Door was Opened</title>
+    </titles>
+    <authors>
+      <author type="translate">Turgay Üçal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Moda Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The door was opened<br/>Your light came flooding<br/>O'er me, my Lord<br/>My sinful selfishness<br/>Was nailed upon the cross<br/>With you, my Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fill my cup, my Lord God<br/>Fill my cup, Lord Jesus<br/>Fill my cup, my heart is empty<br/>Without you, my Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Word became flesh<br/>The Truth became known<br/>Through you, my Lord<br/>Death was defeated<br/>I, too, have new life<br/>With you, my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

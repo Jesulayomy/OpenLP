@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-29T10:12:00">
+  <properties>
+    <titles>
+      <title>WITH JOY</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lift up your heads, oh you gates<br/>And let the King of glory come in</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The King is here, no need to fear<br/>In a moment, all sorrows are gone<br/>The King is here, no need to fret<br/>In a moment, all sicknesses are gone</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>With joy, we draw from the well<br/>With joy, we draw from the well of salvation<br/>With joy, we draw, hallelujah<br/>Hallelujah, hallelujah</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>The King is here, no need to fear<br/>In a moment, all sorrows are gone<br/>The King is here, no need to fret<br/>In a moment, all sicknesses are gone</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>With joy, we draw from the well<br/>With joy, we draw from the well of salvation<br/>With joy, we draw, hallelujah<br/>Hallelujah, hallelujah, with joy</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Joy in the Holy Ghost<br/>Joy in the Holy Ghost<br/>Joy in the Holy Ghost<br/>Joy in the Holy <br/>Joy in the Holy Ghost</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Dance in the Holy Ghost<br/>Dance in the Holy Ghost<br/>Dance in the Holy Ghost<br/>Dance in the Holy Ghost</lines>
+    </verse>
+  </lyrics>
+</song>

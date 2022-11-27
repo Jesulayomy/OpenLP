@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Weight of heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3094"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>Fill this room<br/>Fill this place<br/>Come and meet us face to face<br/>Come and meet us face to face</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Let the weight of Heaven fall<br/>Let it rain on us, downpour<br/>Can you hear the waters roar?<br/>Let the weight of Heaven fall</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>Move in power<br/>Have Your way<br/>Come and meet us face to face<br/>Come and meet with us again</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Saturate our hearts<br/>Fill us up to overflowing<br/>Saturate our world<br/>We are ready, we are ready<br/>Saturate our hearts<br/>Fill us up to overflowing<br/>Saturate our world<br/>We are ready, oh!</lines>
+    </verse>
+  </lyrics>
+</song>

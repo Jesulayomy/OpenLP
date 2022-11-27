@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>The Mercy of Your heart fills all the Earth</title>
+    </titles>
+    <authors>
+      <author type="translate">Alison Giblett</author>
+      <author type="translate">Gennady Lungu</author>
+      <author type="translate">Sergey Danilchenko</author>
+      <author type="words">Sergej Danilʹčenko (Serž Dani)</author>
+      <author type="music">Sergej Danilʹčenko (Serž Dani)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Mercy of Your heart fills all the Earth!<br/>The Mercy of Your Son fills all my life!<br/>Mercy over Judgement in triumph exults,<br/>You forgave me and welcomed into Your Home!<br/>The Mercy of Your heart fills all the Earth!<br/>The Mercy of Your Son fills all my life!<br/>Mercy over Judgement in triumph exults,<br/>You redeemed me and brought me into Your Home.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus-1: (2 times)<br/>You saved my life, You wiped me clean,<br/>Taking away all my guilt!<br/>You saved my life, You nailed my sin,<br/>Making me free from all fear!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. How I want my life to praise You, my Lord,<br/>How I want my life to glorify You!<br/>Mercy over Judgement in triumph exults<br/>You redeemed me and brought me into You Home!<br/>The Mercy of Your heart fills all the Earth<br/>The Mercy of Your Son fills all my life,<br/>Mercy over Judgement in triumph exults<br/>You forgave me and welcomed into Your Home!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus-2:<br/>You saved my life, You nailed my sin,<br/>Taking away all my guilt!<br/>You saved my life, You made me clean,<br/>Free from all darkness and fear!</lines>
+    </verse>
+  </lyrics>
+</song>

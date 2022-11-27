@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>Isn't it grace</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think of all He left,<br/>and what he came to.<br/>I'm convinced that it's the greatest mystery.<br/>Just to think that Heaven's King would leave it all and<br/>come for one like me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Isn't it Amazing<br/>(Isn't It amazing that He'd come to where we are)<br/>Isn't it Amazing<br/>(Isn't it amazing that a King would go that far)<br/>Doesn't it Amaze you<br/>(Doesn't it amaze you that we'd find Him in this place)<br/>Ohh Isn't it Amazing Grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If I started writing now and wrote forever.<br/>I know that all my words would not convey.<br/>The depth of love so great that brings the spotless lamb to<br/>take my place.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Isn't it Amazing<br/>(Isn't It amazing that He'd come to where we are)<br/>Isn't it Amazing<br/>(Isn't it amazing that a King would go that far)<br/>Doesn't it Amaze you<br/>(Doesn't it amaze you that we'd find Him in this place)<br/>Ohh Isn't it Amazing Grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For our sin and death he brought us life forever.<br/>For our broken lives he brought us perfect peace.<br/>From the shackles and the chain the King of Glory<br/>came to set us free.<br/>He Set Us Free.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Lord I want to Thank You<br/>(Lord I want to Thank You that you come to where we are)<br/>Lord I want to Thank You<br/>(Lord I want to Thank You that a King would go that far)<br/>Lord I want to Thank You<br/>(Lord I want to Thank You that we feel You in this place)<br/>Thank you Jesus for Amazing Grace</lines>
+    </verse>
+  </lyrics>
+</song>

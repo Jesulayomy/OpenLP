@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>When I Call On Your Name You Answer</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I call on your name you answer<br/>When I fall you are there by my side<br/>You delivered me out of darkness<br/>Now i stand in the hope of new life</lines>
+    </verse>
+    <verse name="p1">
+      <lines>By grace I'm free, You've rescued me.<br/>All I am is yours.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I've found a love grater than life itself.<br/>I've found a hope stronger and nothing compares<br/>I once was lost, now I'm alive in you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're my God and my firm foundation<br/>It is you whom I'll trust at all times<br/>I give glory and praise, adoration<br/>To me saviour who's seated on high.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Love came down and rescued me<br/>I thank you   I thank you<br/>I once was blind but now i see<br/>I see you   I see you</lines>
+    </verse>
+  </lyrics>
+</song>

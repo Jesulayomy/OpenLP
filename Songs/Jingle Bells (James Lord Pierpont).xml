@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Jingle Bells</title>
+    </titles>
+    <authors>
+      <author type="words">James Lord Pierpont</author>
+      <author type="music">James Lord Pierpont</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>kids</theme>
+      <theme>grace</theme>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dashing through the snow<br/>In a one-horse open sleigh<br/>Through the fields we go<br/>Laughing all the way.<br/>Bells on bob-tail ring<br/>Making spirits bright<br/>What fun it is to ride and sing<br/>A sleighing song tonight.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jingle bells, jing-jingle bells<br/>Jingle all the way,<br/>Oh what fun it is to ride<br/>In a one-horse open sleigh, brruup<br/>Jingle bells, jingle bells<br/>Jingle all the way,<br/>Oh what fun it is to ride<br/>In a one-horse open sleigh.</lines>
+    </verse>
+  </lyrics>
+</song>

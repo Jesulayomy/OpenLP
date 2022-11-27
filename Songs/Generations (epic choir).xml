@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-08T09:46:54">
+  <properties>
+    <titles>
+      <title>Generations</title>
+    </titles>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Generations after generations<br/>Keep praising you yet no word sums you up<br/>Then I asked the Lord what name fits you<br/>And He said Yah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yah, the hallowed one<br/>Yah, the holy one<br/>Yahweh, the king of Zion</lines>
+    </verse>
+  </lyrics>
+</song>

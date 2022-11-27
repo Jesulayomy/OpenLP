@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>All I Need Is You</title>
+    </titles>
+    <copyright>Hillsong United</copyright>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Left my fear by the side of the road<br/>Hear You speak<br/>Won't let go<br/>Fall to my knees as I lift my hands to pray<br/>Got every reason to be here again<br/>Father's heart that pulls me in<br/>And all my eyes want to see is a glimpse of You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All I need is You<br/>All I need is You Lord<br/>Is you Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One more day and it's not the same<br/>Your spirit calls my heart to sing<br/>Drawn to the voice of my Savior once again<br/>Where would my soul be without Your Son<br/>Gave His life to save the earth<br/>Rest in the thought that You're watching over me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You hold the universe<br/>You hold everyone on earth<br/>You hold the universe<br/>You hold<br/>You hold</lines>
+    </verse>
+  </lyrics>
+</song>

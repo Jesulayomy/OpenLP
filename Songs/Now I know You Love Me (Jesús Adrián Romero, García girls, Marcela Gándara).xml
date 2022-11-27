@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Now I know You Love Me</title>
+    </titles>
+    <authors>
+      <author type="translate">García girls</author>
+      <author type="words">Marcela Gándara</author>
+      <author type="music">Marcela Gándara</author>
+      <author type="words">Jesús Adrián Romero</author>
+      <author type="music">Jesús Adrián Romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the beginning when I first needed You<br/>and in that moment when I turned my eyes to You<br/>and on that day when I felt so all alone<br/>I could feel Your eyes looking down on me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Now, I know You love me, I can see<br/>You saw so much more that I could be<br/>You waited all that time, patiently<br/>Now, I know You love me, when I would flee<br/>far from Your arms, reaching for me<br/>With Your Grace and with Your love<br/>Your forgiveness from above<br/>I am here</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From far away I could feel Your presence near<br/>I knew You cared and Your voice I could hear<br/>and in the silence I could hear You calling me<br/>every day I felt Your love drawing me</lines>
+    </verse>
+  </lyrics>
+</song>

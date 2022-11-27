@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Down From His Glory</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down from His glory,<br/>Ever living story,<br/>My God and Saviour came,<br/>And Jesus was His Name.<br/>Born in a manger,<br/>To His own a stranger,<br/>A Man of sorrows,<br/>Tears and agony.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>Oh how I love Him!<br/>How I adore Him!<br/>My breath, my sunshine,<br/>My all in all!<br/>The great Creator<br/>Became my Saviour,<br/>And all God's fullness<br/>Dwelleth in Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What condescension,<br/>Bringing us redemption;<br/>That in the dead of night,<br/>Not one faint hope in sight;<br/>God, gracious, tender,<br/>Laid aside His splendor,<br/>Stooping to woo, to win,<br/>To save my soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Without reluctance,<br/>Flesh and blood His substance,<br/>He took the form of man,<br/>Revealed the hidden plan.<br/>Oh glorious mystery,<br/>Sacrifice of Calvary,<br/>And now I know<br/>Thou art the great "I Am."</lines>
+    </verse>
+  </lyrics>
+</song>

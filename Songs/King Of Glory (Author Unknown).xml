@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>King Of Glory</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3508"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>King Of Glory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is this King of glory that persues me with His love<br/>And haunts me with each hearing of His softly spoken words<br/>My conscience, a reminder of forgiveness that I need<br/>Who is this King of glory who offers it to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is this King of angels, O blessed Prince of Peace<br/>Revealing things of Heaven and all it's mysteries<br/>My spirit's ever longing for His greace in which to stand<br/>Who is this King of glory, Son of God and song of man</lines>
+    </verse>
+    <verse name="c1">
+      <lines>His name is Jesus, precious Jesus<br/>The Lord Almighty, the King of my heart, The King of glory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who is this King of glory with strength and majesty<br/>And wisdom beyond measure, the gracious King of kings<br/>The Lord of Eath and Heaven, the Creator of all things<br/>Who is this King of glory, He's everything to me</lines>
+    </verse>
+  </lyrics>
+</song>

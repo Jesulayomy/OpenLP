@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>Jesus, Be the Centre</title>
+    </titles>
+    <copyright>1999 Vineyard Songs</copyright>
+    <authors>
+      <author type="words">Michael Frye</author>
+      <author type="music">Michael Frye</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>guitar</theme>
+      <theme>salvation</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, be the centre<br/>Be my source, be my light, Jesus<br/>Jesus, be the centre<br/>Be my hope, be my song, Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be the fire in my heart<br/>Be the wind in these sails<br/>Be the reason that I live<br/>Jesus, Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, be my vision<br/>Be my path, be my guide, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

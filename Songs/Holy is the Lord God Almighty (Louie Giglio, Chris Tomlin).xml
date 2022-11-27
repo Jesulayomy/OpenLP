@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Holy is the Lord God Almighty</title>
+      <title>We Stand and Lift Up Our Hands</title>
+    </titles>
+    <copyright>2003 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Louie Giglio</author>
+      <author type="music">Louie Giglio</author>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We stand and lift up our hands<br/>for the joy of the Lord is our strength<br/>We bow down and worship Him now<br/>How great how awesome is He<br/>And together we sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy is the Lord God Almighty<br/>the earth is filled with His glory<br/>Holy is the Lord God Almighty<br/>the earth is filled with His glory<br/>the earth is filled with his glory</lines>
+    </verse>
+    <verse name="b1">
+      <lines>It's rising up all around<br/>It's the anthem of the Lord's renown</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ჩვენ ვდგევართ შენს წინაშე<br/>ღმერთის სიხარული მამხნევებს<br/>მუხლს ვიდრეკ და განგადიდებ<br/>საოცრად დიდი ხარ<br/>    ერთად ვმღერით,<br/>ერთად ვმღერით,<br/>წმინდა ღმერთი ყოვლის შემძლე<br/>სამყარო სავსეა მადლით<br/>წმინდა ღმერთი ყოვლის შემძლე<br/>სამყარო სავსეა მადლით<br/>სამყარო სავსეა მადლით</lines>
+    </verse>
+    <verse name="v3">
+      <lines>chven vdgevart shens tsʼinashe<br/>ghmertis sikharuli mamkhnevebs<br/>mukhls vidrekʼ da gangadideb<br/>saotsrad didi khar<br/>    ertad vmgherit,<br/>ertad vmgherit,<br/>tsʼminda ghmerti qʼovlis shemdzle<br/>samqʼaro savsea madlit<br/>tsʼminda ghmerti qʼovlis shemdzle<br/>samqʼaro savsea madlit<br/>samqʼaro savsea madlit</lines>
+    </verse>
+  </lyrics>
+</song>

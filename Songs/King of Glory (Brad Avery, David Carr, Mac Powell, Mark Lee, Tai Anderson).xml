@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>King of Glory</title>
+    </titles>
+    <copyright>2000 New Spring | Vandura 2500 Songs</copyright>
+    <authors>
+      <author type="words">Mac Powell</author>
+      <author type="music">Mac Powell</author>
+      <author type="words">Brad Avery</author>
+      <author type="music">Brad Avery</author>
+      <author type="words">David Carr</author>
+      <author type="music">David Carr</author>
+      <author type="words">Mark Lee</author>
+      <author type="music">Mark Lee</author>
+      <author type="words">Tai Anderson</author>
+      <author type="music">Tai Anderson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is this King of Glory that pursues me with His love,<br/>And haunts me with each hearing of His softly spoken words?<br/>My conscience a reminder of forgiveness that I need,<br/>Who is this King of Glory, who offers it to me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is this King of angels, oh blessed Prince of Peace,<br/>Revealing things of heaven and all it's mysteries?<br/>My spirit's ever longing for His grace in which to stand,<br/>Who is this King of Glory, Son of God and Son of Man?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>His name is Jesus, precious Jesus;<br/>Lord Almighty, King of my heart,<br/>King of Glory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is this King of Glory with strength and majesty,<br/>And wisdom beyond measure, oh gracious King of Kings?<br/>The Lord of earth and heaven, the Creator of all things,<br/>He is the King of Glory, He's everything to me.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lord Almighty, King of my heart,<br/>King of Glory.</lines>
+    </verse>
+  </lyrics>
+</song>

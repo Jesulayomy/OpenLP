@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>I Cannot Hide My Love</title>
+      <title>Psalm 40</title>
+    </titles>
+    <copyright>2001 Intrigue Music</copyright>
+    <authors>
+      <author type="words">Ben Kennedy</author>
+      <author type="music">Ben Kennedy</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit, I need Your touch<br/>More than ever before.<br/>Oh Jesus, I need Your love,<br/>And I'm desperate for more.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>When I feel Your presence all around me,<br/>When I feel Your arms as they surround me,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I cannot hide my love!<br/>I cannot hide my love!<br/>My feet will have to dance;<br/>I cannot hide my love!<br/>I cannot hide my love!<br/>My heart will have to sing.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am so in love with,<br/>I am so in love with,<br/>I am so in love with,<br/>You, my Lord, my God.</lines>
+    </verse>
+  </lyrics>
+</song>

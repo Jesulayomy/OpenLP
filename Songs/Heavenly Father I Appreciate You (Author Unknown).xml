@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Heavenly Father I Appreciate You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heavenly Father, I appreciate You.<br/>Heavenly Father, I appreciate You.<br/>I love You, adore You,<br/>I bow down before You.<br/>Heavenly Father, I appreciate You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Son of God, what a wonder You are.<br/>Son of God, what a wonder You are.<br/>You cleansed my soul from sin,<br/>You set the Holy Ghost within.<br/>Son of God, what a wonder You are.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Ghost, what a comfort You are.<br/>Holy Ghost, what a comfort You are.<br/>You lead us, You guide us,<br/>You live right inside us.<br/>Holy Ghost, what a comfort You are.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Be Exalted O God</title>
+      <title>I Will Give Thanks To Thee</title>
+    </titles>
+    <copyright>1977 Scripture In Song</copyright>
+    <authors>
+      <author type="words">Brent Chambers</author>
+      <author type="music">Brent Chambers</author>
+      <author type="words">John Michael Talbot</author>
+      <author type="music">John Michael Talbot</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>meditation</theme>
+      <theme>thanksgiving</theme>
+      <theme>gods-faithfulness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will give thanks to Thee,<br/>O Lord, among the people;<br/>I will sing praises to Thee among the nations;<br/>For Thy steadfast love is great,<br/>Is great to the heavens;<br/>And Thy faithfulness, Thy faithfulness to the sky.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be exalted, O God, above the heavens;<br/>Let Thy glory be over all the earth;<br/>Be exalted, O God, above the heavens;<br/>Let Thy glory be over all the earth!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let Thy glory, let Thy glory,<br/>Let Thy glory be over all the earth!</lines>
+    </verse>
+  </lyrics>
+</song>

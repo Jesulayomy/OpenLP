@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:14">
+  <properties>
+    <titles>
+      <title>Glorify Thy Name in all the Earth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>meditation</theme>
+      <theme>devotion</theme>
+      <theme>holy-spirit</theme>
+      <theme>god-our-father</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, we love You<br/>We worship and adore You<br/>Glorify Thy Name in all the earth</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glorify Thy Name<br/>Glorify Thy Name<br/>Glorify Thy Name in all the earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, we love You<br/>We worship and adore You<br/>Glorify Thy Name in all the earth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit, we love You<br/>We worship and adore You<br/>Glorify Thy Name in all the earth</lines>
+    </verse>
+  </lyrics>
+</song>

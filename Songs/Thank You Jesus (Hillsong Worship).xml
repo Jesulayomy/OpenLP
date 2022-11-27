@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Thank You Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1307"/>
+    </songbooks>
+    <themes>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THANK YOU JESUS<br/>Words and Music by<br/>MATT CROCKER &amp; HANNAH HOBBS<br/>♩ = 79</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 1<br/>Grace that flows like a river<br/>Washing over me<br/>Fount of heaven love of Christ<br/>Overflow in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>CHORUS<br/>Thank You Jesus<br/>You set me free<br/>Christ my Saviour<br/>You rescued me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE 2<br/>Take this life delivered<br/>A vessel of Your love<br/>Wholly now devoted<br/>To see Your kingdom come</lines>
+    </verse>
+    <verse name="v5">
+      <lines>INSTRUMENTAL</lines>
+    </verse>
+    <verse name="v6">
+      <lines>BRIDGE<br/>You've given me life<br/>You've opened my eyes<br/>I love You Lord<br/>I love You Lord<br/>You've entered my heart<br/>You've set me apart<br/>I love You Lord<br/>I love You Lord</lines>
+    </verse>
+  </lyrics>
+</song>

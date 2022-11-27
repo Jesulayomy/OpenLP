@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Lord Of Our Life</title>
+    </titles>
+    <authors>
+      <author type="music">from Poitiers Antiphoner</author>
+      <author type="words">von Löwenstern, Matthäus Apelles (1594-1648)</author>
+      <author type="translate">Pusey, Philip (1799-1855)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of our life, and God of our salvation, Star of our night, and Hope of every nation, Hear and receive Thy church's supplication, Lord God Almighty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See round Thine Ark the hungry billows curling! See how Thy foes their banners are unfurling! Lord, while their darts envenomed they are hurling, Thou canst preserve us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, Thou canst help when earthly armor faileth; Lord, Thou canst save when sin itself assaileth; Lord, o'er Thy Rock nor death nor hell prevaileth; Grant us Thy peace, Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Peace, in our hearts, our evil thoughts assuaging, Peace, in Thy Church, where brothers are engaging, Peace, when the world its busy war is waging; Calm Thy foes raging!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Grant us Thy help till backward they are driven; Grant them Thy Truth, that they may be forgiven; Grant peace on earth, and after we have striven, Peace in Thy Heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

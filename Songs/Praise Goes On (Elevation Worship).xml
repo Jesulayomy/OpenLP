@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Praise Goes On</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1746"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE: 1<br/>Here in your light we find what makes us come alive<br/>A sacrifice of praise<br/>A city on a hill surrendered to your will<br/>Your glory on display,    Your glory on display</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Awesome in this place Jesus you are awesome in this place<br/>Worthy to be praised Jesus you are worthy to be praised<br/>You will be praised</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE: 2<br/>Your love a force of grace consuming every space<br/>It's uncontainable<br/>You're coming like a flood Our hearts are filling up<br/>All things are possible, all things are possible</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>Your praise goes on and on forever more<br/>We lift the name of Jesus<br/>Your kingdom come is what we're living for<br/>We lift the name of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

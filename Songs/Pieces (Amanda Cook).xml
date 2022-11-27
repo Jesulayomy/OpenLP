@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Pieces</title>
+    </titles>
+    <authors>
+      <author type="words">Amanda Cook</author>
+      <author type="music">Amanda Cook</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6051"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>Unreserved, unrestrained<br/>Your love is wild, Your love is wild for me<br/>It isn't shy, it's unashamed<br/>Your love is proud to be seen with me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>You don't give Your heart in pieces<br/>You don't hide Yourself to tease us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>Uncontrolled, un-contained<br/>Your love is a fire burning bright for me<br/>It's not just a spark, it's not just a flame<br/>Your love is a light, and all the world will see</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Your love's not fractured<br/>It's not a troubled mind<br/>It isn't anxious it's not the restless kind<br/>Your love's not passive<br/>It's never disengaged<br/>It's always present<br/>It hangs on every word we say<br/>Love keeps its promises,it keeps its word<br/>It honors what's sacred, cause its vows are good<br/>Your love's not broken<br/>It's not insecure<br/>Your love's not selfish, Your love is pure</lines>
+    </verse>
+  </lyrics>
+</song>

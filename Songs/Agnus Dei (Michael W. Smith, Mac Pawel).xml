@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>Agnus Dei</title>
+      <title>Worthy is the Lamb</title>
+    </titles>
+    <authors>
+      <author type="words">Mac Pawel</author>
+      <author type="music">Mac Pawel</author>
+      <author type="words">Michael W. Smith</author>
+      <author type="music">Michael W. Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3672"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>meditation</theme>
+      <theme>devotion</theme>
+      <theme>truth</theme>
+      <theme>peace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia Alleluia for the Lord God Almighty reigns<br/>Alleluia Alleluia for the Lord God Almighty reigns<br/>Alleluia</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy, holy are You Lord God almighty<br/>Worthy is the Lamb, worthy is the Lamb<br/>For You are holy, holy are You Lord God almighty<br/>Worthy is the Lamb, worthy is the Lamb<br/>Amen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ჰალელუია ჰალელუია წმინდა ხარ შენ უფალო ღმერთო ჰალელუია...</lines>
+    </verse>
+    <verse name="c2">
+      <lines>წმინდა წმინდა<br/>ხარ შენ ღმერთო ყოვლისშემძლე<br/>ღირსია კრავი,ღირსია კრავი ქება დიდების წმინდა<br/>ხარ შენ ღმერთო ყოვლისშემძლე<br/>ღირსია კრავი, ღირსია კრავი ამინ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>haleluia haleluia tsʼminda khar shen upalo ghmerto haleluia...</lines>
+    </verse>
+    <verse name="c3">
+      <lines>tsʼminda tsʼminda<br/>khar shen ghmerto qʼovlisshemdzle<br/>ghirsia kʼravi,ghirsia kʼravi keba didebis tsʼminda<br/>khar shen ghmerto qʼovlisshemdzle<br/>ghirsia kʼravi, ghirsia kʼravi amin!</lines>
+    </verse>
+  </lyrics>
+</song>

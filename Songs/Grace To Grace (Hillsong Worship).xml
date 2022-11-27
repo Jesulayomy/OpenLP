@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Grace To Grace</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4880"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>If love endured that ancient cross<br/>How precious is my Saviour's blood<br/>The beauty of heaven wrapped in my shame<br/>The image of love upon death's frame</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus: 1<br/>If having my heart was worth the pain<br/>What joy could You see beyond the grave<br/>If love found my soul worth dying for</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus: 1<br/>How wonderful, how glorious<br/>My Saviour's scars, victorious<br/>My chains are gone, my debt is paid<br/>From death to life and grace to grace</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>If heaven now owns that vacant tomb<br/>How great is the hope that lives in You<br/>The passion that tore through hell like a rose<br/>The promise that rolled back death and its stone</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pre Chorus: 2<br/>If freedom is worth the life You raised<br/>Oh where is my sin, where is my shame<br/>If love paid it all to have my heart</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Chorus: 2<br/>How wonderful, how glorious<br/>My Saviour's scars, victorious<br/>My chains are gone, my debt is paid<br/>From death to life and grace to grace</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:<br/>When I see that cross, I see freedom<br/>When I see that grave, I'll see Jesus<br/>And from death to life, I will sing Your praise<br/>In the wonder of Your grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I see that cross, I see freedom<br/>When I see that grave, I'll see Jesus<br/>And from death to life, I will sing Your praise<br/>In the wonder of Your grace</lines>
+    </verse>
+    <verse name="b4">
+      <lines>Tag:<br/>How my soul will sing Your praise<br/>In the wonder of Your grace<br/>How my soul will sing Your praise</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Chorus: 3<br/>How wonderful, how glorious<br/>My Saviour's scars, victorious<br/>My chains are gone, my debt is paid<br/>From death to life and grace to grace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>End:</lines>
+    </verse>
+  </lyrics>
+</song>

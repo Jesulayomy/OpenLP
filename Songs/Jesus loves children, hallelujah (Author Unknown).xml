@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Jesus loves children, hallelujah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus loves children, hallelujah.<br/>Jesus loves children, hallelujah.<br/>Jesus loves children, hallelujah.<br/>Jesus loves children, hallelujah.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus heals, hallelujah.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He died on the cross He, Hallelujah.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He rose from the dead, hallelujah.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Soon He will come to us, Hallelujah.</lines>
+    </verse>
+  </lyrics>
+</song>

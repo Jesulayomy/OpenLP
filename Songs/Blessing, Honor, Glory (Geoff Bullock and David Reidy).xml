@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Blessing, Honor, Glory</title>
+    </titles>
+    <copyright>1990 Word Music, Inc.</copyright>
+    <authors>
+      <author type="words">Geoff Bullock and David Reidy</author>
+      <author type="music">Geoff Bullock and David Reidy</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessing, honor, glory to the Lamb;<br/>Holy, righteous, worthy is the Lamb. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Death could not hold Him down,<br/>For He is risen,<br/>Seated upon the throne!<br/>He is the Lamb of God.</lines>
+    </verse>
+  </lyrics>
+</song>

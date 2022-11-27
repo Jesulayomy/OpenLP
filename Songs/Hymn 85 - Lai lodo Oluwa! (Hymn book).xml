@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T10:43:59">
+  <properties>
+    <titles>
+      <title>Hymn 85 - Lai lodo Oluwa!</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lai lodo Oluwa!<br/>Amin, beni k’o ri,<br/>Iye wa ninu oro na,<br/>Aiku ni titi lai,<br/>Nihin ninu ara,<br/>Mo sako jina si;<br/>Sibe alale ni mo nfi,<br/>Ojo kan sunmole!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ile Baba loke,<br/>Ile okan mi ni;<br/>Emi nfi oju igbagbo<br/>Wo bode wura re!<br/>Okan mi nfa pipo,<br/>S’ ile na ti mo fe,<br/>Ile didan t’ awon mimo<br/>Jerusalem t’ orun.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Awosanma dide,<br/>Gbogbo ero mi pin;<br/>Bi adaba Noa, mo nfo<br/>Larin iji lile.<br/>Sugbon sanma kuro,<br/>Iji si rekoja,<br/>Ayo ati alafia<br/>Si gba okan mi kan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>L' oro ati l’ ale<br/>L’ osan ati l’ oru,<br/>Mo ngbo orin orun, bori<br/>Rudurudu aiye,<br/>Oro ajinde ni,<br/>Hiho isegun ni,<br/>Lekan si, Lai lod’ Oluwa.<br/>Amin, beni ko ri.</lines>
+    </verse>
+  </lyrics>
+</song>

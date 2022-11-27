@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Embracing Accusation</title>
+    </titles>
+    <copyright>2007 Inpop Records</copyright>
+    <authors>
+      <author type="words">Shane Barnard</author>
+      <author type="music">Shane Barnard</author>
+      <author type="words">Shane Everett</author>
+      <author type="music">Shane Everett</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The father of lies,<br/>Coming to steal, kill, and destroy<br/>All my hopes of being good enough.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I hear him saying, "Cursed are the ones who can't abide."<br/>He's right. Alleluia. He's right.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The devil is preaching  the song of the redeemed,<br/>That I am cursed and gone astray, I cannot gain salvation.<br/>Embracing accusation.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Could the father of lies<br/>Be telling the truth of God to me tonight?<br/>If the penalty of sin is death, then death is mine.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>The devil is preaching<br/>The song of the redeemed,<br/>That I am cursed and gone astray,<br/>I cannot gain saaaaaalvvvation.<br/>    </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh the devil's singing over me an age old song,<br/>That I am cursed and gone astray.<br/>Singing the first verse so conveniently over me,<br/>He's forgotten the refrain...<br/>JESUS SAVES!</lines>
+    </verse>
+  </lyrics>
+</song>

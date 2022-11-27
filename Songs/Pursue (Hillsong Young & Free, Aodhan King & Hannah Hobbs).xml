@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Pursue</title>
+    </titles>
+    <authors>
+      <author type="words">Aodhan King &amp; Hannah Hobbs</author>
+      <author type="music">Aodhan King &amp; Hannah Hobbs</author>
+      <author type="words">Hillsong Young &amp; Free</author>
+      <author type="music">Hillsong Young &amp; Free</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1333"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>I close my eyes to see<br/>My King and Majesty<br/>Your grace compels my soul<br/>To love and draw in close</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I lift my hands and sing<br/>Surrender everything<br/>In You I know I'm found<br/>My God to You I bow</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Now until forever, Jesus I surrender<br/>Show me what I don't know, more of You<br/>I'm desperate for Your presence longing to be with You<br/>Lead me to a new place, more of You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>Through the fire, I'll persevere<br/>I won't submit to any fear<br/>Where I go, You've been before<br/>All my trust is in You, Lord</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Now until forever, Jesus I surrender<br/>Show me what I don't know, more of You<br/>I'm desperate for Your presence longing to be with You<br/>Lead me to a new place, more of You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Lead me to You, forever Lord I will pursue I will pursue<br/>You've won my heart, Jesus You're all that I want fll that I want</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>Now until forever, Jesus I surrender<br/>Show me what I don't know, more of You<br/>I'm desperate for Your presence longing to be with You<br/>Lead me to a new place, more of You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now until forever, Jesus I surrender<br/>Show me what I don't know, more of You<br/>I'm desperate for Your presence longing to be with You<br/>Lead me to a new place, more of You</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Lead me to You, forever Lord I will pursue I will pursue<br/>You've won my heart, Jesus You're all that I want fll that I want</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Continue 'til end...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Lettered Love</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3250"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1:<br/>Your Word shows<br/>How much You have loved me<br/>Sending Love to find me<br/>Reaching to my heart<br/>Now I see<br/>Lettered love has found me<br/>Littered red with mercy<br/>Written in Your scars<br/>Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS 1:<br/>So have this broken heart<br/>And show me what Love paid for<br/>Oh Lord let my heart beat with Yours<br/>This lettered love<br/>Is shaping my story</lines>
+    </verse>
+    <verse name="b1">
+      <lines>TAG:<br/>All for the praise of Your Name<br/>All for the fame of Your glory<br/>Jesus be all that I seek<br/>Your presence is all that I need</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE:<br/>Like the sun and moon<br/>Like the night and noon<br/>Your Word is light to me<br/>And I'll praise You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Splitting death and life<br/>Like the earth and sky<br/>Your Word is light in me<br/>And I'll praise You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS 2:<br/>Lord have this broken heart<br/>For this broken heart is paid for<br/>And shaped by the truth of Your Word<br/>This lettered love<br/>Has written my story</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Words and Music by Nathan Hughes &amp; Scott Ligertwood<br/>© 2017 Hillsong Music Publishing<br/>CCLI: 7102395</lines>
+    </verse>
+  </lyrics>
+</song>

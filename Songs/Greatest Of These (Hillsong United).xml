@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Greatest Of These</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2605"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Words and Music by Joel Houston Benjamin Hastings &amp; Michael Fatkin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 1<br/>I could chase after greatness<br/>First to fall on my knees<br/>Lose myself to be found<br/>Where You want me<br/>I could do all the right things<br/>Sing the words till they bleed<br/>But I know it's just noise<br/>If I don't have love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>CHORUS<br/>So I won't waste my breath<br/>If it's not for love<br/>I don't have the heart<br/>If it's not for love<br/>Don't let me say it's faith<br/>If it counts no cost<br/>'Cause there's no fear in love<br/>But there is a cross</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE 2<br/>I could speak like the angels<br/>Prophesy knowing all<br/>I could live with the faith<br/>To move mountains<br/>Should I die like a martyr<br/>Give my wealth to the poor<br/>It would all scream loud-nothing<br/>If I don't have love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>BRIDGE<br/>Be patient<br/>Be kind<br/>Hold no envy or pride<br/>Be the first to come last<br/>For another<br/>Never forced<br/>Slow to anger<br/>Trust without keeping score<br/>Long to suffer with truth<br/>Love will never die</lines>
+    </verse>
+    <verse name="v6">
+      <lines>TAG<br/>Love will never die<br/>But there is a cross</lines>
+    </verse>
+  </lyrics>
+</song>

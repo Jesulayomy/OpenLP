@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>My Saviour Lives</title>
+    </titles>
+    <authors>
+      <author type="words">New Life Worship</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our God will reign forever<br/>And all the world will know His name<br/>Everyone together sing the song of the redeemed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I know that my redeemer lives<br/>And now I stand on what He did<br/>My Saviour, my Saviour lives<br/>Every day a brand new chance to say<br/>"Jesus, You are the only way"<br/>My Saviour, my Saviour lives x 4</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The King has come from Heaven<br/>And darkness trembles at His name<br/>Victory for - ever  is the song of the redeemed----→Chorus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>My Saviour lives, My Saviour lives, My Saviour lives x2</lines>
+    </verse>
+  </lyrics>
+</song>

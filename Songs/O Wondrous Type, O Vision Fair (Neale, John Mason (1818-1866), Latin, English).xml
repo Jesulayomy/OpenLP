@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O Wondrous Type, O Vision Fair</title>
+    </titles>
+    <authors>
+      <author type="music">English</author>
+      <author type="words">Latin</author>
+      <author type="translate">Neale, John Mason (1818-1866)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O wondrous type! O vision fair Of glory that the Church may share, Which Christ upon the mountain shows, where brighter than the sun He glows!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From age to age the tale declare, How with the three disciples there, Where Moses and Elijah meet, The Lord holds converse high and sweet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The law and prophets there have place, Two chosen witnesses of grace; The Father's voice from out the cloud proclaims His only Son aloud.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>With shining face and bright array, Christ deigns to manifest today What glory shall be theirs above who joy in God with perfect love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And faithful hearts are raised on high by this great vision's mystery; For which in joyful strains we raise the voice of prayer, the hymn of praise.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O Father, with th'Eternal Son,<br/>and Holy Spirit, ever One,<br/>Vouchsafe to bring us by Thy grace<br/>to see Thy glory face to face.</lines>
+    </verse>
+  </lyrics>
+</song>

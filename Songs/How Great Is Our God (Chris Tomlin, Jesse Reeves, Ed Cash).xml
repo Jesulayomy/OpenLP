@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>How Great Is Our God</title>
+      <title>Splendor of the King, Name above All Names</title>
+    </titles>
+    <authors>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>worship</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The splendor of the King,<br/>Clothed in majesty,<br/>Let all the earth rejoice,<br/>All the earth rejoice.<br/>He wraps Himself in light,<br/>And darkness tries to hide<br/>And trembles at His voice,<br/>Trembles at His voice.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How great is our God, sing with me,<br/>How great is our God, all will see<br/>How great, how great is our God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Age to age He stands,<br/>And time is in His hands,<br/>Beginning and the end,<br/>Beginning and the end.<br/>The Godhead, three in one<br/>Father Spirit Son.<br/>The Lion and the Lamb,<br/>The Lion and the Lamb.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Name above all names,<br/>Worthy of all praise,<br/>My heart will sing<br/>How great is our God.</lines>
+    </verse>
+  </lyrics>
+</song>

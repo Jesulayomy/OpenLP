@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Here I Am Again</title>
+    </titles>
+    <authors>
+      <author type="words">Tommy Walker</author>
+      <author type="music">Tommy Walker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am again just looking<br/>For the words that help me say that<br/>My heart is full of love and praises<br/>I must have prayed a thousand prayers<br/>And sung a hundred songs but<br/>I just have to say again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh how I love You<br/>More than words can say,<br/>In the deepest heartfelt way<br/>Oh how, Lord I love You<br/>Once again receive my praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So many words, so many songs,<br/>So many melodies yet<br/>Allow me one more declaration<br/>You are the lover of my soul<br/>The center of my life<br/>So I just have to say again</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Thank You for a brand new day,<br/>A brand new chance to stand and say I love You<br/>Help me find the words to say that<br/>Tell You in a brand new way, I love You</lines>
+    </verse>
+  </lyrics>
+</song>

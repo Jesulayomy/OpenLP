@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Anything</title>
+    </titles>
+    <copyright>2003 Consuming Fire Music</copyright>
+    <authors>
+      <author type="words">Brad Avery</author>
+      <author type="music">Brad Avery</author>
+      <author type="words">David Carr</author>
+      <author type="music">David Carr</author>
+      <author type="words">Mac Powell</author>
+      <author type="music">Mac Powell</author>
+      <author type="words">Mark D. Lee</author>
+      <author type="music">Mark D. Lee</author>
+      <author type="words">Tai Anderson</author>
+      <author type="music">Tai Anderson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can't do anything, I can't do anything without You.<br/>But You can do anything, You can do anything You want.<br/>And I just can't belive, I can't belive that You would love me,<br/>After everything, after everything I've done.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I want to love You, love You more than life itself<br/>And I want to hold You, even though You can't be held,<br/>Because You're so much more than everything I've ever known,<br/>Anything, anything.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'd give anything, I would give anything to hold You.<br/>I want to live for You, for You alone I want to live.<br/>When I see Your face, I would do anything to know You.<br/>You gave everything, You gave everything to give.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Halle, Hallelujah,<br/>Halle, Hallelujah,<br/>Halle, Hallelujah,<br/>Halle</lines>
+    </verse>
+  </lyrics>
+</song>

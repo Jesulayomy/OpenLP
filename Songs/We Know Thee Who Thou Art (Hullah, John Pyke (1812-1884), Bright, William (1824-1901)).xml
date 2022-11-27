@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>We Know Thee Who Thou Art</title>
+      <title>Prayer After Pardon</title>
+    </titles>
+    <authors>
+      <author type="music">Hullah, John Pyke (1812-1884)</author>
+      <author type="words">Bright, William (1824-1901)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We know Thee who Thou art, Lord Jesus, Mary's Son; We know the yearnings of Thy heart To end Thy work begun.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That sacred fount of grace, 'Mid all the bliss of Heav'n, Has joy whene'er we seek Thy face, And kneel to be forgiv'n.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Brought home from ways perverse, At peace Thine arms within, We pray Thee, shield us from the curse Of falling back to sin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We dare not ask to live Henceforth from trials free; But oh! when next they tempt us, give More strength to cling to Thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We know Thee who Thou art, Our own redeeming Lord; Be Thou by will, and mind, and heart, Accepted, loved, adored.</lines>
+    </verse>
+  </lyrics>
+</song>

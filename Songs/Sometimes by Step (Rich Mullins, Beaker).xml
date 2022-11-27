@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Sometimes by Step</title>
+    </titles>
+    <copyright>1992 BMG Songs, Inc.</copyright>
+    <authors>
+      <author type="words">Rich Mullins, Beaker</author>
+      <author type="music">Rich Mullins, Beaker</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes the night was beautiful. Sometimes the sky was so far away.<br/>Sometimes it seemed to stoop so close you could touch it, but your heart would break.<br/>Sometimes the morning came too soon. Sometimes the day could be so hard.<br/>There was so much work left to do, but so much you'd already done.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh God, You are my God,  and I will ever praise You.<br/>Oh God, You are my God,  and I will ever praise You.<br/>I will seek You in the morning,<br/>And I will learn to walk in Your ways.<br/>And step by step, You'll lead me,<br/>And I will follow You all of my days.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes I think of Abraham, how one star he saw had been lit for me.<br/>He was a stranger in this land, and I am that no less than he.<br/>And on this road to righteousness, sometimes the climb can be so steep;<br/>I may falter in my steps, but never beyond Your reach.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I will follow You all of my days.<br/>And I will follow You all of my days.<br/>And step by step, You'll lead me,<br/>And I will follow You all of my days.</lines>
+    </verse>
+  </lyrics>
+</song>

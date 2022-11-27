@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>He's the only reason I live</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>He's the only reason I live, but oh, what a reason<br/>He's the only reason I live, but oh, what a reason<br/>There is nothing in this world worth living for<br/>It only leaves you empty and longing for more<br/>He's the only reason I live, but oh, what a reason.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I've been blessed with so many things,<br/>God's been good to me<br/>I have family and friends who share in all I do<br/>But if I lose it all and I am left with nothing<br/>If I have the Lord, then I know I'll make it through.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>He's the only reason I live, but oh, what a reason<br/>He's the only reason I live, but oh, what a reason<br/>There is nothing in this world worth living for<br/>It only leaves you empty and longing for more<br/>He's the only reason I live, but oh, what a reason.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You may have tried a lot of things to find true happiness<br/>But if you've looked very long then you know it just can't be found<br/>Until you find the Lord and the power of His spirit<br/>He'll be your reason to live and He'll never let you down</lines>
+    </verse>
+  </lyrics>
+</song>

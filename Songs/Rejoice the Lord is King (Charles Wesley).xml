@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Rejoice the Lord is King</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 e1</verseOrder>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice, the Lord is King!<br/>Your Lord and King adore; <br/>Mortals, give thanks, and sing, <br/>And triumph ever more:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lift up your heart, lift up your voice; <br/>Rejoice! Again I say: rejoice!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus the Saviour reigns, <br/>The God of truth and love;<br/>When He had purged our stains, <br/>He took His seat above:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His kingdom cannot fail, <br/>He rules o’er earth and heaven; <br/>The keys of death and hell <br/>Are to our Jesus given:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He sits at God’s right hand <br/>Till all His foes submit, <br/>And bow to His command, <br/>And fall beneath His feet:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rejoice in glorious hope; <br/>Jesus the Judge shall come, <br/>And take His servants up <br/>To their eternal home:</lines>
+    </verse>
+    <verse name="e1">
+      <lines>We soon shall hear the archangel’s voice;<br/>The trump of God shall sound: rejoice!</lines>
+    </verse>
+  </lyrics>
+</song>

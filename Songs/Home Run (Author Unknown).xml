@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Home Run</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="b1">
+      <lines>We are not the first to play this game or stand over this plate.<br/>We are surrounded by the legacy, like they're sittin' in the stands.<br/>I can see them wavin' their hands, sayin', "Go ,go all the way!"</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Come on now<br/>Home home home run hey it's gone gone now<br/>Home home home run hey it's our home run</lines>
+    </verse>
+  </lyrics>
+</song>

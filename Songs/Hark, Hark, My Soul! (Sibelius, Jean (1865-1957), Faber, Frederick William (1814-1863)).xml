@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Hark, Hark, My Soul!</title>
+    </titles>
+    <authors>
+      <author type="music">Sibelius, Jean (1865-1957)</author>
+      <author type="words">Faber, Frederick William (1814-1863)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark! hark, my soul! angelic songs are swelling O'er earth's green fields and ocean's wave\beat shore: How sweet the truth those blessèd strains are telling Of that new life when sin shall be no more! Onward we go, for still we hear them sing, "Come, weary souls, for Jesus bids you come";</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And through the dark, its echoes sweetly ringing, The music of the Gospel leads us home. Far, far away, like bells at ev'ning pealing, The voice of Jesus sounds o'er land and sea, And laden souls, by thousands meekly stealing, Kind Shepherd, turn their weary steps to Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Faith's journeys end in welcome to the weary, And Heav'n, the heart's true home will come at last. Angels, sing on, your faithful watches keeping, Sing us sweet fragments of the songs above; Till morning's joy shall end the night of weeping, And life's long shadows break in cloudless love.</lines>
+    </verse>
+  </lyrics>
+</song>

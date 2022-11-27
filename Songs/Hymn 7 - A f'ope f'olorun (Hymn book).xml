@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-08-07T08:28:28">
+  <properties>
+    <titles>
+      <title>Hymn 7 - A f'ope f'olorun</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A f'ope f'Olorun<br/>L'okan ati ohun wa<br/>Eni s'ohun 'yanu<br/>N'nu Eni t'araye nyo<br/>Gbat'a wa l'om'owo<br/>On na l'o ntoju wa<br/>O si nfe ebun ife<br/>Se 'toju wa sibe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oba onib'ore<br/>Ma fiwa sile lailai<br/>Ayo to ko l'opin<br/>On 'bukun y'o je tiwa<br/>Pa wa mo n'nu ore<br/>To wa gb'a ba damu<br/>yo wa ninu ibi<br/>L'aye ati l'orun</lines>
+    </verse>
+    <verse name="v3">
+      <lines>K'a fiyin on ope<br/>F'olorun Baba, Omo<br/>Ati Emi Mimo;<br/>Ti o ga julo l'orun<br/>Olorun kan lailai<br/>T'aye at'orun mbo<br/>Be l'o wa d'isiyi<br/>Beni y'o wa lailai</lines>
+    </verse>
+  </lyrics>
+</song>

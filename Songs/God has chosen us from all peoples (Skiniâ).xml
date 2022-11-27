@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>God has chosen us from all peoples</title>
+    </titles>
+    <authors>
+      <author type="words">Skiniâ</author>
+      <author type="music">Skiniâ</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>protection</theme>
+      <theme>god-our-father</theme>
+      <theme>church</theme>
+      <theme>our-nation-culture</theme>
+      <theme>unity</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God has chosen us from all peoples,<br/>He gave us his heart.<br/>God has chosen us from all tribes and languages,<br/>But gave us the name of one!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When we are together - we are strong!<br/>When we are together - the Lord among us!<br/>When we are together - flows the love of God<br/>Pour down to us.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are the church, we are the body of Christ,<br/>We are redeemed by the blood of His!<br/>The gates of hell will not prevail against us,<br/>Because we are invincible!</lines>
+    </verse>
+  </lyrics>
+</song>

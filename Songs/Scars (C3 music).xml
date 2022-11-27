@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Scars</title>
+    </titles>
+    <authors>
+      <author type="words">C3 music</author>
+      <author type="music">C3 music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4071"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>gospel</theme>
+      <theme>repentance</theme>
+      <theme>forgiveness</theme>
+      <theme>lords-supper</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You cleared my stains with the tides of grace<br/>That wash over me<br/>That wash over me<br/>Took upon Yourself all the guilt and shame<br/>Hung it on the cross<br/>Hung it on the cross</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2<br/>You defeated death, stood above the grave<br/>You broke every chain<br/>You broke every chain<br/>You rose again with the keys of life<br/>To the highest place<br/>You're the highest name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>PRECHORUS<br/>Only love this true<br/>Would give all to breakthrough<br/>I rise up, I stand strong<br/>In Your name we have won</lines>
+    </verse>
+    <verse name="v5">
+      <lines>CHORUS<br/>You love me with Your scars<br/>You love me with Your scars<br/>You love me with Your scars<br/>You love me with Your scars</lines>
+    </verse>
+  </lyrics>
+</song>

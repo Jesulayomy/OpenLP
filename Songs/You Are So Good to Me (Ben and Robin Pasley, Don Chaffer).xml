@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>You Are So Good to Me</title>
+    </titles>
+    <copyright>1999 Blue Renaissance Music</copyright>
+    <authors>
+      <author type="words">Ben and Robin Pasley</author>
+      <author type="music">Ben and Robin Pasley</author>
+      <author type="words">Don Chaffer</author>
+      <author type="music">Don Chaffer</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>You are beautiful, my sweet, sweet song.<br/>You are beautiful, my sweet, sweet song.<br/>You are beautiful, my sweet, sweet song.<br/>And I will sing again.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You are so good to me; You heal my broken heart.<br/>You are my Father in heaven. (2X)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You ride upon the clouds; You lead me to the truth.<br/>You are the Spirit inside me. (2X)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are my strong melody.<br/>You are my dancing rythym.<br/>You are my perfect rhyme, and I will sing of You forever.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You poured out all Your blood; You died upon the cross.<br/>You are my Jesus who loves me. (2X)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>You are my Father in heaven.<br/>You are the Spirit inside me.<br/>You are my Jesus who loves me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>All the Poor and Powerless</title>
+    </titles>
+    <authors>
+      <author type="words">All Sons &amp; Daughters</author>
+      <author type="music">All Sons &amp; Daughters</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1693"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>All the poor and powerless<br/>And all the lost and lonely<br/>All the thieves will come confess<br/>And know that you are holy<br/>Will know that you are holy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>All will sing out, Hallelujah<br/>We will cry out, Hallelujah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>All the hearts who are content<br/>And all who feel unworthy<br/>All who hurt will nothing left<br/>Will know that you are holy</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Shout it, go on and scream it from the mountains<br/>Go on and tell it to the masses<br/>That He is God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will sing out, Hallelujah<br/>We will cry out, Hallelujah<br/>We will sing out, Hallelujah<br/>God</lines>
+    </verse>
+  </lyrics>
+</song>

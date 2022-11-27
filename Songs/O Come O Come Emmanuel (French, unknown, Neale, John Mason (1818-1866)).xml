@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>O Come O Come Emmanuel</title>
+    </titles>
+    <authors>
+      <author type="music">French</author>
+      <author type="words">unknown</author>
+      <author type="translate">Neale, John Mason (1818-1866)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+      <theme>god-our-father</theme>
+      <theme>gods-word</theme>
+      <theme>gods-faithfulness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O come, O come, Emmanuel, And ransom captive Israel, That mourns in lonely exile here Until the Son of God appear. Rejoice! Rejoice! Emmanuel shall come to thee, O Israel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O come, Thou Wisdom from on high, Who orderest all things mightily; To us the path of knowledge show, And teach us in her ways to go. Rejoice! Rejoice! Emmanuel shall come to thee, O Israel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O come, Thou Rod of Jesse, free Thine own from Satan's tyranny; From depths of hell Thy people save, And give them vict'ry ov'r the grave. Rejoice! Rejoice! Emmanuel shall come to thee, O Israel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O come, Thou Dayspring, come and cheer Our spirits by Thine advent here; Disperse the gloomy clouds of night, And death's dark shadows put to flight. Rejoice! Rejoice! Emmanuel shall come to thee, O Israel.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O come, Thou Key of David, come, And open wide our heav'nly home; Make safe the way that leads on high, And close the path to misery. Rejoice! Rejoice! Emmanuel shall come to thee, O Israel.</lines>
+    </verse>
+  </lyrics>
+</song>

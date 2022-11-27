@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-06T17:44:21">
+  <properties>
+    <titles>
+      <title>Hymn 154 - Cling To The Bible</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cling to the Bible, though all else be taken;<br/>Lose not its precepts, so precious and pure;<br/>Souls that are sleeping its tidings awaken;<br/>Life from the dead in its promises sure.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cling to the Bible,<br/>Cling to the Bible!<br/>Cling to the Bible,<br/>Our Lamp and our Guide!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cling to the Bible! This jewel and treasure<br/>Brings life eternal, and saves fallen man;<br/>Surely its value no mortal can measure:<br/>Seek for its blessing, O soul, while you can! </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lamp for the feet that in by ways have wandered,<br/>Guide for the youth that would otherwise fall;<br/>Hope for the sinner whose life has been squandered,<br/>Staff for the agèd, and best book of all.</lines>
+    </verse>
+  </lyrics>
+</song>

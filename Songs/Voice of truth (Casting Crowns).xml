@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Voice of truth</title>
+    </titles>
+    <authors>
+      <author type="words">Casting Crowns</author>
+      <author type="music">Casting Crowns</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1555"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>Oh what i would do to have the kind of faith it takes to climb out of this<br/>Boat i'm in onto the crashing waves<br/>To step out of my comfort zone into the realm of the unknown where<br/>Jesus is and he's holding out his hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wbut the aves are calling out my name and they laugh at me<br/>Reminding me of all the Times i've tried before and failed<br/>the waves they keep on telling me time and time again<br/>"boy you never win, you never win"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>But the voice of truth tells me a different story<br/>The voice of truth says "Do not be afraid"<br/>And the voice of truth says "This is for my glory"<br/>Out of all the voices calling out to me<br/>I will choose to listen and believe the voice of truth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>Oh what i would do to have the kind of strength it takes to stand before a giant<br/>With just a sling and a stone<br/>Surrounded by the sound of a thousand warriors shaking in their armor wishing<br/>They'd have had the strength</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To stand but the giants calling out my name and he laughs at me<br/>Reminding me of all times i've tried before and failed<br/>The giant keeps on telling me time and time again<br/>"Boy, you never win, you never win"</lines>
+    </verse>
+  </lyrics>
+</song>

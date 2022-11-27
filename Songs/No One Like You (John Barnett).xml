@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>No One Like You</title>
+    </titles>
+    <copyright>1994 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">John Barnett</author>
+      <author type="music">John Barnett</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's no one like you in all the earth<br/>There's no one like you in the heavens<br/>There's no one like you who knows my weakness<br/>Who knows my frailty and my desi - re</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Is to know you all my days<br/>Is to know you as my Savior<br/>Is to know you in your beauty<br/>In your power and your glory<br/>There's no one like you, No one<br/>There's no one like you, No one</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's no one like you in all the earth<br/>There's no one like you in the heavens<br/>There's no one like you who sings so sweetly<br/>Who shines so brighty and is so holy</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And I will praise you all my days<br/>I will praise you as my Savior<br/>I will praise you in you beauty<br/>In your power and your glory<br/>There's no one like you, No one<br/>There's no one like you, No one</lines>
+    </verse>
+  </lyrics>
+</song>

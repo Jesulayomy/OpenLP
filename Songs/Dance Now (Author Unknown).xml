@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Dance Now</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2889"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm not holding back, I've got to give You praise<br/>With every part of me I'm breaking out<br/>I've got to let You know that You're my everything<br/>With every part of me I'll praise You now</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pre-chorus :<br/>And I will dance and sing, You know I'm going to shout it out<br/>For You my King 'cause You are all I need now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus :<br/>It's time to get up and dance 'cause we're free now<br/>It's time to lift up your praise and shout it out now<br/>It's time to break off the chains 'cause it's a brand new day<br/>And everything is OK, let's dance</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Dance now, everybody shout now<br/>Lifting up our praise loud<br/>Dancing in this freedom we know</lines>
+    </verse>
+  </lyrics>
+</song>

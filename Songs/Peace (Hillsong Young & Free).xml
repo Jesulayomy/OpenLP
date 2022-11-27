@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Peace</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Young &amp; Free</author>
+      <author type="music">Hillsong Young &amp; Free</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3152"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BPM: 64,00 Time Sig: 6/8</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Intro]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 1<br/>You will stay true<br/>Even when the lies come<br/>Your Word remains truth<br/>Even when my thoughts don't line up<br/>I will stand tall<br/>On each promise You made<br/>Let the rest fade away</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>There's a peace far beyond all understanding<br/>May it ever set my heart at ease<br/>Dare anxiety come, I'll remember<br/>That peace is a promise You keep<br/>Peace is a promise You keep</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse: 2<br/>You will stay true<br/>Even in the chaos<br/>Your Word remains truth<br/>Even when my mind wreaks havoc<br/>I will be still<br/>For I've known all along<br/>My Jehovah Shalom</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>There's a peace far beyond all understanding<br/>May it ever set my heart at ease<br/>What anxiety fails remember<br/>Is peace is a promise You keep<br/>Peace is a promise You keep</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>You are peace to a restless soul<br/>Peace when my thoughts wage war<br/>Peace to the anxious heart<br/>That's who You are, that's who You are<br/>You are peace when my fear takes hold<br/>Peace when I feel enclosed<br/>Peace when I lose control<br/>That's who You are, that's who You are</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>I've found peace far beyond all understanding<br/>Let it flow when my mind's under siege<br/>All anxiety bows in the presence<br/>Of Jesus the Keeper of Peace<br/>And peace is a promise He keeps</lines>
+    </verse>
+  </lyrics>
+</song>

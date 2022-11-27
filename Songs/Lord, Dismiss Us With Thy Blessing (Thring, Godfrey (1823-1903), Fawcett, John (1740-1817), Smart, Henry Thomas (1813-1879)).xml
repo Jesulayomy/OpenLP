@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lord, Dismiss Us With Thy Blessing</title>
+    </titles>
+    <authors>
+      <author type="music">Smart, Henry Thomas (1813-1879)</author>
+      <author type="words">Fawcett, John (1740-1817)</author>
+      <author type="words">Thring, Godfrey (1823-1903)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, dismiss us with Thy blessing; Fill our hearts with joy and peace; Let us each Thy love possessing, Triumph in redeeming grace. O refresh us, O refresh us, Trav'ling through this wilderness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thanks we give and adoration For Thy Gospel's joyful sound; May the fruits of Thy salvation In our hearts and lives abound. Ever faithful, ever faithful, To the truth may we be found.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So that when Thy love shall call us, Savior, from the world away, Fear of death shall not appall us, Glad Thy summons to obey. May we ever, may we ever, Reign with Thee in endless day.</lines>
+    </verse>
+  </lyrics>
+</song>

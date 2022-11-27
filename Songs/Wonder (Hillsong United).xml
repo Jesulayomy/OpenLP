@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Wonder</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2585"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Have you ever seen the wonder<br/>In the glimmer of first sight<br/>As the eyes begin to open<br/>And the blindness meets the light<br/>If you have so say</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I see the world in light<br/>I see the world in wonder<br/>I see the world in life<br/>Bursting in living colour<br/>I see the world Your way<br/>And I'm walking in the light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Have you ever seen the wonder<br/>In the air of second life<br/>Having come out of the waters<br/>With the old one left behind</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you have so say</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I see the world in light<br/>I see the world in wonder<br/>I see the world in life<br/>Bursting in living colour<br/>I see the world Your way<br/>And I'm walking in the light</lines>
+    </verse>
+    <verse name="c3">
+      <lines>PostChorus:<br/>I see the world in grace<br/>I see the world in gospel<br/>I see the world Your way<br/>And I'm walking in the light<br/>I'm walking in the wonder<br/>You're the wonder in the wild<br/>Turning wilderness to wonder<br/>If You have so say<br/>I see the world in love<br/>I see the world in freedom<br/>I see the Jesus way<br/>You're the wonder in the wild</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I see the world Your way<br/>And I'm not afraid to follow<br/>I see the world Your way<br/>And I'm not ashamed to say so<br/>I see the Jesus way<br/>And I'm walking in the light</lines>
+    </verse>
+  </lyrics>
+</song>

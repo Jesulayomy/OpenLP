@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Let it rain</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Farron</author>
+      <author type="music">Michael Farron</author>
+      <author type="words">Michael W. Smith</author>
+      <author type="music">Michael W. Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2407"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let it rain, let it rain.<br/>Open the floodgates of Heaven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We feel the rains of Your Love,<br/>We feel the winds of Your Spirit,<br/>And now the heartbeat of Heaven,<br/>Let us hear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Because we want to see You;<br/>Show us Your Glory.<br/>And we want to know You, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

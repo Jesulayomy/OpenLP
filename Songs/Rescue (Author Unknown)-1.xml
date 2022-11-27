@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Rescue</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Işık Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>You are the source of life<br/>I can't be left behind<br/>No one else will do<br/>I will lay hold of You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I need You Jesus to come to my rescue<br/>Where else can I go?<br/>There's no other name by which I am saved<br/>Capture me with grace<br/>I will follow You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>This world has nothing for me<br/>I will follow You<br/>This world has nothing for me<br/>I will follow You</lines>
+    </verse>
+  </lyrics>
+</song>

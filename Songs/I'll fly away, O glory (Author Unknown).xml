@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>I'll fly away, O glory</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some glad morning<br/>when this life is over,<br/>I'll fly away.<br/>To a home on God's<br/>celestial shore<br/>I'll fly away.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kor: I'll fly away, oh glory,<br/>I'll fly away.<br/>When it's time<br/>Halleluja by and by,<br/>I'll fly away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the shadows of<br/>this life have grown,<br/>I'll fly away.<br/>Like a bird from prison<br/>bars has flown,<br/>I'll fly away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just a few more weary<br/>days and then,<br/>I'll fly away.<br/>To a home where joy<br/>shall never end,<br/>I'll fly away.</lines>
+    </verse>
+  </lyrics>
+</song>

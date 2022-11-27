@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Jesus Wants All Of His Children</title>
+    </titles>
+    <authors>
+      <author type="music">Wood, Mrs. James W.</author>
+      <author type="words">Dumont, Brian James (1971-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus wants all of His children to be good and true; He will help if we but ask Him, help us gladly too.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus was so meek and lowly, As a little child. We will try to be like Jesus, gentle, patient, mild.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus wants us to be loving, helping when we may. We will try to be kindhearted, merciful each day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>"Blessed are the pure in heart," thus the Savior taught. Clean in mind, in soul, in body, pure in every thought.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When we find our friends are angry, we will to them say, "Jesus wants you to be loving, each and every day."</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When I know that I have done wrong, to Jesus I flee.<br/>He has paid for all transgressions, He has paid for me!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesus knew that we would fail Him so He came to be<br/>Life to all the poor and lost ones, life eternally!</lines>
+    </verse>
+  </lyrics>
+</song>

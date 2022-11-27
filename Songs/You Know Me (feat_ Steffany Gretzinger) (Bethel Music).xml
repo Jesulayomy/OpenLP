@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>You Know Me (feat: Steffany Gretzinger)</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3973"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>You have been and You will be<br/>You have seen and You will see</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>You know when I rise and when I fall<br/>When I come or go You see it all<br/>You hung the stars and you move the sea</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>And still You know me<br/>Whoa oh oh oh oh oh oh oh oh oh<br/>You know me<br/>Whoa oh oh oh oh oh oh oh oh oh</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Nothing is hidden from Your sight<br/>Wherever I go, You find me<br/>You know every detail of my life<br/>You are God and You don't miss a thing</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Tag:<br/>You memorize me</lines>
+    </verse>
+  </lyrics>
+</song>

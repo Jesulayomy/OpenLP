@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Heaven Came Down</title>
+    </titles>
+    <copyright>1961 John W. Peterson Music Company</copyright>
+    <authors>
+      <author type="words">John Peterson</author>
+      <author type="music">John Peterson</author>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Heaven came down and glory filled my soul,<br/>When at the cross the Savior made me whole.<br/>My sins were washed away,<br/>And my night was turned to day.<br/>When heaven came down and glory filled my soul.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>O what a wonderful, wonderful day,<br/>Day I will never forget.<br/>When I was wandering in darkness away,<br/>Jesus my Savior I met.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, what a tender, compassionate friend.<br/>He met the need of my heart.<br/>Shadows dispelling, with joy I am telling,<br/>He made all the darkness depart.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>O, what a wonderful, wonderful day,<br/>Yeah, today.<br/>And O, what a glorious, glorious day,<br/>The day You came, came to save me.<br/>O, what a wonderful, wonderful day,<br/>The day You came and You save me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lord, Who at Cana's Wedding Feast</title>
+    </titles>
+    <authors>
+      <author type="music">Westlake, Frederick (1840-1898)</author>
+      <author type="words">Thrupp, Adelaide (1831-1908)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, who at Cana's wedding feast Didst as a Guest appear, Thou dearer far than earthly guest, Vouchsafe Thy presence here. For holy Thou indeed dost prove The marriage vow to be, Proclaiming it a type of love Between the Church and Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The holiest vow that man can make, The golden thread in life, The bond that none may dare to break, That bindeth man and wife, Which, blest by Thee, whate'er betide, No evil shall destroy, Through careworn days each care divides And doubles every joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On those who at Thine altar kneel, O Lord, Thy blessing pour, That each may wake the other's zeal To love Thee more and more. Oh, grant them here in peace to live, In purity and love, And, this world leaving, to receive A crown of life above.</lines>
+    </verse>
+  </lyrics>
+</song>

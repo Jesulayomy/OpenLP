@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>How Lovely is Thy Dwelling</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How lovely is thy dwelling place,<br/>O Lord of hosts,<br/>My soul longs and yearns for Your courts,<br/>And my heart and flesh sing for joy<br/>To the living God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One day in Your presence<br/>Is far better to me than gold,<br/>Or to live my whole life somewhere else;<br/>And I would rather be<br/>A doorkeeper in Your house</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Than to take my fate upon myself.<br/>You are my sun and my shield,<br/>You are my lover from the start,<br/>And the highway to Your city<br/>Runs through my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Fall Afresh</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4903"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let this be a place where You long to come<br/>As we make a way, for Your love<br/>Let these hands be clean and this heart be pure<br/>Blameless as the Bride, You're coming for</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It's the power of Your presence that changes us<br/>Your glory all around us and we're undone<br/>You open up the Heavens and fall afresh on us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let this be a house where You long to stay<br/>Every will You meet us, face to face<br/>Abandoned here before You we want nothing else<br/>Than just to be with You, and You alone</lines>
+    </verse>
+    <verse name="c2">
+      <lines>It's the power of Your presence that changes us<br/>Your glory all around us and we're undone<br/>You open up the Heavens and fall afresh on us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fall afresh on us</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Holy Spirit, fill this heart again<br/>Holy Spirit, burn like fire within<br/>Holy Spirit, fill this heart again<br/>Holy Spirit, burn like fire within<br/>Holy Spirit, fill this heart again<br/>Holy Spirit, burn like fire within</lines>
+    </verse>
+    <verse name="c3">
+      <lines>It's the power of Your presence that changes us<br/>Your glory all around us and we're undone<br/>You open up the Heavens and fall afresh on us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fall afresh on us<br/>Fall afresh on us<br/>Fall afresh on us</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Love, Liberty, Disco</title>
+    </titles>
+    <copyright>1999 Dawn Treader Music, Shepherd's Fold Music, &amp; Campbell Music</copyright>
+    <authors>
+      <author type="words">Newsboys</author>
+      <author type="music">Newsboys</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And if I told you that somebody did love you, would you say<br/>"Hey show me that face;"<br/>And if I told you that true freedom was actual, would you say<br/>"Hey, take me to that place?"<br/>And if I said there is a family: a body that moves as one;<br/>Do you feel the love that invites us, the liberty excites us,<br/>The disco has just begun, has just begun.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Give me love, give me liberty, disco: a place everybody in the family's found;<br/>On that day, we will all be happy people, when love, liberty, disco's in town.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And as we step into the light of the Lover, we're all the same, there's no rich or poor;<br/>And you know it's never been good for a man to be alone,<br/>So come on in, your name's on the door, what are we waiting for?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All our fears are turning 'round, fall down, and meet your Maker,<br/>Where our true selves will be found, calling out to every lonely soul.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>We are on the winning side</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are on the winning side<br/>Winning side, winning side<br/>We are on the winning side<br/>Winning all the time</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Winning side (3x)<br/>Winning side (3x)<br/>Winning side (3x)<br/>Winning all the time!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Satan's on the losing side<br/>Losing side, losing side<br/>Satan's on the losing side<br/>Losing all the time</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Losing side (3x)<br/>Losing side (3x)<br/>Losing side (3x)<br/>Losing all the time!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus is the winner man, winner<br/>man, winner man<br/>Jesus is the winner man, winning<br/>all the time</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Winner man (3x)<br/>Winner man (3x)<br/>Winner man (3x)<br/>Winning all the time!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Satan is the loser man,<br/>loser man, loser man<br/>Satan is the loser man,<br/>Losing all the time</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Loser man (3x)<br/>Loser man (3x)<br/>Loser man (3x)<br/>Losing all the time</lines>
+    </verse>
+  </lyrics>
+</song>

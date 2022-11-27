@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:21">
+  <properties>
+    <titles>
+      <title>King of The World</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4929"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I tried to fit you in the walls inside my mind<br/>I try to keep you safely inbetween the lines<br/>I try to put you in the box that I've designed<br/>I try to pull you down so we are eye to eye</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When did I forget that you've always been the king of the world?<br/>I try to take life back right out of the hands of the king of the world<br/>How could I make you so small<br/>When you're the one who holds it all<br/>When did I forget that you've always been the king of the world</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just a whisper of your voice can tame the seas<br/>So who am I to try to take the lead<br/>Still I run ahead and think I'm strong enough<br/>When you're the one who made me from the dustOhhhh, you set it all in motion<br/>Every single moment<br/>You brought it all to be<br/>And you're holding on to me</lines>
+    </verse>
+  </lyrics>
+</song>

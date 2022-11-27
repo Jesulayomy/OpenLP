@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>The Potters Hand</title>
+    </titles>
+    <copyright>1997 Darlene Zschech / Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beautiful Lord, wonderful Savior,<br/>I know for sure, all of my days are<br/>Held in your hand, crafted into Your perfect plan<br/>You gently call me into Your presence,<br/>Guiding me by Your Holy Spirit<br/>Teach me, dear Lord, to live all my life through Your eyes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You gently call me into Your presence,<br/>Guiding me by Your Holy Spirit<br/>Teach me, dear Lord, to live all my life through Your eyes</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I'm captured by Your Holy calling, Set me apart<br/>I know you're drawing me to Yourself,<br/>Lead me, Lord, I pray</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Take me, mold me, use me, fill me<br/>I give my life to the Potter's hand<br/>Call me, guide me, lead me, walk beside me<br/>I give my life to the Potter's hand</lines>
+    </verse>
+  </lyrics>
+</song>

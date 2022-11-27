@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Jesus Christ Is Risen Today</title>
+    </titles>
+    <authors>
+      <author type="music">from Lyra Davidica</author>
+      <author type="words">Bohemian</author>
+      <author type="words">Wesley, Charles (1707-1788)</author>
+      <author type="translate">Arnold, John</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Christ is ris'n today, Alleluia! Our triumphant holy day, Alleluia! Who did once, upon the cross, Alleluia! Suffer to redeem our loss, Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hymns of praise then let us sing, Alleluia! Unto Christ, our heav'nly King, Alleluia! Who endured the cross and grave, Alleluia! Sinners to redeem and save, Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But the pain which He endured, Alleluia! Our salvation hath procured, Alleluia! Now above the sky He's king, Alleluia! Where the angels ever sing, Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sing we to our God above, Alleluia! Praise eternal as His love, Alleluia! Praise Him, all you heav'nly host, Alleluia! Father, Son, and Holy Ghost, Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Then He Rose</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6143"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>See Him now, the King of heaven<br/>Son of God, enthroned above<br/>Heavy cross upon His shoulders<br/>Carried for us, carried for us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See Him now, our King surrendered<br/>Final word of perfect love<br/>Hear His cry, "Father, forgive them"<br/>Spoken for us, spoken for us</lines>
+    </verse>
+    <verse name="p1">
+      <lines>When He said, "It is finished"<br/>Oh our hope had just begun</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The grave has lost its hold<br/>Arise the stone is gone<br/>Our God reigns forevermore<br/>All praise to Him belongs<br/>Lift high His name alone<br/>Jesus came, paid it all<br/>Then He rose, then He rose</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now we arise by His spirit<br/>In His name we overcome<br/>All our hope, in this same power<br/>Living in us, living in us</lines>
+    </verse>
+    <verse name="c2">
+      <lines>2 PreFor our sin is defeated<br/>Oh the war has now been won</lines>
+    </verse>
+    <verse name="c3">
+      <lines>The grave has lost its hold<br/>Arise the stone is gone<br/>Our God reigns forevermore<br/>All praise to Him belongs<br/>Lift high His name alone<br/>Jesus came, paid it all<br/>Then He rose, then He rose</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Death, lay your weapons down<br/>Sin, you're defeated now<br/>The stone is rolled away<br/>Our God reigns<br/>Crown Him with many crowns<br/>Soon every knee will bow<br/>The stone is rolled away<br/>Our God reigns<br/>Death, lay your weapons down<br/>Sin, you're defeated now<br/>The stone is rolled away<br/>Our God reigns<br/>Crown Him with many crowns<br/>Soon every knee will bow<br/>The stone is rolled away<br/>Our God reigns</lines>
+    </verse>
+    <verse name="c4">
+      <lines>The grave has lost its hold<br/>Arise the stone is gone<br/>Our God reigns forevermore<br/>All praise to Him belongs<br/>Lift high His name alone<br/>Jesus came, paid it all<br/>Then He rose, then He rose</lines>
+    </verse>
+  </lyrics>
+</song>

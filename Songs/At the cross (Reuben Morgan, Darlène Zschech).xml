@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>At the cross</title>
+    </titles>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="words">Darlène Zschech</author>
+      <author type="music">Darlène Zschech</author>
+    </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord You've searched me,  You know my way<br/>Even when I fail You, I know You love me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your Holy presence, Surrounding me<br/>In every season, I Know You love me, I know You love me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>At the cross I bow my knee<br/>Where your blood was shed for me<br/>There's no greater love than this<br/>You have overcome the grave<br/>Your glory fills the highest place<br/>What can separate me know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You go before me,  You shield my way<br/>Your hand upholds me, I know You love me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You tore the veil, You made a way<br/>When You said that 'It is done'</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when the earth fades, Falls from my eyes<br/>And You stand before me, I know You love me, I know You love me</lines>
+    </verse>
+  </lyrics>
+</song>

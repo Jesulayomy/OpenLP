@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>What Child Is This?</title>
+    </titles>
+    <authors>
+      <author type="words">Dix, William Chatterton (1837-1865)</author>
+      <author type="music">English</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>praise</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>bible</theme>
+      <theme>meditation</theme>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What Child is this who laid to rest<br/>On Mary's lap is sleeping?<br/>Whom angels greet with anthems sweet,<br/>While shepherds watch are keeping?<br/>This, this is Christ the King,<br/>Whom shepherds guard and angels sing;<br/>Haste, haste, to bring Him laud,<br/>The Babe, the Son of Mary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Why lies He in such mean estate,<br/>Where ox and ass are feeding?<br/>Good Christians, fear, for sinners here<br/>The silent Word is pleading.<br/>Nails, spear shall pierce Him through,<br/>The cross be borne for me, for you.<br/>Hail, hail the Word made flesh,<br/>The Babe, the Son of Mary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So bring Him incense, gold and myrrh,<br/>Come peasant, king to own Him;<br/>The King of kings salvation brings,<br/>Let loving hearts enthrone Him.<br/>Raise, raise a song on high,<br/>The virgin sings her lullaby.<br/>Joy, joy for Christ is born,<br/>The Babe, the Son of Mary.</lines>
+    </verse>
+  </lyrics>
+</song>

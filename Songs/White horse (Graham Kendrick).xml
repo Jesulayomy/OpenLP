@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:52">
+  <properties>
+    <titles>
+      <title>White horse</title>
+      <title>Be patient, be ready,</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be patient, be ready,<br/>Look up, the Lord is near.<br/>Be faithful, be fruitful,<br/>Until the day that He appears.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though all things are shaken<br/>And hearts are filled with fear,<br/>Keep working, keep praying<br/>Until His kingdom is here!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deep in our hearts there's a cry<br/>As the Spirit and Bride say:<br/>Come, Jesus! Come, take Your white horse<br/>And ride through the heavens, come!</lines>
+    </verse>
+  </lyrics>
+</song>

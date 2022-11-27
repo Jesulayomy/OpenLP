@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>O Love That Will Not Let Me Go</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">George Matheson</author>
+      <author type="music">George Matheson</author>
+      <author type="words">Albert Lister Peace</author>
+      <author type="music">Albert Lister Peace</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Love that will not let me go,<br/>I rest my weary soul in thee;<br/>I give thee back the life I owe,<br/>That in thine ocean depths its flow<br/>May richer, fuller be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Light that follows all my way,<br/>I yield my flickering torch to thee;<br/>My heart restores its borrowed ray,<br/>That in thy sunshine's blaze its day<br/>May brighter, fairer be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Joy that seekest me through pain,<br/>I cannot close my heart to thee;<br/>I trace the rainbow through the rain,<br/>And feel the promise is not vain,<br/>That morn shall tearless be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Cross that liftest up my head,<br/>I dare not ask to fly from thee;<br/>I lay in dust life's glory dead,<br/>And from the ground there blossoms red<br/>Life that shall endless be.</lines>
+    </verse>
+  </lyrics>
+</song>

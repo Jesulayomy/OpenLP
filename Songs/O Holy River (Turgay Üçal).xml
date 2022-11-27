@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>O Holy River</title>
+    </titles>
+    <authors>
+      <author type="translate">Turgay Üçal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Moda Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O holy river<br/>Flow into my garden, flow<br/>Soaking, soaking this thirsty ground<br/>Flow, with blessings<br/>From the springs of wisdom<br/>To the shores of righteousness<br/>Flow with blessings<br/>From the springs of wisdom<br/>To the shores of righteousness<br/>Flow with bountiful life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O holy river<br/>Flow into my garden, flow<br/>Leaf by leaf, restoring life<br/>Flow, with blessings<br/>From the springs of wisdom<br/>To the shores of righteousness<br/>Flow with blessings<br/>From the springs of wisdom<br/>To the shores of righteousness<br/>Flow with bountiful life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O holy river<br/>Flow into my garden, flow<br/>Cleansing, cleansing each hidden place<br/>Flow with blessings<br/>From the springs of wisdom<br/>To the shores of righteousness<br/>Flow with blessings<br/>From the springs of wisdom<br/>To the shores of righteousness<br/>Flow with bountiful life<br/>O holy river</lines>
+    </verse>
+  </lyrics>
+</song>

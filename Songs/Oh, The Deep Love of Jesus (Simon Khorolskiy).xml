@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>Oh, The Deep Love of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Simon Khorolskiy</author>
+      <author type="music">Simon Khorolskiy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3622"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 verse:<br/>O the deep, deep love of Jesus,<br/>Vast, unmeasured, boundless, free,<br/>Rolling as a mighty ocean<br/>In its fullness over me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Underneath me, all around me,<br/>Is the current of Thy love;<br/>Leading onward, leading homeward<br/>To my glorious rest above.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 verse:<br/>O the deep, deep love of Jesus,<br/>Spread His praise from shore to shore!<br/>How He loveth, ever loveth,<br/>Changeth never, nevermore!<br/>How He watcheth o'er His loved ones,<br/>Died to call them all His own;<br/>How for them He intercedeth,<br/>Watcheth o'er them from the throne.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3 verse:<br/>O the deep, deep love of Jesus,<br/>Love of ev'ry love the best;<br/>'tis an ocean vast of blessing,<br/>'tis a haven sweet of rest.<br/>O the deep, deep love of Jesus,<br/>'tis heav'n of heav'ns to me;<br/>And it lifts me up to glory,<br/>For it lifts me up to Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

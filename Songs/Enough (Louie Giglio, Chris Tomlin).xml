@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:57">
+  <properties>
+    <titles>
+      <title>Enough</title>
+    </titles>
+    <copyright>2002 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Louie Giglio</author>
+      <author type="music">Louie Giglio</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>All of You is more than enough for all of me,<br/>For every thirst and every need.<br/>You satisfy me with Your love,<br/>And all I have in You is more than enough.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You are my supply, my breath of life,<br/>Still more awesome than I know;<br/>You are my reward, worth living for,<br/>Still more awesome than I know!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're my sacrifice, of greatest price,<br/>Still more awesome than I know;<br/>You're my coming King, You are everything,<br/>Still more awesome than I know!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>More than all I want,<br/>More than all I need,<br/>You are more than enough for me.<br/>More than all I know,<br/>More than all I can see,<br/>You are more than enough for...</lines>
+    </verse>
+  </lyrics>
+</song>

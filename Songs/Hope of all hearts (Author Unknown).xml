@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>Hope of all hearts</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The world may fade<br/>You will remain<br/>In the midst of the trial<br/>You will always be, I'll sing<br/>Our God never fails<br/>Our God never fails</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With hope and light<br/>You reign over all<br/>Though my heart may fail<br/>You will always be, I'll sing<br/>Our God never fails<br/>Our God never fails</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Praise in the morning<br/>Praise in the evening<br/>Praise when I'm laughing<br/>Praise when I'm grieving<br/>There will be dancing<br/>There will be singing<br/>Upon injustice we will tell of our God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The hope of all hearts<br/>The hope of all hearts Is you<br/>Your love never fails<br/>Your love never fails</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With hope and light<br/>You reign over all<br/>Though my heart may fail<br/>You will always be all the same<br/>Our God never fails<br/>Our God never fails</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Praise in the morning<br/>Praise in the evening<br/>Praise when I'm laughing<br/>Praise when I'm grieving<br/>There will be dancing<br/>There will be singing<br/>Upon injustice we will tell of our God</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// The hope of all hearts<br/>The hope of all hearts Is you<br/>Your love never fails<br/>Your love never fails //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In darkness,<br/>In trial, my soul shall sing<br/>Of his mercy, and kindness<br/>Our offering of praise<br/>Our God never fails<br/>Our God never fails</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In darkness,<br/>In trial, my soul shall sing<br/>Of his mercy, and kindness<br/>Our offering of praise<br/>Our God never fails<br/>Our God never fails</lines>
+    </verse>
+  </lyrics>
+</song>

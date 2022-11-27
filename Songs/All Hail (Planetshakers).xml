@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>All Hail</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2737"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE:<br/>He is risen from the grave<br/>Undefeated, Jesus reigns<br/>With all power in His name<br/>He is over all, Oh<br/>He is over all, Oh</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2:<br/>At the mention of His name<br/>Captivated, all proclaim<br/>There's no limit to His reign<br/>He is over all, Oh<br/>He is over all, Oh</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Christ supreme the nations bow<br/>Our hearts adore as we cry out<br/>Hosanna in the highest<br/>Jesus is the greatest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 3:<br/>Veiled in glory, robed in light<br/>All surpassing is His might<br/>Christ our Saviour, lifted high<br/>He is over all, Oh<br/>He is over all, Oh</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>Christ supreme the nations bow<br/>Our hearts adore as we cry out<br/>Hosanna in the highest<br/>Over all Your kingdom reigns<br/>The earth resounds with Jesus' praise<br/>Hosanna in the highest<br/>Jesus is the greatest</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>All praise, all praise<br/>The power of Jesus' name<br/>All hail, all hail<br/>The name over every name</lines>
+    </verse>
+  </lyrics>
+</song>

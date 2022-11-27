@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Silver</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3522"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>I'd give my life just to be with You<br/>And I'll search for You as silver<br/>You are more precious than anything<br/>This world could offer me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>So I'm selling everything I have<br/>To gain the only thing that's worth anything<br/>I'm selling everything I have<br/>To gain the only thing that's worth anything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Interlude:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse:<br/>I'd leave it all in a moment<br/>I'd drop my nets and follow You<br/>And You are the only one who's worthy<br/>Of everything</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>So I'm selling everything I have<br/>To gain the only thing that's worth anything<br/>I'm selling everything I have<br/>To gain the only thing that's worth anything</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>You're fairer than the sons of men<br/>Chief among ten thousand and<br/>There's never been another one greater<br/>No, there's never been another one greater</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fairer than the sons of men<br/>Chief among ten thousand and<br/>There's never been another one greater<br/>No, there's never been another one greater</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fairer than the sons of men<br/>Chief among ten thousand and<br/>There's never been another one greater<br/>No, there's never been another one greater</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Fairer than the sons of men<br/>Chief among ten thousand and<br/>There's never been another one greater<br/>No, there's never been another one greater</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Spontaneous:<br/>I've found the treasure in field<br/>I've found my treasure<br/>This one thing I desire<br/>This one that I seek<br/>To dwell in Your house Lord<br/>To dwell in Your house</lines>
+    </verse>
+  </lyrics>
+</song>

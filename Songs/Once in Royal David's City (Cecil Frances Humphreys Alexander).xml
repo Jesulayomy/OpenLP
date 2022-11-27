@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Once in Royal David's City</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">Cecil Frances Humphreys Alexander</author>
+      <author type="music">Cecil Frances Humphreys Alexander</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once in royal David's city,<br/>stood a lowly cattle shed<br/>Where a mother laid her baby,<br/>in a manger for His bed<br/>Mary was that mother mild,<br/>Jesus Christ her little child</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He came down to earth from heaven,<br/>who is God and Lord of all<br/>And His shelter was a stable,<br/>and His cradle was a stall<br/>With the poor and mean and lowly,<br/>lived on earth our Saviour holy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And through all His wondrous childhood,<br/>He would honour and obey<br/>Love and watch the lowly mother,<br/>in whose gentle arms He lay<br/>Christian children all should be,<br/>kind, obedient, good as He</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For He is our childhood's pattern,<br/>day by day like us He grew<br/>He was little, weak and helpless,<br/>tears and smiles like us He knew<br/>And He feels for all our sadness,<br/>and He shares in all our gladness</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And our eyes at last shall see Him,<br/>through His own redeeming love<br/>For that Child so dear and gentle,<br/>is our Lord in heaven above<br/>And He leads His children on,<br/>to the place where He is gone</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Not in that poor lowly stable,<br/>with the oxen standing by<br/>We shall see Him but in heaven,<br/>set at God's right hand on high<br/>There His children gather round,<br/>bright like stars, with glory crowned</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>If not for Grace</title>
+      <title>Amazing grace</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where would I be You only know<br/>I'm Glad You see through eyes of love<br/>A hopeless case, an empty place<br/>If not for Grace x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Amazing grace how sweet the sound<br/>I once was lost but now I'm found<br/>A hopeless case, an empty place<br/>If not for Grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Precious Lord please take my hand<br/>Lead me on let me stand<br/>A hopeless case, an empty place<br/>If not for Grace</lines>
+    </verse>
+  </lyrics>
+</song>

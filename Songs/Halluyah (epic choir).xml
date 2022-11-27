@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:41">
+  <properties>
+    <titles>
+      <title>Halluyah</title>
+    </titles>
+    <authors>
+      <author type="words">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hallelujah-amen<br/>Hallelujah-amen<br/>Hallelujah-amen<br/>Hallelujah-amen</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yeshua Hamashiach<br/>Lion of Judah<br/>Agunechemba<br/>Yeshua Hamashiach<br/>Lion of Judah<br/>Agunechemba</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>you are the one that parted the red sea<br/>oh yes!<br/>you are the one that parted the red sea<br/>oh yes!<br/>oh yes<br/>oh yes<br/>oh yes</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>you are the one that fight my battles<br/>oh yes!<br/>you are the one that fight my battles<br/>oh yes!<br/>oh yes<br/>oh yes<br/>oh yes</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>you are the mighty God <br/>The Great I AM<br/>Hallelujah<br/>Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Find You on My Knees</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4893"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Troubles chasing me again, breaking down my best defence,<br/>I'm looking, God, I'm looking for you<br/>Weary just won't let me rest and fear is filling up my head.<br/>I'm longing, God I'm longing for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But I will</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Find you in the place I'm in,<br/>Find you when I'm at my end,<br/>Find you when there's nothing left of me<br/>To offer you except for brokenness.<br/>You lift me up, you'll never leave me thirsty,<br/>When I am weak, when I am lost and searching<br/>I'll find you on my knees.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So what if sorrow shakes my faith, and what if heartache still remains?<br/>I'll trust you, my God I'll trust you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Cause You are faithful and I will...</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Find you in the place I'm in,<br/>Find you when I'm at my end,<br/>Find you when there's nothing left of me<br/>To offer you except for brokenness.<br/>You lift me up, you'll never leave me thirsty,<br/>When I am weak, when I am lost and searching<br/>Find you on my knees, my knees.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>When my hope is gone, when the fear is strong<br/>When the pain is real, when it's hard to heal<br/>When my faith is shaken and my heart is broken<br/>And my joy is stolen, God I know that...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You lift me up, you'll never leave me thirsty,</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Find you in the place I'm in,<br/>Find you when I'm at my end,<br/>Find you when there's nothing left of me<br/>To offer you except for brokenness.<br/>You lift me up, you'll never leave me thirsty,<br/>When I am weak, when I am lost and searching<br/>I'll find you on my knees.</lines>
+    </verse>
+  </lyrics>
+</song>

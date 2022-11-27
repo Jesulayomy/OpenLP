@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>Fight the Good Fight</title>
+    </titles>
+    <authors>
+      <author>John S. B. Monsell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fight the good fight with all thy might,<br/>Christ is thy strength, and Christ thy right;<br/>Lay hold on life, and it shall be<br/>Thy joy and crown eternally.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Run the straight race through God’s good grace,<br/>Lift up thine eyes and seek His face;<br/>Life with its way before thee lies,<br/>Christ is the path, and Christ the prize.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cast care aside, lean on thy Guide;<br/>His boundless mercy will provide;<br/>Lean, and the trusting soul shall prove<br/>Christ is its life, and Christ its love.<br/>Faint not, nor fear, His arms are near,<br/>He changeth not, and thou art dear;<br/>Only believe, and thou shalt see<br/>That Christ is all in all to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

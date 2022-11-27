@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T08:49:12">
+  <properties>
+    <titles>
+      <title>Hymn 56 - Great Is Thy Faithfulness</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is Thy faithfulness, <br/>O God my Father <br/>There is no shadow of turning <br/>With Thee<br/>Thou changest not, <br/>Thy compassion, they fail not <br/>As Thou hast been Thou <br/>Forever will be</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great is Thy faithfulness<br/>Great is Thy faithfulness<br/>Morning by morning <br/>New mercies I see <br/>All I have needed Thy hand <br/>Hath provided <br/>Great is Thy Faithfulness <br/>Lord, unto me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Summer and winter<br/>Spring time and harvest <br/>Sun, moon and stars in their<br/>Courses above <br/>Join with all nature in <br/>Manifold witness <br/>To Thy great faithfulness <br/>Mercy and love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pardon for sin and <br/>A peace that endureth <br/>Thine own dear presence <br/>To cheer and to guide <br/>Strength for today and <br/>Bright hope for tomorrow <br/>Blessings all mine <br/>With ten thousand beside  </lines>
+    </verse>
+  </lyrics>
+</song>

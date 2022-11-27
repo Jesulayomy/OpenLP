@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>For God so Loved The World</title>
+      <title>Hallelujah</title>
+    </titles>
+    <authors>
+      <author type="words">Neal Morse</author>
+      <author type="music">Neal Morse</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For God so loved the world<br/>that He gave his only Son<br/>that whosoever will<br/>believeth in Him<br/>shall never die<br/>but shall have eternal life<br/>and this is why we sing<br/>Hallelujah</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah (x4)Amen<br/>Hallelujah (x4)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amazing Grace<br/>How sweet the sound<br/>that saved a wretch<br/>like me<br/>I once was lost<br/>but now am found<br/>I once was blind<br/>but now I see</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>These Hands</title>
+    </titles>
+    <copyright>2000 E-Max Music/Sonic Flood Music</copyright>
+    <authors>
+      <author type="words">Jeff Deyo</author>
+      <author type="music">Jeff Deyo</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The sun and moon and every star are there to show me who You are.<br/>I can be sure Your fingerprints are everywhere.<br/>My every move, my every breath, were meant to point to Your greatness.<br/>There's nothing made that was not made to show Your power.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>These hands were made to praise You.<br/>These lips were made to lift You up.<br/>I give to You my life in worship.<br/>These feet were made to serve You;<br/>This tongue, to sing of Your great love.<br/>I give to You my life in worship.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A tender thought, a caring deed, a gift of love to one in need,<br/>Bringing honest acts of worship to You, Lord.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lifting holy hands in worship to You, Lord.<br/>God receive this humble sacrifice of praise.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>I give to You my life, my life to you in worship,<br/>In worship,<br/>In worship.<br/>My life, I give in worship.</lines>
+    </verse>
+  </lyrics>
+</song>

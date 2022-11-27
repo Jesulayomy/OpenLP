@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>As We Gather</title>
+    </titles>
+    <authors>
+      <author type="words">Tom Coomes</author>
+      <author type="music">Tom Coomes</author>
+      <author type="words">Mike Faye</author>
+      <author type="music">Mike Faye</author>
+    </authors>
+    <themes>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As we gather may Your Spirit work within us<br/>As we gather may we glorify Your Name<br/>Knowing well that as our hearts begin to worship<br/>We'll be blessed because we came<br/>We'll be blessed because we came</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The steadfast love of the Lord never ceases<br/>His mercies never come to an end<br/>They are new every morning, new every morning<br/>Great is Thy faithfulness, O Lord<br/>Great is Thy faithfulness</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You have called us by Your Spirit into worship<br/>In this temple You have set our hearts aflame<br/>As we lay our hearts upon Your holy altar<br/>We'll be blessed in Jesus' name (2X)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us cleanse our hearts as we begin to worship<br/>Let us fill our hearts with love for You and sing<br/>Open up our eyes so we may come to know You<br/>And unto us the Spirit bring [2X]</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Praise You in This Storm</title>
+    </titles>
+    <copyright>2005 Word Music, LLC | BanaHama Tunes | SWECS Music | Club Zoo Music</copyright>
+    <authors>
+      <author type="words">Berni Herms</author>
+      <author type="music">Berni Herms</author>
+      <author type="words">Mark Hall</author>
+      <author type="music">Mark Hall</author>
+      <author type="words">Casting Crowns</author>
+      <author type="music">Casting Crowns</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was sure by now<br/>God You would have reached down<br/>And wiped our tears away<br/>Stepped in and saved the day<br/>But once again I'll say Amen<br/>And it's still rainin'</lines>
+    </verse>
+    <verse name="p1">
+      <lines>As the thunder rolls, I barely hear You whisper<br/>Through the rain I'm with You<br/>And as Your mercy falls, I'll raise my hands<br/>And praise the God who gives and takes away</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I'll praise You in this storm<br/>And I will lift my hands<br/>For You are who You are no matter where I am<br/>And ev'ry tear I've cried<br/>You hold in Your hand You never left my side<br/>And though my heart is torn<br/>I will praise You in this storm</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I remember when<br/>I stumbled in the wind<br/>You heard my cry to You<br/>And raised me up again<br/>But my strength is almost gone<br/>How can I carry on<br/>If I can't find You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I lift my eyes unto the hills<br/>Where does my help come from<br/>My help comes from the Lord<br/>The Maker of heaven and earth</lines>
+    </verse>
+  </lyrics>
+</song>

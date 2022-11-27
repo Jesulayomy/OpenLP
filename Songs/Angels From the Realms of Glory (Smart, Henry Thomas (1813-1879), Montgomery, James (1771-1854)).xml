@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Angels From the Realms of Glory</title>
+    </titles>
+    <authors>
+      <author type="music">Smart, Henry Thomas (1813-1879)</author>
+      <author type="words">Montgomery, James (1771-1854)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Angels, from the realms of glory,<br/>Wing your flight o'er all the earth;<br/>Ye who sang creation's story,<br/>Now proclaim Messiah's birth:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come and worship,<br/>Come and worship,<br/>Worship Christ the newborn King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shepherds, in the fields abiding,<br/>Watching o'er your flocks by night,<br/>God with us is now residing,<br/>Yonder shines the infant Light:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sages, leave your contemplations,<br/>Brighter visions beam afar;<br/>Seek the great Desire of Nations;<br/>Ye have seen His natal star:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Saints, before the altar bending,<br/>Watching long in hope and fear,<br/>Suddenly the Lord, descending,<br/>In His temple shall appear:</lines>
+    </verse>
+  </lyrics>
+</song>

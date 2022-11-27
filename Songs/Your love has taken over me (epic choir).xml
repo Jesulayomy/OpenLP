@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:45">
+  <properties>
+    <titles>
+      <title>Your love has taken over me</title>
+    </titles>
+    <authors>
+      <author type="words">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Your love has taken over me<br/>Father, I depend on you<br/>I have confidence in you<br/>In you oh Lord, I put my trust<br/>Your love has taken over me<br/>Father, I depend on you<br/>I have confidence in you<br/>In you oh Lord, I put my trust</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yes you cover me<br/>Under the canopy<br/>Give me security<br/>I am the righteousness of God<br/>Yes you cover me<br/>Under the canopy<br/>Give me security<br/>I am the righteousness of God</lines>
+    </verse>
+  </lyrics>
+</song>

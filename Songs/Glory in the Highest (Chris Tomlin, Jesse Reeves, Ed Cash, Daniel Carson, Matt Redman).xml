@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:58">
+  <properties>
+    <titles>
+      <title>Glory in the Highest</title>
+    </titles>
+    <copyright>2006 Alletrop Music | worshiptogether.com songs | sixsteps Music | Thankyou Music | Vamos Publishing</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Daniel Carson</author>
+      <author type="music">Daniel Carson</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the first.<br/>You go before.<br/>You are the last;<br/>Lord, You're the encore.<br/>Your name's in lights for all to see.<br/>The starry host declare Your glory.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glory in the highest.<br/>Glory in the highest.<br/>Glory in the highest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Apart from You,<br/>There is no God,<br/>Light of the world,<br/>The Bright and Morning Star.<br/>Your Name will shine for all to see.<br/>You are the One; You are my Glory.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And no one else<br/>Could ever compare to You, Lord.<br/>All the earth together declares:</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Glory in the highest!<br/>Glory in the highest!<br/>Glory in the highest to You, Lord!<br/>To You, Lord!</lines>
+    </verse>
+    <verse name="b2">
+      <lines>All the earth will sing Your praise.<br/>The moon and stars, the sun and rain,<br/>Every nation will proclaim<br/>That You are God and You will reign.<br/>Glory, glory, hallelujah!<br/>Glory, glory, to You, Lord!<br/>Glory, glory, hallelujah!<br/>Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

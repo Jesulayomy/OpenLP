@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>This Is Everything</title>
+    </titles>
+    <copyright>2001 Up In The Mix Music</copyright>
+    <authors>
+      <author type="words">Audio Adrenaline</author>
+      <author type="music">Audio Adrenaline</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All my dreams I had dreamed were dreams of me.<br/>All my hopes were desires of what I wanted to be.<br/>With ambitions put aside,<br/>I crawl in Your arms to hide.<br/>I have given everything up to You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is all, this is everything.<br/>This is all, this is everything.<br/>Everything I've got.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The good things and the bad things are in Your hands.<br/>My hopes and my dreams are in Your command.<br/>And I come before You now<br/>As imperfect as I am<br/>And I give, yes I give it all to You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>We choose the fear of the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We choose the fear of the Lord<br/>We choose the fear of the Lord<br/>For the fear of the Lord is to hate all evil<br/>We choose the fear of the Lord<br/>We choose the fear of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We choose the way of the Lord<br/>We choose the way of the Lord<br/>For the way of the Lord is the way of wisdom<br/>We choose the way of the Lord<br/>We choose the way of the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He who delights in the Word of the Lord<br/>Shall be blessed in all of his ways<br/>For the friendship of God is with those who fear Him<br/>So we choose the fear of the Lord<br/>We choose the Word of the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We choose the Word of the Lord<br/>We choose the Word of the Lord<br/>For the Word of the Lord shall endure forever<br/>We choose the Word of the Lord<br/>We choose the Word of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

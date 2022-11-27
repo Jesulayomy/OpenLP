@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Life</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2608"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Words and Music by Matt Crocker, Joel Houston &amp; Michael Guy Chislett</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>Your life<br/>Your life<br/>Your life<br/>In mine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE: 1<br/>Your thoughts<br/>Your ways<br/>Your mystery<br/>Too deep for words<br/>My spirit burns to worship You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE: 2<br/>Your heart<br/>Your plans<br/>Your will for me<br/>There's nothing else my soul desires<br/>Than more of You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>Take my heart<br/>Take my soul<br/>Take my mind and I will<br/>Give my thoughts<br/>Give my all<br/>Give my life to follow You<br/>Take my hands<br/>Take my breath<br/>Take my dreams and I will<br/>Lift my eyes<br/>Lift my faith<br/>Lift my voice and worship You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE: 3<br/>My God<br/>My closest friend<br/>I need Your love<br/>More than my lungs<br/>Need oxygen</lines>
+    </verse>
+  </lyrics>
+</song>

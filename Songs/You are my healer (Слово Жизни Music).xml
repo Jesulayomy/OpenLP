@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>You are my healer</title>
+    </titles>
+    <authors>
+      <author type="words">Слово Жизни Music</author>
+      <author type="music">Слово Жизни Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4050"/>
+    </songbooks>
+    <themes>
+      <theme>salvation</theme>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 VERSE:<br/>There was a time when I was blind<br/>You came and opened my eyes<br/>And now I see now I breathe<br/>The breath of Your Holy Life</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS:<br/>There is none like You, Lord<br/>There is none like You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>You are my Healer You are Redeemer<br/>You've conquered my heart and saved my soul<br/>I'm gonna praise You for every moment<br/>I can be with You, my God of Hope</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 VERSE:<br/>There used to be a lot of pain<br/>And my soul suffered without you<br/>You took away my weakness<br/>My life is filled with your truth</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>Death is overcome we declare your name<br/>I have the triumph in Thee<br/>By the wound of Christ Healed forevermore<br/>Your Kingdom dwells in me</lines>
+    </verse>
+  </lyrics>
+</song>

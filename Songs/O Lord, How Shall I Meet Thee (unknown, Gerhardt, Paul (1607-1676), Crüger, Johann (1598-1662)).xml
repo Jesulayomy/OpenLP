@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O Lord, How Shall I Meet Thee</title>
+    </titles>
+    <authors>
+      <author type="music">Crüger, Johann (1598-1662)</author>
+      <author type="words">Gerhardt, Paul (1607-1676)</author>
+      <author type="translate">unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, how shall I meet Thee, How welcome Thee aright? All nations long to see Thee, My Hope, my heart's Delight! O kindle, Lord, most holy, Thy lamp within my breast, To do in spirit lowly All that may please Thee best.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy Zion palms is strewing, And branches fresh and fair; My heart, its pow'rs renewing, An anthem shall prepare. My soul puts off her sadness Thy glories to proclaim; With all her strength and gladness She fain would serve Thy Name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What hast Thou left ungranted To give me glad relief? When soul and body panted In utmost depth of grief, In deepest degradation, Devoid of joy and peace, Then, Thou, my soul's Salvation, Didst come to bring release.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I lay in fetters groaning, Thou com'st to set me free; I stood, my shame bemoaning, Thou com'st to honor me. A glory Thou dost give me, A treasure safe on high, That will not fail nor leave me As earthly riches fly.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Love caused Thine incarnation Love brought Thee down to me; Thy thirst for my salvation Procured my liberty. O love beyond all telling, That led Thee to embrace, In love all love excelling, Our lost and fallen race!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Rejoice, then, ye sad-hearted, Who sit in deepest gloom,<br/>Who mourn o'er joys departed, And tremble at your doom:<br/>Despair not, He is near you, Yea, standing at the door;<br/>He brings His pity near you, And bids you weep no more.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>No care nor effort either Is needed day or night,<br/>How ye may draw Him hither In your own strength and might.<br/>He comes, He comes with gladness, Moved by His love alone,<br/>To calm your fear and sadness, To Him they well are known.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Sin's debt, that fearful burden, Let not your souls distress;<br/>Your guilt the Lord will pardon and cover with His grace.<br/>He comes, He comes procuring The peace of sin forgiv'n,<br/>To all God's sons securing Their part and lot in heav'n.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Why should the wicked move you? Heed not their craft and spite!<br/>Your Savior who doth love you, Will scatter all their might.<br/>He comes, a King most glorious, and all His earthly foes<br/>In vain His course victorious Endeavor to oppose.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>He comes to judge the nations, A terror to His foes,<br/>A light of consolations And blessed hope to those<br/>Who love the Lord's appearing. O glorious Sun, now come,<br/>Send forth Thy beams so cheering, And guide is safely home!</lines>
+    </verse>
+  </lyrics>
+</song>

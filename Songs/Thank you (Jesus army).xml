@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Thank you</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus army</author>
+      <author type="music">Jesus army</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3601"/>
+    </songbooks>
+    <themes>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro: Am-F-C-G</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So many times,<br/>You reached out to me,<br/>But I turned my back 'cause I didn't think you had what I need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now you're everything,<br/>You're everything to me.<br/>I can't be without you God,<br/>You're everything.Am<br/>And I want to say thank you,<br/>I was lost and you found me,<br/>I was dead inside,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And you breathed into me,<br/>And you brought these bones to life.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I want to say thank you,<br/>Thank you for saving me.<br/>Thank you for loving me unconditionally God.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You stood with open arms,<br/>But I ran away.<br/>'Cause I was scared of the pain that came with trust.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>But I came running back,<br/>Into your embrace,<br/>Because I knew you'd still be there,<br/>You'd never leave me God.<br/>And I want to say thank you,<br/>I was lost and you found me,<br/>I was dead inside,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>And you breathed into me,<br/>And you brought these bones to life.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>I want to say thank you,<br/>Thank you for saving me.<br/>Thank you for loving me unconditionally God.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>You stood with open arms,<br/>But I ran away.<br/>'Cause I was scared of the pain that came with trust.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>I don't deserve you God (x2)<br/>But you keep on loving me anyway.<br/>Oh, You'd never stop loving me God.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>And I want to say thank you,<br/>I was lost and you found me,<br/>I was dead inside,</lines>
+    </verse>
+    <verse name="v13">
+      <lines>And you breathed into me,<br/>And you brought these bones to life.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>I want to say thank you,<br/>Thank you for saving me.<br/>Thank you for loving me unconditionally</lines>
+    </verse>
+  </lyrics>
+</song>

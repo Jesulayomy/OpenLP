@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Love Has a Name</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2713"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>There's a space in every beating heart<br/>There's a longing that reaches past the stars<br/>There's an answer to every question mark<br/>There's a name<br/>There's a hope flowing through these veins<br/>There's a voice that echoes through the pain<br/>There's an ember ready for the flame<br/>There's a name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>We will fix our eyes on the<br/>One who overcame<br/>We will stand in awe of the<br/>One who breaks the chains</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Love has a name<br/>Love has a name Jesus<br/>Love has a name<br/>Love has a name Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>There's a joy that triumphs over fear<br/>There's a laughter that wipes away all tears<br/>There's a presence that changes atmospheres<br/>There's a name</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pre Chorus:<br/>We will fix our eyes on the<br/>One who overcame<br/>We will stand in awe of the<br/>One who breaks the chains</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Chorus:<br/>Love has a name<br/>Love has a name Jesus<br/>Love has a name<br/>Love has a name Jesus<br/>Love has a name<br/>Love has a name Jesus<br/>Victory has a name<br/>Victory has a name Jesus<br/>Joy has a name<br/>Joy has a name Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>The name that's lifted up forever<br/>The name that shakes the earth<br/>and shakes the heavens<br/>The hope for every heart<br/>The Savior of the world Jesus<br/>Jesus</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Pre Chorus:<br/>We will fix our eyes on the<br/>One who overcame<br/>We will stand in awe of the<br/>One who breaks the chains</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Chorus:<br/>Love has a name<br/>Love has a name Jesus<br/>My victory has a name<br/>Victory has a name Jesus<br/>Joy has a name<br/>Joy has a name Jesus<br/>My hope has a name<br/>Hope has a name Jesus</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="c7">
+      <lines>Pre Chorus:<br/>We will fix our eyes on the<br/>One who overcame<br/>We will stand in awe of the<br/>One who breaks the chains<br/>We will fix our eyes on the<br/>One who overcame<br/>We will stand in awe of the<br/>One who breaks the chains<br/>We will fix our eyes on the<br/>One who overcame<br/>We will stand in awe of the<br/>One who breaks the chains</lines>
+    </verse>
+    <verse name="c8">
+      <lines>Chorus:<br/>Love has a name<br/>Love has a name Jesus<br/>Joy has a name<br/>Joy has a name Jesus<br/>Love has a name<br/>Love has a name Jesus<br/>Joy has a name<br/>Joy has a name Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Outro:</lines>
+    </verse>
+  </lyrics>
+</song>

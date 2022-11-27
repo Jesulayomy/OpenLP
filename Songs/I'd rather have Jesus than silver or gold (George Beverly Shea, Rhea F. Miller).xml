@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>I'd rather have Jesus than silver or gold</title>
+    </titles>
+    <authors>
+      <author type="music">George Beverly Shea</author>
+      <author type="words">Rhea F. Miller</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'd rather have Jesus than silver or gold;<br/>I'd rather be His than have riches untold;<br/>I'd rather have Jesus than houses or lands.<br/>I'd rather be led by His nail pierced hand</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Than to be the king of a vast domain<br/>Or be held in sin's dread sway.<br/>I'd rather have Jesus than anything<br/>This world affords today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'd rather have Jesus than men's applause;<br/>I'd rather be faithful to His dear cause;<br/>I'd rather have Jesus than worldwide fame.<br/>I'd rather be true to His holy name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's fairer than lilies of rarest bloom;<br/>He's sweeter than honey from out the comb;<br/>He's all that my hungering spirit needs.<br/>I'd rather have Jesus and let Him lead</lines>
+    </verse>
+  </lyrics>
+</song>

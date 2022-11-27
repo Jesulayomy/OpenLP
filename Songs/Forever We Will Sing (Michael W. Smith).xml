@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Forever We Will Sing</title>
+    </titles>
+    <copyright>2002 Smittyfly Music | Word Music, LLC</copyright>
+    <authors>
+      <author type="words">Michael W. Smith</author>
+      <author type="music">Michael W. Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hallelujah,<br/>We honor You, Lord Jesus,<br/>And forever we will sing.<br/>Hallelujah!<br/>For You alone are worthy,<br/>And forever we will sing.<br/>Hallelujah! Hallelujah!<br/>Hallelujah! Hallelujah!<br/>We honor You, Lord Jesus;<br/>We lift Your name on high.</lines>
+    </verse>
+  </lyrics>
+</song>

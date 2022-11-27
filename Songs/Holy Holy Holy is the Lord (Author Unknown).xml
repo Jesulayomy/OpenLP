@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Holy Holy Holy is the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, holy, holy is the Lord,<br/>Holy is the Lord God Almighty.<br/>Holy, holy, holy is the Lord,<br/>Holy is the Lord God Almighty,<br/>Who was and is and is to come,<br/>Holy, holy, holy is the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Worthy, worthy, worthy is the Lord,<br/>Worthy, is the Lord God Almighty,<br/>Worthy, worthy, worthy is the Lord,<br/>Worthy, is the Lord God Almighty,<br/>Who was and is and is to come,<br/>Worthy, worthy, worthy is the Lord,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, Jesus, Jesus is the Lord,<br/>Jesus, is the Lord God Almighty,<br/>Jesus, Jesus, Jesus is the Lord,<br/>Jesus, is the Lord God Almighty,<br/>Who was and is and is to come,<br/>Jesus, Jesus, Jesus is the Lord,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glory, glory, glory to the Lord,<br/>Glory, to the Lord God Almighty,<br/>Glory, glory, glory to  the Lord,<br/>Glory, to the Lord God Almighty,<br/>Who was and is and is to come,<br/>Glory, glory, glory to  the Lord,</lines>
+    </verse>
+  </lyrics>
+</song>

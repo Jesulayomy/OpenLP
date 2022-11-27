@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>The Cause Of Christ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4909"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The only thing I want in life<br/>Is to be known for loving Christ<br/>To build His church, to love His bride<br/>And make His name known far and wide</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For this cause I live, for this cause I'd die<br/>I surrender all, for the cause of Christ<br/>All I once held dear, I will leave behind<br/>For my joy is this, oh the cause of Christ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is all my soul will prize<br/>Regardless of the joy or trial<br/>When agonizing questions rise<br/>In Jesus all my hope abides</lines>
+    </verse>
+    <verse name="c2">
+      <lines>For this cause I live, for this cause I'd die<br/>I surrender all, for the cause of Christ<br/>All I once held dear, I will leave behind<br/>For my joy is this, oh the cause of Christ</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jesus my Jesus<br/>For Your glory for Your name<br/>Jesus my Jesus<br/>I will only sing Your praise</lines>
+    </verse>
+    <verse name="c3">
+      <lines>For this cause I live, for this cause I'd die<br/>I surrender all, for the cause of Christ<br/>All I once held dear, I will leave behind<br/>For my joy is this, oh the cause of Christ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It is not fame that I desire<br/>Nor stature in my brother's eye<br/>I pray it's said about my life<br/>That I lived more to build Your name than mine</lines>
+    </verse>
+  </lyrics>
+</song>

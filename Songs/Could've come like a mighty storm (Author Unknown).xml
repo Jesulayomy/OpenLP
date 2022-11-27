@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>Could've come like a mighty storm</title>
+      <title>Winter Snow</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5031"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Could've come like a mighty storm<br/>with all the strength of a hurricane<br/>You could've come like a forest fire<br/>with the power of heaven in your flame</lines>
+    </verse>
+    <verse name="c1">
+      <lines>But you came like a winter snow<br/>quiet and soft and slow<br/>Falling from the sky in the night<br/>to the earth below</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Could've swept in like a tidal wave<br/>or an ocean to ravish our hearts<br/>You could have come through like a roaring flood<br/>to wipe away the things we've scarred</lines>
+    </verse>
+    <verse name="b1">
+      <lines>No, your voice wasn't in a bush burning<br/>No, your voice wasn't in a rushing wind<br/>It was still, it was small, it was hidden</lines>
+    </verse>
+  </lyrics>
+</song>

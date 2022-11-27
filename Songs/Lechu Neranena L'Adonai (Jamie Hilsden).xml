@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Lechu Neranena L'Adonai</title>
+      <title>Let us sing unto the LORD</title>
+    </titles>
+    <authors>
+      <author type="words">Jamie Hilsden</author>
+      <author type="music">Jamie Hilsden</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//// Let us sing unto the LORD for joy,<br/>To the Rock of our salvation ////</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come into His presence with praise,<br/>Singing and shouting proclaim<br/>That ADONAI is our Great God,<br/>Come into His presence with praise,<br/>Singing and shouting proclaim<br/>That ADONAI is our King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>//// Lechu Neranena L'Adonai<br/>Nariya L'tzur Yishenu ////</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Nekpadma panav betoda<br/>Bizmirot Nariya Lo,<br/>Ki El Gadol Adonai //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// Depths of the earth are in His Hands,<br/>and the mountain piece are His //<br/>// His is the sea for He made it,<br/>By His hands He formed dry land //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let us worship and bow down,<br/>Kneel before the LORD our Maker,<br/>/// Worship and bow down,<br/>Kneel before the LORD our Maker ///</lines>
+    </verse>
+  </lyrics>
+</song>

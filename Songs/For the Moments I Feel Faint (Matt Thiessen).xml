@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>For the Moments I Feel Faint</title>
+    </titles>
+    <copyright>2001 Gotee Music</copyright>
+    <authors>
+      <author type="words">Matt Thiessen</author>
+      <author type="music">Matt Thiessen</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Am I at the point  of no improvement?<br/>What of the death I still dwell in?<br/>I try to excel, but I feel no movement.<br/>Can I be free of this unreleasable sin?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Never underestimate my Jesus.<br/>You're telling me that there's no hope.<br/>I'm telling you you're wrong.<br/>Never underestimate my Jesus.<br/>When the world around you crumbles, He will be strong.<br/>He will be strong.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I throw up my hands. "Oh, the impossibilities."<br/>Frustrated and tired, where do I go from here?<br/>Now I'm searching for the confidence I've lost so willingly.<br/>Overcoming these obstacles is overcoming my fear.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I think I can't;  I think I can't,<br/>But I think You can; I think You can.<br/>I think I can't;  I think I can't,<br/>But I think You can; I think You can<br/>Gather my insuficiencies and place them in Your hands,<br/>Place them in Your hands.<br/>Place them in Your hands.</lines>
+    </verse>
+  </lyrics>
+</song>

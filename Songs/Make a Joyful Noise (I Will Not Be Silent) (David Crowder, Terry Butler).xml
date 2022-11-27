@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Make a Joyful Noise (I Will Not Be Silent)</title>
+    </titles>
+    <copyright>1993 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Terry Butler</author>
+      <author type="music">Terry Butler</author>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And I will not be silent,<br/>(Nie będę milczeć)<br/>I will not be quiet anymore.<br/>(Nie będę już nigdy cicho)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Make a joyful noise to the Lord all the earth!<br/>(Zrób cała ziemio radosny hałas dla Boga!)<br/>Make a joyful noise to the Lord all the earth!<br/>(Zrób cała ziemio radosny hałas dla Boga!)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The flowers of the field are cryin' to be heard.<br/>(Kwiaty pól chcą być słyszane)<br/>The trees of the forest are singing,<br/>(Drzewa w lesie śpiewają)<br/>And all of the mountains<br/>with one voice<br/>(I wszystkie góry jednym głosem)<br/>Are joining the chorus of this world.<br/>(śpiewają w chórze)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I will not be silent,<br/>(Nie będę milczeć)<br/>I will not be quiet anymore.<br/>(Nie będę już nigdy cicho)<br/>Running through the forest, dive into the lake,<br/>(Biegnąc przez las, nurkując w jeziorze)<br/>Bare feet on beaches white,<br/>(Boso chodząc po plaży)<br/>Standing in the canyon, painted hills around,<br/>(Stojąc w kanionie, z malowniczymi wzgórzami dookoła)<br/>The wind against my skin, every ocean, every sea,<br/>(Z wiatrem wiejącym w twarz, każdym oceanem, każdym morzem)<br/>Every river, every stream, every mountain, every tree,<br/>(Każdą rzeką, każdym strumieniem, każdą górą, każdym drzewem)<br/>Every blade of grass will sing!<br/>(Każde źdźbło trawy zaśpiewa!)</lines>
+    </verse>
+  </lyrics>
+</song>

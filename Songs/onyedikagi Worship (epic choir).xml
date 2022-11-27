@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:43">
+  <properties>
+    <titles>
+      <title>onyedikagi Worship</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Eledumare<br/>Arugbo ojo<br/>Onyedikagi, onyedikagi<br/>Eledumare<br/>Arugbo ojo<br/>Onyedikagi, onyedikagi</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Onye eh, onyedikagi<br/>Arugbo ojo, onyedikagi<br/>Onye eh, onyedikagi<br/>Arugbo ojo, onyedikagi<br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Elohim Adonai<br/>Ah Ah Ah Ah<br/>Eh Eh Eh Eh<br/>Elohim!</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Standing on the promises of Christ my King, <br/>     Through eternal ages let His praises ring, <br/>      Glory in the highest, I will shout and sing, <br/>       Standing on the promises ... standing...</lines>
+    </verse>
+  </lyrics>
+</song>

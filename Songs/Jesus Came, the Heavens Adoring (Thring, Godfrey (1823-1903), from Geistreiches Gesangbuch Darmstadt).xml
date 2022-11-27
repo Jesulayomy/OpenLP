@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Jesus Came, the Heavens Adoring</title>
+    </titles>
+    <authors>
+      <author type="music">from Geistreiches Gesangbuch Darmstadt</author>
+      <author type="words">Thring, Godfrey (1823-1903)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus came, the heav'ns adoring, Came with peace from realms on high; Jesus came for man's redemption, Lowly came on earth to die. Alleluia! Alleluia! Came in deep humility.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus comes again in mercy, When our hearts are bowed with care; Jesus comes again in answer To an earnest, heartfelt prayer; Alleluia! Alleluia! Comes to save us from despair.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus comes to hearts rejoicing, Bringing news of sins forgiv'n; Jesus comes in sounds of gladness, Leading souls redeemed to Heav'n; Alleluia! Alleluia! Now the gate of death is riv'n.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus comes in joy and sorrow, Shares alike our hopes and fears; Jesus comes, whate'er befalls us, Glads our hearts, and dries our tears; Alleluia! Alleluia! Cheering e'en our failing years.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus comes on clouds triumphant, When the heav'ns shall pass away; Jesus comes again in glory; Let us then our homage pay, Alleluia! Alleluia! Till the dawn of endless day.</lines>
+    </verse>
+  </lyrics>
+</song>

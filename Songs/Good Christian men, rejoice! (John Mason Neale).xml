@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:51">
+  <properties>
+    <titles>
+      <title>Good Christian men, rejoice!</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">John Mason Neale</author>
+      <author type="music">John Mason Neale</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Good Christian men, rejoice with heart and soul and voice!<br/>Give ye heed to what we say!<br/>Jesus Christ is born today.<br/>Ox and ass before Him bow, and He is in the manger now;<br/>Christ is born today, Christ is born today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Good Christian men, rejoice with heart and soul and voice!<br/>Now hear ye of endless bliss:<br/>Jesus Christ was born for this.<br/>He hath opened the heavenly door, and man is blest for evermore<br/>Christ was born for this, Christ was born for this.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Good Christian men, rejoice with heart and soul and voice!<br/>Now ye need not fear the grave:<br/>Jesus Christ was born to save;<br/>Calls you one and calls you all, to gain His everlasting hall:<br/>Christ was born to save, Christ was born to save.</lines>
+    </verse>
+  </lyrics>
+</song>

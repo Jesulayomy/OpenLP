@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Wait on you</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+      <author type="words">Maverick City Music</author>
+      <author type="music">Maverick City Music</author>
+      <author type="words">Phil Wickham</author>
+      <author type="music">Phil Wickham</author>
+    </authors>
+    <themes>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>meditation</theme>
+      <theme>comfort</theme>
+      <theme>youth</theme>
+      <theme>blessing</theme>
+      <theme>gods-faithfulness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I don't believe in fairy tales<br/>I guess I've outgrown them<br/>But that doesn't mean I don't believe<br/>That there's something bigger than me<br/>Cause I've seen.. in a hospital room<br/>When the doctors said<br/>"Sorry there's nothing more we can do"<br/>Well it wasn't through</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've never seen a pot of gold at the end of the rainbow<br/>But I've got a promise I can hold<br/>In the middle of the struggle<br/>God if you said it You'll perform it<br/>May not be how I want You to<br/>But here's what I'll do</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm gonna wait on You<br/>I'm gonna wait on You<br/>I've tasted Your goodness<br/>I'll trust in Your promise<br/>I'm gonna wait on You<br/>Yes I'm gonna wait on You<br/>I've tasted Your goodness<br/>I'll trust in Your promise<br/>I'm gonna wait on You<br/>[Turnaround]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know You've ordered every step<br/>Yeah, You are the Author<br/>And there's no predicting what is next<br/>But You hold the future<br/>And all the questions they come second<br/>To the one I know is true<br/>You've always been true</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I'm gonna wait on You<br/>I'm gonna wait on You<br/>I've tasted Your goodness<br/>I'll trust in Your promise<br/>I'm gonna wait on You<br/>I'm gonna wait on You<br/>I've tasted Your goodness<br/>I'll trust in Your promise<br/>I'm gonna wait on You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Wait on the Lord<br/>Wait on the Lord<br/>He will renew your strength<br/>So wait I say</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I'm gonna wait on You<br/>I'm gonna wait on You<br/>I've tasted Your goodness<br/>I'll trust in Your promise<br/>I'm gonna wait on You<br/>I'm gonna wait on You<br/>I've tasted Your goodness<br/>I'll trust in Your promise<br/>I'm gonna<br/>Wait on the Lord<br/>Wait on the Lord<br/>He will renew your strength<br/>So wait I say</lines>
+    </verse>
+  </lyrics>
+</song>

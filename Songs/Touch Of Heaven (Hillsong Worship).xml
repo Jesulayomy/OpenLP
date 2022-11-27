@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Touch Of Heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3249"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How I live for the moments<br/>Where I'm still in Your presence<br/>All the noise dies down<br/>Lord speak to me now<br/>You have all my attention<br/>I will linger and listen<br/>I can't miss a thing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I know my heart wants more of You<br/>My heart wants something new<br/>So I surrender all</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All I want is to live within Your love<br/>Be undone by who You are<br/>My desire is to know You deeper<br/>Lord, I will open up again<br/>Throw my fears into the wind<br/>I am desperate for a touch of heaven</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Woooh, woooh<br/>Woooh, woooh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're the fire in the morning<br/>You're the cool in the evening<br/>The breath in my soul<br/>Or the life in my bones<br/>There is no hesitation<br/>In Your love and affection<br/>It's the sweetest of all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, I know my heart wants more of You<br/>My heart wants something new<br/>So I surrender all</lines>
+    </verse>
+    <verse name="c2">
+      <lines>All I want is to live within Your love<br/>Be undone by who You are<br/>My desire is to know You deeper<br/>Lord, I will open up again<br/>Throw my fears into the wind<br/>I am desperate for a touch of heaven</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Woooh, woooh<br/>Woooh, woooh<br/>Woooh, woooh<br/>Woooh, woooh</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge: x3<br/>I open up my heart to You<br/>I open up my heart to You now<br/>So do what only You can<br/>Jesus, have Your way in me now</lines>
+    </verse>
+  </lyrics>
+</song>

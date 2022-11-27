@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>The Stars in Their Courses Above</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The stars in their courses above<br/>Shine for Your glory; You alone are God<br/>By You every mountain was formed<br/>To tell of the story; You alone are God<br/>Eternally worthy of praise<br/>We join with creation and sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, for all that You are<br/>For all that You've done<br/>I will praise You<br/>Lord, for all that You are<br/>For all that You'll do<br/>I will praise You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The roar of Your thunder and rain<br/>Tell of Your power; You alone are God<br/>The people You've called and redeemed<br/>Bow in surrender; You alone are God<br/>Eternally worthy of praise<br/>We join with creation and sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Never ending, unfailing<br/>Everlasting, unfading<br/>You are</lines>
+    </verse>
+  </lyrics>
+</song>

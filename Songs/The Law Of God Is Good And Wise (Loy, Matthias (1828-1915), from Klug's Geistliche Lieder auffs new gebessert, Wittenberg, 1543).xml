@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The Law Of God Is Good And Wise</title>
+    </titles>
+    <authors>
+      <author type="music">from Klug's Geistliche Lieder auffs new gebessert, Wittenberg, 1543</author>
+      <author type="words">Loy, Matthias (1828-1915)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The law of God is good and wise, And sets His will before our eyes, Shows us the way of righteousness, And dooms to death when we transgress.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Its light of holiness imparts The knowledge of our sinful hearts, That we may see our lost estate And seek deliv'rance ere too late.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To those who help in Christ have found And would in works of love abound It shows what deeds are His delight And should be done as good and right.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When men the offered help disdain And willfully in sin remain, Its terror in their ear resounds And keeps their wickedness in bounds.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The law is good, but since the fall Its holiness condemns us all; It dooms us for our sin to die And has no pow'r to justify.</lines>
+    </verse>
+  </lyrics>
+</song>

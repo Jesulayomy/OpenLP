@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:21">
+  <properties>
+    <titles>
+      <title>All to Him</title>
+    </titles>
+    <authors>
+      <author type="words">New Life Worship</author>
+      <author type="music">New Life Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For every mountain that is high<br/>He is higher<br/>For every burden that is great<br/>He is greater<br/>For every valley that is deep<br/>He is deeper still<br/>More than we can know</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Our promise is Jesus<br/>Our answer is Jesus<br/>All to Him, All to Him<br/>we owe everything<br/>Our savior is Jesus<br/>Our future is Jesus<br/>All to Him, All to Him<br/>we owe everything</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For every fear that closes in<br/>He is closer<br/>For every doubt that comes on strong<br/>He is stronger<br/>For every battle that we face<br/>He has conquered all<br/>More than we can know</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We know the great God<br/>We serve the great God<br/>We owe the great God<br/>Everything all to Him</lines>
+    </verse>
+  </lyrics>
+</song>

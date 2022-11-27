@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Still Rolling Stones</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5924"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Out of the shadows Bound for the gallows<br/>A dead man walking till love came calling<br/>Rise up (rise up) Rise up (rise up)<br/>Six feet under I thought it was over<br/>An answer to prayer the voice of a Savior<br/>Rise up (rise up) Rise up (rise up)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All at once I came alive<br/>This beating heart, these open eyes?<br/>They don't let go?<br/>The darkness should have known<br/>(You're still rolling rolling, you're still rolling rolling oh)<br/>You're still rolling stones (You're still rolling rolling oh)<br/>You're still rolling stones</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now that You saved me I sing 'cause You gave me<br/>A song of revival I put it on vinyl<br/>Rise up (rise up) Rise up (rise up)<br/>I once was blinded but now I see it<br/>I heard about the power and now I believe it<br/>Rise up (rise up) Rise up (rise up)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I thought that I was too far gone<br/>For everything I've done wrong<br/>Yeah, I'm the one who dug this grave<br/>But You called my name<br/>You called my name<br/>I thought that I was too far gone<br/>For everything I've done wrong<br/>Yeah, I'm the one who dug this grave<br/>But You called my name<br/>You called my name</lines>
+    </verse>
+  </lyrics>
+</song>

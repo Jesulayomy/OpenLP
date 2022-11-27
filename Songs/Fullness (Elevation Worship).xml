@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Fullness</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4898"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>70 bpm</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 1<br/>Fullness of eternal promise<br/>Stirring in your sons and daughters<br/>Earth revealing heaven's wonders<br/>Spirit come, Spirit come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What you spoke is now unfolding<br/>All your children shall behold it<br/>Dreams awaken in this moment<br/>Spirit come, Spirit come</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Pour it out, let your love run over<br/>Here and now, let your glory fill this house<br/>Pour it out, let your love run over<br/>Here and now, let your glory fill this house</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verse: 2<br/>Now the world awaits your presence<br/>And this power is within us<br/>We will rise to be your witness<br/>Spirit come, Spirit come</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Pour it out, let your love run over<br/>Here and now, let your glory fill this house<br/>Pour it out, let your love run over<br/>Here and now, let your glory fill this house</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>2X Bridge:<br/>Tongues of fire,  testifying of the Son<br/>One desire,  Spirit come, Spirit come<br/>Speak revival,  prophesy like it is done<br/>One desire,  Spirit come, Spirit come</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Verse: 3<br/>Let our hearts continue burning<br/>For our King is soon returning<br/>As we hold to this assurance<br/>Spirit come, Spirit come<br/>Spirit come, Spirit come</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>Pour it out, let your love run over<br/>Here and now, let your glory fill this house<br/>Pour it out, let your love run over<br/>Here and now, let your glory fill this house</lines>
+    </verse>
+    <verse name="b4">
+      <lines>Bridge:<br/>Tongues of fire,  testifying of the Son<br/>One desire,  Spirit come, Spirit come<br/>Speak revival,  prophesy like it is done<br/>One desire,  Spirit come, Spirit come</lines>
+    </verse>
+    <verse name="b5">
+      <lines>Ending:</lines>
+    </verse>
+  </lyrics>
+</song>

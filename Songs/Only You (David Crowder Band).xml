@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Only You</title>
+    </titles>
+    <authors>
+      <author type="words">David Crowder Band</author>
+      <author type="music">David Crowder Band</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take my heart, I lay it down<br/>At the feet of You who's crowned.<br/>And take my life, I'm letting go;<br/>I lift it up to You who's throned.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will worship You, Lord,<br/>Only You, Lord.<br/>And I will bow down before You,<br/>Only You, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take my fret. Take my fear.<br/>All I have I'm leaving here.<br/>Be all my hopes, be all my dreams,<br/>Be all my delights, be my everything.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And it's just You and me here now.<br/>Only You and me here now. (4X)<br/>You should see the view<br/>When it's only You.</lines>
+    </verse>
+  </lyrics>
+</song>

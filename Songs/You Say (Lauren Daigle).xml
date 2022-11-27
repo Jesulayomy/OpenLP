@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>You Say</title>
+    </titles>
+    <authors>
+      <author type="words">Lauren Daigle</author>
+      <author type="music">Lauren Daigle</author>
+    </authors>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I keep fighting voices<br/>in my mind that say I'm not enough<br/>Every single lie that tells me<br/>I will never measure up<br/>Am I more than just the sum<br/>of every high and every low?<br/>Remind me once again just who I am,<br/>because I need to know (ooh oh)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You say I am loved when I can't feel a thing<br/>You say I am strong when I think I am weak<br/>You say I am held when I am falling short<br/>When I don't belong, oh You say that I am Yours<br/>And I believe (I), oh I believe (I)<br/>What You say of me (I)<br/>I believe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The only thing that matters now<br/>is everything You think of me<br/>In You I find my worth,<br/>in You I find my identity, (ooh oh)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You say I am loved when I can't feel a thing<br/>You say I am strong when I think I am weak<br/>You say I am held when I am falling short<br/>When I don't belong, oh You say that I am Yours<br/>And I believe (I), oh I believe (I)<br/>What You say of me (I)<br/>I believe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Taking all I have and now<br/>I'm laying it at Your feet<br/>You have every failure God,<br/>and You'll have every victory, (ooh oh)</lines>
+    </verse>
+    <verse name="c3">
+      <lines>You say I am loved when I can't feel a thing<br/>You say I am strong when I think I am weak<br/>You say I am held when I am falling short<br/>When I don't belong, oh You say that I am Yours<br/>And I believe (I), oh I believe (I)<br/>What You say of me (I)<br/>I believe</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Oh I believe (I), yes I believe (I)<br/>What You say of me (I)<br/>Oh I believe (oh)</lines>
+    </verse>
+  </lyrics>
+</song>

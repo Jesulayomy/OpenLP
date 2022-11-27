@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>How Majestic</title>
+    </titles>
+    <authors>
+      <author type="words">Kari Jobe</author>
+      <author type="music">Kari Jobe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2437"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Without a  word<br/>The mountains   speak<br/>The song that all cre - a - tion sings<br/>А2<br/>The painted skies<br/>The sun and   stars<br/>The Heavens tell how great You are<br/>The Heavens tell how great You are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus<br/>How majestic is Your name<br/>How majestic is Your name<br/>Jesus wonderful, powerful<br/>You're the Lord of all<br/>How majestic is Your name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2<br/>A rugged cross<br/>A humble King<br/>How beautiful the mystery<br/>That love would bleed from majesty</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bridge<br/>All rise, all rise in highest praise<br/>Your name will reign through all eternity<br/>Our hope, our strength, our victory<br/>We bow down, down at Your feet</lines>
+    </verse>
+  </lyrics>
+</song>

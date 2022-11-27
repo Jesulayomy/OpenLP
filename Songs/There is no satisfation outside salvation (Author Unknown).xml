@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>There is no satisfation outside salvation</title>
+      <title>(S-A-L-V-A-T-I-O-N)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no satisfaction outside<br/>salvation,<br/>S-A-L-V-A-T-I-O-N;<br/>There is no satisfaction outside<br/>salvation,<br/>S-A-L-V-A-T-I-O-N.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Shout it out, loud and clear,<br/>S-A-L-V-A-T-I-O-N.<br/>Shout it out, loud and clear,<br/>S-A-L-V-A-T-I-O-N.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>King of kings and Lord of lords</title>
+    </titles>
+    <authors>
+      <author type="words">Sophie Conty</author>
+      <author type="music">Sophie Conty</author>
+      <author type="words">Naomi Batya</author>
+      <author type="music">Naomi Batya</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>joy</theme>
+      <theme>kids</theme>
+      <theme>praise</theme>
+      <theme>thanksgiving</theme>
+      <theme>truth</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>King of kings, and Lord of lords,<br/>Glory, hallelujah! (2x)<br/>Jesus, Prince of Peace,<br/>Glory, hallelujah! (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King of kings and Lord of lords (Jesus, Prince of Peace)<br/>Glory hallelujah<br/>King of kings and Lord of lords (Jesus, Prince of Peace)<br/>Glory hallelujah<br/>King of kings and Lord of lords (Jesus, Prince of Peace)<br/>Glory hallelujah<br/>King of kings and Lord of lords (Jesus, Prince of Peace)<br/>Glory hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

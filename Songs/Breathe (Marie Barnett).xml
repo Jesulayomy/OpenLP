@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Breathe</title>
+      <title>This is the air I breathe</title>
+    </titles>
+    <copyright>1995 Mercy / Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Marie Barnett</author>
+      <author type="music">Marie Barnett</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>guitar</theme>
+      <theme>hope</theme>
+      <theme>forgiveness</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>longing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the air I breathe<br/>This is the air I breathe<br/>Your holy presence<br/>Living in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is my daily bread<br/>This is my daily bread<br/>Your very word<br/>Spoken to me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I, I'm desparate for you<br/>And I, I'm lost without you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is the air I breathe<br/>This is the air I breathe<br/>Your holy presence<br/>Living in me</lines>
+    </verse>
+  </lyrics>
+</song>

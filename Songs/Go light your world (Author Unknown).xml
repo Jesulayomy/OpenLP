@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Go light your world</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6363"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a candle in every soul<br/>Some brightly burning, some dark and cold<br/>There is a Spirit who brings fire<br/>Ignites a candle and makes His home</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Carry your candle, run to the darkness<br/>Seek out the hopeless, confused and torn<br/>Hold out your candle for all to see it<br/>Take your candle, and go light your world<br/>Take your candle, and go light your world</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Frustrated brother, see how he's tried to<br/>Light his own candle some other way<br/>See now your sister, she's been robbed and lied to<br/>Still holds a candle without a flame</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Carry your candle, run to the darkness<br/>Seek out the lonely, the tired and worn<br/>Hold out your candle for all to see it<br/>Take your candle, and go light your world<br/>Take your candle, and go light your world</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are a family whose hearts are blazing<br/>So let's raise our candles and light up the sky<br/>Praying to our Father, in the name of Jesus<br/>Make us a beacon in darkest times</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Carry your candle, run to the darkness<br/>Seek out the helpless, deceived and poor<br/>Hold out your candle for all to see it<br/>Take your candle, and go light your world</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Carry your candle, run to the darkness<br/>Seek out the hopeless, confused and torn<br/>Hold out your candle for all to see it<br/>Take your candle, and go light your world<br/>Take your candle, and go light your world</lines>
+    </verse>
+  </lyrics>
+</song>

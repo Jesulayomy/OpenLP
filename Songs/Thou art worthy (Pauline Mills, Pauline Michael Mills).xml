@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:23">
+  <properties>
+    <titles>
+      <title>Thou art worthy</title>
+    </titles>
+    <copyright>1963, 1975 Fred Bock Music Company</copyright>
+    <authors>
+      <author type="words">Pauline Mills</author>
+      <author type="music">Pauline Mills</author>
+      <author type="words">Pauline Michael Mills</author>
+      <author type="music">Pauline Michael Mills</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou art worthy, Thou art worthy,<br/>Thou art worthy, oh Lord;<br/>To receive glory, Glory and honor,<br/>Glory, and honor, and power!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Thou hast created,<br/>Hast all things created,<br/>Thou hast created all things;<br/>And for Thy pleasure,<br/>They are created;<br/>Thou art worthy, oh Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

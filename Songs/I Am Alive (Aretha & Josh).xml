@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>I Am Alive</title>
+    </titles>
+    <authors>
+      <author type="words">Aretha &amp; Josh</author>
+      <author type="music">Aretha &amp; Josh</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Many years ago I was petrified, I was stealing, lusting, blaspheming and telling many lies<br/>I was on my way to Hell all because of my great sin,<br/>Then You came into my life, I just had to let You in<br/>So come on, walk in my door, when You touched my heart oh Lord, all my tears began to flow<br/>No more hopeless days and nights of my being all alone,<br/>    Now You're in my life and I'm a part of Your great home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'm free to stay with You, Light has come into my life, our relationship brand new<br/>You said You'd never leave me, and You'd never let me go<br/>That's why my eyes are on You, that's why You are my Lord.<br/>So let me, stay on my knees, always keep me close to You, hold me Jesus, will You please?<br/>Your precious life You gave, and by Your blood You save<br/>I'm redeemed, and from prison I'm set free!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh I, I am alive, once dead in my great sin, now I'm happy by Your side<br/>Forever I will live, one day will do no wrong<br/>I'll be with You forever, and in my heart there is a song<br/>Oh I, I am alive, once dead in my great sin, now I'm happy by Your side<br/>Forever I will live, one day will do no wrong<br/>I am alive, I am alive! Hey, hey!</lines>
+    </verse>
+  </lyrics>
+</song>

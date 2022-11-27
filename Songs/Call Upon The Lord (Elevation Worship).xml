@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Call Upon The Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2351"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>salvation</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE: 1<br/>We need no other hiding place<br/>Our hope is safe within Your name<br/>This we know, This we know<br/>You promised never to forsake<br/>What You began You will sustain<br/>This we know, This we know</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>I will call upon the Lord<br/>For He alone is strong enough to save<br/>Rise Your shackles are no more<br/>For Jesus Christ has broken every chain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE: 2<br/>All of the heavens and the earth<br/>Announce the fullness of Your worth<br/>This we know, this we know<br/>And every enemy will flee<br/>As we declare Your victory<br/>This we know, this we know</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS: (x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>TURN:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE: (x2)<br/>Jesus Name will break every stronghold<br/>Freedom is ours when we call His name<br/>Jesus name above every other<br/>All hail the power of Jesus name</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE: TAG<br/>All hail the power of Jesus name</lines>
+    </verse>
+    <verse name="b3">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+    <verse name="c3">
+      <lines>CHORUS: (x2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>OUTRO:</lines>
+    </verse>
+  </lyrics>
+</song>

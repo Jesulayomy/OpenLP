@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>Hallelujah</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Saved by Your mercy found in Your grace<br/>Totally surrendered to Your embrace<br/>And there's nothing more than You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See Your perfection I'm lost in Your peace<br/>Your faithfulness sings over me<br/>And Your love is the light of my soul</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And I lift my eyes to You Creator of the world</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I stand in awe of You Of Your glory<br/>And I live to worship You<br/>Son of God, King of heaven<br/>And the angels round Your throne Cry out holy<br/>To the One who is to come<br/>Hear us sing hallelujah<br/>Hallelujah, hallelujah, hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

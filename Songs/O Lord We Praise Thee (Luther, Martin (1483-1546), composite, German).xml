@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O Lord We Praise Thee</title>
+      <title>May God be Praised Henceforth and Blest Forever, Let God Be Blest</title>
+    </titles>
+    <authors>
+      <author type="music">German</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">composite</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, we praise Thee, bless Thee, and adore Thee, In thanksgiving bow before Thee Thou with Thy body and Thy blood didst nourish Our weak souls that they may flourish: O Lord, have mercy! May Thy body, Lord, born of Mary, That our sins and sorrows did carry, And Thy blood for us plead In all trial, fear, and need: O Lord, have mercy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy holy body into death was given, Life to win for us in heaven. No greater love than this to Thee could bind us; May this feast thereof remind us! O Lord, have mercy! Lord, Thy kindness did so constrain Thee That Thy blood should bless and sustain me. All our debt Thou hast paid; Peace with God once more is made: O Lord, have mercy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>May God bestow on us His grace and favor To please Him with our behavior And live as brethren here in love and union Nor repent this blest Communion! O Lord, have mercy! Let not Thy good Spirit forsake us; Grant that heav'nly\minded He make us; Give Thy Church, Lord, to see Days of peace and unity: O Lord, have mercy!</lines>
+    </verse>
+  </lyrics>
+</song>

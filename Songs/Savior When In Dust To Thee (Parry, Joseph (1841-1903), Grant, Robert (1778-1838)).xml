@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Savior When In Dust To Thee</title>
+    </titles>
+    <authors>
+      <author type="music">Parry, Joseph (1841-1903)</author>
+      <author type="words">Grant, Robert (1778-1838)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior, when in dust to Thee Low we bow th'adoring knee, When, repentant, to the skies Scarce we lift our weeping eyes, O by all the pains and woes Suffered once for man below, Bending from Thy throne on high, Hear our penitential cry!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By Thy helpless infant years, By Thy life of want and tears, By Thy days of sore distress In the savage wilderness, By the dread mysterious hour Of th'insulting tempter's pow'r, Turn, O turn a fav'ring eye, Hear our penitential cry!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>By the sacred griefs that wept O'er the grave where Laz'rus slept, By the boding tears that flowed Over Salem's loved abode, By the anguished sigh that told Treachery lurked within Thy fold, From Thy seat above the sky, Hear our penitential cry!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>By Thine hour of dire despair, By Thine agony of prayer, By the cross, the nail, the thorn, Piercing spear, and torturing scorn, By the gloom that veiled the skies O'er the dreadful sacrifice, Listen to our humble cry, Hear our penitential cry!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>By Thy deep expiring groan, By the sad sepulchral stone, By the vault whose dark abode Held in vain the rising God, O from earth to heaven restored, Mighty, reascended Lord, Listen, listen to the sigh Of our penitential cry!</lines>
+    </verse>
+  </lyrics>
+</song>

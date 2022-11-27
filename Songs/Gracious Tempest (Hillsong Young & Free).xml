@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Gracious Tempest</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Young &amp; Free</author>
+      <author type="music">Hillsong Young &amp; Free</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1731"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>forgiveness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>Your love towers over me<br/>Gracious tempest, endless sea<br/>Your love is like a storm, oh oh<br/>Endless tide of mercy reign<br/>Let it flood in my heart again<br/>Surround me like an o - o - cean</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Your love is crashing over me<br/>It's surging like a raging sea<br/>Immerse me in the wonder of Your love<br/>A downpour of unending grace<br/>Consuming all my reckless ways<br/>My sins submerged<br/>Your love has saved my soul<br/>Your love is like a storm</lines>
+    </verse>
+  </lyrics>
+</song>

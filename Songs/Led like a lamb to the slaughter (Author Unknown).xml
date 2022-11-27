@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Led like a lamb to the slaughter</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Led like a lamb to the slaughter<br/>In  silence  and  shame.<br/>There on Your back You carried a world<br/>Of  violence  and  pain.<br/>Bleeding,  dying,  bleeding,  dying.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're alive, You're alive, You have risen!<br/>Hallelujah! (Hallelujah!) (Hallelujah!)<br/>And the power and the glory is given,<br/>Hallelujah, (Hallelujah!) (Hallelujah!)<br/>Jesus, to You!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At break of dawn, poor Mary,<br/>Still weeping she came,<br/>When through her grief she heard Your voice<br/>Now speaking her name:<br/>'Mary!' 'Master!' 'Mary!' 'Master!'</lines>
+    </verse>
+    <verse name="v3">
+      <lines>At the right hand of the Father<br/>Now seated on high<br/>You have begun Your eternal reign<br/>Of  justice  and  joy.<br/>Glory, glory, glory, glory!</lines>
+    </verse>
+  </lyrics>
+</song>

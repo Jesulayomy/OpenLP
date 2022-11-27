@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>The First and The Last</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the First and the Last, Beginning and the End<br/>The promise of wonders to come, the future is in Your hands<br/>Caught in the light, with all the earth we will sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the Author of love, our freedom is in Your name<br/>Embracing the cross meant for us, and brought us to life again<br/>Caught in the love, with all we are let us sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God our Hope, and our Salvation, Worthy of all the praise<br/>Be our light everlasting, great is Your name, Jesus the First and the Last</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Show us the way of Your love, lead us toward the truth<br/>Stir up the fire in us, to live out this life for you<br/>Caught in Your name, Jesus forever we'll sing</lines>
+    </verse>
+    <verse name="b1">
+      <lines>G                                             Bm    A<br/>Every heart, every nation will hear the sound<br/>As your light breaks through the darkness and Your name rings out<br/>Every distant horizon will meet as one<br/>Singing holy is Your name, We sing holy is Your name.</lines>
+    </verse>
+  </lyrics>
+</song>

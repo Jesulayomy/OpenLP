@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>I stand before You now</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3313"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand before You now<br/>The greatness of Your renown<br/>I've heard of the majesty and wonder of You<br/>King of Heaven, in humility, I bow</lines>
+    </verse>
+    <verse name="c1">
+      <lines>As Your love, in wave after wave<br/>Crashes over me, crashes over me<br/>For You are for us, You are not against us<br/>Champion of Heaven,<br/>You made a way for all to enter in</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've heard You calling my name<br/>I've heard the song of love that You sing<br/>So I will let you draw me out beyond the shore<br/>Into Your grace</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You make me brave<br/>You make me brave<br/>You call me out beyond the shore into the waves<br/>You make me brave<br/>You make me brave<br/>No fear can hinder now the Love that made a way<br/>You make me brave<br/>You make me brave<br/>You call me out beyond the shore into the waves<br/>You make me brave<br/>You make me brave<br/>No fear can hinder now the promises You've made</lines>
+    </verse>
+  </lyrics>
+</song>

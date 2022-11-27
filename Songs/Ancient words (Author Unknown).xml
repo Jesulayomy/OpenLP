@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Ancient words</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy words long preserved<br/>For our walk in this world<br/>They resound with God's own heart<br/>Oh, let the ancient words impart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Words of Life, words of Hope<br/>Give us strength, help us cope<br/>In this world, where e'er we roam<br/>Ancient words will guide us home</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ancient words ever true<br/>Changing me and changing you<br/>We have come with open hearts<br/>Oh, let the ancient words impart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy words of our Faith<br/>Handed down to this age<br/>Came to us through sacrifice<br/>Oh, heed the faithful words of Christ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy words long preserved<br/>For our walk in this world<br/>They resound with God's own heart<br/>Oh, let the ancient words impart</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Word of God ever true<br/>Changing me and changing you<br/>We have come with open hearts<br/>Oh, let the word of God impart</lines>
+    </verse>
+  </lyrics>
+</song>

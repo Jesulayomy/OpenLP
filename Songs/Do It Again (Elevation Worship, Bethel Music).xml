@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Do It Again</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4020"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE:<br/>Walking around these walls<br/>I thought by now they'd fall<br/>But you have never failed me yet<br/>Waiting for change to come<br/>Knowing the battle's won<br/>For You have never failed me yet</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Your promise still stands<br/>Great is Your faithfulness, Faithfulness<br/>I'm still in your hands<br/>This is my confidence<br/>You've never failed me yet</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE:<br/>I know the night won't last<br/>Your word will come to pass<br/>My heart will sing your praise again<br/>Jesus you're still enough<br/>Keep me within your love<br/>My heart will sing your praise again</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>Your promise still stands<br/>Great is Your faithfulness, Faithfulness<br/>I'm still in your hands<br/>This is my confidence<br/>You've never failed</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I've seen you move,    you move the mountains<br/>And I believe,     I'll see you do it again<br/>You made a way      when was no way<br/>And I believe,     I'll see you do it again</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Reckless Love</title>
+    </titles>
+    <authors>
+      <author type="words">Cory Asbury</author>
+      <author type="music">Cory Asbury</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5067"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before I spoke a word, You were singing over me.<br/>You have been so, so good to me.<br/>Before I took a breath, You breathed Your life in me.<br/>You have been so, so kind to me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh the overwhelming, never-ending, reckless love of God<br/>Oh, it chases me down, fights 'till I'm found, leaves the ninety-nine.<br/>I couldn't earn it. I don't deserve it. Still, You give yourself away.<br/>Oh the overwhelming, never-ending, reckless love of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I was Your foe, still Your love fought for me.<br/>You have been so, so good to me.<br/>When I felt no worth, You paid it all for me.<br/>You have been so, so kind to me.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There's no shadow You won't light up, mountain You won't climb up, coming after me.<br/>There's no wall You won't kick down, no lie You won't tear down, coming after me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's no shadow You won't light up, mountain You won't climb up, coming after me.<br/>There's no wall You won't kick down, no lie You won't tear down, coming after me.<br/>There's no shadow You won't light up, mountain You won't climb up, coming after me.<br/>There's no wall You won't kick down, no lie You won't tear down, coming after me.</lines>
+    </verse>
+  </lyrics>
+</song>

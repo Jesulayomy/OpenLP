@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Phillipians 3</title>
+    </titles>
+    <copyright>2008 Brian Lange</copyright>
+    <authors>
+      <author type="words">Brian Lange</author>
+      <author type="music">Brian Lange</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What things were gain to us<br/>We count them all as loss.<br/>Our pride, the things we've done,<br/>They're rubbish and they're dross.<br/>That we might know you fully,<br/>And be found in only You.<br/>Our righteousness isn't from the law;<br/>It's Your Son that made us new.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>That we may know<br/>the power of Your resurrection.<br/>Not that we have<br/>already attained perfection,<br/>But one thing we do:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Forgetting those things which are behind,<br/>We reach forward for the upward call of Christ.<br/>The call of Christ.<br/>Lord, strip us of what we hold dear,<br/>The worldly things that will never compare to You.<br/>Compare to You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where lies your confidence?<br/>In what do you place worth?<br/>Only when you share His death<br/>Will faith, to you, give birth.<br/>Suffer with Him, know His power,<br/>Press on toward the goal.<br/>His righteousness will hold you true,<br/>His call is to be whole!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So eagerly we wait<br/>For Christ the Son to come;<br/>Our citizenship is found<br/>In heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

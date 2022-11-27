@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Glorify Your Name</title>
+    </titles>
+    <copyright>2004 Darlene Zscech / Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Darlene Zscech</author>
+      <author type="music">Darlene Zscech</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Jesus<br/>Holy one<br/>Gods precious Son You gave</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Jesus<br/>On the cross<br/>You took my shame<br/>Forever from my heart I'll say</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I live to worship You, Lord<br/>My King of glory<br/>Brought me to life<br/>Gave me wings to fly<br/>You are holy<br/>Heaven and earth declare You praise<br/>Both now and evermore<br/>I glorify Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, Jesus<br/>On the cross<br/>You took my sin<br/>Forever from my heart I'll sing</lines>
+    </verse>
+  </lyrics>
+</song>

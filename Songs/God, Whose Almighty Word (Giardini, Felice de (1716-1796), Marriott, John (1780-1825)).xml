@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>God, Whose Almighty Word</title>
+    </titles>
+    <authors>
+      <author type="music">Giardini, Felice de (1716-1796)</author>
+      <author type="words">Marriott, John (1780-1825)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God, whose almighty word Chaos and darkness heard And took their flight: Hear us, we humble pray, And where the Gospel day Sheds not its glorious ray, Let there be light!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, who once came to bring, On your redeeming wing, Healing and sight, Health to the sick in mind, Sight to the inly blind: Oh, now to humankind Let there be light!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit of truth and love, Life giving, holy dove, Speed forth your flight; Move on the water's face, Bearing the lamp of grace, And in earth's darkest place Let there be light!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy and blessed three, Glorious Trinity, Wisdom, love, might! Boundless as ocean's tide, Rolling in fullest pride, Through the earth, far and wide, Let there be light!</lines>
+    </verse>
+  </lyrics>
+</song>

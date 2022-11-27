@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Hallelujah have won the victory</title>
+    </titles>
+    <authors>
+      <author type="words">Gospel Project</author>
+      <author type="music">Gospel Project</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2442"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, you have won the victory.<br/>Hallelujah, you have won it all for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Death could not hold you down,<br/>you are the risen King<br/>You're seated in majesty,<br/>and you are the risen King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>На армянском будет так!!!<br/>АЛЭЛЛУЯ ДУ ТОНЭЛЭС АХТАНАК<br/>АЛЭЛЛУЯ ДУ АХТЭЛЭС ИНДЗ АМАР<br/>МАhЭ ЗОРЕХ ЧЭР КЭЗ ПАЭЛ<br/>ДУ АРЮЦЯЛ АРКАНЭС МЭР<br/>НСТАЦ ЭС ПАРАЦ ГАИ ВРА<br/>ДУ АРУЦЯЛ АРКА</lines>
+    </verse>
+  </lyrics>
+</song>

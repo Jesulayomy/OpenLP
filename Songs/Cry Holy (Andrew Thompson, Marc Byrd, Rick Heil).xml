@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Cry Holy</title>
+    </titles>
+    <copyright>2003 Meaux Mercy | Magnificat Music | Celestial Sphere | Heil Music</copyright>
+    <authors>
+      <author type="words">Andrew Thompson</author>
+      <author type="music">Andrew Thompson</author>
+      <author type="words">Marc Byrd</author>
+      <author type="music">Marc Byrd</author>
+      <author type="words">Rick Heil</author>
+      <author type="music">Rick Heil</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every sun and moon and star,<br/>All declaring who You are,<br/>We fall silent in amazement.<br/>Every word and deed of man,<br/>Every sea and grain of sand, all creation speaks,<br/>And now we sing to proclaim Your majesty.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let the earth rejoice, singing with one voice.<br/>Let the people cry, "Holy, holy, Lord."<br/>Every creature sing praises to the King.<br/>All creation cry, "Holy is the Lord."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every song sung on the earth<br/>Will never capture all Your worth;<br/>We fall silent in amazement.<br/>Let every humble heart now see<br/>The beauty of Your magesty; all creation speaks<br/>And now we sing to the King above all Kings.</lines>
+    </verse>
+  </lyrics>
+</song>

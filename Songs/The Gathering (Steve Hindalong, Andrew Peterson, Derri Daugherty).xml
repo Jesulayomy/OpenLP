@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>The Gathering</title>
+    </titles>
+    <copyright>2003 Never Say Never Songs</copyright>
+    <authors>
+      <author type="words">Steve Hindalong</author>
+      <author type="music">Steve Hindalong</author>
+      <author type="words">Andrew Peterson</author>
+      <author type="music">Andrew Peterson</author>
+      <author type="words">Derri Daugherty</author>
+      <author type="music">Derri Daugherty</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sis-ters, brothers, we've got to learn to love each other.<br/>Our Father in heaven has called us to be instruments of peace.<br/>Children of His mer-cy, the time has come to face the sun and hold up high<br/>The banner of love of the Lord until we gather in the sky.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All God's children of love and light, every heart will be uni-fied,<br/>Singing praise to the Lord our King on the day of the gathering,<br/>On the day of the gathering.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Children of love and light:<br/>We are the body of Christ, the kingdom come,<br/>The hands and feet of His will be done; a torch in the dark of a dying place,<br/>The living light of His saving grace, the living light of amazing grace.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Love and light, children of love and light,<br/>Love and light, children of love and light,<br/>Love and light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sis-ters, brothers, we've got to learn to love each other.<br/>Our Father in heaven has called us to be instruments of peace.<br/>Je-sus is the Prince of Peace.</lines>
+    </verse>
+  </lyrics>
+</song>

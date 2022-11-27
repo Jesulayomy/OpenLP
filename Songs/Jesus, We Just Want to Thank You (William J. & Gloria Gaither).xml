@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Jesus, We Just Want to Thank You</title>
+    </titles>
+    <copyright>1974 William J. Gaither</copyright>
+    <authors>
+      <author type="words">William J. &amp; Gloria Gaither</author>
+      <author type="music">William J. &amp; Gloria Gaither</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, we just want to thank You,<br/>Jesus, we just want to thank You,<br/>Jesus, we just want to thank You,<br/>Thank You for being so good.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, we just want to praise You,<br/>Jesus, we just want to praise You,<br/>Jesus, we just want to praise You,<br/>Praise You for being so good.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Savior, we just want to serve You,<br/>Savior, we just want to serve You,<br/>Savior, we just want to serve You,<br/>Serve You for being so good.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, we know You are coming,<br/>Jesus, we know You are coming,<br/>Jesus, we know You are coming,<br/>Take us to live in Your home.</lines>
+    </verse>
+  </lyrics>
+</song>

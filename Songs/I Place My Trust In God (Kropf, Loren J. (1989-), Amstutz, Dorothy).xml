@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>I Place My Trust In God</title>
+    </titles>
+    <authors>
+      <author type="music">Kropf, Loren J. (1989-)</author>
+      <author type="words">Amstutz, Dorothy</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I placed my trust in God today, For it is He who knows the way, And when uncertainties arise, I trust His judgment, true and wise. I'll place my trust in God today, Even when I cannot see the way, He'll lead me on with His strong hand, Until I reach the promised land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I placed my trust in God today, Alone I could not find my way. Led by His guidance, safe and sure, I then can rest in peace, secure. I'll place my trust in God today, Even when I cannot see the way, He'll lead me on with His strong hand, Until I reach the promised land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I place my trust in God each day, Committed, yielded to His way. Naught can o'erthrow me when I'm there Beneath His everlasting care. I'll place my trust in God today, Even when I cannot see the way, He'll lead me on with His strong hand, Until I reach the promised land.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll place my trust in God each day, And while I walk the narrow way, Each burden God will help me bear; He hears my cry, my ev'ry prayer. I'll place my trust in God today, Even when I cannot see the way, He'll lead me on with His strong hand, Until I reach the promised land.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'll place my trust in God each day, Yes, even though the skies are gray. Led by His hand, I will not fear; I know that God is always near. I'll place my trust in God today, Even when I cannot see the way, He'll lead me on with His strong hand, Until I reach the promised land.</lines>
+    </verse>
+  </lyrics>
+</song>

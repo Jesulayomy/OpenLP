@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Seek Ye First</title>
+    </titles>
+    <copyright>1972 Maranatha! Music</copyright>
+    <authors>
+      <author type="words">Karen Lafferty</author>
+      <author type="music">Karen Lafferty</author>
+      <author type="words">David Huff</author>
+      <author type="music">David Huff</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seek ye first the kingdom of God,<br/>And His righteousness;<br/>And all these things shall be added unto you,<br/>Allelu, alleluia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Man does not live by bread alone,<br/>But by every word;<br/>That proceeds from the mouth of God,<br/>Allelu, alleluia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ask and it shall be given unto you,<br/>Seek and ye shall find;<br/>Knock and the door shall be opened unto you,<br/>Allelu, alleluia.</lines>
+    </verse>
+  </lyrics>
+</song>

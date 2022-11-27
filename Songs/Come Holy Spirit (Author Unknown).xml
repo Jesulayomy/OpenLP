@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:57">
+  <properties>
+    <titles>
+      <title>Come Holy Spirit</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>piano</theme>
+      <theme>appeal</theme>
+      <theme>meditation</theme>
+      <theme>devotion</theme>
+      <theme>grace</theme>
+      <theme>holy-spirit</theme>
+      <theme>peace</theme>
+      <theme>gods-word</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come holy spirit<br/>Fall on me now<br/>I need Your anointing<br/>Come in Your power<br/>I love You holy spirit<br/>You're captivating my soul<br/>And everyday I grow to love You more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm reaching for Your heart<br/>You hold my life into Your hands<br/>Drawing me closer tou You<br/>I feel Your power renew<br/>Nothing compares to this place<br/>Where I can see You face to face<br/>I worship You in spirit and in truth</lines>
+    </verse>
+  </lyrics>
+</song>

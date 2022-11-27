@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>I Have Decided</title>
+    </titles>
+    <authors>
+      <author type="words">Don Potter</author>
+      <author type="music">Don Potter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1953"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="b1">
+      <lines>Bridge:<br/>We wrestle not with flesh and with blood<br/>But powers and principalities<br/>We wrestle not with each others love<br/>But demonic forces in the heavenlies</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Verse:<br/>I have decided Im gonna make a stand<br/>I have decided Im takin back my land<br/>I have decided       thus far and no more<br/>Im gonna take up the sword and fight in the name of the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Je sus Lord of Lords<br/>Je sus Almighty King<br/>Je sus The Li on of Ju dah</lines>
+    </verse>
+  </lyrics>
+</song>

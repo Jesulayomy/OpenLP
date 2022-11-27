@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The Mouth of Fools Doth God Confess</title>
+      <title>Although the Fools Say with Their Mouth</title>
+    </titles>
+    <authors>
+      <author type="music">from Walter's Geistliche Gesangbüchlein, 1524</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The mouth of fools doth God confess, But while their lips draw nigh Him, Their heart is full of wickedness, And all their deeds deny Him. Corrupt are they, and every one Abominable works hath done; There is not one welldoer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord looked down from his high tow'r On all mankind below Him, To see if any owned His pow'r, And truly sought to know Him; Who all their understanding bent To search His holy Word, intent To do his will in earnest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But none there was who walked with God, For all aside had slidden, Delusive paths of folly trod, And followed lusts forbidden; Not one there was who practiced good, And yet they deemed, in haughty mood, Their deeds must surely please Him.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How long, by folly blindly led, Will ye oppress the needy, And eat my people up like bread? So fierce are ye, and greedy! In God they put no trust at all, Nor will on Him in trouble call, But be their own providers.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Therefore their heart is never still, A falling leaf dismays them; God is with him who doth His will, Who trusts him and obeys Him; But ye the poor man's hope despise, And laugh at him, e'en when he cries, That God is his sure comfort.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Who shall to Israel's outcast race From Zion bring salvation?<br/>God will himself at length show grace, And loose the captive nation;<br/>That will he do by Christ their King; Let Jacob then be<br/>glad and sing, And Israel be joyful.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Extravagant</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4833"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>You were a lover before time's beginning<br/>You gave Your love freely with holding nothing,  Jesus, my Jesus<br/>You carried the weight of the world on Your shoulders<br/>You stopped at nothing to prove you were for us,  Jesus, my Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>It's extravagant,  it doesn't make sense<br/>We'll never comprehend, the way You love us<br/>It's unthinkable,  only heaven knows<br/>Just how far You'd go,  to say You love us  (To say You love us)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>You don't belittle our pain and our suffering<br/>You comfort us in our greatest unraveling,  Jesus, my Jesus<br/>You are the dawn that is breaking within me<br/>You are the sun that is rising around me,  Jesus, my Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Here is all my love<br/>It's yours, no conditions<br/>When you pull me close, no I won't resist</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>It's extravagant,  it doesn't make sense<br/>We'll never comprehend, the way You love us<br/>It's unthinkable,  only heaven knows<br/>Just how far You'd go,  to say You love us  (To say You love us)</lines>
+    </verse>
+  </lyrics>
+</song>

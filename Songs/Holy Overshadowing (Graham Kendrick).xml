@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Holy Overshadowing</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O spread Your wings of mercy over me<br/>And guard my heart with true humility<br/>No shadow of the darkness pressing in<br/>Only the holy overshadowing<br/>Underneath Your wings, overshadowing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No refuge will I seek but God alone<br/>No hiding place save only at Your throne<br/>Only the cross, the blood to wash my sin<br/>Only the holy overshadowing<br/>Underneath Your wings, overshadowing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my shield, and my glory<br/>You are the lifter of my head<br/>And though the storms may rage around me<br/>I'll be safe within<br/>Beneath the holy overshadowing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No burden on my back too hard to bear<br/>Only the easy load You bid me wear<br/>Until these troubles pass, my heart will sing<br/>Praise for the holy overshadowing<br/>Underneath Your wings, overshadowing</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Underneath Your wings<br/>Overshadowing, overshadowing.</lines>
+    </verse>
+  </lyrics>
+</song>

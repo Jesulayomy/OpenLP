@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Your Love Is Extravagant</title>
+    </titles>
+    <copyright>1998 Integrity's Hosanna! Music</copyright>
+    <authors>
+      <author type="words">Darrell Evans</author>
+      <author type="music">Darrell Evans</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love  is extravagant.<br/>Your friendship, it is intimate.<br/>I feel like moving to the rhythm of Your grace.<br/>Your fragrance is intoxicating in our secret place.<br/>Your love  is extravagant.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Spread wide in the arms of Christ is the love that covers sin.<br/>No greater love have I ever known; You considered me a friend.<br/>Capture my heart again.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Spread wide in the arms of Christ is the love that covers sin.<br/>No greater love have I ever known; You considered me a friend.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your love is extravagant.<br/>Your friendship, it is intimate.</lines>
+    </verse>
+  </lyrics>
+</song>

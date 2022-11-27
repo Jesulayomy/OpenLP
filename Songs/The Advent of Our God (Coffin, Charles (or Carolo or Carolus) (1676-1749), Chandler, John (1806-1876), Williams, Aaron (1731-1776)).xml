@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The Advent of Our God</title>
+    </titles>
+    <authors>
+      <author type="music">Williams, Aaron (1731-1776)</author>
+      <author type="words">Coffin, Charles (or Carolo or Carolus) (1676-1749)</author>
+      <author type="translate">Chandler, John (1806-1876)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The advent of our God Shall be our theme for prayer Come, let us meet him on the road And place for Him prepare.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The everlasting Son Incarnate stoops to be, Himself the servant's form puts on To set His people free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come, Zion's daughter, rise To meet your lowly King, Nor let your faithless heart despise The peace He comes to bring.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As judge, on clouds of light, He soon will come again And all His scattered saints unite With Him on high to reign.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Before the dawning day Let sin be put to flight; No longer let the law hold sway, But walk in freedom's light.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All glory to the Son<br/>Who comes to set us free,<br/>With Father, Spirit, ever One,<br/>Through all eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

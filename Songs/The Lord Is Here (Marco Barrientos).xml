@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>The Lord Is Here</title>
+    </titles>
+    <authors>
+      <author type="words">Marco Barrientos</author>
+      <author type="music">Marco Barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is here<br/>is dwelling in this place,<br/>The Lord is here<br/>is dwelling in this place</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's come to health<br/>He's come to free<br/>He's come to break every principality<br/>He's come to health<br/>He comes to free the captives</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are freeeeeeee!!!<br/>My power's on the name of Jesus,,<br/>He comes..</lines>
+    </verse>
+  </lyrics>
+</song>

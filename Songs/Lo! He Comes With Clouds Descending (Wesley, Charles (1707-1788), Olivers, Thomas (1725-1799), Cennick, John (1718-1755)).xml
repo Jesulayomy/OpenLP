@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lo! He Comes With Clouds Descending</title>
+    </titles>
+    <authors>
+      <author type="music">Olivers, Thomas (1725-1799)</author>
+      <author type="words">Cennick, John (1718-1755)</author>
+      <author type="words">Wesley, Charles (1707-1788)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lo! He comes with clouds descending, Once for ev'ry sinner slain; Thousand thousand saints attending, Swell the triumph of His train: Hallelujah! Hallelujah! Hallelujah! God appears on earth to reign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ev'ry eye shall now behold Him Robed in dreadful majesty; Those who set at naught and sold Him, Pierced and nailed Him to the tree, Deeply wailing, deeply wailing, deeply wailing, Shall the true Messiah see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ev'ry island, sea, and mountain, Heav'n and earth, shall flee away; All who hate Him must, confounded, Hear the trump proclaim the day: Come to judgment! Come to judgment! Come to judgment! Come to judgment! Come away!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now redemption, long expected, See in solemn pomp appear; All His saints, by man rejected, Now shall meet Him in the air: Hallelujah! Hallelujah! Hallelujah! See the day of God appear!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Answer Thine own bride and Spirit, Hasten, Lord, the gen'ral doom! The new Heav'n and earth inherit, Take Thy pining exiles home: All creation, all creation, all creation, Travails! groans! and bids Thee come!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The dear tokens of His passion Still His dazzling body bears;<br/>Cause of endless exultation To His ransomed worshipers;<br/>With what rapture, with what rapture, with what rapture<br/>Gaze we on those glorious scars!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Yea, Amen! let all adore Thee, High on Thine eternal throne;<br/>Savior, take the power and glory, Claim the kingdom for Thine own;<br/>O come quickly! O come quickly! O come quickly!<br/>Everlasting God, come down!</lines>
+    </verse>
+  </lyrics>
+</song>

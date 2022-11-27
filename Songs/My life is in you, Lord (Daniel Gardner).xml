@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>My life is in you, Lord</title>
+    </titles>
+    <copyright>1986 Integrity's Hosanna! Music</copyright>
+    <authors>
+      <author type="words">Daniel Gardner</author>
+      <author type="music">Daniel Gardner</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My life is in You, Lord,<br/>My strength is in You, Lord,<br/>My hope is in You, Lord, it's in You, it's in You. (2x)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will praise You with all of my life;<br/>I will praise You with all of my strength;<br/>With all of my life;<br/>With all of my strength;<br/>All of my hope is in You!</lines>
+    </verse>
+  </lyrics>
+</song>

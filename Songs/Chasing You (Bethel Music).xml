@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Chasing You</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1879"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You hide, I want to find You, go<br/>And I will follow You<br/>I want to be where You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As you move, I'm right beside You, oh<br/>I'm running after You<br/>I want to be where You are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm chasing You<br/>I'm so in love<br/>Captivated, I just can't get enough<br/>I'll spend my days<br/>Running after Your heart<br/>Your heart, Your heart, Whoa</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm chasing You<br/>With all my love<br/>Captivated, I just can't get enough<br/>I'll spend my days</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Running after Your heart<br/>Your heart, Your heart, Whoa</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Heart, You've won me heart and soul<br/>And where You lead I'll go<br/>I want to be where You are</lines>
+    </verse>
+    <verse name="v7">
+      <lines>From the moment I rise, to the moment I sleep<br/>My affection is for You, and even as I dream<br/>I want to know you, I'm after Your heart</lines>
+    </verse>
+    <verse name="v8">
+      <lines>This life, this love, was always meant to be<br/>A wild, crazy adventure, discovering<br/>The thrill, the rush, the more of You I see<br/>The more it leaves me wanting<br/>You're everything, You're everything</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Through it all</title>
+      <title>I'll Sing To You Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are forever in my life<br/>You see me through the seasons<br/>Cover me with Your hand<br/>And lead me in Your righteousness<br/>And I look to You<br/>And I wait on You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'll sing to You Lord<br/>A hymn of love<br/>For Your faithfulness to me<br/>I'm carried in everlasting arms<br/>You'll never let me go<br/>Through it all<br/>[B]<br/>Hallelujah<br/>Hallelujah<br/>Hallelujah<br/>Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

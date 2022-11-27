@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Daddy sang bass</title>
+      <title>I remember when I was a lad</title>
+    </titles>
+    <authors>
+      <author type="words">Johnny Cash</author>
+      <author type="music">Johnny Cash</author>
+      <author type="words">Carl Perkins</author>
+      <author type="music">Carl Perkins</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And, and Carl Perkins wrote us another song<br/>That tells about the reason for it all<br/>That takes us back home and<br/>Again, tells it like it was when I was a little bitty kid<br/>And we gathered around the piana<br/>And me and little brother would join in<br/>And mamma would sing tenor, and dad would sing bass</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I remember when I was a lad<br/>Times were hard and things were bad<br/>But there's a silver linin' behind every cloud<br/>Just poor people that's all we were<br/>Tryin' to make a livin' out of black-land dirt<br/>We'd get together in a family circle singin' loud</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Daddy sang bass (mama sang tenor)<br/>Me and little brother would join right in there<br/>Singin' seems to help a troubled soul<br/>One of these days and it won't be long<br/>I'll rejoin them in a song<br/>I'm gonna join the family circle at the throne</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though the circle won't be broken<br/>By and by, Lord, by and by<br/>Daddy sang bass (mama sang tenor)<br/>Me and little brother would join right in there<br/>In the sky, Lord, in the sky</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I remember after work mama would call in all of us<br/>You could hear us singin' for a country mile<br/>Now little brother has done gone on<br/>But I'll rejoin him in a song<br/>We'll be together again up yonder in a little while</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Daddy sang bass (mama sang tenor)<br/>Me and little brother would join right in there<br/>Singin' seems to help a troubled soul<br/>One of these days and it won't be long<br/>I'll rejoin them in a song<br/>I'm gonna join the family circle at the throne</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh no the circle won't be broken<br/>By and by, Lord, by and by<br/>Daddy sang bass (mama sang tenor)<br/>Me and little brother would join right in there<br/>In the sky, Lord, in the sky</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In the sky, Lord, in the sky</lines>
+    </verse>
+  </lyrics>
+</song>

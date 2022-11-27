@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>What Do I Know of Holy</title>
+    </titles>
+    <copyright>2008 Simple Tense Songs, Alli Rogers Publishing</copyright>
+    <authors>
+      <author type="words">Alli Rogers</author>
+      <author type="music">Alli Rogers</author>
+      <author type="words">Jenny Simmons</author>
+      <author type="music">Jenny Simmons</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I made You promises a thousand times.<br/>I tried to hear from heaven,<br/>But I talked the whole time.<br/>I think I made You too small,<br/>I never feared You at all, no.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>If you touched my face,<br/>would I know You?<br/>Looked into my eyes,<br/>could I behold You?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>What do I know of You,<br/>who spoke me into motion?<br/>Where have I even stood<br/>But the shore along Your ocean?<br/>Are You fire? Are You fury?<br/>Are You sacred? Are You beautiful?<br/>So what do I know,<br/>What do I know of holy?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I guess I thought that I had figured You out.<br/>I knew all the stories and I learned to talk about<br/>How you were mighty to save,<br/>But those were only empty words on a page.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Then I caught a glimpse of who You might be.<br/>The slightest hint of You brought me down to my knees.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>What do I know of holy?<br/>What do I know of wounds that will heal my shame<br/>and a God who gave life its name?<br/>What do I know of holy,<br/>Of the One who the angels praise?<br/>All creation knows Your name.<br/>On earth and heaven above,<br/>What do I know of this love?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>The Mighty One of Israel</title>
+    </titles>
+    <authors>
+      <author type="words">Randy Rothwell</author>
+      <author type="music">Randy Rothwell</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6090"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And the Lord shall cause his glorious<br/>Voice to be heard<br/>And you shall have a song in the night<br/>Come to the Mountain<br/>Of the Lord<br/>See His glory and His might</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He's the Mighty One of Israel<br/>The Mighty One of Israel<br/>His voice shall be heard<br/>In the Power of His Word<br/>The Mighty One of Israel</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The eyes of the blind<br/>Shall be opened and they'll see<br/>The ears of the deaf shall hear<br/>The lame man shall jump<br/>And shall leap as a heart<br/>The tongue of the dumb shall sing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord shall cause his glorious<br/>Beauty to be seen<br/>The desert shall bloom and rejoice<br/>Say to them that<br/>Are fearful of heart<br/>Be strong and<br/>Listen to His voice</lines>
+    </verse>
+  </lyrics>
+</song>

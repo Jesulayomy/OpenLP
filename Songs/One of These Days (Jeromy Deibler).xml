@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>One of These Days</title>
+    </titles>
+    <copyright>1997 New Spring</copyright>
+    <authors>
+      <author type="words">Jeromy Deibler</author>
+      <author type="music">Jeromy Deibler</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One of these days I'm gonna fly over the mountain.<br/>One of these days I'm gonna ride on the silver lining.<br/>One of these days I'm gonna witness all I've been missing,<br/>One of these days.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One of these days I'm gonna do all the things that I've never done.<br/>I'm gonna finish all the races that I've run but I've never won.<br/>And I'm gonna see a million faces and recognize everyone,<br/>One of these days.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>One of these days<br/>I'm gonna see the hand that took the nails for me.<br/>One of these days<br/>I'm gonna hold the key to the mansion built for me.<br/>One of these days<br/>I'm gonna walk the streets of gold that were paved for me.<br/>One of these days<br/>I'm gonna see my Savior face to face,<br/>One of these days.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One of these days I'm gonna say just what became of me<br/>On the day that I believed, when You took myself from me.<br/>And I believe I will say what I would have been if You didn't save me,<br/>One of these days.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And one of these days I'm gonna talk with all the saints that have gone before,<br/>And in their sandals I will walk, and we will sit along the shore.<br/>And I will learn all the things that I never knew before,<br/>All this and more.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>One of these days<br/>One of these days<br/>One of these days<br/>One of these days</lines>
+    </verse>
+    <verse name="v5">
+      <lines>One of these days I'll finally be in a place where there's no more need,<br/>No more pain and no more grief, no more foolish disbelief.<br/>And all the joy there will be when at last we finally see,<br/>One of these days.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>One of these days.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>Dear Lord and Father of Mankind</title>
+    </titles>
+    <authors>
+      <author>John G. Whittier</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dear Lord and Father of mankind,<br/>Forgive our foolish ways;<br/>Reclothe us in our rightful mind;<br/>In purer lives Thy service find,<br/>In deeper reverence, praise,<br/>In deeper reverence, praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In simple trust like theirs who heard,<br/>Beside the Syrian sea,<br/>The gracious calling of the Lord,<br/>Let us, like them, without a word<br/>Rise up and follow Thee,<br/>Rise up and follow Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O sabbath rest by Galilee!<br/>O calm of hills above,<br/>Where Jesus knelt to share with Thee<br/>The silence of eternity,<br/>Interpreted by love,<br/>Interpreted by love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>With that deep hush subduing all<br/>Our words and works that drown<br/>The tender whisper of Thy call,<br/>As noiseless let Thy blessing fall<br/>As fell Thy manna down,<br/>As fell Thy manna down.<br/>Drop Thy still dews of quietness,<br/>Till all our strivings cease;<br/>Take from our souls the strain and stress,<br/>And let our ordered lives confess<br/>The beauty of Thy peace,<br/>The beauty of Thy peace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Breathe through the heats of our desire<br/>Thy coolness and Thy balm;<br/>Let sense be dumb, let flesh retire;<br/>Speak through the earthquake, wind and fire,<br/>O still small voice of calm,<br/>O still small voice of calm!</lines>
+    </verse>
+  </lyrics>
+</song>

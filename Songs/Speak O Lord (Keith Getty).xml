@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>Speak O Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5340"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"Speak, O Lord, as we come to You<br/>To receive the food of Your Holy Word.<br/>Take Your truth, plant it deep in us;<br/>Shape and fashion us in Your likeness,<br/>That the light of Christ might be seen today<br/>In our acts of love and our deeds of faith.<br/>Speak, O Lord, and fulfill in us<br/>All Your purposes for Your glory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teach us, Lord, full obedience,<br/>Holy reverence, true humility;<br/>Test our thoughts and our attitudes<br/>In the radiance of Your purity.<br/>Cause our faith to rise; cause our eyes to see<br/>Your majestic love and authority.<br/>Words of pow'r that can never fail-<br/>Let their truth prevail over unbelief.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Speak, O Lord, and renew our minds;<br/>Help us grasp the heights of Your plans for us-<br/>Truths unchanged from the dawn of time<br/>That will echo down through eternity.<br/>And by grace we'll stand on Your promises,<br/>And by faith we'll walk as You walk with us.<br/>Speak, O Lord, till Your church is built<br/>And the earth is filled with Your glory."</lines>
+    </verse>
+  </lyrics>
+</song>

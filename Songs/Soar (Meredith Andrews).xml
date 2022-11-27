@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Soar</title>
+    </titles>
+    <authors>
+      <author type="words">Meredith Andrews</author>
+      <author type="music">Meredith Andrews</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1359"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro: Dm Bb F C</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>Here I remind myself what You said over me<br/>Here I remind my soul who You are<br/>You said You won't relent, won't let go, won't forget<br/>Every promise You have whispered to my heart<br/>As I wait, As I wait on You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I'm gonna run and not grow weary<br/>I'm gonna walk and not grow faint<br/>Rise up on wings like eagles<br/>To soar<br/>I know with everything you're with me<br/>I know you're working as I wait<br/>Lift me up on wings like eagles<br/>To soar</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>This desert holds a song I will sing, on and on<br/>You're a river when the ground I walk is dry<br/>You will set the crooked straight, clear my path, make a way<br/>You will lead me from the valley to the heights<br/>As I wait, As I wait on You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I'm gonna run and not grow weary<br/>I'm gonna walk and not grow faint<br/>Rise up on wings like eagles<br/>To soar<br/>I know with everything you're with me<br/>I know you're working as I wait<br/>Lift me up on wings like eagles<br/>To soar</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Creator, Keeper, Life-breather<br/>Your name is greater than anything I've faced<br/>Sustainter, Savior, Stronghold-breaker<br/>Your name is greater than anything I've faced<br/>As I wait, as I wait on You<br/>I will wait, God, I will wait on You</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>I'm gonna run and not grow weary<br/>I'm gonna walk and not grow faint<br/>Rise up on wings like eagles<br/>To soar<br/>I know with everything you're with me<br/>I know you're working as I wait<br/>Lift me up on wings like eagles<br/>To soar</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Word Of Life</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4952"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Word of life speak to my weary heart<br/>Strengthen my broken parts lead me to Your open arms<br/>Word of truth illuminate all these lies<br/>The enemy speaks inside in freedom I will rise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>'Cause You called me out from the grave<br/>So I can live like I've been changed<br/>There is a new song in my soul<br/>And it begins when I breathe in Your word of life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spirit of God take me to a deeper place<br/>Take me out of what is safe i will not be afraid<br/>Spirit of God fill me with joy again<br/>Springing up from within it cannot be contained</lines>
+    </verse>
+    <verse name="b1">
+      <lines>The old has gone away<br/>Only Your love remains<br/>I am alive today<br/>'Cause You called me out</lines>
+    </verse>
+  </lyrics>
+</song>

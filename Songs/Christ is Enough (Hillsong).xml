@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:35">
+  <properties>
+    <titles>
+      <title>Christ is Enough</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+      <author type="music">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ is my reward<br/>And all of my devotion<br/>Now there's nothing in this world<br/>That could ever satisfy<br/>Through every trial<br/>My soul will sing<br/>No turning back<br/>I've been set free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ is enough for me<br/>Christ is enough for me<br/>Everything I need is in You<br/>Everything I need</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ my all in all<br/>The joy of my salvation<br/>And this hope will never fail<br/>Heaven is our home<br/>Through every storm<br/>My soul will sing<br/>Jesus is here<br/>To God be the glory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Christ is enough for me<br/>Christ is enough for me<br/>Everything I need is in You<br/>Everything I need</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I have decided to follow Jesus<br/>No turning back<br/>No turning back<br/>I have decided to follow Jesus<br/>No turning back<br/>No turning back (the cross)<br/>The cross before me<br/>The world behind me<br/>No turning back<br/>No turning back<br/>The cross before me<br/>The world behind me<br/>No turning back<br/>No turning back</lines>
+    </verse>
+  </lyrics>
+</song>

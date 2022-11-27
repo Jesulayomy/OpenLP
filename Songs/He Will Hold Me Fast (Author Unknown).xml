@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>He Will Hold Me Fast</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I fear my faith will fail, Christ will hold me fast;<br/>When the tempter would prevail, He will hold me fast.<br/>I could never keep my hold through life's fearful path;<br/>For my love is often cold; He must hold me fast.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He will hold me fast, He will hold me fast;<br/>For my Saviour loves me so, He will hold me fast.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Those He saves are His delight, Christ will hold me fast;<br/>Precious in his holy sight, He will hold me fast.<br/>He'll not let my soul be lost; His promises shall last;<br/>Bought by Him at such a cost, He will hold me fast.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For my life He bled and died, Christ will hold me fast;<br/>Justice has been satisfied; He will hold me fast.<br/>Raised with Him to endless life, He will hold me fast<br/>'Till our faith is turned to sight, When He comes at last!</lines>
+    </verse>
+  </lyrics>
+</song>

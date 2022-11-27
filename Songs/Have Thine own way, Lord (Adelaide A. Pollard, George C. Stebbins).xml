@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Have Thine own way, Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Adelaide A. Pollard</author>
+      <author type="music">George C. Stebbins</author>
+    </authors>
+    <themes>
+      <theme>repentance</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have Thine own way, Lord!<br/>Have Thy own way!<br/>Thou art the Potter; I am the clay.<br/>Mold me and make me after Thy will,<br/>While I am waiting, Yielded and still.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Have Thine own way, Lord!<br/>Have Thine own way!<br/>Search me and try me, Master, today!<br/>Whiter than snow, Lord, wash me just now,<br/>As in Thy presence Humbly I bow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Have Thine own way, Lord!<br/>Have Thin own way!<br/>Wounded and weary Help me, I pray!<br/>Power all power surely is Thine!<br/>Touch and heal me, Savior divine!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Have Thin own way, Lord!<br/>Have Thin own way!<br/>Hold o'er my being Absolute sway!<br/>Fill with Thy Spirit till all shall see<br/>Christ only, always, Living in me!</lines>
+    </verse>
+  </lyrics>
+</song>

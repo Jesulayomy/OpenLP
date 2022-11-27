@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:17">
+  <properties>
+    <titles>
+      <title>Glory to God Forever</title>
+    </titles>
+    <copyright>Worship Together Music, Six Steps BMI, Thankyou Music</copyright>
+    <authors>
+      <author type="words">Steve Fee</author>
+      <author type="music">Steve Fee</author>
+      <author type="words">Vicky Beeching</author>
+      <author type="music">Vicky Beeching</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4614"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before the world was made,<br/>before You spoke it to be,<br/>You were the King of Kings.<br/>Yeah, You were. Yeah, You were.<br/>And now You're reigning still,<br/>enthroned above all things.<br/>Angels and saints cry out;<br/>we join them as we sing:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glory to God,<br/>glory to God,<br/>Glory to God, forever. (2X)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Creator God, You gave<br/>me breath so I could praise<br/>Your great and matchless name<br/>all my days, all my days.<br/>So let my whole life be<br/>a blazing offering,<br/>A life that shouts and sings<br/>the greatness of our King.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Take my life and let it be<br/>All for You and for Your glory.<br/>Take my life and let it be Yours. (2X)</lines>
+    </verse>
+  </lyrics>
+</song>

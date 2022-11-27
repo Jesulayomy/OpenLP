@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>O You Glorious One</title>
+    </titles>
+    <authors>
+      <author type="translate">Turgay Üçal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Moda Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O You glorious One<br/>How matchless are You<br/>Come and see me as I am<br/>I am nothing without You<br/>Come and see me (3) as I am<br/>Come and see me (2)<br/>I am nothing without You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O You glorious One<br/>How matchless are your works<br/>Come and see my world as it is<br/>It is dark without You<br/>Come and see my world (3) as it is<br/>Come and see my world (2)<br/>It is dark without You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O You glorious One<br/>How matchless is your grace<br/>Come and take my hand, I am lost<br/>May I always rest in You<br/>Come and take my hand (3), I am lost<br/>Come and take my hand (2)<br/>May I always rest in You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Endless Light</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the highest throne<br/>To the earth below, You laid down Your life<br/>For the likes of us<br/>Great is the love of the Saviour</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From the wounded heart<br/>To a life made whole, Every human heart<br/>Will declare as one<br/>Great is the love of the Saviour</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord of endless light<br/>Let Your glory shine forever<br/>All the earth All the earth<br/>Sing Your Praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the mountain heights<br/>To the valleys low All created things<br/>Given life to show<br/>Jesus we live for Your glory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>From the rising sun<br/>To the still of night Every waking moment<br/>For Your delight<br/>Jesus we live for Your glory</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Lord of endless light<br/>Let Your glory shine forever<br/>All the earth All the earth<br/>Sing Your Praise<br/>Hope of every heart<br/>Let Your name be lifted higher<br/>All our hearts All our hearts<br/>Sing Your Praise</lines>
+    </verse>
+    <verse name="b1">
+      <lines>God be exalted, God be exalted<br/>In everything<br/>We live for Your glory<br/>Live for Your glory</lines>
+    </verse>
+  </lyrics>
+</song>

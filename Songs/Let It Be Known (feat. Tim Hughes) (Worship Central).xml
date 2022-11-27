@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Let It Be Known (feat. Tim Hughes)</title>
+    </titles>
+    <authors>
+      <author type="words">Worship Central</author>
+      <author type="music">Worship Central</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4171"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Come on let's turn it up    we're gonna sing it out<br/>For all the world to hear oh oh oh<br/>There's life for ev'ryone    a new day has begun<br/>Something to shout about</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Let it be known that our God saves<br/>Our God reigns we lift You up up<br/>Let it be known that love has come<br/>Love has won we lift You up up up woah</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Nothing can stop us now    no one can keep us down<br/>We found our voice again oh oh oh<br/>No need for fear and shame   there's power in His name<br/>Come on let freedom reign</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>We life Your name up    higher and higher<br/>We lift Your name up<br/>We shout Your name out    louder and louder<br/>We shout it out now</lines>
+    </verse>
+  </lyrics>
+</song>

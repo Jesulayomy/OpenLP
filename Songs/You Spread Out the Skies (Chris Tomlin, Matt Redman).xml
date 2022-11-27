@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>You Spread Out the Skies</title>
+      <title>Wonderful Maker</title>
+    </titles>
+    <copyright>2002 Thankyou Music | worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You spread out the skies<br/>over empty space,<br/>said "Let there be light."<br/>To a dark and formless world, Your light was born.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You spread out Your arms<br/>over empty hearts,<br/>said "Let there be light."<br/>To a dark and hopeless world, Your Son was born.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You made the world and saw that it was good.<br/>You sent Your only Son for You are good.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>What a wonderful Maker.<br/>What a wonderful Savior.<br/>How majestic Your whispers,<br/>And how humble Your love.<br/>With a strength like no other,<br/>And the heart of a Father,<br/>How majestic Your whispers.<br/>What a wonderful God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No eye has fully seen<br/>how beautiful the cross, and we have only heard<br/>the faintest whispers of how great You are. (2X)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>How majestic Your whispers.<br/>What a wonderful God.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Sovereign hands</title>
+    </titles>
+    <authors>
+      <author type="words">Seeker &amp; Servant</author>
+      <author type="music">Seeker &amp; Servant</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2649"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>forgiveness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I feel the push and I feel the pull<br/>Such a heavy weight, such a heavy weight<br/>The waves they do rise, then they do fall<br/>Such a heavy weight, such a heavy weight</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But it's not on my shoulders anymore<br/>I've been bought by your blood Lord , I am yours<br/>No longer a slave to sin<br/>I am safe in your sovereign hands</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can rejoice even through pain<br/>You have shown me grace, You have shown me grace<br/>My heart it deceives, but I've been made new<br/>You have shown me grace, You have shown me grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's all on your shoulders forevermore<br/>I've been bought by your blood Lord<br/>I am yours<br/>No longer a slave to sin<br/>I am safe in your sovereign hands</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm safe in your hands</lines>
+    </verse>
+  </lyrics>
+</song>

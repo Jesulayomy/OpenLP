@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>Father of Lights</title>
+    </titles>
+    <authors>
+      <author type="words">John Barnett</author>
+      <author type="music">John Barnett</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4582"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//  Father of lights, You delight in Your children.  //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Every good and perfect gift comes from You.<br/>Every good and perfect gift comes from You.<br/>Every good and perfect gift comes from You.<br/>Father of lights.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>//  Father of lights, You never change,<br/>You have no turning.   //</lines>
+    </verse>
+  </lyrics>
+</song>

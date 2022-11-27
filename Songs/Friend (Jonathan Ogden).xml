@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Friend</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Ogden</author>
+      <author type="music">Jonathan Ogden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3772"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>Faithful<br/>You are always faithful<br/>Patient<br/>You are always patient</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I have found You in the stillness, in the quiet<br/>I have heard You in the fountain, in the flood<br/>There is nothing that could ever separate me<br/>You have paid for all my sins with Your own blood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse:<br/>Holy one<br/>Your love is relentless<br/>And Your kindness<br/>Leads me to repentance</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Oh Your love is like an all-consuming fire<br/>It is passionate and will not be contained<br/>The desire of my heart is just to know You<br/>To behold Your perfect beauty all my days</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>And I know<br/>I know You'll never let me go<br/>Spirit help me reach the end<br/>When I fall to start again<br/>I know<br/>I know that I'm never on my own<br/>You're my Savior, You're my Friend<br/>You are faithful to the end<br/>To the end</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All my sins you have covered<br/>You have covered for me<br/>All your love is like no other<br/>Like no other, Jesus</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:<br/>And I know<br/>I know You'll never let me go<br/>Spirit help me reach the end<br/>When I fall to start again<br/>I know<br/>I know that I'm never on my own<br/>You're my Savior, You're my Friend<br/>You are faithful to the end<br/>To the end</lines>
+    </verse>
+  </lyrics>
+</song>

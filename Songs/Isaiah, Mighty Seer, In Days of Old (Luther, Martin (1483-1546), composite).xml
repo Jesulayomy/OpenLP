@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Isaiah, Mighty Seer, In Days of Old</title>
+      <title>These Things the Seer Isaiah did Befall, Isaiah 'twas the Prophet</title>
+    </titles>
+    <authors>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="music">Luther, Martin (1483-1546)</author>
+      <author type="translate">composite</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isaiah, mighty seer, in days of old The Lord of all in Spirit did behold High on a lofty throne, in splendor bright, With flowing train that filled the Temple quite. Above the throne were stately seraphim, Six wings had they, these messengers of Him. With twain they veiled their faces, as was meet, With twain in reverent awe they hid their feet, And with the other twain aloft they soared, One to the other called and praised the Lord: "Holy is God, the Lord of Sabaoth! Holy is God, the Lord of Sabaoth! Holy is God, the Lord of Sabaoth! Behold, His glory filleth all the earth!" The beams and lintels trembled at the cry, And clouds of smoke enwrapped the throne on high.</lines>
+    </verse>
+  </lyrics>
+</song>

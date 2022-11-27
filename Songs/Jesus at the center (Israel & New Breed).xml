@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Jesus at the center</title>
+    </titles>
+    <authors>
+      <author type="words">Israel &amp; New Breed</author>
+      <author type="music">Israel &amp; New Breed</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1170"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus at the center of it all<br/>Jesus at the center of it all<br/>From beginning to the end<br/>it will always be, it's always been You, Jesus, Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing else matters<br/>Nothing in this world will do<br/>Jesus You're the center<br/>everything revolves around You<br/>Jesus, You, at the center of it all<br/>the center of it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus be the center of my life<br/>Jesus be the center of my life<br/>From beginning to the end<br/>it will always be, it's always been You, Jesus, Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>From my heart to the heavens<br/>Jesus be the center<br/>It's all about You<br/>Yes its all about You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus be the center of Your church<br/>Jesus be the center of Your church<br/>And every knee will bow<br/>And every tongue will confess You Jesus, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

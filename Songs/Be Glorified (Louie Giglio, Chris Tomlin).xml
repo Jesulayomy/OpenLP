@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Be Glorified</title>
+    </titles>
+    <copyright>1999 worshiptogether.com songs</copyright>
+    <authors>
+      <author type="words">Louie Giglio</author>
+      <author type="music">Louie Giglio</author>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love has captured me.<br/>Your grace has set me free.<br/>Your life, the air I breathe.<br/>Be glorified in me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You set my feet to dancing.<br/>You set my heart on fire.<br/>In the presence of a thousand Kings,<br/>You are my one desire.<br/>And I stand before You now<br/>With trembling hands lifted high.<br/>Be glorified.</lines>
+    </verse>
+  </lyrics>
+</song>

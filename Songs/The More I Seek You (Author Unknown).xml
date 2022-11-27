@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>The More I Seek You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Işık Kilisesi"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The more I seek You<br/>The more I find You<br/>The more I find You<br/>The more I love You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I wanna sit at your feet<br/>Drink from the cup in Your hands<br/>Lay back against You and breathe<br/>Feel Your heart beat<br/>This love is so deep<br/>It's more than I can stand<br/>I Melt in Your peace<br/>It's overwhelming</lines>
+    </verse>
+  </lyrics>
+</song>

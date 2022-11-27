@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Hear Our Praises</title>
+    </titles>
+    <copyright>Hillsong</copyright>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+    </authors>
+    <themes>
+      <theme>joy</theme>
+      <theme>praise</theme>
+      <theme>celebration</theme>
+      <theme>revival</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>May our homes be filled with dancing<br/>May our streets be filled with joy<br/>May injustice bow to Jesus<br/>As the people turn to pray</lines>
+    </verse>
+  </lyrics>
+</song>

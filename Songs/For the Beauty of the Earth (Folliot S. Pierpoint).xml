@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:11">
+  <properties>
+    <titles>
+      <title>For the Beauty of the Earth</title>
+    </titles>
+    <authors>
+      <author>Folliot S. Pierpoint</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For the beauty of the earth,<br/>For the beauty of the skies,<br/>For the love which from our birth<br/>Over and around us lies:<br/>Father, unto Thee we raise<br/>This our sacrifice of praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the beauty of each hour<br/>Of the day and of the night,<br/>Hill and vale, and tree and flower,<br/>Sun and moon, and stars of light:<br/>Father, unto Thee we raise<br/>This our sacrifice of praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the joy of human love,<br/>Brother, sister, parent, child,<br/>Friends on earth, and friends above;<br/>For all gentle thoughts and mild:<br/>Father, unto Thee we raise<br/>This our sacrifice of praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For each perfect gift of Thine<br/>To our race so freely given,<br/>Graces, human and divine,<br/>Flowers of earth, and buds of heaven:<br/>Father, unto Thee we raise<br/>This our sacrifice of praise.</lines>
+    </verse>
+  </lyrics>
+</song>

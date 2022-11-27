@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Great is the Lord</title>
+      <title>Great is the Father</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is the Lord and most worthy of praise<br/>Who can compare to His greatness?<br/>Creation displays in magnificent ways<br/>His glory, His majesty, His splendour</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great is the Father, great is the Son<br/>Great is the Spirit, great is the Three In One<br/>Singing great is the Lord<br/>Great in His mercy, great in His love<br/>Great in His power, great in His fullness above<br/>Singing great is the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great is the Lord and most worthy of praise<br/>Who can determine His greatness?<br/>The heavens display in extravagant ways<br/>Your glory, Your majesty, Your splendour</lines>
+    </verse>
+    <verse name="b1">
+      <lines>How marvellous, how glorious You are<br/>How powerful, how merciful You are</lines>
+    </verse>
+  </lyrics>
+</song>

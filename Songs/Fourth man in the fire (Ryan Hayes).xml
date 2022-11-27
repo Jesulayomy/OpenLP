@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Fourth man in the fire</title>
+    </titles>
+    <authors>
+      <author type="words">Ryan Hayes</author>
+      <author type="music">Ryan Hayes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The moment now is come,<br/>there's nothing to be done<br/>My accusers stand before me<br/>and there's no where left to run<br/>And so it ends this way,<br/>there's nothing more to say<br/>I will pay the price and give my life<br/>for the choice that I have made<br/>Oh but suddenly what is this I see<br/>As I'm cast into the fire,<br/>there is One who stands by me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I saw the fourth man between the flames and I<br/>When there was no hope at all<br/>He saved me just in time<br/>Holding back the forces that pressed on every side<br/>I am saved by the fourth man in the fire<br/>I am saved by the fourth man in the fire</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now the test is passed,<br/>but it was not the last<br/>For my accusers seek to find me weak<br/>and constantly attack<br/>Searching to and fro, constantly they go<br/>And in my desperate hour, seek to devour<br/>and strike the fatal blow<br/>But I am not afraid<br/>and they are much dismayed<br/>For between us stands the Son of Man<br/>and the standard He has raised</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus fights for me, in my hour of need<br/>Standing by my side,<br/>He's holding back the tide<br/>When there was no hope at all<br/>He saved me just in time</lines>
+    </verse>
+    <verse name="c2">
+      <lines>2<br/>I saw the fourth man between the flames and I<br/>When there was no hope at all<br/>He saved me just in time<br/>Nothing now can harm me with Jesus at my side<br/>I am saved by the fourth man in the fire<br/>I am saved by the fourth man in the fire</lines>
+    </verse>
+  </lyrics>
+</song>

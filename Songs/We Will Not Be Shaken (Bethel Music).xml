@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>We Will Not Be Shaken</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="843"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>CHORUS:<br/>For we trust in our God - And through His unfailing love<br/>We will not be shaken, We will not be shaken, We will not be shaken</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>For we trust in our God - And through His unfailing love<br/>We will not be shaken, We will not be shaken, We will not be shaken</lines>
+    </verse>
+    <verse name="v1">
+      <lines>INTERLUDE:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE:<br/>Though the battle rages we will stand in the fight<br/>Though the armies rise up against us on all sides<br/>We will not be shaken  We will not be shaken We will not be shaken</lines>
+    </verse>
+    <verse name="c3">
+      <lines>PRE CHORUS:<br/>For in the hour of our darkest day we will not tremble, we won't be afraid<br/>Hope is rising like the light of dawn - our God is for us He has overcome</lines>
+    </verse>
+    <verse name="c4">
+      <lines>CHORUS:<br/>For we trust in our God - And through His unfailing love<br/>We will not be shaken, We will not be shaken, We will not be shaken</lines>
+    </verse>
+    <verse name="c5">
+      <lines>CHORUS:<br/>For we trust in our God - And through His unfailing love<br/>We will not be shaken, We will not be shaken, We will not be shaken</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>All those against Him will fall for our God is stronger<br/>He can do all things<br/>No higher name we can call For Jesus is greater<br/>We can do all things</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE:<br/>All those against Him will fall for our God is stronger<br/>He can do all things<br/>No higher name we can call For Jesus is greater<br/>We can do all things</lines>
+    </verse>
+    <verse name="c6">
+      <lines>CHORUS:<br/>For we trust in our God - And through His unfailing love<br/>We will not be shaken, We will not be shaken, We will not be shaken</lines>
+    </verse>
+    <verse name="c7">
+      <lines>CHORUS:<br/>For we trust in our God - And through His unfailing love<br/>We will not be shaken, We will not be shaken, We will not be shaken</lines>
+    </verse>
+  </lyrics>
+</song>

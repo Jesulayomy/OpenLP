@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Let Your Mercy Rain</title>
+    </titles>
+    <copyright>2006 Alletrop Music | worshiptogether.com songs | sixsteps Music | Vamos Publishing</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God, You have done great things.<br/>God, You give grace to the weak<br/>And bless the brokenhearted<br/>With a song of praise to sing.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You reached down and lifted us up.<br/>You came running looking for us.<br/>And now there's nothing<br/>And no one beyond Your love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're the overflow,<br/>You're the fountain of my heart.<br/>Let Your mercy rain,<br/>Let Your mercy rain on us.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You're the faithful one<br/>When the world's falling apart.<br/>Let Your mercy rain,<br/>Let Your mercy rain on us.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>How deep, how wide, how long,<br/>how high is Your love, is Your love.<br/>How deep, how wide, how long,<br/>How high is Your love,<br/>Is Your love, oh God.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Let it rain.</lines>
+    </verse>
+  </lyrics>
+</song>

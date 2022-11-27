@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Dance, Dance</title>
+    </titles>
+    <authors>
+      <author type="words">Kate Hurley</author>
+      <author type="music">Kate Hurley</author>
+      <author type="words">Michelle Patterson</author>
+      <author type="music">Michelle Patterson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I cried out, I cried out to You.<br/>You answered me in Your mercy.<br/>Your anger was fleeting,<br/>And now I will dance in your favor all my life.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let my heart sing for you<br/>And not...remain silent.<br/>Let my heart sing for you.<br/>Turn my weeping into a dance.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So dance, dance my soul;<br/>There's no reason for you to weep.<br/>So dance, dance my soul;<br/>Make music to your King.</lines>
+    </verse>
+  </lyrics>
+</song>

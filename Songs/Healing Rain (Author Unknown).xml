@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Healing Rain</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3521"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Healing rain is coming down<br/>It's coming nearer to this old town<br/>Rich and poor, weak and strong<br/>It's bringing mercy, it won't be long<br/>Healing rain is coming down<br/>It's coming closer to the lost and found<br/>Tears of joy, and tears of shame<br/>Are washed forever in Jesus' name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Healing rain, it comes with fire<br/>So let it fall and take us higher<br/>Healing rain, I'm not afraid<br/>To be washed in Heaven's rain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift your heads, let us return<br/>To the mercy seat where time began<br/>And in your eyes, I see the pain<br/>Come soak this dry hearts with healing rain<br/>And only you, the son of man<br/>Can take a leper and let him stand<br/>So lift your hands and they can be held<br/>By someone greater, the great I am</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Healing rain, it comes with fire<br/>So let it fall and take us higher<br/>Healing rain, I'm not afraid<br/>To be washed in Heaven's rain<br/>To be washed in Heaven's rain</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Healing rain is falling down<br/>Healing rain is falling down<br/>I'm not afraid, I'm not afraid</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Дождь исцеления</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Дождь исцеления уже идет<br/>На этот город он упадет,<br/>Слабый и сильный, богач, бедняк,<br/>Дождь - Божья милость, дождь - Божий знак.<br/>Дождь исцеления, Божьи дожди,<br/>Для тех, кот ищет, и тем, кто с Ним,<br/>Слезы позора и радости,<br/>Навеки смыты будут они.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Дождь исцеления, с огнем идет,<br/>И скоро выше нас заберет.<br/>Дождь исцеления, не страшно мне<br/>Омытым буду в Его воде.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Взор подними, идем домой,<br/>Где Божья милость, мир и покой.<br/>В твоих глазах боль вижу я,<br/>Наполни сердце водой дождя.<br/>И только Ты, о, Божий Сын<br/>Больных поднимешь, дашь силы им,<br/>Не бойся руки поднять свои,<br/>Господь всесильный поддержит их.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Дождь исцеления идет с огнем,<br/>И в вышину нас поднимет он,<br/>Дождь исцеления, не страшно мне<br/>Омытым буду в Его воде.<br/>Омытым буду в Его воде...</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Дождь исцеления идет<br/>Дождь исцеления идет<br/>Я не боюсь, я не боюсь...</lines>
+    </verse>
+  </lyrics>
+</song>

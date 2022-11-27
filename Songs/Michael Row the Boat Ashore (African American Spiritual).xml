@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Michael Row the Boat Ashore</title>
+    </titles>
+    <authors>
+      <author type="words">African American Spiritual</author>
+      <author type="music">African American Spiritual</author>
+    </authors>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>kids</theme>
+      <theme>praise</theme>
+      <theme>gospel</theme>
+      <theme>forgiveness</theme>
+      <theme>meditation</theme>
+      <theme>eternal-life</theme>
+      <theme>sacrifice</theme>
+      <theme>resurrection</theme>
+      <theme>saz</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Michael, row the boat ashore, Hallelujah<br/>Michael, row the boat ashore, Hallelujah</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jordan's river is deep and wide, Hallelujah<br/>Milk and honey on the other side, Hallelujah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sister, help to trim the sail, Hallelujah<br/>Sister, help to trim the sail, Hallelujah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jordan's river is chilly and cold, Hallelujah<br/>Chills the body but not the soul, Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

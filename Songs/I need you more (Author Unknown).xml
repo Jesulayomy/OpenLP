@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>I need you more</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I need You more, more than yesterday<br/>I need You Lord, more than words can say<br/>I need You more, than ever before<br/>I need You Lord<br/>I need You Lord</lines>
+    </verse>
+    <verse name="v1">
+      <lines>More than the air I breathe<br/>More than the song I sing<br/>More than the next heartbeat<br/>More than anything<br/>And Lord, as time goes by, I will be by your side<br/>Cause I never want to go back to my old life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More than the air I breathe<br/>More than the song I sing<br/>More than the next heartbeat<br/>More than anything<br/>And Lord, as time goes by, I will be by your side<br/>Cause I never want to go back to my old life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bridge<br/>Right here in Your presence is where I belong<br/>This old broken heart has finally found a home<br/>And I'll never be alone</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:43">
+  <properties>
+    <titles>
+      <title>OVERFLOW</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Overflow! Overflow!<br/>Overflow overflow,<br/> Overflow overflow<br/>Overflow overflow, <br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Overflow overflow<br/>Windows of heaven have opened over me<br/>Overflow overflow<br/>Windows of heaven have opened over me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can hear the sounds of heaven (overflow)<br/>Its the sound of many waters (overflow)<br/>Times of refreshing, coming over me<br/>I know you have been waiting (overflow)<br/>The sins that was delaying (overflow)<br/>Times of refreshing, coming over me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Overflow overflow<br/>Windows of heaven have opened over me <br/>Overflow overflow<br/>Windows of heaven have opened over me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Overflow overflow, <br/>Overflow overflow <br/>Overflow overflow<br/>Halelujah halelujah, <br/>Halelujah halelujah <br/>Halelujah halelujah</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Shout Halelujah to the lord (hallelujah to the Lord)<br/>Shout Hossanah to the Lord (Hossanah to the LOrd)<br/>Shout Halelujah to the Lord (Halelujah to the Lord)<br/>Shout Hossanah to the Lord (Hossanah to the LOrd)<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>I go shout, I go dance (I go shout, I go dance)<br/>I go shout, I go dance oh (I go shout, I go dance oh)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Giver of Joy</title>
+    </titles>
+    <authors>
+      <author type="words">Pita Tuisawau</author>
+      <author type="music">Pita Tuisawau</author>
+    </authors>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The prophets foretold<br/>A king would come<br/>Born to a virgin<br/>Of lowly estate</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You who are poor<br/>And discouraged<br/>Take courage for<br/>Your king is here<br/>He will not falter<br/>Or be discouraged<br/>Till his kingdom come</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Giver of joy giver of hope giver of peace giver of life<br/>Giver of every good thing has come into the world<br/>Giver of joy giver of hope giver of peace giver of life<br/>Giver of every good thing has come into the world</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Giver of joy giver of hope giver of peace giver of life (x5)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing to the Lord a new song<br/>Praise Him to the ends of the earth<br/>You who go down to the sea<br/>You islands praise the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

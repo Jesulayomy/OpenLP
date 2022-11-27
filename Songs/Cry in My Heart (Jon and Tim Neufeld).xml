@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Cry in My Heart</title>
+    </titles>
+    <copyright>2004 Birdwing Music | Starfield Designee</copyright>
+    <authors>
+      <author type="words">Jon and Tim Neufeld</author>
+      <author type="music">Jon and Tim Neufeld</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a cry in my heart<br/>For Your glory to fall,<br/>For Your presence to fill up my senses.<br/>There's a yearning again,<br/>A thirst for discipline,<br/>A hunger for things that are deeper.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Could You take me beyond?<br/>Could You carry me through?<br/>If I open my heart<br/>Could I go there with You?</lines>
+    </verse>
+    <verse name="p2">
+      <lines>For I've been here before,<br/>But I know there's still more.<br/>Oh, Lord, I need to know You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For what do I have if I don't have You, Jesus?<br/>What in this life could mean any more?<br/>You are my Rock. You are my Glory.<br/>You are the Lifter of my head.</lines>
+    </verse>
+  </lyrics>
+</song>

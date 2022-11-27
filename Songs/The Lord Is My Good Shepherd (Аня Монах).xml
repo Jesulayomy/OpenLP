@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>The Lord Is My Good Shepherd</title>
+    </titles>
+    <authors>
+      <author type="words">Аня Монах</author>
+      <author type="music">Аня Монах</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2984"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is my good Shepherd,<br/>He leads me with His perfect love.<br/>The Lord id my good leader.<br/>He's my guide, He's my God (3x - He's my Lord!)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're King of my heart,<br/>You make me lie down<br/>In green pastures,<br/>You lead me beside<br/>Quiet waters.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You restore my soul;<br/>You guide me in paths<br/>Of righteousness<br/>For Your name are sake.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Even though<br/>I walk through the valley of shadow<br/>Of death, I fear no evil,<br/>For You are with me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For You are with me,<br/>For You are with me,<br/>I fear no evil,<br/>For You are with me!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are King of my heart,<br/>You're my Lord, You're my God,<br/>You lead with<br/>Your perfect love!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>With Your perfect love...!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The Lord is my good Shepherd,<br/>He leads me with His perfect love.<br/>The Lord id my good leader.<br/>He's my God.</lines>
+    </verse>
+  </lyrics>
+</song>

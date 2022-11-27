@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The Gospel Shows The Father's Grace</title>
+    </titles>
+    <authors>
+      <author type="music">from Cantionale Germanicum, Dresden, 1628</author>
+      <author type="words">Loy, Matthias (1828-1915)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Gospel shows the Father's grace, Who sent his Son to save our race, Proclaims how Jesus lived and died That man might thus be justified.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It sets the Lamb before our eyes, Who made th'atoning sacrifice, And calls the souls with guilt oppressed To come and find eternal rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It brings the Savior's righteousness Our souls to robe in royal dress; From all our guilt it brings release And gives the troubled conscience peace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It is the pow'r of God to save From sin and Satan and the grave; It works the faith, which firmly clings To all the treasures which it brings.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It bears to all the tidings glad And bids their hearts no more be sad; The heavy laden souls it cheers And banishes their guilty fears.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>May we in faith its tidings learn<br/>Nor thanklessly its blessings spurn;<br/>May we in faith its truth confess<br/>And praise the Lord our Righteousness!</lines>
+    </verse>
+  </lyrics>
+</song>

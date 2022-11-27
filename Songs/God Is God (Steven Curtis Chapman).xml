@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>God Is God</title>
+    </titles>
+    <authors>
+      <author type="words">Steven Curtis Chapman</author>
+      <author type="music">Steven Curtis Chapman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And the pain falls like a curtain<br/>On the things I once called certain.<br/>And I have to say the words I fear the most:<br/>I just don't know.<br/>And the questions without answers<br/>Come and paralyze the dancer.<br/>So I stand here on the stage afraid to move,<br/>Afraid to fall. Oh, but fall I must<br/>On this truth that my life has been formed from the dust.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God is God and I am not.<br/>I can only see a part of the picture He's painting.<br/>God is God and I am man,<br/>So I'll never understand it all,<br/>For only God is God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And the sky begins to thunder,<br/>And I'm filled with awe and wonder,<br/>'Til the only burning question that remains<br/>Is who am I?<br/>Can I form a single mountain?<br/>Take the stars in hand and count them?<br/>Can I even take a breath without God giving it to me?<br/>He is first and last, before all that has been,<br/>Beyond all that will pass.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh, how great are the riches of His wisdom and knowledge.<br/>How unsearchable for to Him and through Him and from Him are<br/>all things.<br/>So, let us worship before the throne<br/>Of the One who is worthy of worship alone.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Only God is God.<br/>    E* x799xx</lines>
+    </verse>
+  </lyrics>
+</song>

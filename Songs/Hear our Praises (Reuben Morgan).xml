@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>Hear our Praises</title>
+    </titles>
+    <copyright>Hillsong</copyright>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+      <theme>commitment</theme>
+      <theme>thanksgiving</theme>
+      <theme>grace</theme>
+      <theme>revival</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>May our homes be filled with dancing<br/>May our streets be filled with joy<br/>May injustice bow to Jesus<br/>As the people turn to pray</lines>
+    </verse>
+    <verse name="c1">
+      <lines>From the mountains to the valleys<br/>Hear our praises rise to You<br/>From the heavens to the nations<br/>Hear our singing fill the air</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May Your light shine in the darkness<br/>As we walk before the cross<br/>May Your glory fill the whole earth<br/>As the water o'er seas</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hallelujah, hallelujah<br/>Hallelujah, hallelujah<br/>Hallelujah, hallelujah<br/>Hallelujah, hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

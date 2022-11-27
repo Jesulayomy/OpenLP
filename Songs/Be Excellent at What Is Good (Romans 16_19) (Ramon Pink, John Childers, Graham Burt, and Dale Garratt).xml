@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Be Excellent at What Is Good (Romans 16:19)</title>
+    </titles>
+    <copyright>1991 Scripture In Song</copyright>
+    <authors>
+      <author type="words">John Childers</author>
+      <author type="music">John Childers</author>
+      <author type="words">Ramon Pink</author>
+      <author type="music">Ramon Pink</author>
+      <author type="words">Graham Burt</author>
+      <author type="music">Graham Burt</author>
+      <author type="words">and Dale Garratt</author>
+      <author type="music">and Dale Garratt</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Romans sixteen: nineteen says,<br/>Romans sixteen: nineteen says,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Be excellent at what is good, be innocent of evil;"<br/>"Be excellent at what is good, be innocent of evil.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And the God of peace will soon crush Satan, yes,<br/>God will crush Him underneath your feet." (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Rejoice, O Pilgrim Throng</title>
+      <title>Rejoice Ye Pure in Heart</title>
+    </titles>
+    <authors>
+      <author type="music">Messiter, Arthur Henry (1834-1916)</author>
+      <author type="words">Plumptre, Edward Hayes (1821-1891)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice, O pilgrim throng! Rejoice, give thanks, and sing; Your festal banner wave on high, The cross of Christ your King. Rejoice, rejoice, rejoice, Give thanks and sing. Rejoice, rejoice, rejoice, Give thanks and sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With all the angel choirs, With all the saints on earth, Pour out the strains of joy and bliss, True rapture, noblest mirth. Rejoice, rejoice, rejoice, Give thanks and sing. Rejoice, rejoice, rejoice, Give thanks and sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With voice as full and strong As ocean's surging praise, Send forth the hymns our fathers loved, The psalms of ancient days. Rejoice, rejoice, rejoice, Give thanks and sing. Rejoice, rejoice, rejoice, Give thanks and sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Still lift your standard high, Still march in firm array, As warriors through the darkness toil, Till dawns the golden day. Rejoice, rejoice, rejoice, Give thanks and sing. Rejoice, rejoice, rejoice, Give thanks and sing.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yes, on through life's long path, Still chanting as ye go; From youth to age, by night and day, In gladness and in woe. Rejoice, rejoice, rejoice, Give thanks and sing. Rejoice, rejoice, rejoice, Give thanks and sing.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yes onward, onward still With hymn, and chant and song,<br/>Through gate, and porch and columned aisle, The hallowed pathways throng.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>At last the march shall end; The wearied ones shall rest;<br/>The pilgrims find their Father's house, Jerusalem the bless'd.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Then on, ye pure in heart! Rejoice, give thanks and sing!<br/>Your festal banner wave on high, The cross of Christ your King.</lines>
+    </verse>
+  </lyrics>
+</song>

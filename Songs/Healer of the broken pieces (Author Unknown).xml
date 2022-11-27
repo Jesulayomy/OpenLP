@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Healer of the broken pieces</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the Healer - the Healer of my Heart<br/>The Maker and the God of all we are<br/>I was the broken vessel in Your Hand<br/>But You looked beyond the hurt<br/>And made me whole again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Healer of the broken pieces<br/>You touched my heart and made it new<br/>Now my whole life I surrender<br/>Lay it down before the Mender<br/>Lord I give my Life to you<br/>Love that sought before I knew You<br/>Has brought me near to where You are<br/>Now I live to praise You<br/>Healer of my Heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing compares Lord<br/>To knowing You<br/>and seeing what<br/>The Grace of God can do<br/>You faithfully sought me<br/>When You called me Your own<br/>And You made a way<br/>To bring my wanderingheart back home</lines>
+    </verse>
+  </lyrics>
+</song>

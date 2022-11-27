@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Glory to the King</title>
+    </titles>
+    <copyright>1997 Darlene Zschech/Hillsong Australia</copyright>
+    <authors>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, my heart cries out, "Glory to the King!"<br/>My greatest love in life, I hand you everything.<br/>"Glory, glory," I hear the angels sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Open my ears, let me hear Your voice;<br/>To know that sweet sound, O my soul, rejoice.<br/>"Glory, glory," I hear the angels sing.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're a Father to the fatherless,<br/>The answer to my dreams;<br/>I see You crowned in righteousness,<br/>We cry, "Glory to the  King!"<br/>Comforter to the lonely,<br/>The lifter of my head;<br/>I see You veiled in majesty,<br/>We cry, "Glory,glory!"<br/>We cry, "Glory to  the King!"<br/>We cry, "Glory,glory!"<br/>We cry, "Glory to  the King!"</lines>
+    </verse>
+  </lyrics>
+</song>

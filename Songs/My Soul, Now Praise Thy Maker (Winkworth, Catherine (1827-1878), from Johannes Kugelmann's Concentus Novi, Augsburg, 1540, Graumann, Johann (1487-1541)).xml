@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>My Soul, Now Praise Thy Maker</title>
+      <title>My Soul, Now Bless Thy Maker</title>
+    </titles>
+    <authors>
+      <author type="music">from Johannes Kugelmann's Concentus Novi, Augsburg, 1540</author>
+      <author type="words">Graumann, Johann (1487-1541)</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My soul, now praise thy maker! Let all within me bless His name Who maketh thee partaker Of mercies more than thou dar'st claim. Forget Him not whose meekness Still bears with all thy sin, Who healeth all thy weakness, Renews thy life within. Whose grace and care are endless And saved thee through the past; Who leaves no suff'rer friendless, But rights the wronged at last.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He shows to man His treasure Of judgment, truth, and righteousness, His love beyond all measure, His yearning pity o'er distress, Nor treats us as we merit, But lays His anger by. The humble, contrite spirit Finds His compassion nigh; And high as Heav'n above us, As break from close of day, So far, since He doth love us, He puts our sins away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For as a tender father Hath pity on his children here, He in His arms will gather All who are His in childlike fear. He knows how frail our powers Who but from dust are made; We flourish like the flowers, And even so we fade; The wind but o'er them passes, And all their bloom is o'er\We wither like the grasses, Our place knows us no more.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God's grace alone endureth, And children's children yet shall prove How He with strength assureth The hearts of all that seek His love. In Heav'n is fixed His dwelling, His rule is over all; Angels, in might excelling, Bright hosts, before Him fall. Praise Him who ever reigneth, All ye who hear His Word, Nor our poor hymns disdaineth\My soul, O praise the Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

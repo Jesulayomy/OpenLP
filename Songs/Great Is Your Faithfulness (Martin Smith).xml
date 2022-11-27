@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Great Is Your Faithfulness</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4228"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Capo 5</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 Verse:<br/>Great, Your faithfulness<br/>O God my Father, O God my friend<br/>Your love it never fades<br/>And so I'll love You until the end</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>When shadows fall, You never change<br/>From age to age, You never change</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Great is Your faithfulness, Your faithfulness<br/>Through the years, You've always been there<br/>Great is Your love for us, Your love for us<br/>Through the years, You'll always be there</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 Verse:<br/>Great, Your kindness, God<br/>You are our shelter, our dwelling place<br/>Your presence like a fire<br/>Hope for tomorrow, strength for today</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>We will stand, we will stand upon Your promises<br/>We are strong, we are strong because our hope is in You<br/>We will run, we will run, we will run<br/>We belong, we belong, we belong to You<br/>To You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Gloria</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glory, hallelujah, Heavenly father,<br/>I will give the glory, Lord to you!<br/>Marvelous and glorious, loving Creator,<br/>I will give the glory, Lord to you!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be exalted let your name be lifted up forever<br/>God unchanging, you're my Lord and Savior<br/>I will give the glory, Lord to you!<br/>God almightly, the heavens and the earth belong to you, Lord.<br/>The sun, the moon, the stars, the seas they're yours Lord.<br/>I will give the glory, Lord to you!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gloria aleluya, padre del cielo,<br/>Adorate quiero solo a ti!<br/>Dios majestuoso del universo,<br/>Adorate quiero solo a ti!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Gloria, gloria aleluya, gloria, gloria aleluya<br/>Gloria, gloria aleluya, gloria, gloria aleluya<br/>Gloria, gloria aleluya, gloria, gloria aleluya<br/>Gloria, gloria aleluya, gloria, gloria aleluya</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Que tu nombre sea exaltado eternamente!<br/>Tu eres el mismo hoy y siempre<br/>A ti doy la gloria solo a ti!<br/>Poderoso tuyos son los cielos y la tierra,<br/>Tuyos son los mares, las estrellas,<br/>A ti doy la gloria solo a ti!</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Gloria, gloria aleluya, gloria, gloria aleluya<br/>Gloria, gloria aleluya, gloria, gloria aleluya<br/>Gloria, gloria aleluya, gloria, gloria aleluya<br/>Gloria, gloria aleluya, gloria, gloria aleluya</lines>
+    </verse>
+  </lyrics>
+</song>

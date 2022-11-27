@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Abba Father</title>
+    </titles>
+    <copyright>2001 New Spring | shaungroves.com</copyright>
+    <authors>
+      <author type="words">Shaun Groves</author>
+      <author type="music">Shaun Groves</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abba Father, my defender,<br/>You are holy, I surrender;<br/>For in my weakness, you protect me.<br/>When my heart strays, you correct me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I cry Abba Father, I love you daddy.<br/>Abba Father, I love you. I love you.<br/>Abba Father, I love you daddy.<br/>Abba Father, I love you. I love you daddy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Girls:<br/>I cry Abba Father, I love you daddy.<br/>Abba Father, I love you. I love you.<br/>Abba Father, I love you daddy.<br/>Abba Father, I love you. I love you daddy.<br/>Guys:<br/>Abba Father, my defender,<br/>You are holy, I surrender;<br/>For in my weakness, you protect me.<br/>When my heart strays, you protect me.</lines>
+    </verse>
+  </lyrics>
+</song>

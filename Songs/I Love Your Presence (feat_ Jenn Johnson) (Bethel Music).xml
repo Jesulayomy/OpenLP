@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>I Love Your Presence (feat: Jenn Johnson)</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3712"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>In the glory... of Your presence<br/>I find rest... for my soul...<br/>In the depths... of Your love...<br/>I find peace... makes me whole...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I love I love... I love your presence<br/>I love I love... I love your presence<br/>I love I love... I love you Jesus<br/>I love I love... I love your presence</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>If you want it come and get it for crying out loud<br/>The love that He has given you was never a doubt<br/>Let go of your heart let go of your head and feel it now<br/>Let go of your heart let go of your head and feel it now!</lines>
+    </verse>
+  </lyrics>
+</song>

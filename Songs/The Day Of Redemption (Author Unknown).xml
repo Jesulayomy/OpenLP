@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>The Day Of Redemption</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nations are breaking,<br/>Israel's awaking,<br/>The signs that the prophets<br/>foretold;<br/>The Gentile days numbered,<br/>With horrors encumbered;<br/>Eternity soon will unfold.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>The day of redemption is near,<br/>Men's hearts are failing for fear;<br/>Be filled with the Spirit,<br/>Your lamps trimmed and clear,<br/>Look up! Your redemption is near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The fig tree is growing;<br/>Jerusalem's restoring<br/>Her national life, long dethroned;<br/>Today she is calling,<br/>Her latter rain's falling,<br/>"Return, Oh dispersed, to your own."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heaven's powers are shaking,<br/>And many are mistaking<br/>God's meaning to be of the sky;<br/>God's Church is the power<br/>That's shaking this hour:<br/>The day of redemption is nigh.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>False prophets are lying,<br/>God's Truth they're denying,<br/>That Jesus the Christ is our God;<br/>Though this generation<br/>Spurns God's revelation,<br/>We'll walk where the apostles<br/>have trod.</lines>
+    </verse>
+  </lyrics>
+</song>

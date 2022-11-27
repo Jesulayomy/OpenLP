@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:53">
+  <properties>
+    <titles>
+      <title>God of Ages</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God of ages  bringing glory here, you are good, you are good<br/>Son of righteousness you are all I seek with all my heart</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Giver of life, hope for the lost is in you<br/>All of the earth shines with your light, your glory</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are the God who lives; You are the God who heals<br/>You are my hope my everything</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In your promise and your faithfulness, I will trust all my days<br/>King forever, reign in majesty, be glorified</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You are the God who lives; You are the God who heals<br/>You are my hope my everything, you brought salvation to us,<br/>Offered your peace to the world, you are my Lord, my everything</lines>
+    </verse>
+    <verse name="b1">
+      <lines>// I'll trust in you, I'll trust in you<br/>I'll trust in you, with all my heart //</lines>
+    </verse>
+  </lyrics>
+</song>

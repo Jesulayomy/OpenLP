@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:51">
+  <properties>
+    <titles>
+      <title>It's Your Blood</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Christ</author>
+      <author type="music">Michael Christ</author>
+    </authors>
+    <themes>
+      <theme>guitar</theme>
+      <theme>christian-living</theme>
+      <theme>salvation</theme>
+      <theme>crucifixion</theme>
+      <theme>forgiveness</theme>
+      <theme>lords-supper</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+      <theme>cleansing</theme>
+      <theme>sacrifice</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's Your blood that cleanses me<br/>It's Your blood that gives me life<br/>It's Your blood that took my place<br/>In redeeming sacrifice<br/>And washes me<br/>Whiter than the snow<br/>Ohhh ohhh ohhhh<br/>Than the snow<br/>My Jesus God's precious sacrifice</lines>
+    </verse>
+  </lyrics>
+</song>

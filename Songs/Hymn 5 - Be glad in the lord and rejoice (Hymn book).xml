@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-03T17:53:56">
+  <properties>
+    <titles>
+      <title>Hymn 5 - Be glad in the lord and rejoice</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be Glad in Lord and rejoice <br/>All ye that are upright in heart,<br/>And ye that have made Him your choice,<br/>Bid sadness and sorrow depart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Rejoice! Rejoice !<br/>Be glad in the Lord and<br/>Rejoice ! (2ce)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be joyful for He Is the Lord<br/>On earth and in heaven supreme<br/>He fashions and rule by His word<br/>The "mighty" and "Strong" to Redeem</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What though in conflict for right<br/>Your enemies almost prevail<br/>God's armies , just hid from your sight,<br/>Are more tha the foes which assail.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Though darkness surround you by day,<br/>Your sky by the the night be o'ercast;<br/>Let nothing your spirit dismay<br/>But trust till the danger is past</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Be glad in the Lord and rejoice<br/>His praises proclaiming in song<br/>With harp and with organ and voice<br/>The Lord hallelujah prolong!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

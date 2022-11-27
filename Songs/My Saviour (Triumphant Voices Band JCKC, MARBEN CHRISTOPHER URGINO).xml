@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>My Saviour</title>
+    </titles>
+    <authors>
+      <author type="words">Triumphant Voices Band JCKC</author>
+      <author type="music">Triumphant Voices Band JCKC</author>
+      <author type="words">MARBEN CHRISTOPHER URGINO</author>
+      <author type="music">MARBEN CHRISTOPHER URGINO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the Music Fades<br/>I start to cry<br/>I remember the time<br/>When i hear your Word<br/>I start to search your Love and Kind</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I start to Cry<br/>Deeper inlove with you<br/>I feel surrender my life<br/>To you with all my Heart.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My Life you've Change<br/>My Lord you are There<br/>You Gave me Strength<br/>You Gave me Hope<br/>You are Lord of All<br/>My Saviour</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are the Way<br/>And your are the life(3x)<br/>And your my Everything.</lines>
+    </verse>
+  </lyrics>
+</song>

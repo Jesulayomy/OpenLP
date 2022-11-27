@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>I stand accused, there's a list a mile long</title>
+    </titles>
+    <authors>
+      <author type="words">Ekaterina Topčij</author>
+      <author type="music">Ekaterina Topčij</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3980"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand accused, there's a list a mile long<br/>Of all my sins, of everything that I've done wrong<br/>I'm so ashamed, there's nowhere left for me to hide<br/>This is the day, I must answer for my life</lines>
+    </verse>
+    <verse name="p1">
+      <lines>My fate is in the Judges hands,<br/>But then he turns to me and says</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I know you, I love you<br/>I gave my life, to save you<br/>Love paid the price for mercy<br/>My verdict, not guilty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>How can it be, I cannot begin to comprehend<br/>What kind of Grace would take the place for all my sins<br/>I stand in awe, now that I have been set free<br/>And the tears well up, as I look at that Cross<br/>'Cause it should've been me</lines>
+    </verse>
+    <verse name="p2">
+      <lines>My fate was in the nail scarred hands,<br/>He stretched them out for me and said...</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'm falling on my knees to thank You<br/>With everything I am, I praise You<br/>So grateful for the words I heard you say</lines>
+    </verse>
+  </lyrics>
+</song>

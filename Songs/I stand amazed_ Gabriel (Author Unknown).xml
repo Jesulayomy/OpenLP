@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>I stand amazed/ Gabriel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>crucifixion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand amazed in the presence<br/>Of Jesus the Nazarene,<br/>And wonder how He could love me,<br/>A sinner condemned, unclean.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How marvelous! How wonderful!<br/>And my song shall ever be:<br/>How marvelous! How wonderful!<br/>Is my Savior's love for me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For me it was in the garden,<br/>He prayed: "Not my will, but Thine."<br/>He had no tears for His own griefs,<br/>But sweat-drops of blood for mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In pity angels beheld Him,<br/>And came from the world of light<br/>To strengthen Him in the sorrows<br/>He bore for my soul that night.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He took my sins and my sorrows,<br/>He made them His very own;<br/>He bore the burden to Calv'ry,<br/>And suffered, and died alone.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When with the ransomed in glory<br/>His face I at last shall see,<br/>'Twill be my joy through the ages<br/>To sing of His love for me.</lines>
+    </verse>
+  </lyrics>
+</song>

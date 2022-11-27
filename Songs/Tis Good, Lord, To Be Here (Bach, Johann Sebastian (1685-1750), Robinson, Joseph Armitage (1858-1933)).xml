@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>Tis Good, Lord, To Be Here</title>
+    </titles>
+    <authors>
+      <author type="music">Bach, Johann Sebastian (1685-1750)</author>
+      <author type="words">Robinson, Joseph Armitage (1858-1933)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Tis good, Lord, to be here, Thy glory fills the night; Thy face and garments, like the sun, Shine with unborrowed light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Tis good, Lord, to be here, Thy beauty to behold Where Moses and Elijah stand, Thy messengers of old.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fulfiller of the past, Promise of things to be, We hail Thy body glorified And our redemption see.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Before we taste of death, We see Thy Kingdom come; We fain would hold the vision bright And make this hill our home.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>'Tis good, Lord, to be here. Yet we may not remain; But since Thou bidst us leave the mount, Come with us to the plain.</lines>
+    </verse>
+  </lyrics>
+</song>

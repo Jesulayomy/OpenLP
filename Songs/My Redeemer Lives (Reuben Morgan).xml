@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>My Redeemer Lives</title>
+    </titles>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Nehir Kilisesi"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>easter</theme>
+      <theme>forgiveness</theme>
+      <theme>celebration</theme>
+      <theme>youth</theme>
+      <theme>jesus-return</theme>
+      <theme>easy</theme>
+      <theme>healer</theme>
+      <theme>sacrifice</theme>
+      <theme>resurrection</theme>
+      <theme>victory</theme>
+      <theme>mbb-lyrics</theme>
+      <theme>alleluia</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know He rescued my soul,<br/>His blood has covered my sin,<br/>I believe, I believe;<br/>My shame He's taken away,<br/>My pain is healed in His name,<br/>I believe, I believe.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I'll raise a banner;<br/>My Lord has conquered the grave!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My Redeemer lives, my Redeemer lives;<br/>My Redeemer lives, my Redeemer lives!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You lift my burdens, I'll rise with You;<br/>I'm dancing on this mountaintop<br/>To see You kingdom come.</lines>
+    </verse>
+  </lyrics>
+</song>

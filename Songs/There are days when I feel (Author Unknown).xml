@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>There are days when I feel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3036"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are days when I feel<br/>The best of me is ready to begin<br/>Then there's days when I feel<br/>I'm letting go and soaring on the wind</lines>
+    </verse>
+    <verse name="p1">
+      <lines>'Cause I've learned in laughter or in pain<br/>How to survive!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I get on my knees! I get on my knees!<br/>There I am before the Love that changes me<br/>See I don't know how but there's power<br/>When I'm on my knees</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can be in a crowd<br/>Or by myself and almost anywhere<br/>When I feel there's a need<br/>To talk with God He is Emmanuel</lines>
+    </verse>
+    <verse name="p2">
+      <lines>When I close my eyes, no darkness there<br/>There's only light!</lines>
+    </verse>
+  </lyrics>
+</song>

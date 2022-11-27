@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>He Brought Me to His Banqueting Table</title>
+    </titles>
+    <authors>
+      <author type="words">Kevin Prosch</author>
+      <author type="music">Kevin Prosch</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>gods-might</theme>
+      <theme>offertory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He brought me to his banqueting table (Women echo)<br/>He brought me to his banqueting table (Women echo)<br/>And his banner over me is love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am my beloved's and He is mine (Women echo)<br/>I am my beloved's and He is mine (Women echo)<br/>And His banner over me is love<br/>Yes His banner over me is love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We can feel the love of God in this place<br/>We believe your goodness<br/>We receive your grace<br/>We delight ourselves at your table oh God<br/>You do all things well, just look at our lives</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And His banner over me is love<br/>Yes His banner over me is love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His banner over you, his banner over me<br/>His banner over us, it is love, love, love</lines>
+    </verse>
+  </lyrics>
+</song>

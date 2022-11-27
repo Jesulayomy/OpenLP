@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Pass It On</title>
+    </titles>
+    <copyright>1969 Bud John Songs, Inc.</copyright>
+    <authors>
+      <author type="words">Kurt Kaiser</author>
+      <author type="music">Kurt Kaiser</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It only takes a spark to get a fire going,<br/>And soon all those around, can warm up in its glowing;<br/>That's how it is with God's love, Once you've experienced it;<br/>You spread His love to everyone, you want to pass it on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What a wondrous time is spring, when all the trees are budding,<br/>The birds begin to sing, the flowers start their blooming;<br/>That's how it is with God's love, Once you've experienced it;<br/>You want to sing, "It's fresh like spring", you want to pass it on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I wish for you my friend, this happiness that I've found,<br/>You can depend on Him, it matters not where you're bound;<br/>I'll shout it from the mountain top - PRAISE GOD! I want the world to know;<br/>The Lord of love has come to me, I want to pass it on.</lines>
+    </verse>
+  </lyrics>
+</song>

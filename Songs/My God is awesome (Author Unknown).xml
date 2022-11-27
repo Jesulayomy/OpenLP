@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:28">
+  <properties>
+    <titles>
+      <title>My God is awesome</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My God is awesome,<br/>He can move mountains<br/>Keep me in the valley,<br/>hide me from the rain<br/>My God is awesome,<br/>heals me when I'm broken<br/>Strength where I've been weakened,<br/>forever He will reign</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My God is awesome, awesome,<br/>awesome, awesome<br/>My God is awesome, awesome,<br/>awesome, awesome</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My God is awesome,<br/>Savior of the whole world<br/>Giver of salvation,<br/>by His stripes I am healed<br/>My God is awesome,<br/>today I am forgiven<br/>His grace is why I'm living,<br/>praise His holy Name</lines>
+    </verse>
+    <verse name="c2">
+      <lines>He's mighty, He's mighty,<br/>He's mighty, He's mighty,<br/>Awesome, Awesome</lines>
+    </verse>
+    <verse name="c3">
+      <lines>He's Holy, He's Holy,<br/>He's Holy, He's Holy,<br/>Awesome, Awesome</lines>
+    </verse>
+    <verse name="c4">
+      <lines>He's Great, He's Great,<br/>He's Great, He's Great,<br/>Awesome, Awesome</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Deliverer, Deliverer,<br/>Deliverer, Deliverer,<br/>Awesome, Awesome</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Provider, Provider,<br/>Provider, Provider,<br/>Awesome, Awesome</lines>
+    </verse>
+    <verse name="c7">
+      <lines>Protector, Protector,<br/>Protector, Protector,<br/>Awesome, Awesome</lines>
+    </verse>
+  </lyrics>
+</song>

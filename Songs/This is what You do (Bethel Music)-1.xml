@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>This is what You do</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3028"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>It's always like springtime with You, making all things new</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your light is breaking through the dark</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This love it is sweeter than wine, Bringing joy, bringing life</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your hope is rising like the dawn</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>This is what you do, this is what you do You make me come alive<br/>This is what you do, this is what you do You make me come alive<br/>This is what you do, this is what you do You make me come alive<br/>This is what you do, this is what you do You make me come alive</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Post Chorus:<br/>You make me come alive, You make me come alive<br/>You make me come alive, You make me come alive</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>It's like I'm living for the first time, Finally living for the first time<br/>It's like I'm living for the first time, Finally living for the first time</lines>
+    </verse>
+  </lyrics>
+</song>

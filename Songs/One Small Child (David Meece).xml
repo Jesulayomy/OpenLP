@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>One Small Child</title>
+    </titles>
+    <copyright>1971 Word Music</copyright>
+    <authors>
+      <author type="words">David Meece</author>
+      <author type="music">David Meece</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One small Child in a land of a thousand,<br/>One small dream of a Savior tonight,<br/>One small hand reaching out to the star light,<br/>One small city of life. Ooohhh.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One king bringing his gold and riches,<br/>One king ruling an army of might,<br/>One king kneeling with incense and candle light,<br/>One King brining us life. Ooohhh.<br/>See Him lying, a cradle beneath Him; See Him smiling in the stall.<br/>See His mother praising His Father; See His tiny eyelids fall.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One small light from the flame of a candle,<br/>One small light from a city of might,<br/>One small light from the stars in the endless night,<br/>One small light from a face. Ooohhh.<br/>See the shepherds kneeling before Him; See the kings on bending knee.<br/>See His mother praising His Father; See the Blessed Infant sleep.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One small Child in a land of a thousand,<br/>One small dream in a people of might,<br/>One small hand reaching out to the star light,<br/>One small Savior of life. Ooohhh.</lines>
+    </verse>
+  </lyrics>
+</song>

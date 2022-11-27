@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Fire Fall Down</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1:<br/>You bought my life with the<br/>Blood that You shed on the cross<br/>When You died for the sins of men<br/>And You let out a cry<br/>Crucified now alive in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2:<br/>These hands are Yours<br/>Teach them to serve as You please<br/>And I'll reach out desperate to see<br/>All the greatness of God<br/>May my soul rest assured in You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>PRE CHORUS:<br/>I'll never be the same<br/>No I'll never be the same</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS:<br/>'Cause I know that You're alive<br/>You came to fix my broken life<br/>And I sing to glorify<br/>Your holy Name<br/>Jesus Christ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE 3:<br/>You've changed it all<br/>You broke down the wall<br/>When I spoke and confessed<br/>In You I'm blessed<br/>Now I walk in the light<br/>In victorious sight of You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Your fire fall down<br/>Fire fall down<br/>On us we pray<br/>As we seek<br/>Show me Your heart<br/>Show me Your way<br/>Show me Your glory</lines>
+    </verse>
+  </lyrics>
+</song>

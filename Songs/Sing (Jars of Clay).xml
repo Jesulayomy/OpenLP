@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Sing</title>
+    </titles>
+    <authors>
+      <author type="words">Jars of Clay</author>
+      <author type="music">Jars of Clay</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love the way, I love the way you carry on.<br/>You make me wanna say, You make me wanna sing another love song.<br/>Sing another love song, Sing another love song,<br/>Sing another love song to you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bury my head for the shame,<br/>you pick me up, you say I look like you.<br/>Though it makes no sense to me,<br/>You make me believe that I could trust someone.<br/>I could ever trust someone,<br/>I could ever trust someone,<br/>I could ever trust someone,<br/>I could ever trust someone.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sing another love song. Sing another love song.<br/>Sing another love song. Sing another love song.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I walk through flame, I touch the fire,<br/>You know that I still burn for You.<br/>Flood water, rain crash down, soak the ground,<br/>Still I thirst for you. Still I thirst for you.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sing another love song. Sing another love song.<br/>Though it makes no sense to me, You make me wanna sing,<br/>Make me wanna sing...</lines>
+    </verse>
+    <verse name="b2">
+      <lines>I just wanna trust someone.</lines>
+    </verse>
+  </lyrics>
+</song>

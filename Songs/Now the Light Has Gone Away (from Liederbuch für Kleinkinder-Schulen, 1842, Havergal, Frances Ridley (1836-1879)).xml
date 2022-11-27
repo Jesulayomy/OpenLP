@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Now the Light Has Gone Away</title>
+    </titles>
+    <authors>
+      <author type="music">from Liederbuch für Kleinkinder-Schulen, 1842</author>
+      <author type="words">Havergal, Frances Ridley (1836-1879)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now the light has gone away; Father, listen while I pray, Asking Thee to watch and keep And to send me quiet sleep.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Savior, wash away All that has been wrong today; Help me every day to be Good and gentle, more like Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let my near and dear ones be Always near and dear to Thee. Oh, bring me and all I love To Thy happy home above.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now my evening praise I give; Thou didst die that I might live. All my blessings come from Thee; Oh, how good Thou art to me!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thou, my best and kindest Friend, Thou wilt love me to the end. Let me love Thee more and more, Always better than before.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>Draw Me Nearer</title>
+    </titles>
+    <copyright>2004 Word Music, LLC</copyright>
+    <authors>
+      <author type="words">Diane Sheets</author>
+      <author type="music">Diane Sheets</author>
+      <author type="words">Fanny J. Crosby</author>
+      <author type="music">Fanny J. Crosby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am Thine, O Lord, I have heard Your voice,<br/>And it told Your love to me;<br/>But I long to rise in the arms of faith<br/>And be closer drawn to Thee.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Draw me nearer<br/>To the cross where Thou hast died;<br/>Draw me nearer<br/>To Your precious bleeding side.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There are great depths of love that I cannot know<br/>'Till I cross the narrow sea;<br/>There are heights of joy that I may not reach<br/>'Till I rest in peace with Thee.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You draw me with Your mercy,<br/>You draw me with Your love.<br/>You draw me with forgiveness by Your blood.<br/>You draw me with compassion,<br/>You draw me as a bride.<br/>You draw me closer to Your precious side.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Consecrate me now to Your service, Lord,<br/>By the power of grace divine;<br/>Let my soul look up with a steadfast hope<br/>And my will be lost in Thine.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Draw me nearer.</lines>
+    </verse>
+  </lyrics>
+</song>

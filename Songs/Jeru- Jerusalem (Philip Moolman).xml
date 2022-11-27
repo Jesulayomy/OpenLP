@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Jeru- Jerusalem</title>
+    </titles>
+    <authors>
+      <author type="words">Philip Moolman</author>
+      <author type="music">Philip Moolman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeru means Yahweh who gives us life<br/>Salem means Yahweh who gives us peace<br/>Yahweh who gives us life He will give us Peace<br/>Yahweh who gives us life He will give us Peace</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jeru-, Jeru-, Jeru-, Jeru<br/>Jerusalem.......................X8</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeru means Yahweh who gives us life<br/>Salem means Yahweh who gives us peace<br/>Yahweh who gives us life He will give us Peace<br/>Yahweh who gives us life He will give us Peace</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jeru-, Jeru-, Jeru-, Jeru<br/>Jerusalem.......................X8</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Giver of life........Giver of peace<br/>Where Jew and Gentile will fall on their knees<br/>Temple rebuilt - Yahashua returns</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Kingdom of God. - for Gentile and Jew<br/>The Olive mountain will be split into two<br/>When Yeshua Ha-Mashiach return</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Jeru-, Jeru-, Jeru-, Jeru<br/>Jerusalem.......................X8</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jerusahalem</lines>
+    </verse>
+  </lyrics>
+</song>

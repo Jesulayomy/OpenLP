@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>Let us Break Bread Together</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let us break bread together, we are one.<br/>Let us break bread together, we are one.<br/>We are one as we stand<br/>With our face to the risen Son.<br/>O Lord, have mercy on us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let us drink wine together, we are one.<br/>Let us drink wine together, we are one.<br/>We are one as we stand<br/>With our face to the risen Son.<br/>O Lord, have mercy on us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us praise God together, we are one.<br/>Let us praise God together, we are one.<br/>We are one as we stand<br/>With our face to the risen Son.<br/>O Lord, have mercy on us</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>You answered me</title>
+    </titles>
+    <authors>
+      <author type="words">MIQEDEM</author>
+      <author type="music">MIQEDEM</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3784"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When hard pressed I cried out to the Lord<br/>And he brought me into a spacious place.<br/>I will praise you for you answered me<br/>And have become my salvation.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will not die but I will live,<br/>And I will proclaim what the Lord has done.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The stone the builders rejected<br/>Has become the chief cornerstone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are my God and I will praise you.<br/>My God, I will exalt you</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>The Hand Song</title>
+      <title>Joining Our Hands</title>
+    </titles>
+    <authors>
+      <author type="words">David Graham</author>
+      <author type="music">David Graham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joining our hands, we sing hallelujah<br/>Sing hallelujah, joining our hands<br/>Joining our hands, we sing hallelujah<br/>Sing hallelujah, joining our hands</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah, hallelujah, hallelujah<br/>Joining our hands<br/>Hallelujah, hallelujah, hallelujah<br/>Joining our hands</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raising our hands...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Clapping our hands...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Taking His hand...</lines>
+    </verse>
+  </lyrics>
+</song>

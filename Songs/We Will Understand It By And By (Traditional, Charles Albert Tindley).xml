@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>We Will Understand It By And By</title>
+      <title>Yesu azali awa, When The Morning Comes</title>
+    </titles>
+    <authors>
+      <author type="words">Charles Albert Tindley</author>
+      <author type="words">Traditional</author>
+      <author type="music">Traditional</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>gospel</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are often tossed and driv'n on the restless sea of time.<br/>Somber skies and howling tempests oft succeed a bright sunshine.<br/>In that land of perfect day, when the mists have rolled away,<br/>We will understand it better by and by.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>By and by, when the morning comes,<br/>All the saints of God are gathering home.<br/>We will tell the story how we've overcome<br/>We will understand it better by and by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Trials dark on ev'ry hand, and we cannot understand<br/>All the way that God will lead us to that blessed promised land;<br/>But He'll guide us with His eye, and we'll follow till we die,<br/>We will understand it better by and by.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are often destitute of the things that life demands.<br/>Want of shelter and of food, thirsty hill and barren land;<br/>But we're trusting in the Lord, and according to His word,<br/>We will understand it better by and by.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Temptations, hidden snares, often take us unawares,<br/>And our hearts are made to bleed, for each thoughtless word or deed;<br/>And we wonder why the test, when we try to do our best,<br/>But we'll understand it better by and by.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yesu azali awa<br/>Yesu azali awa<br/>Yesu azali awa na biso</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Alleluia, alleluia<br/>Alleluia na Yesu<br/>Alleluia, alleluia<br/>Alleluia na Yesu</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Biso toko komo kuna<br/>Biso toko komo kuna<br/>Biso toko komo kuna na lola<br/>Biso toko komo kuna<br/>Biso toko komo kuna<br/>Biso toko komo kuna na lola</lines>
+    </verse>
+  </lyrics>
+</song>

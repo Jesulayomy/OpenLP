@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Lamb of God</title>
+    </titles>
+    <copyright>1998</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lamb of God, sweet Lamb of God,<br/>Light of the World, Holy One.<br/>The name of Jesus, sweet name of Jesus,<br/>Rock of Salvation, Messiah is come!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And we lift our praise;<br/>With humble hearts we raise<br/>A song of hope and thanks.<br/>We rejoice in Your grace.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We rejoice in Your grace.<br/>We rejoice in Your grace.<br/>We rejoice in Your grace.</lines>
+    </verse>
+  </lyrics>
+</song>

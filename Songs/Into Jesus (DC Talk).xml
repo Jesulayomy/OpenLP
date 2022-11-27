@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Into Jesus</title>
+    </titles>
+    <copyright>1998 Fun Attic Music</copyright>
+    <authors>
+      <author type="words">DC Talk</author>
+      <author type="music">DC Talk</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the moon, a million stars are out tonight<br/>Gentle reminders of the way You are<br/>A sea of glass, a raging storm has come to pass<br/>You show Your face in an array of ways</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know You're there, I feel Your love through my despair<br/>You speak the words that ease away the pain<br/>My heart is free, my eyes are clear, my soul is healed<br/>Now that You have got a hold on me</lines>
+    </verse>
+    <verse name="p1">
+      <lines>My feet may venture to the ground<br/>But You will never let me down<br/>I can't hold it in, my soul is screaming!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hey you, I'm into Jesus<br/>Hey you, I'm into Jesus, oh yeah<br/>Hey you, I'm into Jesus<br/>Hey you, I've seen the truth<br/>And I believe</lines>
+    </verse>
+    <verse name="c2">
+      <lines>And I believe</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I still believe (2x)<br/>Hey you, this kid is back<br/>And I do declare that the Son is shining<br/>Hey you, the kid is back<br/>With a red alert 'cause it might be blinding<br/>Hey you, the kid is back<br/>And I do declare that the Son is shining<br/>Hey you, the kid is back<br/>My feet may venture to the ground...</lines>
+    </verse>
+  </lyrics>
+</song>

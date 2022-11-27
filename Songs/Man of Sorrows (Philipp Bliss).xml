@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>Man of Sorrows</title>
+    </titles>
+    <authors>
+      <author>Philipp Bliss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Man of sorrows! what a name<br/>For the Son of God, who came<br/>Ruined sinners to reclaim!<br/>Hallelujah! what a Saviour!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bearing shame and scoffing rude,<br/>In my place condemned He stood;<br/>Sealed my pardon with His blood:<br/>Hallelujah! what a Saviour!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Guilty, vile, and helpless, we;<br/>Spotless Lamb of God was He:<br/>Full atonement—can it be?<br/>Hallelujah! what a Saviour!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lifted up was He to die,<br/>‘It is finished!’ was His cry:<br/>Now in heaven exalted high:<br/>Hallelujah! what a Saviour!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When He comes, our glorious King,<br/>All His ransomed home to bring,<br/>Then anew this song we’ll sing:<br/>‘Hallelujah! what a Saviour!’</lines>
+    </verse>
+  </lyrics>
+</song>

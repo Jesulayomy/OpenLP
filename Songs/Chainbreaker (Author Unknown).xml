@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Chainbreaker</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you've been walking the same old road for miles<br/>and miles<br/>If you've been hearing the same old voice tell the<br/>same old lies<br/>If you're trying to fill the same old holes inside<br/>There's a better life, There's a better life</lines>
+    </verse>
+    <verse name="c1">
+      <lines>If you've got pain, He's a pain taker<br/>If you feel lost, He's a way maker<br/>If you need freedom or saving<br/>He's a prison shaking Savior<br/>If you got chains, He's a chain breaker</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We've all searched for the light of day in the dead<br/>of night<br/>We've all found ourselves worn out from the same<br/>old fight<br/>We've all run to things we know just ain't right<br/>When there's a better life, There's a better life</lines>
+    </verse>
+    <verse name="b1">
+      <lines>If you believe it<br/>If you receive it<br/>If you can feel it<br/>Somebody testify</lines>
+    </verse>
+  </lyrics>
+</song>

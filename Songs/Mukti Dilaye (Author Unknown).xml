@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>Mukti Dilaye</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mukri dilaye Yesu naam,<br/>Shanti dilaye Yesu naam.<br/>(Repeat)<br/>(Peace comes to you in Jesus’ name,<br/>Salvation in no other name.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu daya ka behta sagar<br/>Yesu daya ka behta sagar<br/>Yesu hai data mahan<br/>Yesu hai data mahan<br/>(Jesus is the Ocean of Grace:<br/>You are majestic, Lord.)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Charni main tooney janamliya Yesu<br/>Charni main tooney janamliya Yesu<br/>Sooley pay kiya vishram<br/>Sooley pay kiya vishram<br/>(Jesus, You were born in a manger (Made of wood:)<br/>You were crucified on the cross (Made of wood.))</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Peace comes to you in Jesus’ name,<br/>Salvation in no other name.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ham sab key papon ko mitane<br/>Ham sab key papon ko mitane<br/>Yesu hua hai balidan<br/>Yesu hua hai balidan<br/>(For the remission of our sins,<br/>Jesus has been sacrificed on the cross.)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Krus par apna khoon bahaa kar<br/>Krus par apna khoon bahaa kar<br/>Sara chukaya daam<br/>Sara chukaya daam<br/>(By shedding Your blood on the cross,<br/>You paid the full price for our sins.)</lines>
+    </verse>
+  </lyrics>
+</song>

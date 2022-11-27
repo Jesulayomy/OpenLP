@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Power</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3944"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>My weakness is hidden within Your glory<br/>Jesus my strength is in You<br/>The odds are against me, but You are for me<br/>Jesus my strength is in You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Power belongs to the one who was and is to come<br/>Power belongs to our God, Alleluia</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>My steps have been ordered You go before me<br/>God I'm depending on You<br/>The hope of my future, found in You only<br/>God I'm depending on You</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:<br/>Your presence cannot be out run<br/>Your Glory will not be out done<br/>Your presence cannot be out run<br/>Your Glory will not be out done</lines>
+    </verse>
+  </lyrics>
+</song>

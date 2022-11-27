@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>This I Believe</title>
+      <title>The Creed</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+      <author type="words">Matt Crocker</author>
+      <author type="music">Matt Crocker</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1296"/>
+    </songbooks>
+    <themes>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father everlasting<br/>The all creating One<br/>God Almighty<br/>Through Your Holy Spirit<br/>Conceiving Christ the Son<br/>Jesus our Saviour</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I believe in God our Father<br/>I believe in Christ the Son<br/>I believe in the Holy Spirit<br/>Our God is three in One<br/>I believe in the resurrection<br/>That we will rise again<br/>For I believe<br/>In the Name of Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our Judge and our Defender<br/>Suffered and crucified<br/>Forgiveness is in You<br/>Descended into darkness<br/>You rose in glorious life<br/>Forever seated high</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I believe in You<br/>I believe You rose again<br/>I believe that Jesus Christ is Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I believe in life eternal<br/>I believe in the virgin birth<br/>I believe in the saints' communion<br/>And in Your holy Church<br/>I believe in the resurrection<br/>When Jesus comes again<br/>For I believe in the Name of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>What a Child Is Meant to Be</title>
+    </titles>
+    <copyright>2000 Vineyard Songs (UK/Eire)</copyright>
+    <authors>
+      <author type="words">Kathryn Scott</author>
+      <author type="music">Kathryn Scott</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In my weakness I find<br/>That your strength knows no bounds<br/>And in my loneliness I find<br/>That the everlasting arms surround me<br/>And even with this fragile heart<br/>I find a place to rest here,<br/>Safe where you are</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I am falling into grace again<br/>And I am running where mercy never ends<br/>Lord I'm learning that your love can cover me<br/>You are teaching me<br/>What a child is meant to be</lines>
+    </verse>
+  </lyrics>
+</song>

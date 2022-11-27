@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>You Are Life</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3251"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1:<br/>You have come<br/>And we have found life<br/>Everlasting<br/>Now alive<br/>To know Your freedom<br/>Never ending</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS:<br/>You alone have made a way for us<br/>In Your love<br/>You are life</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>I'm living in the light of my Saviour<br/>Dancing in the arms of forever<br/>I'm singing like I'm walking on water<br/>You are life<br/>Alive in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE 2:<br/>From greyest skies<br/>To living colour<br/>You have called us<br/>In Your life<br/>Your light uncovered<br/>The world to see now</lines>
+    </verse>
+    <verse name="c3">
+      <lines>POST - CHORUS:<br/>I give my life to follow<br/>'Cause Your love is all I want now<br/>You are life<br/>You are life<br/>Alive in me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>For all the world to find Your love<br/>For all the world to see that You are God<br/>Forever be lifted high</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The One who holds the universe<br/>And every beating heart across the earth<br/>Jesus be lifted high</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Words and Music by Ben Tan, Scott Ligertwood, Aodhan King &amp; Michael Guy Chislett<br/>© 2017 Hillsong Music Publishing<br/>CCLI: 7102402</lines>
+    </verse>
+  </lyrics>
+</song>

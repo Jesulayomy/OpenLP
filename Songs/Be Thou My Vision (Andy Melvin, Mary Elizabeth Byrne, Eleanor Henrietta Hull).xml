@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Be Thou My Vision</title>
+      <title>Open My Eyes</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">Andy Melvin</author>
+      <author type="music">Andy Melvin</author>
+      <author type="words">Mary Elizabeth Byrne</author>
+      <author type="music">Mary Elizabeth Byrne</author>
+      <author type="words">Eleanor Henrietta Hull</author>
+      <author type="music">Eleanor Henrietta Hull</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be Thou my vision, O Lord of my heart,<br/>Naught be all else to me save that Thou art;<br/>Thou my best thought by day or by night,<br/>Waking or sleeping, Thy presence my light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be Thou my wisdom, be Thou my true Word,<br/>I ever with Thee and Thou with me, Lord;<br/>Thou my great Father, and I thy true son,<br/>Thou in me dwelling, and I with Thee one.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Open my eyes to see,<br/>Lord, bind my heart to thee.<br/>I yield my life complete.<br/>Be thou my vision.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be Thou my shield and my sword for the fight,<br/>Be Thou my dignity, be Thou my might;<br/>Thou my soul's shelter, and Thou my high tow'r,<br/>Raise Thou me heav'nward, O Pow'r of my pow'r.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Riches I heed not, nor man's empty praise,<br/>Thou mine Inheritance now and always;<br/>Thou and Thou only, first in my heart,<br/>High King of heaven, my Treasure Thou art.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>High King of heaven my victory won,<br/>May I reach heaven's joys, O bright heav'n's Sun;<br/>Heart of my own heart, whatever befall,<br/>Still be my Vision, O Ruler of all.</lines>
+    </verse>
+  </lyrics>
+</song>

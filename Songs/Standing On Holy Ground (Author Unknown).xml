@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>Standing On Holy Ground</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Standing on holy ground<br/>Mercy and grace I've found<br/>I'm here before Your throne now<br/>By a new and living way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus I come to You<br/>I lift up my eyes to You<br/>How You've comforted me<br/>And I long to see Your face</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your are my strength, my song<br/>You are my shield, my redeemer<br/>You are my hope, my salvation, and my God<br/>I'll always bring my praise to You O God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So I will sing to You,<br/>Beautiful things You have done<br/>Great is Your name in Zion, Holy One<br/>I'll always bring my praise to You<br/>I'll always bring my praise to You<br/>I'll always bring my praise to You, O God</lines>
+    </verse>
+  </lyrics>
+</song>

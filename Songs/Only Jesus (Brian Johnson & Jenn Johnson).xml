@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Only Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson &amp; Jenn Johnson</author>
+      <author type="music">Brian Johnson &amp; Jenn Johnson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4114"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're my D♭constant in the E♭chaFmos<br/>You're my D♭compass when the E♭road is Fmlong<br/>You're my D♭portion, never E♭faiFmling<br/>For D♭me, only E♭JesA♭us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>FmLet my heartD♭ want for nothiA♭ng but You,E♭ /Gjust You<br/>FmLet my heartD♭ want for nothiA♭ng but You,E♭ /Gjust You<br/>FmThe riches D♭of this world,A♭ could neverE♭ /Gsatisfy<br/>FmLet my heartD♭ want for onlyA♭ You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verse 2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You're my D♭center should I E♭wanFmder<br/>You're my D♭future and You reE♭deem my Fmpast<br/>Every D♭moment and then fE♭oreFmver<br/>For D♭me, only E♭JesA♭us<br/>For D♭me, only E♭JesA♭us</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bridge</lines>
+    </verse>
+    <verse name="v8">
+      <lines>For D♭me, for me, only Jesus<br/>For Fmme, for me, only Jesus</lines>
+    </verse>
+    <verse name="v9">
+      <lines>For Fmme, for me, for E♭me (last time)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>I Can Only Imagine</title>
+    </titles>
+    <copyright>2001 Simpleville Music</copyright>
+    <authors>
+      <author type="words">MercyMe</author>
+      <author type="music">MercyMe</author>
+      <author type="words">Bart Millard</author>
+      <author type="music">Bart Millard</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3304"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>hope</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+      <theme>grace</theme>
+      <theme>teaching</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can only imagine what it will be like when I walk by your side.<br/>I can only imagine what my eyes will see when Your face is before me.<br/>I can only imagine. I can only imagine.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Surrounded by Your glory, what will my heart feel?<br/>Will I dance for You Jesus or in awe of You be still?<br/>Will I stand in Your presence or to my knees will I fall?<br/>Will I sing hallelujah, will I be able to speak at all?<br/>I can only imagine. I can only imagine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can only imagine when that day comes and I find myself standing in the Son.<br/>I can only imagine when all I will do is forever, forever worship You.<br/>I can only imagine. I can only imagine.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I can only imagine. I can only imagine.</lines>
+    </verse>
+  </lyrics>
+</song>

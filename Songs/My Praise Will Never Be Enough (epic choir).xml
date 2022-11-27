@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-08T09:37:17">
+  <properties>
+    <titles>
+      <title>My Praise Will Never Be Enough</title>
+    </titles>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>My praise will never be enough<br/>My worship is more than just a song<br/>You love me more than I deserve<br/>More than I deserve</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I’ll praise you till the end of days<br/>I’ll praise you<br/>I’ll sing and shout your name<br/>You love me more than I deserve<br/>More than I deserve</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ope mi koito<br/>Ojojumo ni wo ma dupe<br/>Eje ka yin Olorun logo<br/>Yin olorun logo<br/>Seni ma dupe</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I dey wonder why you love me so<br/>Tell me why why you never let me go<br/>Still you love me more than I deserve<br/>More than I deserve</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Your word is written in my heart<br/>Your song is flowing from my mouth<br/>And I'll praise you no matter what they say <br/>I'll praise you everyday</lines>
+    </verse>
+  </lyrics>
+</song>

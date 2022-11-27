@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>There Is a Day</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a day that all creation's waiting for,<br/>A day of freedom and liberation for the earth.<br/>And on that day<br/>The Lord will come to meet His bride,<br/>And when we see Him<br/>In an instant we'll be changed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The trumpet sounds<br/>And the dead will then be raised<br/>By His power never to perish again.<br/>Once only flesh,<br/>Now clothed with immortality;<br/>Death has now been swallowed up in victory.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We will meet Him in the air<br/>And then we will be like Him,<br/>For we will see Him, as He is, Oh yeah!<br/>Then all hurt and pain will cease,<br/>And we'll be with Him forever,<br/>And in His glory we will live,<br/>Oh yeah, oh yeah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So lift your eyes,<br/>To the things as yet unseen,<br/>That will remain now,for all eternity,<br/>Though troubles hard,<br/>It's only momentary,<br/>And its achieving,our future glory.</lines>
+    </verse>
+  </lyrics>
+</song>

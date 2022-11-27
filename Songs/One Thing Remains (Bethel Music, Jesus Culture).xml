@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>One Thing Remains</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Higher than the mountains that I face<br/>Stronger than the power of the grave<br/>Constant through the trial and the change<br/>One thing remains</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Your love never fails, never gives up<br/>Never runs out on me  //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On and on and on and on it goes<br/>It overwhelms and satisfies my soul<br/>And I never, ever, have to be afraid<br/>One thing re-mains<br/>One thing re-mains</lines>
+    </verse>
+    <verse name="b1">
+      <lines>In death, In life, I'm confident and<br/>covered by the power of Your great love<br/>My debt is paid<br/>There's nothing that can<br/>separate my heart<br/>from Your great love</lines>
+    </verse>
+    <verse name="v3">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

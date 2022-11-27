@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Hark the Glad Sound</title>
+    </titles>
+    <authors>
+      <author>Philip Doddridge</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark the glad sound! The Saviour comes,<br/>The Saviour promised long;<br/>Let every heart prepare a throne,<br/>And every voice a song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He comes the prisoners to release,<br/>In Satan’s bondage held;<br/>The gates of brass before Him burst,<br/>The iron fetters yield.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He comes the broken heart to bind,<br/>The bleeding soul to cure,<br/>And with the treasures of His grace<br/>To enrich the humble poor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Our glad hosannas, Prince of Peace,<br/>Thy welcome shall proclaim;<br/>And heaven’s eternal arches ring<br/>With Thy beloved name.</lines>
+    </verse>
+  </lyrics>
+</song>

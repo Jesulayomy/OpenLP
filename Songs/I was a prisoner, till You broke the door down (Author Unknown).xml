@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>I was a prisoner, till You broke the door down</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6294"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was a prisoner, till You broke the door down<br/>You freed me, oh, You freed me<br/>I was in darkness, till You turned the lights on<br/>You found me, first, You found me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was lifeless, till You laid Your life down<br/>You loved me, first, You loved me<br/>Yeah, I was joyless, till You put Your song in me<br/>Now I'm singing, always singing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're all that I want, You're all that I've ever needed<br/>This unthinkable love poured out on me It's overwhelming</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No longer broken, You picked up the pieces<br/>You healed me, oh, You healed me<br/>And I can't be quiet, Your Spirit is alive in me<br/>Now I'm singing, always singing</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You're all that I want, You're all that I've ever needed<br/>This unthinkable love poured out on me It's overwhelming</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'm wide awake, wide awake in wonder<br/>I can't escape, can't escape Your great love<br/>I'm wide awake, wide awake in Your presence<br/>It's overwhelming, it's overwhelming</lines>
+    </verse>
+    <verse name="c3">
+      <lines>You're all that I want, all that I've ever needed<br/>This unthinkable love poured out on me It's overwhelming<br/>You're all that I want You're all that I've ever needed<br/>This unthinkable love poured out on me It's overwhelming</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You take this heart of stone and make it beat again<br/>You take my dry bones and breathe Your life in<br/>You take this heart of stone and make it beat again<br/>You take my dry bones and breathe Your life in<br/>You take this heart of stone and make it beat again<br/>You take my dry bones and breathe Your life in<br/>It's overwhelming</lines>
+    </verse>
+  </lyrics>
+</song>

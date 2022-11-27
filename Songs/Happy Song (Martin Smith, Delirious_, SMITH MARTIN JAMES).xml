@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Happy Song</title>
+    </titles>
+    <copyright>1994 Curious? Music UK</copyright>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+      <author type="words">Delirious?</author>
+      <author type="music">Delirious?</author>
+      <author type="words">SMITH MARTIN JAMES</author>
+      <author type="music">SMITH MARTIN JAMES</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Oh, I could sing unending songs<br/>Of how You saved my soul.<br/>Well, I could dance a thousand miles<br/>Because of Your great love.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>My heart is bursting, Lord,<br/>To tell of all You've done:<br/>Of how You changed my life and wiped away the past.<br/>I wanna shout it out,<br/>From every rooftop sing,<br/>For now I know that God is for me not against me.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Everybody's singing now<br/>'cause we're so happy.<br/>Everybody's dancing now<br/>'cause we're so happy.<br/>If only we could see Your face<br/>And see You smile over us,<br/>And unseen angels celebrate<br/>For joy is in this place!</lines>
+    </verse>
+  </lyrics>
+</song>

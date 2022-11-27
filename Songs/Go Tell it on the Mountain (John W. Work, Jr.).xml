@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>Go Tell it on the Mountain</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">John W. Work, Jr.</author>
+      <author type="music">John W. Work, Jr.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>kids</theme>
+      <theme>appeal</theme>
+      <theme>gospel</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Go tell it on the mountain<br/>Over the hills and everywhere<br/>Go tell it on the mountain<br/>That Jesus Christ is born</lines>
+    </verse>
+    <verse name="v1">
+      <lines>While shepherds kept their watching<br/>O'er silent flocks by night<br/>Behold throughout the heavens<br/>There shone a holy light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The shepherds feared and trembled<br/>When lo above the earth<br/>Rang out the angel chorus<br/>That hailed our Savior's birth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Down in a lowly manger<br/>The humble Christ was born<br/>And God sent us salvation<br/>That blessed Christmas morn</lines>
+    </verse>
+  </lyrics>
+</song>

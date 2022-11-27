@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>He loves you</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He set you free<br/>So you could see<br/>How much He loves you<br/>Just take a look<br/>It's in His book<br/>How much He loves you<br/>His Word reveals<br/>All that He feels<br/>He spelled it out<br/>Never a doubt</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He loves you<br/>Just because He loves you<br/>Just because He loves you<br/>He loves you<br/>Just because He loves you<br/>Just because He loves you<br/>There's nothing you can do to<br/>make Him love you more<br/>There's nothing you can do to<br/>make Him love you less<br/>He loves you<br/>Just because He loves you<br/>Just because He loves you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once we were lost<br/>Needing the cross<br/>Needing a Savior<br/>He came to earth<br/>A humble birth<br/>Born in a manger<br/>His words were truth<br/>His life was proof<br/>He was God's Son<br/>Sent for each one</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Give Me Faith</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4915"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need You<br/>To soften my heart and break me apart<br/>I need You<br/>To open my eyes, to see that You're shaping my life</lines>
+    </verse>
+    <verse name="p1">
+      <lines>All I am, I surrender</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Give me faith to trust what You say,<br/>That You're good and Your love is great<br/>I'm broken inside, I give You my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need You<br/>To soften my heart and break me apart<br/>I need You<br/>To pierce through the dark and cleanse every part of me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I may be weak but Your Spirit's strong in me<br/>My flesh may fail, but my God, You never will</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>The Bridegroom Soon Will Call Us</title>
+    </titles>
+    <authors>
+      <author type="music">Praetorius, Michael (1571-1621)</author>
+      <author type="words">Walther, Johann (1496-1570)</author>
+      <author type="translate">Loy, Matthias (1828-1915)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Bridegroom soon will call us, Come, all ye wedding guests! May not His voice appall us, While slumber binds our breasts; May all our lamps be burning, And oil be found in store, That we, with Him returning, May open find the door.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There shall we see delighted Our dear Redeemer's face, Who leads our souls benighted To glory by His grace; The patriarchs shall meet us, The prophets' holy band, Apostles, martyrs, greet us In that celestial land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>They will not blush to own us As brothers, sisters dear, Love ever will be shown us When we with them appear; We all shall come before Him, Who for us Man became, As Lord and God adore Him, And ever bless His Name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Our Father, rich in blessing, Will give us crowns of gold And, to His bosom pressing, Impart a bliss untold, Will welcome with embraces Of never ending love, And deck us with His graces In blissful realms above.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In yonder home shall never Be silent music's voice; With hearts and lips forever We shall in God rejoice; The angels shall adore Him, All saints shall sing His praise, And bring with joy before Him Their sweetest heav'nly lays.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In mansions fair and spacious Will God the feast prepare,<br/>And ever kind and gracious, Bid us its riches share;<br/>There bliss that knows no measure From springs of love shall flow,<br/>And never changing pleasure His bounty will bestow.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Thus God shall from all evil Forever make us free,<br/>From sin, and from the devil, From all adversity,<br/>From sickness, pain, and sadness, From troubles, cares, and fears,<br/>And grant us heavenly gladness And wipe away our tears.</lines>
+    </verse>
+  </lyrics>
+</song>

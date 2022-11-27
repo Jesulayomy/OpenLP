@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>On Our Side</title>
+    </titles>
+    <copyright>2004 worshiptogether.com songs | sixsteps Music | Alletrop Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ev'ryone around the world, hear the joyful sound,<br/>See the heavens open up, hear the music coming down.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Nothing's gonna separate us from the Father's love.<br/>I can't help but celebrate 'Cause we're not alone.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>If God is on our side, who can be against us?<br/>If God is on our side, we won't be afraid.<br/>Though the mountains may fall, and the sky will crumble,<br/>There ain't nothin' gonna stand in our way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come one down to the riverside, wash it all away.<br/>Leave behind your troubled mind for an uncloudy day.</lines>
+    </verse>
+  </lyrics>
+</song>

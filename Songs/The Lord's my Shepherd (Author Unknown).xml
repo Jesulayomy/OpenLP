@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>The Lord's my Shepherd</title>
+    </titles>
+    <copyright>Scottish Psalter</copyright>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord's my shepherd I’ll not want;<br/>He makes me down to lie<br/>In pastures green; He leadeth me<br/>The quiet waters by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My soul He doth restore again;<br/>And me to walk doth make<br/>Within the paths of righteousness,<br/>E’en for His own name’s sake.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yea, though I walk in death’s dark vale,<br/>Yet will I fear no ill;<br/>For Thou art with me; and Thy rod<br/>And staff me comfort still.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My table Thou hast furnished<br/>In presence of my foes;<br/>My head Thou dost with oil anoint,<br/>And my cup overflows.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Goodness and mercy all my life<br/>Shall surely follow me;<br/>And in God’s house forever more<br/>My dwelling place shall be.</lines>
+    </verse>
+  </lyrics>
+</song>

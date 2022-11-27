@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Thief</title>
+    </titles>
+    <copyright>1995 Class Reunion Music/Little Big Man Music/ grey dot songs</copyright>
+    <authors>
+      <author type="words">Third Day</author>
+      <author type="music">Third Day</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am a thief, I am a murderer<br/>Walking up this lonely hill.<br/>What have I done? I don't remember.<br/>No one knows just how I feel.<br/>And I know that my time is coming soon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's been so long. Oh, such a long time<br/>Since I've lived with peace and rest.<br/>Now I am here, at my destination.<br/>Guess things work for the best.<br/>And I know that my time is coming soon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is this man? This man beside me<br/>They call the King of the Jews.<br/>They don't believe that he's the Messiah,<br/>But somehow I know that it's true.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And they laugh at Him in mockery<br/>And beat him till He bleeds.<br/>They nail Him to the rugged cross,<br/>And raise Him, they raise him up next to me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My time has come. I'm slowly fading,<br/>But I deserve what I receive.<br/>Jesus, when you are in Your Kingdom<br/>Could You please remember me?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And He looks at me still holding on.<br/>The tears fall from His eyes.<br/>He says, "I tell the truth:<br/>Today, you will be with Me in paradise."</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I know that my time is coming soon.<br/>And I know that my time is coming soon.<br/>And I know that paradise, paradise is coming soon.</lines>
+    </verse>
+  </lyrics>
+</song>

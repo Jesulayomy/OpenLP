@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Shield About Me</title>
+    </titles>
+    <copyright>1980 Spoone Music, Word Music, Inc.</copyright>
+    <authors>
+      <author type="words">Donn Thomas and Charles Williams</author>
+      <author type="music">Donn Thomas and Charles Williams</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou O Lord are a shield about me,<br/>You're my glory, You're the lifter of my head;<br/>Thou O Lord are a shield about me,<br/>You're my glory, You're the lifter of my head.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah, hallelujah, hallelujah,<br/>You're the Lifter of my head.</lines>
+    </verse>
+  </lyrics>
+</song>

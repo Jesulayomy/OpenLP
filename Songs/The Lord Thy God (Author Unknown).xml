@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>The Lord Thy God</title>
+      <title>In The Midst of Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>god-with-us</theme>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>worship</theme>
+      <theme>violin</theme>
+      <theme>gods-holiness</theme>
+      <theme>gods-might</theme>
+      <theme>heaven</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The lord thy God<br/>He's in the midst of thee<br/>He's mighty. So mighty.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// and I saw him. High and lifted up<br/>With power and grace and authority.<br/>And he shall reign. In the midst of thee.<br/>Forever and ever amen //</lines>
+    </verse>
+    <verse name="b1">
+      <lines>ohh yes! he'll wipe every tear from our eyes oh yes!<br/>we'll gather 'round his throne forever yes!<br/>He reigns in the midst of his people.</lines>
+    </verse>
+  </lyrics>
+</song>

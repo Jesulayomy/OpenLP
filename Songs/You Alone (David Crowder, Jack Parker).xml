@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>You Alone</title>
+    </titles>
+    <copyright>1998 worshiptogether.com songs</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+      <author type="words">Jack Parker</author>
+      <author type="music">Jack Parker</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the only One I need.<br/>I bow all of me at Your feet.<br/>I worship You alone.<br/>You have given me more than I<br/>Could ever have wanted and I<br/>Want to give You my heart and my soul.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You alone are Father, and<br/>You alone are good,<br/>You alone are Savior,<br/>You alone are God.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'm alive. I'm alive. I'm alive. I'm alive. (4X)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>May the Mind of Christ my Saviour</title>
+    </titles>
+    <authors>
+      <author>Kate B. Wilkinson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>May the mind of Christ my Saviour<br/>Live in me from day to day,<br/>By His love and power controlling<br/>All I do and say.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May the word  of God dwell richly<br/>In my heart from hour to hour,<br/>So that all may see I triumph<br/>Only through His power.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>May the peace of God my Father<br/>Rule my life in everything,<br/>That I may be calm to comfort<br/>Sick and sorrowing.<br/>   <br/>May the love of Jesus fill me,<br/>As the waters fill the sea;<br/>Him exalting, self abasing,<br/>This is victory.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May I run the race before me,<br/>Strong and brave to face the foe,<br/>Looking only unto Jesus,<br/>As I onward go.</lines>
+    </verse>
+  </lyrics>
+</song>

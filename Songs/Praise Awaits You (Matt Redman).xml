@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Praise Awaits You</title>
+    </titles>
+    <copyright>2004 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise awaits You in this place today O Lord<br/>We are gathered ready God to sing Your praise</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ready to respond to the glories of Your name<br/>To the wonders of Your heart to Your great love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Praise is waiting for You in this place<br/>There's a cry that our spirits will make<br/>As we see Your glory<br/>To Your mercies our souls will awake<br/>And we'll sing till the break of the day<br/>Because You are worthy<br/>Yes Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seasons come and seasons go but You remain<br/>So unchanging all-deserving of our praise</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Praise is waiting for you</lines>
+    </verse>
+  </lyrics>
+</song>

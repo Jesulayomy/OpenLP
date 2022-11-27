@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:52">
+  <properties>
+    <titles>
+      <title>Come and fill this temple</title>
+      <title>Sanctuary</title>
+    </titles>
+    <copyright>1982 Whole Armor Publishing Company | Full Armor Publishing Company</copyright>
+    <authors>
+      <author type="words">John W. Thompson</author>
+      <author type="music">John W. Thompson</author>
+      <author type="words">Randy Scruggs</author>
+      <author type="music">Randy Scruggs</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, prepare me to be a sanctuary,<br/>Pure and holy, tried and true.<br/>With thanksgiving I'll be a living<br/>Sanctuary  for You.</lines>
+    </verse>
+  </lyrics>
+</song>

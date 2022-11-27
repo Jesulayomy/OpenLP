@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>Love Divine</title>
+    </titles>
+    <authors>
+      <author type="music">John Zundel</author>
+      <author type="words">Charles Wesley</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love divine all loves excelling, joy of heaven to earth come down<br/>Fix in us Thy humble dwelling, all Thy faithful mercies crown<br/>Jesus Thou art all compassion, pure unbounded love Thou art<br/>Visit us with Thy salvation, enter every trembling heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Breathe O breathe Thy loving Spirit into every trembling breast<br/>Let us all in thee inherit, let us find thy promised rest<br/>Take away the love of sinning, Alpha and Omega be<br/>End of faith as it's beginning, set our hearts at liberty</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come Almighty to deliver, let us all Thy grace receive<br/>Suddenly return and never, never more Thy temples leave<br/>Thee we would be always blessing, serve Thee as Thy hosts above<br/>Pray and praise Thee without ceasing, glory in Thy perfect love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Finish then Thy new creation, pure and spotless let us be<br/>Let us see our whole salvation, perfectly restored in Thee<br/>Changed from glory into glory, till in heaven we take our place<br/>Till we cast our crowns before Thee, lost in wonder, love, and praise</lines>
+    </verse>
+  </lyrics>
+</song>

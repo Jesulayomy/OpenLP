@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Your Name is Glorious</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1241"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>forgiveness</theme>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>Who is like You<br/>Took the sin of the world<br/>on Your shoulders<br/>You did it so willingly</lines>
+    </verse>
+    <verse name="c1">
+      <lines>1 Pre Chorus:<br/>God the price You paid<br/>will forever be enough<br/>and the life You gave<br/>Yeah, You gave it all for love</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Your name is glorious<br/>we lift You up higher, higher<br/>Come see what God has done<br/>and lift Him up higher, higher</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>Who can fathom<br/>the depths of the seas<br/>and the universe<br/>how far does it reach</lines>
+    </verse>
+    <verse name="c3">
+      <lines>2 Pre Chorus:<br/>Still You spread Your arms<br/>upon the Cross for us<br/>And the life You gave<br/>Yeah, You gave it all for love</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Chorus:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>we will sing, will sing<br/>we will sing over again<br/>we will bring, the highest praise<br/>to the King, sing it again</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Chorus:</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Chorus:</lines>
+    </verse>
+  </lyrics>
+</song>

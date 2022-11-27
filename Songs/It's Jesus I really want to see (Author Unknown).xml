@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:17">
+  <properties>
+    <titles>
+      <title>It's Jesus I really want to see</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have truly known the good life filled with family and friends<br/>I have been blessed with more than my shares<br/>Yet with all of my good fortune<br/>My heart is seeking still<br/>No, I just can't t deny the longing there</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus<br/>It's Jesus I really want to see<br/>The more I see of this world, the less it means to me<br/>For it's Jesus I really want to see</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have been a lot of places<br/>And I have known the great and small<br/>I have seen the grand and noble works of me<br/>But in all of all my heart<br/>I know there's much for me<br/>So much more than this faded world at hand</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus2<br/>It's Jesus I really want to see<br/>The more I see of this world, the less it means to me<br/>For it's Jesus I really want to see</lines>
+    </verse>
+  </lyrics>
+</song>

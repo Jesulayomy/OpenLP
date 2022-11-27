@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:25">
+  <properties>
+    <titles>
+      <title>This is my Father's World</title>
+    </titles>
+    <authors>
+      <author type="music">Terra Beata, English tune</author>
+      <author type="words">Maltbie D. Babcock</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is my Father's world,<br/>And to my listening ears<br/>All nature sings, and round me rings<br/>The music of the spheres.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is my Father's world,<br/>The birds their carols raise,<br/>The morning light, the lily white,<br/>Declare their maker's praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is my Father's world:<br/>He shines in all that's fair;<br/>In the rustling grass I hear Him pass;<br/>He speaks to me everywhere.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is my Father's world.<br/>O let me ne'er forget<br/>That though the wrong<br/>Seems oft so strong,<br/>God is the ruler yet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This is my Father's world,<br/>Should my heart be ever sad?<br/>The lord is King-let the heavens ring.<br/>God reigns-let the earth be glad.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>This is my Father's world:<br/>I rest me in the thought<br/>Of rocks and trees, of skies and seas;<br/>His hand the wonders wrought.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>This is my Father's world:<br/>The battle is not done:<br/>Jesus who died shall be satisfied,<br/>And earth and Heav'n be one.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>This is my Father's world,<br/>Dreaming, I see His face.<br/>I ope my eyes, and in glad surprise<br/>Cry, The Lord is in this place.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>This is my Father's world,<br/>From the shining courts above,<br/>The Beloved One, His Only Son,<br/>Came-a pledge of deathless love.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>This is my Father's world.<br/>Now closer to Heaven bound,<br/>For dear to God is the earth Christ trod.<br/>No place but is holy ground.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>This is my Father's world.<br/>I walk a desert lone.<br/>In a bush ablaze to my wondering gaze<br/>God makes His glory known.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>This is my Father's world,<br/>A wanderer I may roam;<br/>Whate'er my lot, it matters not,<br/>My heart is still at home.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-01T08:34:40">
+  <properties>
+    <titles>
+      <title>Enikan Mbe To Feran Wa</title>
+    </titles>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Enikan mbe to feran wa<br/>A! o fe wa<br/>Ife Re ju ti 'yekan lo<br/>A! o fe wa<br/>Ore aiye nko wa sile<br/>B'oni dun ola le koro<br/>Sugbon Ore yi ko ntan ni<br/>A! o fe wa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Iye ni fun wa ba ba mo <br/>A! o fe wa<br/>Ro b'a ti je ni gbese to <br/>A! o fe wa<br/>Eje Re l'o si fi ra wa <br/>Nin'aginju l'o wa wa ri<br/>O si mu wa wa s'agbo Re<br/>A! o fe wa</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ore ododo ni Jesu<br/>A! o fe wa<br/>O fe lati ma bukun wa <br/>A! o fe wa<br/>Okan wa fe gbo ohun Re<br/>Okan wa fe lati sunmo<br/>On na ko si ni tan wa je<br/>A! o fe wa</lines>
+    </verse>
+    <verse name="v4">
+      <lines>L'oko Re l'a nri 'dariji<br/>A! o fe wa<br/>On o le ota wa sehin<br/>A! o fe wa<br/>On o pese 'bukun fun wa<br/>Ire l'a o ma ri titi<br/>On o fi mu wa lo s'ogo<br/>A! o fe wa</lines>
+    </verse>
+  </lyrics>
+</song>

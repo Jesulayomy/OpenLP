@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>You Saved My Soul</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3491"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the new song arise<br/>From every tongue and tribe<br/>Every mountain high<br/>And every valley</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let our love burn bright<br/>All through the darkest night<br/>Let the flames take flight</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To the one who gave it all to have my heart<br/>And from the very start, He knew every part of me<br/>Who I would be, and how He'd make me to give Him glory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Beautiful one, You saved my soul<br/>You are my everything, You make me whole<br/>What can I give but give my all?<br/>You're so deserving</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So I will love You Lord<br/>With all my heart and soul<br/>All my mind and strength<br/>Just like You told us to and</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are here<br/>Your spirit lives in me<br/>You've opened my eyes to see</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are no more behind a temple wall, You gave Your life for all<br/>Waiting for an open heart to open wide, and You'd come inside<br/>And breathe new life</lines>
+    </verse>
+  </lyrics>
+</song>

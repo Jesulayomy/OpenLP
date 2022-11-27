@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>God gave me a song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>God gave me a song<br/>I will sing for the rest of my life<br/>Jesus is the light<br/>The light of the world<br/>Come let us celebrate him<br/>Lift up your voices and sing<br/>Jesus is the light<br/>The light of the world</lines>
+    </verse>
+    <verse name="v1">
+      <lines>His Love is everlasting<br/>It will never fade away<br/>On Christ the solid rock I stand<br/>With darkness all around me<br/>When no one else could find me<br/>He came my way<br/>And turned my night to day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's Alpha and Omega<br/>The beginning and the end<br/>Everlasting Father, the great I Am<br/>Sing holy holy holy<br/>is our God almighty<br/>All heaven declares<br/>the glory of His name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Bridge)<br/>Celebrate the King<br/>Put all your trust in Him<br/>Celebrate the King<br/>Lift your voice and sing</lines>
+    </verse>
+  </lyrics>
+</song>

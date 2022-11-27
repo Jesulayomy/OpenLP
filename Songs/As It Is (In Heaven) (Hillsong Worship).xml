@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>As It Is (In Heaven)</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2169"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>♩= 63</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE: 1<br/>Whether now or then, death is not my end<br/>I know heaven waits for me<br/>Though the road seems long, I'll never walk alone<br/>And I've got all I need to sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS:<br/>I know You love me, I know You found me<br/>I know You saved me<br/>And Your grace will never fail me<br/>And while I'm waiting, I'm not waiting<br/>I know heaven lives in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE: 2<br/>Should I suffer long, this is not my home<br/>I know heaven waits for me<br/>Though the night is dark, heaven owns my heart<br/>And I've got all I need to sing</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Repeat PRE-CHORUS:</lines>
+    </verse>
+    <verse name="c3">
+      <lines>CHORUS:<br/>So I will sing like I will there<br/>In the fearless light of glory<br/>Where the darkness cannot find me<br/>And Your face is all I see</lines>
+    </verse>
+    <verse name="c4">
+      <lines>CHORUS: cont.<br/>Oh, I will sing like a man<br/>With no sickness in my body<br/>Like no prison walls can hold me<br/>I will sing like I am free</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Repeat PRE CHORUS:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+    <verse name="c6">
+      <lines>Repeat PRE CHORUS:</lines>
+    </verse>
+    <verse name="c7">
+      <lines>Repeat CHORUS:</lines>
+    </verse>
+    <verse name="c8">
+      <lines>Repeat PRE CHORUS:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE: 1<br/>I'll sing holy, holy, my heart cries holy<br/>As it is in heaven, it is in me</lines>
+    </verse>
+    <verse name="b3">
+      <lines>BRIDGE: 2<br/>I'll sing holy, holy, my heart cries holy<br/>As it is in heaven, it is in me</lines>
+    </verse>
+    <verse name="b4">
+      <lines>BRIDGE: 3<br/>We'll sing holy, holy, the earth cries holy<br/>As it is in heaven, so let it be</lines>
+    </verse>
+    <verse name="b5">
+      <lines>Repeat BRIDGE: 3 three times</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>God's not dead, He is alive</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God's not dead, He is alive<br/>God's not dead, He is alive<br/>God's not dead, He is alive<br/>[]<br/>I can feel Him in my hands<br/>I can feel Him in my feet<br/>I can feel Him in my Heart<br/>I can feel Him all over me.</lines>
+    </verse>
+  </lyrics>
+</song>

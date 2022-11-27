@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Only Wanna Sing</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Young &amp; Free</author>
+      <author type="music">Hillsong Young &amp; Free</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4179"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ONLY WANNA SING</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Words and Music by<br/>AODHAN KING, BEN TAN &amp; MICHAEL FATKIN<br/>♩= 130</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 1<br/>This is no performance<br/>Lord I pray it's worship<br/>Empty words I can't afford<br/>I'm not chasing feelings<br/>That's not why I'm singing<br/>You're the reason for my song</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS<br/>I              only want to sing<br/>If I sing with everything<br/>If I sing for You my King, oh<br/>I          can't imagine why<br/>I would do this all for hype<br/>'Cause it's all to lift You high, oh</lines>
+    </verse>
+    <verse name="v5">
+      <lines>INSTRUMENTAL</lines>
+    </verse>
+    <verse name="v6">
+      <lines>VERSE 2<br/>You don't want perfection<br/>Just my soul's attention<br/>All I have is what I'll give<br/>And more than a song that lasts a moment<br/>I'll live a life of honest worship<br/>If I'm here to sing, then I'll sing with purpose<br/>All the praise, Lord, You deserve it</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Repeat CHORUS</lines>
+    </verse>
+    <verse name="v8">
+      <lines>INSTRUMENTAL<br/>| Em | C | G | D/F# N.C. |</lines>
+    </verse>
+    <verse name="v9">
+      <lines>FINAL CHORUS<br/>And I          only want to sing<br/>If I sing with everything<br/>If I sing for You my King, oh</lines>
+    </verse>
+  </lyrics>
+</song>

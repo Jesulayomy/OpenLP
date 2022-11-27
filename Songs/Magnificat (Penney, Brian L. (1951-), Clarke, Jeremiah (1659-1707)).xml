@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Magnificat</title>
+    </titles>
+    <authors>
+      <author type="music">Clarke, Jeremiah (1659-1707)</author>
+      <author type="words">Penney, Brian L. (1951-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My soul shall magnify the Lord, And with my spirit I rejoice; My Savior has regard for me, He hears His lowly servant's voice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold, I am forever blessed, For God has done great things for me; His mercy rests on those who fear, Who honor His Name most holy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord has shown His mighty arm, Those proud in heart He shall put down; The haughty from their thrones removed, The lowly have God's blessing found.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The hungry with good things are filled, They see God's kindness ev'ry day; But on the rich no blessing rests, With empty hands they're sent away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The Lord helps His beloved ones, In mercy He His cov'nant keeps; Just as He promised long ago, to Abraham, and to his Seed.</lines>
+    </verse>
+  </lyrics>
+</song>

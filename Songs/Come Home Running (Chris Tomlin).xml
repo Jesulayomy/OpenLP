@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Come Home Running</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh heart of mine why must you stray?<br/>From One so fair you run away<br/>And one more time you have to pay<br/>The heaviness of needless shame<br/>Oh heart of mine come back home<br/>You've been too long out on your own<br/>And He's been there all along<br/>Watching for you down the road</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So come home running<br/>His arms are open wide<br/>His name is Jesus and He understands<br/>He is the answer you are looking for<br/>So come home running just as you are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh child of God so dearly loved<br/>And ransomed by the saviour's blood<br/>Called by name, daughter and son<br/>Wrapped in the robe of righteousness<br/>So come home running<br/>His arms are open wide<br/>His name is Jesus and He understands<br/>He is the answer you are looking for<br/>So come home running just as you are</lines>
+    </verse>
+    <verse name="c2">
+      <lines>So come home running<br/>His arms are open wide<br/>His name is Jesus and He understands<br/>He is the answer you are looking for<br/>So come home running just as you are<br/>Just as you are</lines>
+    </verse>
+  </lyrics>
+</song>

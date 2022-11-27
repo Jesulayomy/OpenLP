@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Lord I Come Before Your Throne of Grace</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I come before Your throne of grace;<br/>I find rest in Your presence, and fullness of joy.<br/>In worship and wonder I behold Your face,<br/>Singing what a faithful God have I.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What a faithful God have I,<br/>What a faithful God.<br/>What a faithful God have I,<br/>Faithful in every way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord of mercy, You have heard my cry;<br/>Through the storm You're the beacon,<br/>My song in the night.<br/>In the shelter of Your wings,<br/>Hear my heart's reply,<br/>Singing what a faithful God have I.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord all sov'reign, granting peace from heav'n,<br/>Let me comfort those who suffer<br/>With the comfort You have given.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will tell of Your great love<br/>For as long as I live,<br/>Singing what a faithful God have I.</lines>
+    </verse>
+  </lyrics>
+</song>

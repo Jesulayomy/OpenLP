@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>I will sing the wondrous story/Rowland H. Prichard</title>
+    </titles>
+    <authors>
+      <author type="words">Francis H. Rowley</author>
+      <author type="music">Rowland H Prichard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing the wondrous story<br/>Of the Christ who died for me.<br/>How He left His home in glory<br/>For the cross of Calvary.<br/>I was lost, but Jesus found me,<br/>Found the sheep that went astray,<br/>Threw His loving arms around me,<br/>Drew me back into His way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was bruised, but Jesus healed me;<br/>Faint was I from many a fall;<br/>Sight was gone, and fears possessed me,<br/>But He freed me from them all.<br/>Days of darkness still come o'er me,<br/>Sorrow's paths I often tread,<br/>But the Savior still is with me;<br/>By His hand I'm safely led.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He will keep me till the river<br/>Rolls its waters at my feet;<br/>Then He'll bear me safely over,<br/>Where the loved ones I shall meet.<br/>Yes, I'll sing the wondrous story<br/>Of the Christ who died for me,<br/>Sing it with the saints in glory,<br/>Gathered by the crystal sea.</lines>
+    </verse>
+  </lyrics>
+</song>

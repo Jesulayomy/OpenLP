@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Here With You</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1412"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>HERE WITH YOU</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Words and Music by<br/>JOSHUA GRIMMETT, JOHANNES SHORE &amp; JAMIE SNELL<br/>♩= 64</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 1:<br/>When sunlight breaks<br/>And the day has just begun<br/>In the still I wait for Your voice<br/>To lead me on<br/>Dm7          F                  C      Gadd<br/>Eternity residing in my soul<br/>I'll follow You 'til the<br/>Day You call me home</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CHORUS 1<br/>Here now with You<br/>I have heaven in me<br/>Everything's changed<br/>And I will never be without You<br/>Without You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>VERSE 2<br/>From the dust I'm made<br/>With Your calling on my life<br/>And Your plan weaved into<br/>The fabric of my heart<br/>Eternity residing in my soul<br/>I lift my eyes to<br/>The One who gave it all<br/>I lift my eyes to<br/>The One who gave it all</lines>
+    </verse>
+    <verse name="v6">
+      <lines>CHORUS 2<br/>Here now with You<br/>I have heaven with me<br/>Everything's changed<br/>And I will never be without You<br/>Always with You<br/>Through Your Spirit in me<br/>Everything's changed<br/>And I will never be without You<br/>Without You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>INSTRUMENTAL</lines>
+    </verse>
+    <verse name="v8">
+      <lines>BRIDGE<br/>You see me in the fire<br/>Reaching out with open hands<br/>You find me on my knees<br/>And fill me with Your peace again<br/>Forever I am loved<br/>Your freedom reigns in me<br/>Forever You are Lord my everything</lines>
+    </verse>
+  </lyrics>
+</song>

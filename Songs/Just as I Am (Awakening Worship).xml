@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Just as I Am</title>
+    </titles>
+    <authors>
+      <author type="words">Awakening Worship</author>
+      <author type="music">Awakening Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1447"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Just as I am without one plea<br/>But that thy blood was shed for me<br/>And that thou bid me come to thee<br/>O Lamb of God I come I come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Just as I am and waiting not<br/>To rid my soul of one dark blot<br/>To thee whose blood can cleanse each spot<br/>O Lamb of God I come I come</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>O Lamb of God I come I come<br/>O Lamb of God I come I come<br/>O Lamb of God I come I come<br/>I come I come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 3<br/>Just as I am thou will receive<br/>To welcome, pardon, cleanse, relieve<br/>Because thy promise I believe<br/>O Lamb of God I come I come</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Lamb of God I come I come I come</lines>
+    </verse>
+  </lyrics>
+</song>

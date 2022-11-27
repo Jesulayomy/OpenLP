@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>We Are Hungry</title>
+    </titles>
+    <copyright>1999 Brad Kilman Publishing</copyright>
+    <authors>
+      <author type="words">Brad Kilman</author>
+      <author type="music">Brad Kilman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I want more of You<br/>Living Water, rain down on me<br/>Lord, I need more of You<br/>Living Breath of life come fill me up</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We are hungry, we are hungry<br/>We are hungry for more of You<br/>We are thirsty, oh Jesus<br/>We are thirsty for more of You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I want more of You<br/>Holy Spirit rain down on me<br/>Lord, I need more of You<br/>Living Breath of life come fill me up</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We lift our holy hands up<br/>We want to touch You<br/>We lift our voices higher<br/>And higher to You</lines>
+    </verse>
+  </lyrics>
+</song>

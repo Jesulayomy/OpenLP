@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>As I Kneel Before You</title>
+      <title>Ave Maria</title>
+    </titles>
+    <authors>
+      <author type="words">Maria Parkinson</author>
+      <author type="music">Maria Parkinson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I kneel before you,<br/>As I bow my head in prayer,<br/>Take this day, make it yours<br/>and fill me with your love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ave Maria,<br/>Gratia plena,<br/>Dominus tecum,<br/>Benedicta tu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All I have I give you,<br/>Every dream and wish are yours,<br/>Mother of Christ,<br/>Mother of mine, present them to my Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I kneel before you,<br/>And I see your smiling face,<br/>Ev'ry thought, ev'ry word<br/>Is lost in your embrace.</lines>
+    </verse>
+  </lyrics>
+</song>

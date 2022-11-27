@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>The Glory of It All</title>
+    </titles>
+    <copyright>2007 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="b1">
+      <lines>And after night, comes a light;<br/>Dawn is here, dawn is here.<br/>It's a new day, a new day.<br/>Oh, ev'rything will change, things will never be the same.<br/>We will never be the same. We will never be the same.<br/>We will never be the same. We will never be the same.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, the glory of it all is You are here<br/>For the rescue of us all, that we may live.<br/>For the glory of it all, oh, You are here<br/>With redemption for us all, that we may live,<br/>For the glory of it all, oh, the glory of it all,<br/>The glory of it all, oh, the glory of it all.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Oh, ev'rything will change, things will never be the same.<br/>We will never be the same. We will never be the same.<br/>We will never be the same. We will never be the same.<br/>We will never be the same. We will never be the same.</lines>
+    </verse>
+  </lyrics>
+</song>

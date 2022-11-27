@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:35">
+  <properties>
+    <titles>
+      <title>Just Be Held</title>
+    </titles>
+    <authors>
+      <author type="words">Casting Crowns</author>
+      <author type="music">Casting Crowns</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="652"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hold it all together, everybody needs you strong,<br/>But life hits you out of nowhere and barely leaves you holding on<br/>And when you're tired of fighting, chained by your control<br/>There's freedom in surrender, lay it down and let it go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus<br/>So when you're on your knees and answers seem so far away,<br/>You're not alone, stop holding on, and just be held,<br/>Your world's not falling apart, it's falling into place<br/>I'm on the throne, stop holding on, and just be held<br/>Just be held<br/>Just be held</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If your eyes are on the storm, you'll wonder if I love you still<br/>But if your eyes are on the cross, you know I always have and I always will<br/>And not a tear is wasted, in time you'll understand<br/>I'm painting beauty with the ashes, your life is in My hands</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Repeat Chorus 1x</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bridge<br/>Lift your hands, lift your eyes, in the storm is where you'll find Me<br/>And where you are, I'll hold your heart, I'll hold your heart<br/>Come to Me, find your rest,<br/>In the arms of the God who won't let go</lines>
+    </verse>
+  </lyrics>
+</song>

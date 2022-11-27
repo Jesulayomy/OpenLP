@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>We Gather Together</title>
+    </titles>
+    <authors>
+      <author type="music">Dutch</author>
+      <author type="words">unknown</author>
+      <author type="translate">Baker, Theodore (1851-1934)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We gather together to ask the Lord's blessing; He chastens and hastens His will to make known. The wicked oppressing now cease from distressing. Sing praises to His Name; He forgets not His own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beside us to guide us, our God with us joining, Ordaining, maintaining His kingdom divine; So from the beginning the fight we were winning; Thou, Lord, were at our side, all glory be Thine!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We all do extol Thee, Thou Leader triumphant, And pray that Thou still our Defender will be. Let Thy congregation escape tribulation; Thy Name be ever praised! O Lord, make us free!</lines>
+    </verse>
+  </lyrics>
+</song>

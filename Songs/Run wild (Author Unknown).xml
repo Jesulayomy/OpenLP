@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>Run wild</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6449"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Run wild, live free love strong</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are the walls to lock you in or to keep others away<br/>And if the doors were to be opened would you leave or would you stay<br/>The comfort of your misery you cherish dearly, you cherish dearly<br/>And you haven't started dreaming 'cause you're still fast asleep, you're fast asleep</lines>
+    </verse>
+    <verse name="p1">
+      <lines>But don't you want to<br/>Run wild, live free<br/>Love strong, you and me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're a lion full of power who forgot how to roar<br/>You're an eagle full of beauty but you can't seem to soar<br/>Will you return to the garden where we were first made whole<br/>Will you turn to the one who can liberate your soul</lines>
+    </verse>
+    <verse name="p2">
+      <lines>But don't you want to<br/>Run wild, live free<br/>Love strong, you and me<br/>Run wild, live free<br/>Love strong</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To every soul locked in a cage<br/>In the prison of your past mistakes<br/>No, there's no time left to waste<br/>Yeah, you can make your great escape<br/>We're made to run wild, run wild, run wild<br/>We're made to run wild, run wild, run wild</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Run, Forrest, all depends what direction<br/>Some people run from fear, some from their own reflection<br/>Some people run their mouth, some people run their house<br/>Ruling with the heart of a tyrant<br/>Some people run their block, bust shot with a 4-4-5 and<br/>That's the environment, how we were raised<br/>Living like lions but trapped in a cage<br/>Back to Imago Dei with the blood of a king but the heart of a slave<br/>Don't you wanna run</lines>
+    </verse>
+    <verse name="c2">
+      <lines>PreRun wild, live free<br/>Love strong, you and me<br/>Run wild, live free<br/>Love strong</lines>
+    </verse>
+    <verse name="c3">
+      <lines>We're made to run wild, run wild, run wild<br/>We're made to run wild, run wild, run wild</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If your soul's locked in a cage<br/>You can make a great escape<br/>We're made to run wild, live free<br/>Love strong, you and me</lines>
+    </verse>
+  </lyrics>
+</song>

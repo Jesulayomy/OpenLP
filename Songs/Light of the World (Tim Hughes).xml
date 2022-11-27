@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Light of the World</title>
+      <title>Here I am to Worship</title>
+    </titles>
+    <copyright>2000 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Tim Hughes</author>
+      <author type="music">Tim Hughes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>church</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Light of the world, You stepped down into darkness,<br/>Opened my eyes, let me see;<br/>Beauty that made this heart adore You,<br/>Hope of a life spent with You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Here I am to worship, here I am to bow down,<br/>Here I am to say that You're my God;<br/>You're altogether lovely, altogether worthy,<br/>Altogether wonderful to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King of all days, oh so highly exalted,<br/>Glorious in Heaven above;<br/>Humbly You came to the earth You created,<br/>All for love's sake became poor.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>(And) I'll never know how much it cost</lines>
+    </verse>
+    <verse name="b2">
+      <lines>To see my sin upon that cross.</lines>
+    </verse>
+  </lyrics>
+</song>

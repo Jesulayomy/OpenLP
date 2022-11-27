@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-03T17:00:30">
+  <properties>
+    <titles>
+      <title>Hymn 142 - My Hope Is Built On Nothing Less</title>
+      <title>The Solid Rock</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My hope is built on nothing less than Jesus' blood and righteousness;<br/>I dare not trust the sweetest frame, but wholly lean on Jesus' name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When darkness veils His lovely face, I rest on His unchanging grace.<br/>In every high and stormy gale, my anchor holds within the veil.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His oath, His covenant, His blood<br/>support me in the whelming flood;<br/>When all around my soul gives way, He then is all my hope and stay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When He shall come with trumpet sound, O may I then in Him be found;<br/>Dressed in His righteousness alone, faultless to stand before the throne.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On Christ, the solid rock I stand;<br/>All other ground is sinking sand,<br/>All other ground is sinking sand.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>May Your Wonders Never Cease</title>
+    </titles>
+    <copyright>2003 Consuming Fire Music</copyright>
+    <authors>
+      <author type="words">Mac Powell</author>
+      <author type="music">Mac Powell</author>
+      <author type="words">Brad Avery</author>
+      <author type="music">Brad Avery</author>
+      <author type="words">David Carr</author>
+      <author type="music">David Carr</author>
+      <author type="words">Mark Lee</author>
+      <author type="music">Mark Lee</author>
+      <author type="words">Tai Anderson</author>
+      <author type="music">Tai Anderson</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father in Heaven,<br/>Lord, may Your name be glorified<br/>Above all others, above all this world,<br/>Above everything else in our lives.<br/>For nothing else in all of this world matters<br/>But to live our lives for You and You alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beautiful Savior,<br/>Truly we praise Your love for us.<br/>While we were sinners, in all our weakness,<br/>Still You gave Your life on the cross.<br/>You saved us, Lord, from all of our transgressions<br/>And delivered us into Your loving arms.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>May Your wonders never cease,<br/>May Your Spirit never leave,<br/>May we ever long to see Your face.<br/>And when we turn from You again,<br/>Oh how quickly we forget,<br/>May we be reminded of Your grace.<br/>May Your wonders never cease.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Waterfall</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3589"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse 1]<br/>Oh God, my God I seek You<br/>I wanna move when You move<br/>You're more than I could long for<br/>I thirst for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Chorus]<br/>You're an ocean to my soul<br/>To my soul<br/>Your love is like a waterfall, waterfall<br/>Running wild and free<br/>You hear my heart when I call, when I call<br/>Deep calls, too deep<br/>Your love is like a waterfall, waterfall<br/>Raining down on me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Verse 2]<br/>Waterfall, waterfall<br/>Oh God, my God I seek You<br/>In this dry and desert land<br/>You lead me to streams of mercy<br/>Once again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Chorus]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Bridge]<br/>Waterfall, waterfall<br/>It's coming like a flood<br/>I'm dancing in the rain<br/>Everything I've done<br/>Is covered in rivers of grace, amazing<br/>It's coming like a flood<br/>I'm dancing in the rain<br/>I lift up my hands<br/>Your love never changes, amazing</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Ah Lord God</title>
+    </titles>
+    <authors>
+      <author type="words">Kay Chance</author>
+      <author type="music">Kay Chance</author>
+    </authors>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ah Lord God, Thou hast made the heavens<br/>and the earth by Thy great power;<br/>Ah Lord God, Thou hast made the heavens<br/>and the earth by Thine outstretched arm.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nothing is too difficult for Thee,<br/>nothing is too difficult for Thee;<br/>O, great and mighty God,<br/>great in power and mighty in deed,<br/>nothing, nothing, absolutely nothing,<br/>nothing is too difficult for Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

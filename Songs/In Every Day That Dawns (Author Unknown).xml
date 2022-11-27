@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>In Every Day That Dawns</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In every day that dawns,<br/>I see the light of Your splendour around me;<br/>And everywhere I turn,<br/>I know the gift of Your favour upon me.<br/>What can I do but give You glory, Lord?<br/>Everything good has come from You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm grateful for the air I breathe,<br/>I'm so thankful for this life I live,<br/>For the mercies that You pour on me,<br/>And the blessings that meet every need.<br/>And the grace that is changing me<br/>From a hopeless case to a child that's free,<br/>Free to give You praise, for in everything<br/>I know You love me. I know You love me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through all that I have known,<br/>I have been held in the shelter of Your hand;<br/>And as my life unfolds,<br/>You are revealing the wisdom<br/>Of Your sovereign plan.<br/>There are no shadows in Your faithfulness,<br/>There are no limits to Your love.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>I Am Yours</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4882"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see Your fingerprints,<br/>the work of Your hands it's all in Your hands<br/>I see the evidence,<br/>leaving nothing to chance,<br/>the world's in Your hands<br/>So I rest in Your promises,<br/>Now I am sure of this I'm Yours</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let the waters rise,<br/>I will stand as the oceans roar<br/>Let the earth shake beneath me,<br/>let the mountains fall<br/>You are God over the storm and<br/>I am Yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I hear the voice of love, Calling me home,<br/>To where I belong<br/>It cripples every fear,<br/>And the ones who will kneel,<br/>Will walk away healed<br/>So I rest in Your promises,<br/>Now I am sure of this I'm Yours<br/>No power is strong enough<br/>To separate me from Your love I'm Yours</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Even the thunder and the wind obey,<br/>at the command of my Father Father<br/>I set my feet upon Your<br/>mighty Name, so let the rain fall harder harder<br/>So take my everything, my flesh and blood<br/>I'll lay me down on the altar, altar<br/>I am forever covered in Your love,<br/>So let the rain fall hard</lines>
+    </verse>
+  </lyrics>
+</song>

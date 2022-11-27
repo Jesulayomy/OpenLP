@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>I Will Serve No Foreign God</title>
+    </titles>
+    <authors>
+      <author type="words">Andre Kempen</author>
+      <author type="music">Andre Kempen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lift my hands<br/>To the coming king<br/>To the great I am<br/>To you I sing<br/>For you're the one<br/>Who reigns within my heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will serve no foreign God<br/>Or any other treasure<br/>You are my hearts desire<br/>Spirit without measure<br/>Unto your name<br/>I will raise, my sacrifice</lines>
+    </verse>
+  </lyrics>
+</song>

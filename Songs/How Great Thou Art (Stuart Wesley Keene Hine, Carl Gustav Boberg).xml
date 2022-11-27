@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>How Great Thou Art</title>
+      <title>O Lord My God</title>
+    </titles>
+    <copyright>1953 Stuart K. Hine, Renewed 1981 Manna Music, Inc.</copyright>
+    <authors>
+      <author type="words">Stuart Wesley Keene Hine</author>
+      <author type="music">Stuart Wesley Keene Hine</author>
+      <author type="words">Carl Gustav Boberg</author>
+      <author type="music">Carl Gustav Boberg</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>hymn</theme>
+      <theme>love</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>salvation</theme>
+      <theme>crucifixion</theme>
+      <theme>forgiveness</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>devotion</theme>
+      <theme>grace</theme>
+      <theme>holy-spirit</theme>
+      <theme>sacrifice</theme>
+      <theme>creation</theme>
+      <theme>light</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord my God, when I in awesome wonder<br/>Consider all the works Thy hands have made;<br/>I see the stars, I hear the rolling thunder:<br/>Thy pow'r throughout the universe displayed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When through the woods, and forest glades I wander,<br/>And hear the birds sing sweetly in the trees;<br/>When I look down from lofty mountain grandeur,<br/>And hear the brook and feel the gentle breeze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when I think that God, His Son not sparing<br/>Sent Him to die, I scarce can take it in;<br/>That on the cross, my burden gladly bearing,<br/>He bled and died to take away my sin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When Christ shall come with shout of acclamation<br/>And take me home, what joy shall fill my heart;<br/>Then I shall bow in humble adoration,<br/>And there proclaim my God how great Thou art!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Then sings my soul my Savior God to Thee,<br/>How great Thou art, how great Thou art;<br/>Then sings my soul my Savior God to Thee,<br/>How great Thou art, how great Thou art.</lines>
+    </verse>
+  </lyrics>
+</song>

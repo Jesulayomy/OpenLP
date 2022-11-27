@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>Let Me nov Wander</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Ogden</author>
+      <author type="music">Jonathan Ogden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3780"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>With my whole heart i have sought You<br/>With my whole heart<br/>With my whole heart i have sought You<br/>With my whole heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Let me not wander from Your commandments<br/>Let me not wander from Your word<br/>For Your word I've hidden in my heart<br/>That I might not sin against You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Blessed are You Lord in all of Your ways<br/>I open up my mouth, declare Your praise<br/>I will meditate on Your word and I will not forget<br/>I will not forget  Your promises to me</lines>
+    </verse>
+  </lyrics>
+</song>

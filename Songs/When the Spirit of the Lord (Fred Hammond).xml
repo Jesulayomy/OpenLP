@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>When the Spirit of the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Fred Hammond</author>
+      <author type="music">Fred Hammond</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>jewish</theme>
+      <theme>prayer</theme>
+      <theme>meditation</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the Spirit of the Lord comes upon my heart<br/>I will dance like David danced<br/>When the Spirit of the Lord comes upon my heart<br/>I will dance like David danced</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will dance, dance, dance like David danced<br/>I will dance, dance, dance like David danced</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the Spirit of the Lord comes upon my heart<br/>I will pray like David prayed<br/>When the Spirit of the Lord comes upon my heart<br/>I will pray like David prayed</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I will pray, pray, pray like David prayed<br/>I will pray, pray, pray like David prayed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the Spirit of the Lord comes upon my heart<br/>I will sing like David sang<br/>When the Spirit of the Lord comes upon my heart<br/>I will sing like David sang</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I will sing, I will sing, sing like David sang<br/>I will sing, I will sing, sing like David sang<br/>I will pray, I will pray, pray like David prayed<br/>I will pray, I will pray, pray like David prayed<br/>I will dance, I will dance, dance like David danced<br/>I will dance, I will dance, dance like David danced</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>O God of Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O God of love, I come to You again,<br/>Knowing I'll find mercy.<br/>I can't explain all the things I see,<br/>But I'll trust in You.<br/>In every moment You are there,<br/>Watching over You hear my prayer.<br/>You go before me, You're behind me,<br/>Nothing's hidden from You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How good it is to be loved by You,<br/>How good it is.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O God of strength,<br/>Your hand is on my life,<br/>Bringing peace to me.<br/>You know my frame,<br/>You know how I am made,<br/>You planned all my days.<br/>Hand of mercy, hand of love,<br/>Giving power to overcome.<br/>If all beneath me falls away,<br/>I know that You are God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who can stand against us?<br/>In my weakness You are strong.<br/>Your word is everlasting,<br/>I will praise You, faithful One.</lines>
+    </verse>
+  </lyrics>
+</song>

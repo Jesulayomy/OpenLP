@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:21">
+  <properties>
+    <titles>
+      <title>Name Above All Names</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the brightness of His glory<br/>Jesus, the Son of God, descends<br/>Takes on the nature of a servant<br/>Jesus, obedient to death<br/>The Father willed to crush Him<br/>As a sacrifice for sin<br/>He satisfied God's justice<br/>And in victory rose again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are highly exalted<br/>Name above all names Worthy of all praise<br/>You are reigning in glory<br/>Jesus, You're the King over everything<br/>Exalted to the highest place<br/>Given the Name above all other names</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The tomb is empty Christ has risen<br/>Jesus, the Lamb once crucified<br/>The angels never cease to worship<br/>Jesus, in heaven glorified<br/>To Him belongs the power<br/>The wisdom, might, and strength<br/>All glory and dominion<br/>To the Lord of every age</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Our knees will bow<br/>Our tongues proclaim<br/>That You are Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

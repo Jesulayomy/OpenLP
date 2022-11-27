@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>The Anthem</title>
+    </titles>
+    <authors>
+      <author type="words">Joth Hunt</author>
+      <author type="music">Joth Hunt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2883"/>
+    </songbooks>
+    <themes>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse]<br/>By His stripes we are healed<br/>By His nail-pierced hands we're free<br/>By His blood we're washed clean<br/>Now we have the victory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Pre-Chorus]<br/>The power of sin is broken, Jesus overcame it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He has won our freedom, Jesus has won it all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[Chorus]<br/>Hallelu-jah, You have won the victory<br/>Hallelu-jah, You have won it all for me<br/>Death could not hold You down<br/>You are the risen King<br/>Seated in majesty<br/>You are the risen King</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Verse]<br/>By His stripes we are healed<br/>By His nail-pierced hands we're free<br/>By His blood we're washed clean<br/>Now we have the victory</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Pre-Chorus]<br/>The power of sin is broken, Jesus overcame it all<br/>He has won our freedom, Jesus has won it all</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[Chorus]<br/>Hallelu-jah, You have won the victory<br/>Hallelu-jah, You have won it all for me<br/>Death could not hold You down<br/>You are the risen King<br/>Seated in majesty<br/>You are the risen King</lines>
+    </verse>
+    <verse name="v8">
+      <lines>[Bridge]<br/>Our God has risen, He is alive<br/>He won the victory, He reigns on high</lines>
+    </verse>
+    <verse name="v9">
+      <lines>[Chorus]<br/>Hallelu-jah, You have won the victory<br/>Hallelu-jah, You have won it all for me<br/>Death could not hold You down<br/>You are the risen King<br/>Seated in majesty<br/>You are the risen King</lines>
+    </verse>
+    <verse name="v10">
+      <lines>[Chorus]<br/>Hallelu-jah, You have won the victory<br/>Hallelu-jah, You have won it all for me<br/>Death could not hold You down<br/>You are the risen King<br/>Seated in majesty<br/>You are the risen King</lines>
+    </verse>
+    <verse name="v11">
+      <lines>[Outro]<br/>F G Am G/B</lines>
+    </verse>
+  </lyrics>
+</song>

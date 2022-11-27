@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>I love thy kingdom, Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3523"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love thy kingdom, Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love thy kingdom, Lord, the house of thine abode,<br/>The church our blest Redeemer saved with his own precious blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love thy church, O God! Her walls before thee stand<br/>Dear as the apple of thine eye, and graven on thy hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For her my tears shall fall, for her my prayers ascend,<br/>To her my cares and toils be given, till toils and cares shall end.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Beyond my highest joy i prize her heavenly ways,<br/>Her sweet communion, solemn vows, her hymns of love and praise.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sure as thy truth shall last, to Zion shall be given<br/>The brightest glories earth can yield, and brighter bliss of heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

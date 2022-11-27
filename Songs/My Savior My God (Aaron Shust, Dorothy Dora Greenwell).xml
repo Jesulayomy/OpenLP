@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:14">
+  <properties>
+    <titles>
+      <title>My Savior My God</title>
+    </titles>
+    <copyright>2005 Bridge Building Music, Inc.</copyright>
+    <authors>
+      <author type="words">Aaron Shust</author>
+      <author type="music">Aaron Shust</author>
+      <author type="words">Dorothy Dora Greenwell</author>
+      <author type="music">Dorothy Dora Greenwell</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>thanksgiving</theme>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am not skilled to understand<br/>What God has willed, what God has planned.<br/>I only know at His right hand<br/>Stands one who is my Savior.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I take Him at His word and deed.<br/>Christ died to save me this I read.<br/>And in my heart I find a need<br/>Of Him to be my Savior.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>That He would leave His place on high<br/>And come for sinful man to die,<br/>You count it strange, so once did I,<br/>Before I knew my Savior.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My Savior loves. My Savior lives.<br/>My Savior's always there for me.<br/>My God He was. My God He is.<br/>My God is always gonna be. (2X)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yes, living, dying let me bring<br/>My strength, my solace<br/>from this spring:<br/>That He who lives to be my King<br/>Once died to be my Savior.</lines>
+    </verse>
+  </lyrics>
+</song>

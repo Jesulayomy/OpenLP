@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Christ Arose</title>
+    </titles>
+    <authors>
+      <author type="words">Lowry, Robert (1826-1899)</author>
+      <author type="music">Lowry, Robert (1826-1899)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Low in the grave He lay, Jesus my Savior!<br/>Waiting the coming day, Jesus my Lord!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(Spirited!) Up from the grave He arose,<br/>With a mighty triumph o'er His foes;<br/>He arose a victor from the dark domain,<br/>And He lives forever with His saints to reign,<br/>He arose! He arose! Hallelujah! Christ arose!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vainly they watch His bed, Jesus my Savior!<br/>Vainly they seal the dead, Jesus my Lord!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Death cannot keep his prey, Jesus my Savior!<br/>He tore the bars away, Jesus my Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

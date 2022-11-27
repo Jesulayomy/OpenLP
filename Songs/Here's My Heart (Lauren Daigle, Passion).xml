@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Here's My Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Passion</author>
+      <author type="music">Passion</author>
+      <author type="words">Lauren Daigle</author>
+      <author type="music">Lauren Daigle</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2202"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus 1:<br/>Here's my heart Lord<br/>Here's my heart Lord<br/>Here's my heart Lord<br/>Speak what is true</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>I am found, I am Yours<br/>I am loved, I'm made pure<br/>I have life, I can breathe<br/>I am healed, I am free</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus 2:<br/>Here's my life Lord<br/>Here's my life Lord<br/>Here's my life Lord<br/>Speak what is true</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>You are strong, You are sure<br/>You are life, You endure<br/>You are good, always true<br/>You are light breaking through</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verse 3:<br/>You are more than enough<br/>You are here, You are love<br/>You are hope, You are grace<br/>You're all I have, You're everything</lines>
+    </verse>
+  </lyrics>
+</song>

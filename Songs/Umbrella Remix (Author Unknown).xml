@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:32">
+  <properties>
+    <titles>
+      <title>Umbrella Remix</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I gave You my heart<br/>In exchange for a brand new start.<br/>Lord, then You made me clean<br/>And You set me apart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You see, I was in the dark,<br/>But You're the Bright and Morning Star.<br/>Now with Your amazing grace,<br/>You keep a smile upon my face.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Because...<br/>When the son die, He didn't die forever.<br/>Put Him in a tomb and three days later.<br/>Died on a cross and rose again.<br/>Dip me in His blood and washed away my sins,<br/>sins, sins, eh eh eh.<br/>Thank the Lord I'm born again,<br/>ain, ain, hey, hey, hey, hey.</lines>
+    </verse>
+  </lyrics>
+</song>

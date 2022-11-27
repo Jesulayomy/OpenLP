@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Baptized Into Thy Name Most Holy</title>
+    </titles>
+    <authors>
+      <author type="music">Dretzel, Kornelius Heinrich (1697-1775)</author>
+      <author type="words">Rambach, Johann Jakob (1693-1735)</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+      <author type="translate">Crull, August (1845-1923)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Baptized into Thy Name most holy, O Father, Son, and Holy Ghost, I claim a place, though weak and lowly, Among Thy seed, Thy chosen host. Buried with Christ and dead to sin, Thy Spirit now shall live within.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My loving Father, here doth take me To be henceforth His child and heir; My faithful Savior, now doth make me The fruit of all His sorrows share; My Comforter will comfort me When darkest clouds around I see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I have vowed to fear and love Thee And to obey Thee, Lord, alone; I felt Thy Holy Spirit move me, I dared to pledge myself Thine own, Renouncing sin to keep the faith And war with evil unto death.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My faithful God, Thou failest never, Thy cov'nant surely will abide; Oh, cast me not away forever Should I transgress it on my side! But if I fall hide not Thy face, Restore Thy child, Lord, by Thy Grace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yes, all I am and love most dearly, To Thee I offer now the whole; O let me make my vows sincerely, Take full possession of my soul! Let naught within me, naught I own, Serve any will save Thine alone.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hence, Prince of darkness, hence forever,<br/>For I belong now to my God!<br/>'Tis true, I sinned; but my dear Savior Hath<br/>cleansed me with His holy blood.<br/>Away, vain world, sin, leave me now,<br/>I turn from you; God hears my vow.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And never let my purpose falter,<br/>O Father, Son, and Holy Ghost,<br/>But keep me faithful to Thine altar,<br/>Till Thou shalt call me from my post;<br/>So unto Thee I live and die,<br/>And praise Thee evermore on high.</lines>
+    </verse>
+  </lyrics>
+</song>

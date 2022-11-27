@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Mary Did You Know?</title>
+    </titles>
+    <authors>
+      <author type="words">Kutless</author>
+      <author type="music">Kutless</author>
+      <author type="music">Buddy Greene</author>
+      <author type="words">Mark Lowry</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1459"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>guitar</theme>
+      <theme>gods-holiness</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>christmas</theme>
+      <theme>gods-word</theme>
+      <theme>testimony</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mary, did you know that your baby boy would some day walk on water?<br/>Mary, did you know that your baby boy would save our sons and daughters?<br/>Did you know that your baby boy has come to make you new?<br/>This child that you've delivered will soon deliver you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mary, did you know that your baby boy will give sight to a blind man?<br/>Mary, did you know that your baby boy will calm the storm with his hand?<br/>Did you know that your baby boy has walked where angels trod?<br/>When you've kissed your little baby, you've kissed the face of God.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Mary, did you know?  Mary, did you know?<br/>The blind will see, the deaf will hear, the dead will live again.<br/>The lame will leap, the dumb will speak, the praises of the Lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mary, did you know that your baby boy is Lord of all creation?<br/>Mary, did you know that your baby boy will one day rule the nations?<br/>Did you know that your baby boy was heaven's perfect lamb?<br/>This sleeping child you're holding is the great "I AM".</lines>
+    </verse>
+  </lyrics>
+</song>

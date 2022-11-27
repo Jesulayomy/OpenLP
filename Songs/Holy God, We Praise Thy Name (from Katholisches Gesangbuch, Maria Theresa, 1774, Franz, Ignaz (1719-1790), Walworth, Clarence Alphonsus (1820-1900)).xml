@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Holy God, We Praise Thy Name</title>
+    </titles>
+    <authors>
+      <author type="music">from Katholisches Gesangbuch, Maria Theresa, 1774</author>
+      <author type="words">Franz, Ignaz (1719-1790)</author>
+      <author type="translate">Walworth, Clarence Alphonsus (1820-1900)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy God, we praise Thy Name; Lord of all, we bow before Thee! All on earth Thy scepter claim, All in Heaven above adore Thee; Infinite Thy vast domain, Everlasting is Thy reign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hark! the loud celestial hymn Angel choirs above are raising, Cherubim and seraphim, In unceasing chorus praising; Fill the heavens with sweet accord: Holy, holy, holy, Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lo! the apostolic train Join the sacred Name to hallow; Prophets swell the loud refrain, And the white robed martyrs follow; And from morn to set of sun, Through the Church the song goes on.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy Father, Holy Son, Holy Spirit, Three we name Thee; While in essence only One, Undivided God we claim Thee; And adoring bend the knee, While we own the mystery.</lines>
+    </verse>
+  </lyrics>
+</song>

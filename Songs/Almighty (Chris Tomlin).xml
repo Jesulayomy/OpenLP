@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Almighty</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3592"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:<br/>Verse 1:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You have no rival, you stand alone<br/>The Heavens worship, before your throne<br/>There is no one like you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You have no equal, your kingdom reigns<br/>Yours is the highest, of every name<br/>There is no one like you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Almighty,<br/>we're standing in the presence of your majesty<br/>You're holy,<br/>you alone the sovereign crown of royalty<br/>You're the king of kings,<br/>Almighty<br/>Verse 3:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>our God eternal, the great I am<br/>The praise of angels will never end<br/>There is no one like you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Verse 4:</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Eyes like fire, face like the sun<br/>a voice like thunder,<br/>Who was and is and is to come</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I see the holy one, high and exalted<br/>I hide my eyes and I tremble before Him<br/>I tremble before Him</lines>
+    </verse>
+  </lyrics>
+</song>

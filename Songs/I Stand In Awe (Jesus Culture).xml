@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>I Stand In Awe</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1597"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Open my eyes to see more of Your majesty<br/>more of Your wonder and Your worth<br/>Compel my soul to sing for all eternity<br/>lifting the praise that You deserve</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I stand in awe of You, in awe of You<br/>Amazed beyond what I can say<br/>I stand in awe of You, in awe of You<br/>My heart, abandoned once again<br/>I stand in awe of You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>So let Your will resound in every heart that's bowed<br/>with every breath in every phrase<br/>It's in the angels' sound the universe is loud<br/>full of Your glory and Your grace</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I stand in awe of You, in awe of You<br/>Amazed beyond what I can say<br/>I stand in awe of You, in awe of You<br/>My heart, abandoned once again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abandoned to You,<br/>Amazed by who You are       amazed by all You are</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Let it rise, let it rise<br/>we cannot contain this place inside<br/>Let it rise, let it rise<br/>let the sound of heaven multiply oh!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Outro:<br/>We stand in awe of You, in awe of You<br/>Amazed beyond what we can say<br/>I stand in awe of You, in awe of You<br/>my heart abandoned once again</lines>
+    </verse>
+  </lyrics>
+</song>

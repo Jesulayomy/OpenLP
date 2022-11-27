@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>"Are ye able," said the Master</title>
+    </titles>
+    <authors>
+      <author type="words">Earl Marlatt</author>
+      <author type="music">Earl Marlatt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"Are ye able," said the Master,<br/>"To be crucified with me?"<br/>"Yea," the sturdy dreamers answered,<br/>"To the death we follow Thee."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, we are able.<br/>Our spirits are Thine.<br/>Remold them, make us,<br/>Like Thee, divine.<br/>Thy guiding radiance<br/>Above us shall be<br/>A beacon to God,<br/>To love, and loyalty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are ye able to remember,<br/>When a thief lifts up his eyes,<br/>That his pardoned soul is worthy<br/>Of a place in paradise?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are ye able when the shadows<br/>Close around you with the sod,<br/>To believe that spirit triumphs,<br/>To commend your soul to God?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>"Are ye able?" Still the Master<br/>Whispers down eternity,<br/>And heroic spirits answer<br/>Now, as then, in Galilee.</lines>
+    </verse>
+  </lyrics>
+</song>

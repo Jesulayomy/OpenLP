@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-06-26T08:33:38">
+  <properties>
+    <titles>
+      <title>Hymn 184 - WONDERFUL STORY OF LOVE</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wonderful story of love<br/>Tell it to me again<br/>Wonderful story of love<br/>Wake the immortal strain!<br/>Angels with raptures announce it<br/>Shepherds with wonders believe it<br/>Sinner, won't you believe it<br/>Wonderful story of love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wonderful! Wonderful!<br/>Wonderful!<br/>Wonderful story of love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wonderful story of love <br/>Tho' you are far away<br/>Wonderful story of love <br/>Still he doth call today<br/>Calling from calvary's mountain<br/>Down from the crystal bright fountain<br/>Ever from the dawn of creation<br/>Wonderful story of love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wonderful story of love <br/>Jesus provides the rest<br/>Wonderful story of love<br/>For all the pure and the blest<br/>Rest in those mansions above us<br/>With those who have gone on before us<br/>Singing the raptures chorus<br/>Wonderful story of love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>I Will Love You for the Cross</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will love You for the cross<br/>And I will love You for the cost<br/>Man of sufferings<br/>Bringer of my peace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You came into a world of shame<br/>And paid the price we could not pay<br/>Death that brought me life<br/>Blood that brought me home<br/>Death that brought me life<br/>Blood that brought me home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I love You for the cross<br/>I'm overwhelmed by the mystery<br/>I love You for the cost<br/>That Jesus You would do this for me<br/>When You were broken, You were beaten,<br/>You were punished, I go free<br/>When You were wounded and rejected<br/>In your mercy, I am healed</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus Christ the sinner's friend<br/>Does this kindness know no bounds?<br/>With Your precious blood<br/>You have purchased me<br/>Oh the mystery of the cross<br/>You were punished You were crushed<br/>But that punishment has become my peace<br/>Yes that punishment has become my peace</lines>
+    </verse>
+  </lyrics>
+</song>

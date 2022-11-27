@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Glory</title>
+    </titles>
+    <authors>
+      <author type="words">Gungor</author>
+      <author type="music">Gungor</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2290"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>christmas</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Jesus hope and joy<br/>In the baby boy<br/>Come to love and come to free us<br/>All the world<br/>Every boy and girl<br/>All are singing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>glory glory in the highest<br/>(Christ is born oh Christ is born)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus Jesus Virgin child<br/>Tender, meak and mild<br/>Come to give us sight<br/>And help us love each other<br/>Stranger and a brother<br/>All are singing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>grory glory in the highest<br/>(Christ is born oh Christ is born)<br/>Beat a heart new hope within us<br/>(-\\-)<br/>Oh, rejoice for God is with us<br/>(-\\-)<br/>glory glory in the highest</lines>
+    </verse>
+    <verse name="v5">
+      <lines>glory glory in the highest<br/>glory glory in the highest<br/>glory glory in the highest<br/>(Christ is born oh Christ is born)<br/>let your heart be filled with hope and joy, joy!</lines>
+    </verse>
+  </lyrics>
+</song>

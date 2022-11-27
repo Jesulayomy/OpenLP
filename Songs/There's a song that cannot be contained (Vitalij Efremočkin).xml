@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>There's a song that cannot be contained</title>
+    </titles>
+    <authors>
+      <author type="words">Vitalij Efremočkin</author>
+      <author type="music">Vitalij Efremočkin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5483"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a song that cannot be contained<br/>There's a shout that breaks through every chain<br/>God, we won't be silent</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a faith that rises through the flames<br/>There's a joy that chases the dark away<br/>God, we won't be silent</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And the greater the storm<br/>The louder our song</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We lift our voices, lift our voices<br/>Make Your praise so glorious, glorious<br/>We lift our voices, lift our voices<br/>Make Your praise so glorious</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We'll never stop singing<br/>We'll never stop singing<br/>We'll never stop singing<br/>We'll never stop singing</lines>
+    </verse>
+  </lyrics>
+</song>

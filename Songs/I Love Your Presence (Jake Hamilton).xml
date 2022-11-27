@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>I Love Your Presence</title>
+    </titles>
+    <authors>
+      <author type="words">Jake Hamilton</author>
+      <author type="music">Jake Hamilton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4237"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I love Your presence Jesus<br/>I love Your presence Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>I can feel You underneath my skin<br/>I feel Your heart beat beeping within<br/>Every breath is drawing You in<br/>Come a little closer come a little closer God</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>There is no other place that i'd like to be<br/>Then right here yeah right now</lines>
+    </verse>
+  </lyrics>
+</song>

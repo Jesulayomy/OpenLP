@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>Let our faith become a mountain</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3096"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>You alone are the healer for the hurting<br/>You alone are the refuge for the broken<br/>So strengthen our hearts and let us not grow weary<br/>Steady our souls and make us brave in the fire</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Let our faith become a mountain<br/>That will rise and never fall<br/>Lifted high above the valley<br/>We declare Your kingdom come<br/>We will cling to what You've promised<br/>Till the day You call us home<br/>Let our faith become a mountain we stand on</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>You alone know the end and the beginning<br/>You alone see a way when hope is fading<br/>So strengthen our hearts and let us not grow weary<br/>Steady our souls and make us brave in the fire</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>We will stand unaffected by the chaos<br/>We will stand no matter what the cost<br/>No more worry, no more fear<br/>Every doubt will disappear</lines>
+    </verse>
+  </lyrics>
+</song>

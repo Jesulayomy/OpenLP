@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:06">
+  <properties>
+    <titles>
+      <title>Great is the Lord</title>
+      <title>Beautiful for situation</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Ewing</author>
+      <author type="music">Robert Ewing</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is the Lord<br/>And greatly to be praised<br/>In the city of our God<br/>In the mountain of His holiness<br/>Beautiful for situation<br/>The joy of the whole earth<br/>Is Mount Zion on the sides of the north<br/>The city of the great King</lines>
+    </verse>
+  </lyrics>
+</song>

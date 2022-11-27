@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>God So Loved</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+      <author type="words">Matt Crocker</author>
+      <author type="music">Matt Crocker</author>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3246"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I shall hold to the cross<br/>I shall hold to God alone<br/>For His love has salvaged me<br/>For His love has set me free</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For God so loved the world<br/>That He gave His only Son<br/>Whosoever believes<br/>Will not peerish<br/>They shall have eternal life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I shall wait upon the Lord<br/>I shall wait upon His Word<br/>By His grace I am released<br/>By His grace I am redeemed</lines>
+    </verse>
+    <verse name="b1">
+      <lines>By His precious blood<br/>I have been set free<br/>For the glory of Jesus' Name<br/>I surrender all<br/>Now to Christ alone<br/>In Jesus I am saved</lines>
+    </verse>
+  </lyrics>
+</song>

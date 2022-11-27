@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>The Day Thou Gavest Lord</title>
+    </titles>
+    <authors>
+      <author>John Ellerton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The day Thou gavest, Lord, is ended,<br/>The darkness falls at Thy behest;<br/>To Thee our morning hymns ascended,<br/>Thy praise shall sanctify our rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We thank Thee that Thy church unsleeping,<br/>While earth rolls onward into light,<br/>Through all the world her watch is keeping,<br/>And rests not now by day or night.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As o’er each continent and island<br/>The dawn leads on another day,<br/>The voice of prayer is never silent,<br/>Nor dies the strain of praise away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The sun that bids us rest is waking<br/>Our brethren ’neath the western sky,<br/>And hour by hour fresh lips are making<br/>Thy wondrous doings heard on high.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So be it, Lord! Thy throne shall never,<br/>Like earth’s proud empires, pass away;<br/>Thy kingdom stands, and grows for ever,<br/>Till all Thy creatures own Thy sway.</lines>
+    </verse>
+  </lyrics>
+</song>

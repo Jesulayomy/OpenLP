@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>Simple gospel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to know You, Lord<br/>Like I know a friend<br/>I want to know You, Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So I'm laying down<br/>All my religion<br/>I'm laying down<br/>I want to know You, Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I used to think<br/>That I could box You in<br/>But I'm laying down<br/>I want to know You, Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, I've been told<br/>To be ashamed<br/>Lord, I've been told<br/>I don't measure up<br/>Lord, I've been told<br/>I'm not good enough<br/>But You're here with me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I reach out,<br/>And You<br/>Find me in the dust<br/>And You say no amount<br/>Of untruths can separate us</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I will rejoice<br/>In the simple gospel<br/>I will rejoice<br/>In You, Lord</lines>
+    </verse>
+  </lyrics>
+</song>

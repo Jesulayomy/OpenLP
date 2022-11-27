@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Song of Solomon</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4210"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse:<br/>When I feel the cold of winter<br/>And this cloak of sadness<br/>I need You<br/>All the evil things that shake me<br/>All the words that break me<br/>I need You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Over the mountains<br/>Over the sea<br/>Here You come running<br/>My Lover to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse:<br/>Do not hide me from Your presence<br/>Pull me from these shadows<br/>I need You<br/>Beauty wrap Your arms around me<br/>Sing Your song of kindness<br/>I need You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Oh through the valleys<br/>Through the dark of night<br/>Here You come running<br/>To hold me until it's light</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Refrain:<br/>I'll come running<br/>I'll come running<br/>I'll come running<br/>Back to You</lines>
+    </verse>
+  </lyrics>
+</song>

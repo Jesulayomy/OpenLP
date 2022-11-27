@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Thank God I am free</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank God I am free, free, free<br/>From this world of sin.<br/>I've been washed in the blood of Jesus,<br/>I've been born again.<br/>Hallelujah, I'm saved, saved, saved<br/>By His wonderful grace.<br/>I'm so glad that I found out<br/>He could bring me out<br/>And show me the way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For a long time I travelled<br/>Down a long lonely road;<br/>My heart was so heavy in sin I sank low.<br/>Then I heard about Jesus,<br/>What a wonderful hour;<br/>I'm so glad that I found out<br/>He could bring me out<br/>Through His saving power.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thank God I am free, free, free<br/>From this world of sin.<br/>I've been washed in the blood of Jesus,<br/>I've been born again.<br/>Hallelujah, I'm saved, saved, saved<br/>By His wonderful grace.<br/>I'm so glad that I found out<br/>He could bring me out<br/>And show me the way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Like a bird out of prison<br/>That has taken its flight;<br/>Like a blind man that God<br/>Gave back his sight.<br/>Like a poor wretched beggar<br/>That's found fortune and fame,<br/>I'm so glad that I found out<br/>He could bring me out<br/>Thro' His holy name.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Letting Go</title>
+    </titles>
+    <copyright>2005 Aaron Welk</copyright>
+    <authors>
+      <author type="words">Aaron Welk</author>
+      <author type="music">Aaron Welk</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lay all that I am at Your feet.<br/>I give You all of my life; I give You all of me.<br/>Because of who You are,<br/>Because of who You said I'll be,<br/>Because of all You've done,<br/>For the work You've done in me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I give my life for what it's worth; I give my soul.<br/>I'm giving up every part<br/>that I may hold.<br/>I offer up to You this humble sacrifice.<br/>I'm letting go; I'm letting go.<br/>I offer up to You this humble sacrifice.<br/>I'm letting go; I'm letting go.</lines>
+    </verse>
+  </lyrics>
+</song>

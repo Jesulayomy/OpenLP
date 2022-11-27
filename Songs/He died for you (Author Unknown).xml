@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:26">
+  <properties>
+    <titles>
+      <title>He died for you</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Broken, mocked and stoned<br/>was a man hanging from a cross<br/>with a crown of thorns</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is He, this man who died for me<br/>his given Son who was born to die<br/>so we could be redeemed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He died for you<br/>He died for me<br/>He took my pain and he bought my shame<br/>that day on Calvary<br/>The bleeding One, Gods only Son<br/>What kind of man is this<br/>who walked this road alone<br/>Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It was supposed to be me<br/>hanging from that tree<br/>it was my sin, that crucified him<br/>I dont deserve any mercy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>But as we come to you today<br/>we remember what you gave<br/>through His bleeding word<br/>you have revealed to us our names</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I didn't see but I believe</lines>
+    </verse>
+  </lyrics>
+</song>

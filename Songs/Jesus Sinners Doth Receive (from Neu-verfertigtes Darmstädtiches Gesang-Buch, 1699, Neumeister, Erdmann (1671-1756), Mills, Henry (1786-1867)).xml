@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>Jesus Sinners Doth Receive</title>
+    </titles>
+    <authors>
+      <author type="music">from Neu-verfertigtes Darmstädtiches Gesang-Buch, 1699</author>
+      <author type="words">Neumeister, Erdmann (1671-1756)</author>
+      <author type="translate">Mills, Henry (1786-1867)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus sinners doth receive; Well may we this saying ponder Who in sin's delusions live, And from God and Heaven wander: Here is hope for all who grieve\Jesus sinners doth receive.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We deserve but grief and shame,\Yet His words, rich grace revealing, Pardon, peace, and life proclaim; Here their ills have perfect healing Who with humble hearts believe\Jesus sinners doth receive.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As the shepherd seeks to find His lost sheep that from Him strayeth, So hath Christ each soul in mind, And for its salvation prayeth; Fain He'd have each wand'rer live: Jesus sinners doth receive.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come, then, all by guilt oppressed, Jesus calls, and He would make you God's own children, pure and blest, And to glory He would take you; Think on this, and well believe Jesus sinners doth receive.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Savior, now I come to Thee: Great my sins, a weary burden! Wilt Thou mercy show to me? Can I hope to find a pardon? I will trust: my soul relieve! Me, a sinner, Lord, receive!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Rich Thy mercy\- strangely good! O how oft have I offended!<br/>But through Thy redeeming blood All my fear of wrath is ended:<br/>Yes I now can witness give: Jesus sinners doth receive!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Now my conscience is at peace; From the Law I stand acquitted;<br/>Christ hath purchased my release, And my every sin remitted.<br/>Naught remains my soul to grieve: Jesus sinners doth receive.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jesus sinners doth receive! Happy in His ceaseless favor,<br/>Here for Heaven I will live, There shall live with Him forever,<br/>"Joy in death these tidings give; Jesus sinners doth receive!"</lines>
+    </verse>
+  </lyrics>
+</song>

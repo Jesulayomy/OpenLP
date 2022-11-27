@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>We Three Kings of Orient Are</title>
+    </titles>
+    <authors>
+      <author type="words">John H. Hopkins, Jr.</author>
+      <author type="music">John H. Hopkins, Jr.</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>gospel</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+      <theme>christmas</theme>
+      <theme>sacrifice</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We three kings of Orient are<br/>Bearing gifts, we traverse afar<br/>Field and fountain, moor and mountain<br/>Following yonder star</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, star of wonder, star of might<br/>Star with royal beauty bright<br/>Westward leading, still proceeding<br/>Guide us to thy perfect light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Born a babe on Bethlehem's plain<br/>Gold we bring to crown him again<br/>King forever, ceasing never<br/>Over us all to reign</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Frankincense to offer have I<br/>Incense owns a deity nigh<br/>Prayer and praising, all men raising<br/>Worship God on high</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Myrrh is mine, its bitter perfume<br/>Breathes a life of gathering gloom;<br/>Sorr'wing, sighing, bleeding, dying,<br/>Sealed in the stone cold tomb.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Glorious now behold Him arise;<br/>King and God and sacrifice;<br/>Alleluia, Alleluia,<br/>Sounds through the earth and skies.</lines>
+    </verse>
+  </lyrics>
+</song>

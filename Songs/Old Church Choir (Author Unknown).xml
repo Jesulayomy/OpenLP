@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Old Church Choir</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4895"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's revival and it's spreading<br/>Like a wildfire in my heart<br/>A Sunday morning hallelujah<br/>And it's lasting all week long</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Can you hear it? Can you feel it?<br/>It's the rhythm of a gospel song<br/>Once you choose it, you can't lose it<br/>There ain't nothing, there ain't nothing gonna steal my joy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I've got an old church choir singing in my soul<br/>I've got a sweet salvation and it's beautiful<br/>I've got a heart overflowing cause I've been restored<br/>No there ain't nothing gonna steal my joy<br/>No there ain't nothing gonna steal my joy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the valleys that I wander<br/>Turn to mountains that I can't climb<br/>You are with me, you never leave me<br/>There ain't nothing, there ain't nothing gonna steal my joy</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I've got an old church choir singing in my soul<br/>I've got a sweet salvation and it's beautiful<br/>I've got a heart overflowing cause I've been restored<br/>No there ain't nothing gonna steal my joy<br/>No there ain't nothing gonna steal my joy</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Clap your hands and stomp your feet<br/>Till you find that gospel beat<br/>Cause He's all you'll ever need<br/>He's all you'll ever need</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I've got an old church choir singing in my soul<br/>I've got a sweet salvation and it's beautiful<br/>I've got a heart overflowing cause I've been restored<br/>No there ain't nothing gonna steal my joy<br/>No there ain't nothing gonna steal my joy<br/>No there ain't nothing gonna steal my joy</lines>
+    </verse>
+  </lyrics>
+</song>

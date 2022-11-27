@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>I Stand for You</title>
+    </titles>
+    <copyright>2004 Birdwing Music</copyright>
+    <authors>
+      <author type="words">John Ellis</author>
+      <author type="music">John Ellis</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2729"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, I stand for You.<br/>No matter what You lead me through.<br/>They will chase me out and close me down,<br/>But, Jesus, I'll stand for You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'll always stand, I'll always stand,<br/>I'll always stand for You.<br/>I'll always stand, I'll always stand,<br/>I'll always stand for You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, I've stood my ground<br/>When unbelief was all around.<br/>I have felt the sting rejection brings,<br/>But, Jesus, I'll stand for You.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A time will come when everyone<br/>Will turn their eyes on the risen Son.<br/>But until that day, this world will turn away,<br/>And so I take Your hand;<br/>I'll always stand for You.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Guilty of disgrace,<br/>But You took my place,<br/>So, Jesus, I'll always stand for You.</lines>
+    </verse>
+  </lyrics>
+</song>

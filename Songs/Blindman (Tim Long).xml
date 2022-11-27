@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:14">
+  <properties>
+    <titles>
+      <title>Blindman</title>
+    </titles>
+    <authors>
+      <author type="words">Tim Long</author>
+      <author type="music">Tim Long</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blindman stood by the road and he cried<br/>Blindman stood by the road and he cried<br/>Blindman stood by the road and he cried<br/>He cried, whoa!<br/>Show me the way,<br/>Show me the way,<br/>Show me the way,<br/>The way to go home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Woman stood by the well and she cried (x3)<br/>She cried, whoa!<br/>Show me the truth, (x3)<br/>The way to go home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lazarus laid in the grave and they cried (x3)<br/>They cried, whoa!<br/>Show us the life, (x3)<br/>The way to go home.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus hung on the cross and He cried (x3)<br/>He cried, whoa!<br/>I am the Way, I am the Truth,<br/>I am the Life, and the Way to go home.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus rose from the grave and He cried (x3)<br/>He cried, whoa!<br/>I am the Way,<br/>I am the Truth,<br/>I am the Life,<br/>the Way to go home.<br/>Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

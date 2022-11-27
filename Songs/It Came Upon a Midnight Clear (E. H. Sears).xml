@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>It Came Upon a Midnight Clear</title>
+    </titles>
+    <authors>
+      <author>E. H. Sears</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It came upon a midnight clear,<br/>That glorious song of old,<br/>From angels bending near the earth<br/>To touch their harps of gold:<br/>‘Peace on the earth, goodwill to men<br/>From heaven’s all gracious King!’<br/>The world in solemn stillness lay<br/>To hear the angels sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Still through the cloven skies they come,<br/>With peaceful wings unfurled,<br/>And still their heavenly music floats<br/>O’er all the weary world:<br/>Above its sad and lowly plains<br/>They bend on hovering wing,<br/>And ever o’er its Babel sounds<br/>The blessed angels sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yet with woes of sin and strife<br/>The world has suffered long,<br/>Beneath the angel-strain have rolled<br/>Two thousand years of wrong;<br/>And man, at war with man, hears not<br/>The love-song which they bring:<br/>O hush the noise, ye men of strife,<br/>And hear the angels sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For lo! the days are hastening on,<br/>By prophet bards foretold,<br/>When with the ever-circling years<br/>Comes round the age of gold;<br/>When peace shall over all the earth<br/>Its ancient splendours fling,<br/>And all the world send back the song<br/>Which now the angels sing.</lines>
+    </verse>
+  </lyrics>
+</song>

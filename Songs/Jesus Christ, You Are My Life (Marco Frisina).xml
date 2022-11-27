@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Jesus Christ, You Are My Life</title>
+    </titles>
+    <authors>
+      <author type="words">Marco Frisina</author>
+      <author type="music">Marco Frisina</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jesus Christ, you are my life,<br/>Alleluia, Alleluia.<br/>Jesus Christ, you are my life,<br/>You are my life, Alleluia.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>He calls us to the waters of life<br/>He pours his love into our hearts<br/>Jesus comes to us in our heart<br/>Glory to God forever</lines>
+    </verse>
+  </lyrics>
+</song>

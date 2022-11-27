@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Lord You Are an Amazing God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Looking in the sky,<br/>whoever could deny Your glory?<br/>Gazing into space,<br/>how small the human race appears.<br/>Seeing You in all Your majesty,<br/>I wonder how it could be<br/>That You delight in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord You are an amazing God<br/>Lord You are an amazing God<br/>Lord You are an amazing God<br/>And I love You, I love You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord of everything, no other god or king is like You.<br/>Powerful and strong,<br/>yet tender is Your song to me.<br/>Knowing the extent of all my sin,<br/>however could You be pleased<br/>To pour Your love on me?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You light up the heavens with just one word,<br/>You measure the mountains in Your hand;<br/>Yet You treasure the broken<br/>and make them whole,<br/>You crown us with Your love.</lines>
+    </verse>
+  </lyrics>
+</song>

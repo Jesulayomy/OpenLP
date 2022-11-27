@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>Soldiers of Christ Arise</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soldiers of Christ, arise,<br/>And put your armour on; <br/>Strong in the strength which God supplies, <br/>Through His eternal Son;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Strong in the Lord of hosts, <br/>And in His mighty power; <br/>Who in the strength of Jesus trusts <br/>Is more than conqueror.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stand, then, in His great might,<br/>With all His strength endued;<br/>And take, to arm you for the fight,<br/>The panoply of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Leave no unguarded place, <br/>No weakness of the soul; <br/>Take every virtue, every grace, <br/>And fortify the whole.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>From strength to strength go on, <br/>Wrestle and fight and pray; <br/>Tread all the powers of darkness down, <br/>And win the well-fought day.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>That having all things done, <br/>And all your conflicts past, <br/>Ye may o’ercome, through Christ alone, <br/>And stand complete at last.</lines>
+    </verse>
+  </lyrics>
+</song>

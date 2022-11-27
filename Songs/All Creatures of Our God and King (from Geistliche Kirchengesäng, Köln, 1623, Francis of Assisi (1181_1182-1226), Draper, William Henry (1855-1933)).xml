@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>All Creatures of Our God and King</title>
+    </titles>
+    <authors>
+      <author type="music">from Geistliche Kirchengesäng, Köln, 1623</author>
+      <author type="words">Francis of Assisi (1181/1182-1226)</author>
+      <author type="translate">Draper, William Henry (1855-1933)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All creatures of our God and King,<br/>Lift up your voice and with us sing,<br/>Alle-luia! Alleluia!<br/>Thou burning sun with golden beam,<br/>Thou silver moon with softer gleam!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O praise Him, O praise Him,<br/>Alleluia! Alleluia! Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O rushing wind and breezes soft,<br/>O clouds that ride the winds aloft:<br/>Oh, praise Him! Alleluia!<br/>O rising morn, in praise rejoice,<br/>O lights of evening, find a voice.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O flowing waters, pure and clear,<br/>Make music for your Lord to hear.<br/>Oh, praise Him! Alleluia!<br/>O fire so masterful and bright,<br/>Providing us with warmth and light,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let all things their Creator bless,<br/>And worship Him in humbleness,<br/>Oh, praise Him! Alleluia!<br/>Oh, praise the Father, praise the Son,<br/>And praise the Spirit, three in One!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:49">
+  <properties>
+    <titles>
+      <title>You're the God of this City</title>
+    </titles>
+    <copyright>2006 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Andrew McCann</author>
+      <author type="music">Andrew McCann</author>
+      <author type="words">Boyd Aaron</author>
+      <author type="music">Boyd Aaron</author>
+      <author type="words">Ian Jordan</author>
+      <author type="music">Ian Jordan</author>
+      <author type="words">Peter Comfort</author>
+      <author type="music">Peter Comfort</author>
+      <author type="words">Peter Kernaghan</author>
+      <author type="music">Peter Kernaghan</author>
+      <author type="words">Richard Bleakley</author>
+      <author type="music">Richard Bleakley</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2558"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're the God of this city.<br/>You're the King of these people.<br/>You're the Lord of this nation.<br/>You are.<br/>You're the light in this darkness.<br/>You're the hope to the hopeless.<br/>You're the peace to the restless.<br/>You are.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>There is no one like our God.<br/>There is no one like You God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Greater things have yet to come<br/>And greater things have still to be done<br/>In this city.<br/>Greater things have yet to come<br/>And greater things have still to be done here.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the Lord of creation,<br/>The Creator of all things.<br/>You're the King above all kings.<br/>You are.<br/>You're the strength in the weakness.<br/>You're the love to the broken.<br/>You're the joy in the sadness.<br/>You are.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Greater things have yet to come<br/>And greater things have still to be done<br/>In this city.<br/>Greater things have yet to come<br/>And greater things have still to be done<br/>In this city.<br/>Greater things have yet to come<br/>And greater things have still to be done here.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There is no one like our God.<br/>There is no one like our God.<br/>There is no one like You God.<br/>There is no one like You God.</lines>
+    </verse>
+  </lyrics>
+</song>

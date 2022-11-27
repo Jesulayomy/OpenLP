@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Jesus Hold Me Now</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3299"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Living on my own, thinking for myself<br/>Castles in the sand, temporary wealth<br/>Now the walls are falling down now the storms are closing in<br/>And here I am again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, hold me now I need to feel You in this place<br/>To know You're by my side and hear Your voice tonight<br/>Jesus, hold me now I long for Your embrace<br/>I'm beat and broken down I can't find my way out</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, hold me now<br/>Jesus, hold me now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Curse this morning sun, drags me into one more day<br/>Of reaping what I've sown, living with my shame<br/>Welcome to my world, and the life that I have made<br/>One day you're a prince, and the next day you're a slave</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lord, I just looked up today<br/>And realized how far away<br/>I am from where You are<br/>I don't know what else to pray<br/>Broken at Your feet I lay<br/>The life I've torn apart</lines>
+    </verse>
+  </lyrics>
+</song>

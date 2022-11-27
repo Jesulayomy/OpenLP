@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:12">
+  <properties>
+    <titles>
+      <title>To Shepherds As They Watched By Night</title>
+    </titles>
+    <authors>
+      <author type="music">from Schumann's Geistliche Lieder, Leipzig, 1539</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To shepherds as they watched by night Appeared a host of angels bright; Behold the tender Babe, they said, In yonder lowly manger laid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At Bethlehem, in David's town, As Micah did of old make known; 'Tis Jesus Christ, your Lord and King, Who doth to all salvation bring.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, then rejoice that through His Son God is with sinners now at one; Made like yourselves of flesh and blood, Your Brother is th'eternal God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What harm can sin and death then do? The true God now abides with you. Let hell and Satan rage and chafe, Christ is your Brother ye are safe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Not one He will or can forsake Who Him his confidence doth make. Let all his wiles the Tempter try, You may his utmost pow'rs defy.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ye shall and must at last prevail;<br/>God's own ye are, ye cannot fail.<br/>To God forever sing your praise<br/>With joy and patience all your days.</lines>
+    </verse>
+  </lyrics>
+</song>

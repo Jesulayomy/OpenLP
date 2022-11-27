@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Lo, How A Rose E'er Blooming</title>
+    </titles>
+    <authors>
+      <author type="music">from Altes Catholische Geistliche Kirchengeseng, Köln, 1599</author>
+      <author type="words">German</author>
+      <author type="words">Layriz, Fridrich (1808-1859)</author>
+      <author type="translate">Baker, Theodore (1851-1934)</author>
+      <author type="translate">Krauth, Harriet Reynolds (1845-1925)</author>
+      <author type="translate">Spaeth, Harriet Reynolds (1845-1925)</author>
+      <author type="translate">Mattes, John Casper (1876-1948)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lo, how a Rose e'er blooming from tender stem hath sprung! Of Jesse's lineage coming, as men of old have sung. It came, a flow'ret bright, amid the cold of winter, When half spent was the night.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isaiah 'twas foretold it, the Rose I have in mind; With Mary we behold it, the virgin mother kind. To show God's love aright, she bore to men a Savior, When half spent was the night.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The shepherds heard the story proclaimed by angels bright, How Christ, the Lord of glory was born on earth this night. To Bethlehem they sped and in the manger found Him, As angel heralds said.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This Flow'r, whose fragrance tender with sweetness fills the air, Dispels with glorious splendor the darkness everywhere; True Man, yet very God, from sin and death He saves us, And lightens ev'ry load.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Savior, Child of Mary, who felt our human woe, O Savior, King of glory, who dost our weakness know; Bring us at length we pray, to the bright courts of Heaven, And to the endless day!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Sovereign Over Us</title>
+    </titles>
+    <authors>
+      <author type="words">Michael W. Smith</author>
+      <author type="music">Michael W. Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is strength within the sorrow<br/>There is beauty in our tears<br/>And You meet us in our mourning<br/>With a love that casts out fear<br/>You are working in our waiting<br/>You're sanctifying us</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When beyond our understanding<br/>You're teaching us to trust<br/>Your plans are still to prosper<br/>You have not forgotten us<br/>You're with us in the fire and the flood<br/>You're faithful forever<br/>Perfect in love<br/>You are sovereign over us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are wisdom unimagined<br/>Who could understand Your ways<br/>Reigning high above the Heavens<br/>Reaching down in endless grace<br/>You're the lifter of the lowly<br/>Compassionate and kind<br/>You surround and You uphold me<br/>And Your promises are my delight</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// Your plans are still to prosper<br/>You have not forgotten us<br/>You're with us in the fire and the flood<br/>You're faithful forever<br/>Perfect in love<br/>You are sovereign over us //</lines>
+    </verse>
+    <verse name="b1">
+      <lines>// Even what the enemy means for evil<br/>You turn it for our good<br/>You turn it for our good and for Your glory<br/>Even in the valley, You are faithful<br/>You're working for our good<br/>You're working for our good and for Your glory //</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Your plans are still to prosper<br/>You have not forgotten us<br/>You're with us in the fire and the flood<br/>You're faithful forever<br/>Perfect in love<br/>You are sovereign over us<br/>You're faithful forever<br/>Perfect in love<br/>You are sovereign over us</lines>
+    </verse>
+  </lyrics>
+</song>

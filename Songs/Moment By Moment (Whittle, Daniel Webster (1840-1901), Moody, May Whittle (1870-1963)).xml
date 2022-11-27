@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:10">
+  <properties>
+    <titles>
+      <title>Moment By Moment</title>
+    </titles>
+    <authors>
+      <author type="music">Moody, May Whittle (1870-1963)</author>
+      <author type="words">Whittle, Daniel Webster (1840-1901)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dying with Jesus, by death reckoned mine; Living with Jesus, a new life divine; Looking to Jesus till glory doth shine, Moment by moment, O Lord, I am Thine. Moment by moment I'm kept in His love; Moment by moment I've life from above; Looking to Jesus till glory doth shine; Moment by moment, O Lord, I am Thine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Never a trial that He is not there, Never a burden that He doth not bear, Never a sorrow that He doth not share, Moment by moment, I'm under His care. Moment by moment I've life from above; Looking to Jesus till glory doth shine; Moment by moment, O Lord, I am Thine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Never a heartache, and never a groan, Never a teardrop and never a moan; Never a danger but there on the throne, Moment by moment He thinks of His own. Moment by moment I've life from above; Looking to Jesus till glory doth shine; Moment by moment, O Lord, I am Thine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Never a weakness that He doth not feel, Never a sickness that He cannot heal; Moment by moment, in woe or in weal, Jesus my Savior, abides with me still. Moment by moment I've life from above; Looking to Jesus till glory doth shine; Moment by moment, O Lord, I am Thine.</lines>
+    </verse>
+  </lyrics>
+</song>

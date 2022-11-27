@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>None But Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro: C F x2<br/>In the quiet, in the stillness<br/>I know that You are God<br/>In the secret, of Your presence<br/>I know there I am restored<br/>When You call I won't refuse<br/>Each new day again I'll choose</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There is no one else for meNone but Jesus<br/>Crucified to set me free<br/>Now I live to bring Him praise F G C Em7 Am x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the chaos, in confusion<br/>I know You're sovereign still<br/>In the moment of my weakness<br/>You give me grace to do Your will<br/>Oh when You call I won't delay<br/>This my song through all my days-&gt; chorus x2</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All my delight is in You LordAll of my hope, all of my strength<br/>All my delight is in You Lord<br/>Forever more x2 -&gt;chorus x2</lines>
+    </verse>
+  </lyrics>
+</song>

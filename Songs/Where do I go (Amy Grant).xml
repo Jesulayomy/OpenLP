@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>Where do I go</title>
+    </titles>
+    <authors>
+      <author type="words">Amy Grant</author>
+      <author type="music">Amy Grant</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Where do I go<br/>When I need a shelter<br/>Where do I go<br/>When I need a friend<br/>Where do I go<br/>When I need some helping<br/>Where do I go<br/>Back on my knees again</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ask me this question, I'll tell you no lies<br/>How did I get this fire in my life<br/>All is not certain, but I will get by<br/>Listen, I'll tell you why</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Where do I go<br/>When I need a shelter<br/>Where do I go<br/>When I need a friend<br/>Where do I go<br/>When I need some helping<br/>Where do I go<br/>Back on my knees again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sure as the winter comes after the fall<br/>Sure as true love tears down any wall<br/>Jesus is able to carry it all<br/>He will answer your call</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Where do I go<br/>When I need a shelter<br/>Where do I go<br/>When I need a friend<br/>Where do I go<br/>When I need some helping<br/>Where do I go<br/>Back on my knees again</lines>
+    </verse>
+  </lyrics>
+</song>

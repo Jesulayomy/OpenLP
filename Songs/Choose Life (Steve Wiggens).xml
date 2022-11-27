@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Choose Life</title>
+    </titles>
+    <copyright>1999 Ardent/Forefront</copyright>
+    <authors>
+      <author type="words">Steve Wiggens</author>
+      <author type="music">Steve Wiggens</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A choice is set before you now, living or dying blessing or cursing;<br/>And now the time has come around, to turn from your fighting and rest in His mercy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Trust the Lord with all your heart, with all of your soul and all of your being;<br/>Hold on listen and obey, surrender your life into His keeping.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Choose life, that you might live, the life that He gives,<br/>He gives you forever;<br/>Choose life, the way that is true, from the One who chose you,<br/>Your Father in heaven;<br/>Choose life.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And the weight that you're under will be lifted away;<br/>And the world will wonder what happened here today;<br/>And you'll stand right there and say...</lines>
+    </verse>
+  </lyrics>
+</song>

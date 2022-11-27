@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>My Redeemer is faithful and true</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I look back on this road I've traveled<br/>I see so many times He's carried me through<br/>And if there's one thing that I've learned in this life<br/>My Redeemer is faithful and true</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My Redeemer is faithful and true<br/>And everything He has said He will do<br/>And ev'ry morning His mercies are new<br/>My Redeemer is faithful and true</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My heart rejoices when I read the promise<br/>There is a place that I'm preparing for you<br/>I know someday I'll see my Lord face to face<br/>'Cause my Redeemer is faithful and true</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And in ev'ry situation He has proved His love to me<br/>When I lack the understanding, He gives more grace to me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>My Redeemer is faithful and true<br/>And everything He has said He will do<br/>And ev'ry morning His mercies are new<br/>My Redeemer is faithful and true<br/>Jesus is faithful and true</lines>
+    </verse>
+  </lyrics>
+</song>

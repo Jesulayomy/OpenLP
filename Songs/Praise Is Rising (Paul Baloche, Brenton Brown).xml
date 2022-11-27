@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Praise Is Rising</title>
+      <title>Hosanna</title>
+    </titles>
+    <authors>
+      <author type="words">Brenton Brown</author>
+      <author type="music">Brenton Brown</author>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise is rising, eyes are turning to You,<br/>we turn to You.<br/>Hope is stirring, hearts are yearning for You,<br/>we long for You.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>'Cause when we see You, we find strength<br/>to face the day.<br/>In Your presence all our fears are washed away, washed away.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hosanna, hosanna<br/>You are the God who saves us,<br/>worthy of all our praises<br/>Hosanna, hosanna<br/>Come have Your way among us<br/>We welcome You here, Lord Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hear the sound of hearts returning to You,<br/>we turn to You.<br/>In Your Kingdom broken lives are made new,<br/>You make all things new.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>'Cause when we see You, we find strength<br/>to face the day.<br/>In Your presence all our fears are washed away, washed away.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hosanna, hosanna<br/>You are the God who saves us,<br/>worthy of all our praises<br/>Hosanna, hosanna<br/>Come have Your way among us<br/>We welcome You here, Lord Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

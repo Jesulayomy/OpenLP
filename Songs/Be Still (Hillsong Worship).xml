@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Be Still</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3245"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 Verse:<br/>Be still and know<br/>That the Lord is in control<br/>Be still my soul<br/>Stand and watch as giants fall</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>I won't be afraid for You are here<br/>You silence all my fear<br/>I won't be afraid You don't let go<br/>Be still my heart and know<br/>I won't be afraid</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 Verse:<br/>Be still and trust<br/>What the Lord has said is done<br/>Find rest don't strive<br/>Watch as faith and grace align</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>I won't be afraid for You are here<br/>You silence all my fear<br/>I won't be afraid You don't let go<br/>Be still my heart and know<br/>I won't be afraid<br/>I won't be afraid</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge: x4<br/>Surely love and mercy<br/>Your peace and kindness<br/>Will follow me<br/>Will follow me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Interlud:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Your love surrounds me<br/>Your love surrounds me here<br/>Your love surrounds me<br/>Your love surrounds me here</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Breakdown:</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge: x9<br/>Surely love and mercy<br/>Your peace and kindness<br/>Will follow me<br/>Will follow me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Outro:</lines>
+    </verse>
+  </lyrics>
+</song>

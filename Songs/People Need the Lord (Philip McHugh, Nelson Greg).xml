@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>People Need the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Philip McHugh</author>
+      <author type="music">Nelson Greg</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>worship</theme>
+      <theme>gods-might</theme>
+      <theme>meditation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everyday they pass me by I can see it in their eyes<br/>Empty people filled with care Headed who knows where<br/>On they go through private pain living fear to fear<br/>Laughter hides their silent cries only Jesus hears</lines>
+    </verse>
+    <verse name="c1">
+      <lines>People need the Lord, people need the Lord<br/>At the end of broken dreams, He's the open door<br/>People need the Lord, people need the Lord<br/>When will we realize people need the Lord?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are called to take His light to a world where wrong seems right<br/>What could be too great a cost for sharing life with one who's lost?<br/>Through His love our hearts can feel all the grief they bear<br/>They must hear the words of life only we can share</lines>
+    </verse>
+  </lyrics>
+</song>

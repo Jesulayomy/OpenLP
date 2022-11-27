@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:23">
+  <properties>
+    <titles>
+      <title>Look To The Son</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2160"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Words and Music by<br/>MATT CROCKER, JOEL HOUSTON,<br/>SCOTT LIGERTWOOD, REUBEN MORGAN<br/>&amp; MARTY SAMPSON<br/>♩= 124</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>N.C.<br/>Oh, we look to the Son<br/>Set our eyes on our Saviour<br/>See the image of love<br/>Sing His praises forever<br/>Oh we look to the Son</lines>
+    </verse>
+    <verse name="b1">
+      <lines>TAG:<br/>Oh we look to the Son</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE: 1<br/>Salvation, tearing through the dead of night<br/>See the kingdom burst<br/>Into colour at the speed of light<br/>Freedom, shaking up the atmosphere<br/>As the shadows fade<br/>into nothing as the day appears</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Beyond the skies above<br/>Love reaching out for us<br/>The everlasting One, Jesus our God</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Repeat CHORUS:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE: 2<br/>Creation, waking up to kingdom come<br/>See the hope of heaven<br/>Shining like the rising sun<br/>Now forever lifted up from death to life<br/>There's no fear in love<br/>And no darkness in His endless light</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Repeat PRE-CHORUS:<br/>Repeat CHORUS:<br/>Repeat TAG:<br/>Repeat PRE-CHORUS: twice</lines>
+    </verse>
+    <verse name="b2">
+      <lines>INSTRUMENTAL:<br/>Oh we look to the Son<br/>Oh we look to the Son, yeah, yeah</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Repeat CHORUS:<br/>Repeat TAG:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>FINAL CHORD</lines>
+    </verse>
+  </lyrics>
+</song>

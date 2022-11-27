@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>This Blood</title>
+    </titles>
+    <authors>
+      <author type="words">Paulette Wooten / Rita Springer</author>
+      <author type="music">Paulette Wooten / Rita Springer</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a blood that cost a life<br/>That paid my way Death its price<br/>When it flowed down from the cross<br/>My sins were gone, my sins forgot</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a grave that tried to hide<br/>This precious blood that gave me life<br/>In three days He breathed again<br/>And rose to stand in my defense</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So I come to tell you He's alive<br/>To tell you that He dries<br/>Every tear that falls<br/>So I come to tell you that He saves<br/>To shout and to proclaim<br/>That He's coming back for you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a blood that sights the blind<br/>That heals the sick, the lonely finds<br/>It has the power to free the bound<br/>As chains they fall upon the ground</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So pour it out to cleanse my soul<br/>And let His liquid glory flow<br/>Because He lives to make me whole<br/>I owe my life, I owe my all</lines>
+    </verse>
+    <verse name="c2">
+      <lines>So I come to tell you He's alive<br/>To tell you that He dries<br/>Every tear that falls<br/>So I come to tell you that He saves<br/>To shout and to proclaim<br/>That He's coming back for you<br/>(2x)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>What can wash away my sin?<br/>Nothing, nothing<br/>What can make me whole again?<br/>Nothing but the blood, nothing but the blood<br/>(2x)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is a grave that tried to hide<br/>This precious blood that gave me life<br/>In three days He breathed again<br/>And rose to stand in my defense</lines>
+    </verse>
+    <verse name="c3">
+      <lines>(Key up to F)<br/>So I come to tell you He's alive<br/>To tell you that He dries<br/>Every tear that falls<br/>So I come to tell you that He saves<br/>To shout and to proclaim<br/>That He's coming back for you</lines>
+    </verse>
+    <verse name="c4">
+      <lines>(Key up to G)<br/>So I come to tell you He's alive<br/>To tell you that He dries<br/>Every tear that falls<br/>So I come to tell you that He saves<br/>To shout and to proclaim<br/>That He's coming back for you</lines>
+    </verse>
+  </lyrics>
+</song>

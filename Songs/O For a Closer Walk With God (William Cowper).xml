@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>O For a Closer Walk With God</title>
+    </titles>
+    <authors>
+      <author>William Cowper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O for a closer walk with God,<br/>A calm and heavenly frame,<br/>A light to shine upon the road<br/>That leads me to the Lamb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where is the blessedness I knew<br/>When I first saw the Lord?<br/>Where is that soul-refreshing view<br/>Of Jesus and His word?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What peaceful hours I once enjoyed!<br/>How sweet their memory still!<br/>But they have left an aching void<br/>The world can never fill.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Return, O holy Dove! return,<br/>Sweet messenger of rest!<br/>I hate the sins that made Thee mourn,<br/>And drove Thee from my breast.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The dearest idol I have known,<br/>Whate’er that idol be,<br/>Help me tear if from Thy throne,<br/>And worship only Thee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So shall my walk be close with God,<br/>Calm and serene my frame;<br/>So purer light shall mark the road<br/>That leads me to the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

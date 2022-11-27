@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:01">
+  <properties>
+    <titles>
+      <title>Guide Me, O Thou Great Jehovah</title>
+    </titles>
+    <authors>
+      <author type="music">Hughes, John (1873-1932)</author>
+      <author type="words">Williams, William (1717-1791)</author>
+      <author type="translate">Williams, Peter (1723-1796)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Guide me, O Thou great Jehovah, Pilgrim through this barren land. I am weak, but Thou art mighty; Hold me with Thy pow'rful hand. Bread of Heaven, Bread of Heaven, Feed me till I want no more; Feed me till I want no more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Open now the crystal fountain, Whence the healing stream doth flow; Let the fire and cloudy pillar Lead me all my journey through. Strong Deliv'rer, strong Deliv'rer, Be Thou still my Strength and Shield; Be Thou still my Strength and Shield.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, I trust Thy mighty power, Wondrous are Thy works of old; Thou deliver'st Thine from thralldom, Who for naught themselves had sold: Thou didst conquer, Thou didst conquer, Sin, and Satan and the grave, Sin, and Satan and the grave.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I tread the verge of Jordan, Bid my anxious fears subside; Death of deaths, and hell's destruction, Land me safe on Canaan's side. Songs of praises, songs of praises, I will ever give to Thee; I will ever give to Thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Musing on my habitation, Musing on my heav'nly home, Fills my soul with holy longings: Come, my Jesus, quickly come; Vanity is all I see; Lord, I long to be with Thee! Lord, I long to be with Thee!</lines>
+    </verse>
+  </lyrics>
+</song>

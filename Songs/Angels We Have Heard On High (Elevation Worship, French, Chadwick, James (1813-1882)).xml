@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:49">
+  <properties>
+    <titles>
+      <title>Angels We Have Heard On High</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+      <author type="translate">Chadwick, James (1813-1882)</author>
+      <author type="words">French</author>
+      <author type="music">French</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2901"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>gospel</theme>
+      <theme>hope</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>christmas</theme>
+      <theme>gods-word</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Angels we have heard on high,<br/>Sweetly singing o'er the plains,<br/>And the mountains in reply,<br/>Echoing their joyous strains.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shepherds, why this jubilee?<br/>Why your joyous strains prolong?<br/>What the gladsome tidings be<br/>Which inspire your heavenly song?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come to Bethlehem and see<br/>Him whose birth the angels sing.<br/>Come adore on bended knee<br/>Christ, the Lord, the newborn King.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glooooooooooooooooooooria,<br/>In excelsis Deo;<br/>Glooooooooooooooooooooria,<br/>In excelsis Deo.</lines>
+    </verse>
+  </lyrics>
+</song>

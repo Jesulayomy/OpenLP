@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:44">
+  <properties>
+    <titles>
+      <title>there's not a friend</title>
+    </titles>
+    <authors>
+      <author type="words">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>There's not a Friend like the lowly Jesus:<br/>No, not one! no, not one!<br/>None else could heal all our souls' diseases:<br/>No, not one! no, not one!<br/><br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jesus knows all about our struggles;<br/>He will guide till the day is done:<br/>There's not a Friend like the lowly Jesus:<br/>No, not one! no, not one!<br/><br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>No friend like Him is so high and holy,<br/>No, not one! no, not one!<br/>And yet no friend is so meek and lowly,<br/>No, not one! no, not one!<br/><br/></lines>
+    </verse>
+    <verse name="v1d">
+      <lines>There's not an hour that He is not near us,<br/>No, not one! no, not one!<br/>No night so dark, but His love can cheer us,<br/>No, not one! no, not one!<br/><br/></lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Was e'er a gift like the Savior given?<br/>No, not one! no, not one!<br/>Will He refuse us a home in heaven?*<br/>No, not one! no, not one!<br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

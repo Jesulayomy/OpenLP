@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:49">
+  <properties>
+    <titles>
+      <title>O Sacred Head, Now Wounded</title>
+    </titles>
+    <authors>
+      <author type="music">Hassler, Hans Leo (1564-1612)</author>
+      <author type="words">Bernard of Clairvaux (1091-1153)</author>
+      <author type="translate">Alexander, James Waddel (1804-1859)</author>
+      <author type="music">Bach, Johann Sebastian (1685-1750)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>easter</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O sacred Head, now wounded, with grief and shame weighed down, Now scornfully surrounded with thorns, Thine only crown; O sacred Head, what glory, what bliss till now was Thine! Yet, though despised and gory, I joy to call Thee mine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What Thou, my Lord, hast suffered, was all for sinners' gain; Mine, mine was the transgression, but Thine the deadly pain. Lo, here I fall, my Savior! 'Tis I deserve Thy place; Look on me with Thy favor, vouchsafe to me Thy grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Men mock and taunt and jeer Thee, Thou noble countenance, Though mighty worlds shall fear Thee and flee before Thy glance. How art thou pale with anguish, with sore abuse and scorn! How doth Thy visage languish that once was bright as morn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now from Thy cheeks has vanished their color once so fair; From Thy red lips is banished the splendor that was there. Grim death, with cruel rigor, hath robbed Thee of Thy life; Thus Thou hast lost Thy vigor, Thy strength in this sad strife.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My burden in Thy Passion, Lord, Thou hast borne for me, For it was my transgression which brought this woe on Thee. I cast me down before Thee, wrath were my rightful lot; Have mercy, I implore Thee; Redeemer, spurn me not!</lines>
+    </verse>
+  </lyrics>
+</song>

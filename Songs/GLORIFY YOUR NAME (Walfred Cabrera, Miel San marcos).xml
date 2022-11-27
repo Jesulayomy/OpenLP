@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>GLORIFY YOUR NAME</title>
+    </titles>
+    <authors>
+      <author type="words">Walfred Cabrera</author>
+      <author type="music">Walfred Cabrera</author>
+      <author type="words">Miel San marcos</author>
+      <author type="music">Miel San marcos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>King of Glory I surrender,<br/>King of Heaven my voice I lift to You.<br/>Let my worship be pleasing unto You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My desire is to worship,<br/>all I long for is to touch your heart.<br/>Let my worship be pleasing unto you.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>/// There is no one else like You ///<br/>O Lord!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// King of Kings,<br/>Lord of all Lords<br/>I exalt Your Name on high<br/>as I draw closer<br/>to Your Great Throne<br/>Glorify Your Name //</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Time is almost at hand</title>
+    </titles>
+    <authors>
+      <author type="words">Nikita Isakov</author>
+      <author type="music">Nikita Isakov</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4045"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 verse:<br/>Minute fades after minute, day by day.<br/>It's getting harder to walk and to go on,<br/>The faintest breath of wind and you are worn out,<br/>But at every single moment, keep walking, hold on!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 verse:<br/>We are losing our hope for new encounters,<br/>Even time fails to heal and fails to lift us.<br/>In people's eyes there is grief and there's confusion<br/>But to all there is a conclusion, don't you give up, pray on!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Time is almost at hand! Jesus comes to embrace us,<br/>We will see many well-known faces,<br/>And God's love everlasting will forever abide in hearts.<br/>Dreary days will be gone with their void and delusions.<br/>A new world with no fears, no illusions<br/>There no place for the evil there is life you can't imagine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3 verse:<br/>Minute fades after minute, day by day.<br/>It's getting harder to walk, but I go on.<br/>Strength's not in my muscles, not in my head,<br/>It is hidden in my heart my God, you are my life.</lines>
+    </verse>
+  </lyrics>
+</song>

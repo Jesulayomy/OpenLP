@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>Free</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Would you believe me if I said<br/>That we are the ones who can make the change<br/>In the world today<br/>Would you believe me if I said<br/>That all of your dreams in your heart<br/>Can come true today<br/>Would you believe me if I said<br/>That life could be all that you want it to be today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And if I had wings I would fly<br/>'Cause all that I need, You are<br/>And if the world caved in around me<br/>To You I'd still hold on<br/>'Cause You're all that I believe<br/>And the one that created me<br/>Jesus because of You I'm free</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Would you believe me if I said<br/>That God can make miracles happen today<br/>Would you believe me if I said<br/>That you don't need to wait for the answers before<br/>You step out in faith<br/>Would you believe me if I said<br/>That nothing is ever impossible for God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And if I had wings I would fly<br/>'Cause all that I need, You are<br/>And if the world caved in around me<br/>To You I'd still hold on<br/>'Cause You're all that I believe<br/>And the one that created me<br/>Jesus because of You I'm free</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Just live your life with God inside<br/>You wont regret one moment of it<br/>And give all that you can for God, for God</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And if I had wings I would fly<br/>'Cause all that I need, You are<br/>And if the world caved in around me<br/>To You I'd still hold on<br/>'Cause You're all that I believe<br/>And the one that created me<br/>Jesus because of You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And if I had wings I would fly<br/>'Cause all that I need, You are<br/>And if the world caved in around me<br/>To You I'd still hold on<br/>'Cause You're all that I believe<br/>And the one that created me</lines>
+    </verse>
+  </lyrics>
+</song>

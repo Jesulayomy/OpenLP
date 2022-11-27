@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Open Heaven (River Wild)</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3562"/>
+    </songbooks>
+    <themes>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>Signs and wonders from above<br/>When You pour out Your Spirit<br/>On the old and the young<br/>In the power of Your presence</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Holy Spirit rain, falling like a flood<br/>Break upon my praise, as I sing of Your love<br/>Holy Spirit fire, burn within my soul<br/>As I call on Your name<br/>As I call on Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>Dreams and visions of the Son<br/>As we stand in Your presence<br/>Revelations of Your love<br/>As we look to the heavens</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Holy Spirit rain, falling like a flood<br/>Break upon my praise, as I sing of Your love<br/>Holy Spirit fire, burn within my soul<br/>As I call on Your name<br/>As I call on Your name<br/>As I call on Your name<br/>As I call on Your name       Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>[Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>2X Bridge:<br/>O Holy Spirit, burn like a fire<br/>All consuming me,  consume me<br/>Here in Your presence<br/>Lord I surrender<br/>To Your glory<br/>For Your glory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bridge 2:<br/>Living water,  river wild in me<br/>Immerse me in   Your mercy<br/>Open heaven,   crashing over me<br/>Restore me   in Your glory</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge:<br/>O Holy Spirit, burn like a fire<br/>All consuming me,  consume me<br/>Here in Your presence<br/>Lord I surrender<br/>To Your glory<br/>For Your glory</lines>
+    </verse>
+    <verse name="b4">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b5">
+      <lines>Bridge:<br/>O Holy Spirit, burn like a fire<br/>O consume me,  consume me<br/>Here in Your presence<br/>Lord I surrender<br/>To Your glory<br/>For Your glory</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>Holy Spirit rain, falling like a flood<br/>Break upon my praise, as I sing of Your love<br/>Holy Spirit fire, burn within my soul<br/>As I call on Your name<br/>As I call on Your name</lines>
+    </verse>
+    <verse name="b6">
+      <lines>Ending:<br/>As I call on Your name (Jesus)<br/>As I call on Your name (Jesus)<br/>As I call on Your name (Jesus)<br/>As I call on Your name (Jesus)<br/>As I call on Your name (Jesus)<br/>As I call on Your name        Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

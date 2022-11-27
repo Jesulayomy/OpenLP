@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>O Sacred King</title>
+    </titles>
+    <copyright>1999 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Sacred king<br/>O Holy King<br/>How can I honor You rightly<br/>Honor that's fit for Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Sacred Friend<br/>O Holy friend<br/>I don't take what You did lightly<br/>Friendship instead of disgrace</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For it's the mystery of the universe<br/>You're the God of holiness<br/>Yet You welcome souls like me<br/>And with the blessing of your father's heart<br/>You discipline the ones you love<br/>There's kindness in Your majesty<br/>Jesus those who recognize your power<br/>Know just how wonderful You are<br/>When You draw near.</lines>
+    </verse>
+  </lyrics>
+</song>

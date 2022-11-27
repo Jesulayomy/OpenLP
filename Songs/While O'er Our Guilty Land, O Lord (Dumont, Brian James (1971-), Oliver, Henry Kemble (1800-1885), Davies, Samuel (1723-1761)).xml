@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>While O'er Our Guilty Land, O Lord</title>
+    </titles>
+    <authors>
+      <author type="music">Oliver, Henry Kemble (1800-1885)</author>
+      <author type="words">Davies, Samuel (1723-1761)</author>
+      <author type="words">Dumont, Brian James (1971-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>While o'er our guilty land, O Lord, We view the terrors of Your sword, O where can all the helpless fly? To whom but You direct their cry?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On You, our guardian God, we call; Before Your throne of grace we fall; But is there no deliv'rance there? And must we perish in despair?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See, we repent, we weep, we mourn; To our forsaken God we turn; O spare our guilty country, spare The Church which You have planted there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are the old, the sick, the lame; We blind and deaf cry Jesus' Name. We plead Your mercy for His sake, And trust that You will not forsake.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Christ is our only righteousness, His death for us is our redress. Your promise stronger than our sin; Blot out O Lord what we have been.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We are your children after all,<br/>Redeemed by Christ after the fall.<br/>Marked with Your Name in Baptism,<br/>Our home remains in Your Kingdom.</lines>
+    </verse>
+  </lyrics>
+</song>

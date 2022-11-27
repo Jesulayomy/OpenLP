@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>Thank You for Hearing Me</title>
+    </titles>
+    <copyright>2002 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank You for loving me.<br/>Thank You for loving me.<br/>Thank You for loving me.<br/>Thank You for loving me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thank You for finding me.<br/>Thank You for finding me.<br/>Thank You for finding me.<br/>Thank You for finding me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thank You for hearing me.<br/>Thank You for hearing me.<br/>Thank You for hearing me.<br/>Thank You for hearing me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thank You for healing me.<br/>Thank You for healing me.<br/>Thank You for healing me.<br/>Thank You for healing me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thank You for loving me.<br/>Thank You for loving me.<br/>Thank You for loving me.<br/>Thank You for loving me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Thank You for saving me.<br/>Thank You for saving me.<br/>Thank You for saving me.<br/>Thank You for saving me.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>La la la la la la.<br/>La la la la la la.<br/>La la la la la la.<br/>La la la la la la.</lines>
+    </verse>
+  </lyrics>
+</song>

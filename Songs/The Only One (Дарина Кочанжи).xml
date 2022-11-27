@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>The Only One</title>
+    </titles>
+    <authors>
+      <author type="words">Дарина Кочанжи</author>
+      <author type="music">Дарина Кочанжи</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2837"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 VERSE:<br/>My God is a Holy Elohim,<br/>My God is a God of Abraham,<br/>Who is like You? No one else.<br/>Its time to worship You, my Lord<br/>You are Creator of this world,<br/>All other gods are just false.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS:<br/>You said and it's done<br/>You are the only One.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>My God You're amazing, You're amazing!<br/>Your love's healing my soul and my heart.<br/>My God You're amazing, You're amazing!<br/>There's no, no one like You, my God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 VERSE:<br/>And on Your Throne in the sky,<br/>You worried that I might die.<br/>You gave Your Son to sacrifice,<br/>So I could go to paradise.</lines>
+    </verse>
+  </lyrics>
+</song>

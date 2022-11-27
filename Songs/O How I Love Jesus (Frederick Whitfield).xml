@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:04">
+  <properties>
+    <titles>
+      <title>O How I Love Jesus</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author type="words">Frederick Whitfield</author>
+      <author type="music">Frederick Whitfield</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a name I love to hear. I love to sing it's worth.<br/>It sounds like music in my ear, the sweetest name on earth.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, How I love Jesus, Oh how I love Jesus, Oh How I love Jesus<br/>Because He first loved me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It tells me of a Saviour's love who died to set me free.<br/>It tells me of His precious blood, the sinners perfect plea.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It tells me what my Father hath in store for every day,<br/>And tho' I tread a darksome path, yields sunshine all the way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It tells of One whose loving heart can feel my deepest woe,<br/>Who in each sorrow bears a part that none can bear below.</lines>
+    </verse>
+  </lyrics>
+</song>

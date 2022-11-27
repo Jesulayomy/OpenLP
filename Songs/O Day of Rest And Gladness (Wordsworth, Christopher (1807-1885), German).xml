@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>O Day of Rest And Gladness</title>
+    </titles>
+    <authors>
+      <author type="music">German</author>
+      <author type="words">Wordsworth, Christopher (1807-1885)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O day of rest and gladness, o day of joy and light, O balm of care and sadness, most beautiful, most bright: On thee, the high and lowly, through ages joined in tune, Sing holy, holy, holy, to the great God Triune.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On thee, at the creation, the light first had its birth; On thee, for our salvation, Christ rose from depths of earth; On thee, our Lord, victorious, the Spirit sent from heaven, And thus on thee, most glorious, a triple light was given.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou art a port, protected from storms that round us rise; A garden, intersected with streams of paradise; Thou art a cooling fountain in life's dry, dreary sand; From thee, like Pisgah's mountain, we view our promised land.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou art a holy ladder, where angels go and come; Each Sunday finds us gladder, nearer to heaven, our home; A day of sweet refection, thou art a day of love, A day of resurrection from earth to things above.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Today on weary nations the heavenly manna falls; To holy convocations the silver trumpet calls, Where Gospel light is glowing with pure and radiant beams, And living water flowing, with soul refreshing streams.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>New graces ever gaining from this our day of rest,<br/>We reach the rest remaining to spirits of the blessed.<br/>To Holy Ghost be praises, to Father, and to Son;<br/>The church her voice upraises to Thee, blessed Three in One.</lines>
+    </verse>
+  </lyrics>
+</song>

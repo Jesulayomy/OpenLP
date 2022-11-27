@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Holy, Holy, Holy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6140"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Holy Holy is the God of Israel<br/>Elders bow in worship as the angel voices swell<br/>Fragrant clouds of incense swirl around Your throne of grace<br/>Lord we bow in worship at the brilliance of Your face. We cry</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy Holy Holy is the Lord<br/>Holy Holy Holy is the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy Holy Holy is the song that Heaven sings<br/>All creation praise Him Hallelujah Elohim<br/>Come to reign forever King of kings and Lord of lords<br/>Lift your head O Zion open wide you ancient doors And cry</lines>
+    </verse>
+  </lyrics>
+</song>

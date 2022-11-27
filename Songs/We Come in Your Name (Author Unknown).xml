@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>We Come in Your Name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We come in Your name<br/>For all things You have made<br/>And by Your Word all things You sustain<br/>The Lamb that was slain<br/>For our sins lives to reign<br/>The Lord of all, Name above all names!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have been saved by faith<br/>Into Your glorious Name<br/>And this a gift of grace, freely given us<br/>Now all our sins are gone<br/>Defeated at the cross<br/>And we now live in You<br/>Raised with You by the power of God!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You have been lifted to the highest place<br/>And You now live and rule forever!<br/>We come to bring to You the highest praise<br/>For You are King of kings forever:<br/>Son of God, Jesus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy is the Lamb<br/>Worthy of glory, worthy of honour<br/>High and lifted up and seated in majesty<br/>Your throne will last forever<br/>Your throne will last forever<br/>Your throne will last forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

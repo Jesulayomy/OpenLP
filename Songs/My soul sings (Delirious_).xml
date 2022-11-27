@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>My soul sings</title>
+    </titles>
+    <authors>
+      <author type="words">Delirious?</author>
+      <author type="music">Delirious?</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1948"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Open my eyes and see<br/>The wonderful mystery of your love<br/>I am falling unto you<br/>I am drawn to the gravity of your love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>We are standing still<br/>In a moment of eternity<br/>When worlds collide<br/>And I feel the breath of heaven over me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>My soul sings my soul sings<br/>My soul sings how I love you<br/>My soul sings my soul sings<br/>My soul sings how I love you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Open the page and see<br/>The wonderful history of your love<br/>I start and end with you<br/>I am pulled to the gravity of your love.</lines>
+    </verse>
+  </lyrics>
+</song>

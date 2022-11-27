@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>Jesus What a Beautiful Name</title>
+    </titles>
+    <copyright>1995 Tanya Riches / Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Tanya Riches</author>
+      <author type="music">Tanya Riches</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, what a beautiful name.<br/>Son of God, Son of man, Lamb that was slain.<br/>Joy and peace, strength and hope,<br/>Grace that blows all fear away.<br/>Jesus, what a beautiful name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, what a beautiful name.<br/>Truth revealed, my future sealed, healed my pain.<br/>Love and freedom, life and warmth,<br/>Grace that blows all fear away.<br/>Jesus, what a beautiful name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, what a beautiful name.<br/>Rescued my soul, my stronghold, lifts me from shame.<br/>Forgiveness, security, power and love,<br/>Grace that blows all fear away.<br/>Jesus, what a beautiful name.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>I love that man from Galilee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In a manger long ago, I know it's really so,<br/>A Babe was born to save men from their sin.<br/>John saw Him on the shore, the Lamb forevermore,<br/>Oh, the Christ, the Crucified of Calvary.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, I love that Man from Galilee,<br/>For He's done so very much for me.<br/>He's forgiven all my sins, placed the Holy Ghost within;<br/>Oh, I love that man from Galilee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The publican went to pray in the temple there one day,<br/>He cried, "O Lord be merciful to me!"<br/>He was forgiven of every sin, and a deep peace placed within;<br/>He said, "Come see this Man from Galilee."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The lame was made to walk, the dumb was made to talk,<br/>That power was spoken with love upon the sea;<br/>The blind was made to see, I know it could only be<br/>The mercy of that Man from Galilee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nicodemus came by night, to know the way of right,<br/>He asked the Son of Man what must he do.<br/>These words He said to him, "Ye must be born again,"<br/>By the Spirit of that Man from Galilee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The woman at the well, He all her sins did tell,<br/>How five husbands she had at that time,<br/>She was forgiven of every sin, and a deep peace came within;<br/>Then she cried, "Come see that Man from Galilee!"</lines>
+    </verse>
+  </lyrics>
+</song>

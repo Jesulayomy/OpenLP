@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:49">
+  <properties>
+    <titles>
+      <title>O Come, All Ye Faithful</title>
+    </titles>
+    <authors>
+      <author type="words">Wade, John Francis (circa 1710-1786)</author>
+      <author type="music">Wade, John Francis (circa 1710-1786)</author>
+      <author type="translate">Oakeley, Frederick (1802-1880)</author>
+      <author type="translate">Brooke, William Thomas (1848-1917)</author>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>hymn</theme>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>appeal</theme>
+      <theme>gospel</theme>
+      <theme>worship</theme>
+      <theme>violin</theme>
+      <theme>celebration</theme>
+      <theme>christmas</theme>
+      <theme>light</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O come all ye faithful, joyful and triumphant<br/>O come ye, o come ye to Bethlehem<br/>Come and behold Him, born the King of angels</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O come let us adore Him,<br/>O come let us adore Him,<br/>O come let us adore Him,<br/>Christ the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>True God of true God, light of light eternal<br/>He who abhors not the virgin's womb<br/>Son of the Father, begotten not created</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing choir of angels, sing in exhaltation<br/>Sing all ye citizens of heaven above<br/>Glory to God, glory in the highest</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yea Lord we greet Thee, born this happy morning<br/>Jesus to Thee be glory given<br/>Word of the Father, now in flesh appearing</lines>
+    </verse>
+  </lyrics>
+</song>

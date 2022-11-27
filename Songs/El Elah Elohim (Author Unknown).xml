@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:41">
+  <properties>
+    <titles>
+      <title>El Elah Elohim</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>El Elah Elohim<br/>How we long to worship You.<br/>El Elah Elohim<br/>How we long to worship You.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lord we come to You in worship<br/>No matter what the circumstance.<br/>No matter what the situation<br/>We will lift up holy hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here we are in Satan's Eden<br/>Satan comes to beat us down<br/>But with your Spirit here before us<br/>In righteousness, we'll arise and save</lines>
+    </verse>
+  </lyrics>
+</song>

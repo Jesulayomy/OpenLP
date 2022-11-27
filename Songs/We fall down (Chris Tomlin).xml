@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>We fall down</title>
+    </titles>
+    <copyright>1998 worshiptogether.com songs</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>worship</theme>
+      <theme>gods-holiness</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>longing</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We fall down, we lay our crowns<br/>At the feet of Jesus<br/>The greatness of mercy and love<br/>At the feet of Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And we cry holy, holy, holy<br/>And we cry holy, holy, holy<br/>And we cry holy, holy, holy<br/>Is the Lamb<br/>Holy, holy, holy is the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

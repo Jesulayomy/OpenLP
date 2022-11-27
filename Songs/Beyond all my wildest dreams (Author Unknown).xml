@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:34">
+  <properties>
+    <titles>
+      <title>Beyond all my wildest dreams</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beyond all my wildest dreams<br/>Your grace is alive in me<br/>I'm caught in the overflow<br/>Of mercy that won't let go</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Here on this holy ground<br/>Standing before You now<br/>Jesus<br/>You are more than enough<br/>If there's one thing I know<br/>It's how You love me so<br/>Jesus<br/>You are more than enough for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Finally my eyes can see<br/>You've never abandoned me<br/>I'm held by the kindness of<br/>A Father who won't give up<br/>My Father, You'll never give up</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Forever strong<br/>Forever faithful<br/>All my life, You are enough for me<br/>In every storm<br/>In every battle<br/>All my life, You are enough for me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are more than enough for me<br/>Fear could never conquer me<br/>Cause You already have, you already have<br/>Worry could never conquer me</lines>
+    </verse>
+  </lyrics>
+</song>

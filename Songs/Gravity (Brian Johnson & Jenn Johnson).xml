@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Gravity</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson &amp; Jenn Johnson</author>
+      <author type="music">Brian Johnson &amp; Jenn Johnson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3725"/>
+    </songbooks>
+    <themes>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse 1]<br/>I get caught up<br/>In all these petty things<br/>Losing sight of what matters to You<br/>But then You come<br/>And take me by the hand<br/>You say, "Come up here with me"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[Chorus]<br/>And then my feet came off the ground<br/>You lifted me above the clouds<br/>As I look down the whole world seemed so small<br/>Past the stars through space and time<br/>And I forget what's left behind<br/>As I'm surrounded by these grander things<br/>Up here in perfect harmony<br/>You're orchestrating galaxies<br/>They're lighting up as far as I can see<br/>The majesty<br/>The mystery</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Verse 2]<br/>Your gravity<br/>Pulls me close to You<br/>And I can breathe again<br/>Here with You<br/>There's nothing more to say<br/>And it's clear what matters to You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Woah-ohh ... oh-ohh-ohhh<br/>Woah-ohh ... oh-ohh<br/>Woah-ohh ... oh-ohh-ohhh<br/>Woah-ohh ... oh-ohh</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Bridge 1]<br/>Sovereign<br/>High above it all<br/>Sovereign You are<br/>And I can rest<br/>'Cause it's all in Your hands<br/>Sovereign You are</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[Instrumental]</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[Bridge 2]<br/>Sovereign<br/>High above it all<br/>Sovereign You are<br/>And I can rest<br/>It's all in Your hands<br/>Sovereign You are</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Praise Him You Heavens</title>
+      <title>Great in Power</title>
+    </titles>
+    <copyright>1998 Russell Fragar / Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Russell Fragar</author>
+      <author type="music">Russell Fragar</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise Him, you heavens and all that's above.<br/>Praise Him, you angels and heavenly hosts.<br/>Let the whole earth praise Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise Him, the sun, moon and bright shining stars.<br/>Praise Him, you heavens and waters and skies.<br/>Let the whole earth praise Him.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great in power, great in glory.<br/>Great in mercy, King of Hea - ven.<br/>Great in battle, great in won-der.<br/>Great in Zion, King over all  the Earth.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>King over all  the Earth.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>Wonder (Spontaneous)</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1867"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>May we never lose our wonder<br/>May we never lose our wonder<br/>Wide eyed and mystified<br/>May we be just like a child<br/>Staring at the beauty of our King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ooooh oh oh<br/>Fill us with wonder<br/>May we never lose our wonder<br/>May we never lose our wonder<br/>Wide eyed and mystified<br/>May we be just like a child<br/>Staring at the beauty of our King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cause you are beautiful in all your ways<br/>King of Kings<br/>You are beautiful in all your ways<br/>Ooooh<br/>Cause you are beautiful in all your ways<br/>Just close your eyes<br/>Just close your eyes, you'll see him<br/>You are beautiful in all your ways<br/>Open the eyes of our heart to see you God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May we never lose our wonder<br/>May we never lose our wonder<br/>Wide eyed and mystified<br/>May we be just like a child<br/>Staring at the beauty of our King</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cause you are beautiful in all your ways<br/>Oh you are, yes you are<br/>You are beautiful in all your ways<br/>We give our lives to sing<br/>Oooh oh oh<br/>Cause you are beautiful in all your ways<br/>Ooooooh<br/>Cause you are beautiful in all your ways<br/>Oooooooooooh<br/>You fascinate me<br/>You fascinate us<br/>You fascinate us, with you are<br/>You fascinate us<br/>You fascinate us<br/>You fascinate us with your love<br/>You are beautiful<br/>You are glorious<br/>You are beautiful<br/>Yes you are<br/>You are beautiful<br/>You are glorious<br/>You are beautiful</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are beautiful in all your ways<br/>You are beautiful in all your ways</lines>
+    </verse>
+    <verse name="v7">
+      <lines>May we never lose our wonder</lines>
+    </verse>
+  </lyrics>
+</song>

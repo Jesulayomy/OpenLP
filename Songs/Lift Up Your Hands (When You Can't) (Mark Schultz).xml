@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Lift Up Your Hands (When You Can't)</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Schultz</author>
+      <author type="music">Mark Schultz</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3583"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[Verse 1]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well I know that your heart is past broken<br/>And it feels like you got nothing left<br/>And you can't find your song cause you can't even speak<br/>You're just trying to take the next breath</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[Verse 2]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And you find yourself here in this moment<br/>Where we have all gathered to praise<br/>And though you wish that you did you've got nothing to give<br/>It's enough that you're here anyway</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[Chorus]</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So let me stand up and sing of His goodness<br/>Let me lift up a song in your place<br/>Cause I know that He'll always be with us<br/>Even when we can't see His face<br/>I'm gonna sing to the One who is faithful</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Though the battle is not over yet<br/>And I'll be your voice till you're able<br/>And I'll lift up your hands when you can't</lines>
+    </verse>
+    <verse name="v8">
+      <lines>[Verse 3]</lines>
+    </verse>
+    <verse name="v9">
+      <lines>One day I'll walk through the shadows<br/>Too weary and worn out to stand<br/>And I'm gonna need you beside me<br/>To lift up this song once again</lines>
+    </verse>
+    <verse name="v10">
+      <lines>[Chorus]</lines>
+    </verse>
+    <verse name="v11">
+      <lines>So let me stand up and sing of His goodness<br/>Let me lift up a song in your place<br/>Cause I know that He'll always be with us<br/>Even when we can't see His face<br/>I'm gonna sing to the One who is faithful</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Though the battle is not over yet<br/>And I'll be your voice till you're able<br/>And I'll lift up your hands when you can't When you can't</lines>
+    </verse>
+    <verse name="v13">
+      <lines>[Bridge]</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Hallelujah, we'll thank Him for all that He's done<br/>Hallelujah, we'll thank Him for what's yet to come<br/>Hallelujah, we'll thank Him for all that He's done<br/>Hallelujah, we'll thank Him for what's yet to come</lines>
+    </verse>
+  </lyrics>
+</song>

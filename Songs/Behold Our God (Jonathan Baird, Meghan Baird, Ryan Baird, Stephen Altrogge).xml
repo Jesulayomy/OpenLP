@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Behold Our God</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Baird</author>
+      <author type="music">Jonathan Baird</author>
+      <author type="words">Meghan Baird</author>
+      <author type="music">Meghan Baird</author>
+      <author type="words">Ryan Baird</author>
+      <author type="music">Ryan Baird</author>
+      <author type="words">Stephen Altrogge</author>
+      <author type="music">Stephen Altrogge</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5481"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>praise</theme>
+      <theme>worship</theme>
+      <theme>gods-might</theme>
+      <theme>devotion</theme>
+      <theme>creation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who has held the oceans in His hands?<br/>Who has numbered every grain of sand?<br/>Kings and nations tremble at His voice<br/>All creation rises to rejoice</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Behold our God, seated on His throne<br/>Come, let us adore Him<br/>Behold our King, nothing can compare<br/>Come, let us adore Him!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who has given counsel to the Lord?<br/>Who can question any of His words?<br/>Who can teach the One who knows all things?<br/>Who can fathom all His wondrous deeds?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who has felt the nails upon His hands<br/>Bearing all the guilt of sinful man?<br/>God eternal, humbled to the grave<br/>Jesus, Savior, risen now to reign!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>// You will reign forever (Let Your glory fill the earth) //</lines>
+    </verse>
+  </lyrics>
+</song>

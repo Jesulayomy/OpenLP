@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Still believe</title>
+    </titles>
+    <authors>
+      <author type="words">Kim Walker-Smith</author>
+      <author type="music">Kim Walker-Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3518"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Your blood makes the deaf to hear, right now<br/>Your blood takes away the curse, right now<br/>Your blood heals every disease, right now<br/>Your blood, sets the addict free, right now</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>And I still believe<br/>You're the same yesterday, today and forever<br/>And I still believe,<br/>your blood is sufficient for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Your blood mends the broken heart, right now<br/>Your love propels me to forgive right now<br/>Your blood transforms my mind right now<br/>Your blood brings the dead to life, right now</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>And I still believe<br/>You're the same yesterday, today and forever<br/>And I still believe,<br/>your blood is sufficient for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 3<br/>Your blood mends the broken heart, right now<br/>Your love propels me to forgive right now<br/>Your blood transforms my mind right now<br/>Your blood brings the dead to life, right now</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus: x2<br/>And I still believe<br/>You're the same yesterday, today and forever<br/>And I still believe,<br/>your blood is sufficient for me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge: x2<br/>You're the higher power, darkness cannot stand<br/>No longer bound to sin, I am free</lines>
+    </verse>
+  </lyrics>
+</song>

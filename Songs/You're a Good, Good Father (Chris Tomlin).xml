@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:46">
+  <properties>
+    <titles>
+      <title>You're a Good, Good Father</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1299"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+      <theme>holy-spirit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, I've heard a thousand stories<br/>Of what they think You're like<br/>But, I've heard the tender whisper<br/>Of love in the dead of night<br/>And You tell me that You're pleased<br/>And that I'm never alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're a Good, Good Father<br/>It's who You are<br/>It's who You are<br/>It's who you are<br/>And I'm loved by You<br/>It's who I am<br/>It's who I am<br/>It's who I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, and I've seen many searching<br/>For answers far and wide<br/>But I know we're all searching<br/>For answers only You provide<br/>Cause You know just what we need<br/>Before we, say a word</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Cause You are perfect in all of your ways<br/>Perfect in all of your ways<br/>You are perfect in all of Your ways to us<br/>You are perfect in all of your ways<br/>Oh, You're perfect in all of your ways<br/>You are perfect in all of Your ways to us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, it's a love so un-deniable<br/>I, I can hardly speak<br/>Peace so un-explainable<br/>I, I can hardly think<br/>As You call me deeper still<br/>As You call me deeper still<br/>As You call me deeper still<br/>And to love, love, love</lines>
+    </verse>
+  </lyrics>
+</song>

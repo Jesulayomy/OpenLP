@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Forever (The Nails in Your Hands)</title>
+    </titles>
+    <copyright>1995 Holland Davis</copyright>
+    <authors>
+      <author type="words">Richard Cimino</author>
+      <author type="music">Richard Cimino</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The nails in Your hands, the nails in Your feet,<br/>They tell me how much You love me.<br/>The thorns on Your brow, they tell me how<br/>You bore so much shame to love me.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>    Bm7 C2<br/>And when the heavens pass away,<br/>And all Your scars they still remain,<br/>And forever they will say<br/>How much You love me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Forever my love, forever my heart,<br/>Forever my life is Yours.<br/>Forever my love, forever my heart,<br/>Forever my life is Yours.</lines>
+    </verse>
+  </lyrics>
+</song>

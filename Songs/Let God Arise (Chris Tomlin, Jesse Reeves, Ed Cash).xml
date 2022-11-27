@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Let God Arise</title>
+    </titles>
+    <copyright>2006 worshiptogether.com songs | sixsteps Music | Alletrop Music | Vamos Publishing</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear the holy roar of God resound.<br/>Watch the waters part before us now.<br/>Come and see what He has done for us.<br/>Tell the world of His great love.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Our God is a God who saves.<br/>Our God is a God who saves.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let God arise.<br/>Let God arise.<br/>Our God reigns now and forever,<br/>He reigns now and forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His enemies will run for sure.<br/>The Church will stand she will endure.<br/>He holds the keys of life, our Lord.<br/>Death has no sting, no final word.</lines>
+    </verse>
+  </lyrics>
+</song>

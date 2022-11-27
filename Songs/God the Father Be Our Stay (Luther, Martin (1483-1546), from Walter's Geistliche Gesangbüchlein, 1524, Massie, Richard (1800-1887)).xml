@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>God the Father Be Our Stay</title>
+      <title>God the Father With Us Stay, God the Father With Us Be</title>
+    </titles>
+    <authors>
+      <author type="music">from Walter's Geistliche Gesangbüchlein, 1524</author>
+      <author type="words">Luther, Martin (1483-1546)</author>
+      <author type="translate">Massie, Richard (1800-1887)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God the Father, be our Stay, When hell's dread pow'rs assail us; Cleanse us from our sins, we pray, Nor in our last hour fail us. Keep us from the Evil One; Firm in the faith abiding, In Christ our Savior hiding, And heartily confiding. Let us put God's armor on: With all true Christians running Our heav'nly race and shunning The devil's wiles and cunning. Amen, Amen, this be done, So sing we, Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Christ be Thou our Stay, When hell's dread pow'rs assail us; Cleanse us from our sins, we pray, Nor in our last hour fail us. Keep us from the Evil One; Firm in the faith abiding, In Christ our Savior hiding, And heartily confiding. Let us put God's armor on: With all true Christians running Our heav'nly race and shunning The devil's wiles and cunning. Amen, Amen, this be done, So sing we, Hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Ghost, be Thou our Stay, When hell's dread pow'rs assail us; Cleanse us from our sins, we pray, Nor in our last hour fail us. Keep us from the Evil One; Firm in the faith abiding, In Christ our Savior hiding, And heartily confiding. Let us put God's armor on: With all true Christians running Our heav'nly race and shunning The devil's wiles and cunning. Amen, Amen, this be done, So sing we, Hallelujah!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>1(alt). Triune God, be Thou our Stay, When hell's dread pow'rs assail us; Cleanse us from our sins, we pray, Nor in our last hour fail us. Keep us from the Evil One; Firm in the faith abiding, In Christ our Savior hiding, And heartily confiding. Let us put God's armor on: With all true Christians running Our heav'nly race and shunning The devil's wiles and cunning. Amen, Amen, this be done, So sing we, Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

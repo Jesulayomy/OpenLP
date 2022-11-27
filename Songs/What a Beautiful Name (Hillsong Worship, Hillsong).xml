@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:13">
+  <properties>
+    <titles>
+      <title>What a Beautiful Name</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+      <author type="words">Hillsong</author>
+      <author type="music">Hillsong</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You were the Word at the beginning<br/>One With God the Lord Most High<br/>Your hidden glory in creation<br/>Now revealed in You Our Christ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>What a beautiful Name it is, what a beautiful Name it is<br/>The Name of Jesus Christ my King<br/>What a beautiful Name it is, nothing compares to this<br/>What a beautiful Name it is, the Name of Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You didn't want heaven without us<br/>So Jesus You brought heaven down<br/>My sin was great, Your love was greater<br/>What could separate us now</lines>
+    </verse>
+    <verse name="c2">
+      <lines>What a wonderful name it is, what a wonderful Name it is<br/>The name of Jesus Christ my King<br/>What a wonderful name it is, nothing compares to this<br/>What a wonderful name it is, the Name of Jesus<br/>What a wonderful name it is, the Name of Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Death could not hold You, the veil tore before You<br/>You silenced the boast of sin and grave<br/>The heavens are roaring, the praise of Your glory<br/>For You are raised to life again<br/>You have no rival, You have no equal<br/>Now and forever God you reign<br/>Yours is the Kingdom, Yours is the glory<br/>Yours is the Name above all names</lines>
+    </verse>
+    <verse name="c3">
+      <lines>What a powerful Name it is, What a powerful Name it is<br/>The Name of Jesus Christ my King<br/>What a powerful Name it is, Nothing can stand against<br/>What a powerful Name it is, The Name of Jesus<br/>What a powerful Name it is, The Name of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

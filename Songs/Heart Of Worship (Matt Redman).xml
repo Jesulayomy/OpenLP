@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>Heart Of Worship</title>
+      <title>When the Music Fades</title>
+    </titles>
+    <copyright>1999 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="2551"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>repentance</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>commitment</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+      <theme>sacrifice</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the music fades,<br/>All is stripped away,<br/>And I simply come,<br/>Longing just to bring<br/>Something that's of worth<br/>That will bless Your heart.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I'll bring You more than a song,<br/>For a song in itself is not what You have required.<br/>You search much deeper within, through the way things appear;<br/>You're looking into my heart.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm coming back to the heartof worship,<br/>And it's all about You; it's all about You, Jesus;<br/>I'm sorry, Lord,<br/>for the thingI've made it<br/>When it's all about You; it's all about You, Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King of endless worth,<br/>No one could express<br/>How much You deserve;<br/>Though I'm weak and poor,<br/>All I have is Yours,<br/>Every single breath.</lines>
+    </verse>
+  </lyrics>
+</song>

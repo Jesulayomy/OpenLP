@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Be My Vision</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be my vision when the waves are closing in<br/>Keep my focus on the peace, You breathed within<br/>And my heart will fear no more<br/>As I turn to face You, Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Take this life let glory and majesty<br/>Flood my eyes Lord, overwhelm me till<br/>all that I want and all that I see is You<br/>Till all that I see is You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be my vision when I've reached life's greatest day<br/>Give me wisdom that I will humble myself and pray<br/>Teach my heart to lean on You<br/>Lord, in everything I do</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Take this life let glory and majesty<br/>Flood my eyes Lord, overwhelm me till<br/>All that I want and all that I see is You<br/>Step by step, Jesus, I'll follow You<br/>Breath by breath, Lord, I will worship You<br/>Burn in my heart till all that I see is You</lines>
+    </verse>
+    <verse name="c3">
+      <lines>PostTill all that I see is You, till all that I see is You<br/>Till all that I see is You, Jesus<br/>Till all that I see is You, till all that I see is You<br/>Till all that I see is You, Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I can see You now, I can see You now<br/>Lord, You are here with me You're present in everything<br/>So I'll lift my voice I have resolved to serve You, Lord<br/>Jesus be all I see, Jesus in everything</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Take this life let glory and majesty<br/>Flood my eyes Lord, overwhelm me till<br/>All that I want and all that I see is You<br/>Step by step, Jesus, I'll follow You<br/>Breath by breath, Lord, I will worship You<br/>Burn in my heart till all that I see is You</lines>
+    </verse>
+    <verse name="c5">
+      <lines>PostTill all that I see is You, till all that I see is You<br/>Till all that I see is You, Jesus<br/>Till all that I see is You, till all that I see is You<br/>Till all that I see is You, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

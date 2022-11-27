@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>The Word is alive</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4474"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Word is alive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Looking out from His throne, the Father of light and of men<br/>Chose to make Himself known and show us the way back to Him<br/>Speaking wisdom and truth into the hearts of peasants and kings<br/>He began to unveil the Word that would change the course of all things</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With eyes wide open, all would see</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Word is alive and it cuts like a sword through the darkness<br/>With a message of life to the hopeless and afraid<br/>Breathing life into all who believe<br/>The Word is alive and the world and its glories will fade<br/>But His truth, it will not pass away<br/>It remains yesterday and forever the same<br/>The Word is alive</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Simple strokes on a page eternity's secrets revealed,<br/>Carried on from age to age it speaks Truth to us even still<br/>And as the rain falls from Heaven, feeds the earth before it returns<br/>Lord, let Your Word fall on us and bring forth the fruit You deserve</lines>
+    </verse>
+    <verse name="v5">
+      <lines>With eyes wide open, let us see</lines>
+    </verse>
+  </lyrics>
+</song>

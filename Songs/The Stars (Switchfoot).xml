@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>The Stars</title>
+    </titles>
+    <authors>
+      <author type="words">Switchfoot</author>
+      <author type="music">Switchfoot</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Maybe I've been the problem.<br/>Maybe I'm the one to blame.<br/>But even when I turn it off and blame myself,<br/>The outcome feels the same.<br/>I've been thinking maybe I've been partly cloudy.<br/>Maybe I'm the chance of rain.<br/>And maybe I'm overcast,<br/>And maybe all my luck's washed down the drain.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I've been thinking 'bout everyone,<br/>Everyone you look so lonely.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>But when I look at the stars,<br/>When I look at the stars,<br/>When I look at the stars, I see someone else.<br/>When I look at the stars,<br/>The stars, I feel like myself.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stars looking at a planet,<br/>Watching entropy and pain,<br/>And maybe start to wonder<br/>How the chaos in our lives could pass as sane.<br/>I've been thinking 'bout the meaning of resistance,<br/>Of a hope beyond our own,<br/>And suddenly the infinite and penitent<br/>Begin to look like home.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Everyone, everyone feels so lonely.<br/>Everyone, yeah everyone feels so empty.<br/>When I look at the stars,<br/>When I look at the stars,<br/>When I look at the stars, I feel like myself.<br/>When I look at the stars,<br/>The stars, I see someone...</lines>
+    </verse>
+  </lyrics>
+</song>

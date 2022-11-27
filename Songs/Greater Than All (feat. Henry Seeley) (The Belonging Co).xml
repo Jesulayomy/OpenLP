@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:15">
+  <properties>
+    <titles>
+      <title>Greater Than All (feat. Henry Seeley)</title>
+    </titles>
+    <authors>
+      <author type="words">The Belonging Co</author>
+      <author type="music">The Belonging Co</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="4028"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>christian-living</theme>
+      <theme>prayer</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>VERSE 1<br/>There is no one like our God in all the earth<br/>He alone be lifted high above all else<br/>What could ever stand against His matchless love<br/>By the power of His name we overcome</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>Our God is greater than all things<br/>Greater than all things, Greater than all<br/>Our God is greater than all things<br/>Greater than all things, Great are You Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2<br/>Every doubt and every fear before Him bow<br/>For the Savior of the world is here right now<br/>He has broken every chain and we are free<br/>He laid death inside the grave He holds the victory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>BRIDGE<br/>You hold all authority<br/>Sin and sickness bow their knee<br/>There is none like You<br/>You are worthy<br/>Seated in the highest place<br/>Name above all other names<br/>Jesus You alone<br/>You are worthy</lines>
+    </verse>
+  </lyrics>
+</song>

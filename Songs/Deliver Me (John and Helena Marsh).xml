@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Deliver Me</title>
+    </titles>
+    <copyright>1996 EastWest Records</copyright>
+    <authors>
+      <author type="words">John and Helena Marsh</author>
+      <author type="music">John and Helena Marsh</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deliver me, out of my sadness.<br/>Deliver me, from all of the madness.<br/>Deliver me, courage to guide me.<br/>Deliver me, Your strength inside me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All of my life, I've been in hiding.<br/>Wishing there was someone just like You.<br/>Now that You're here, now that I've found You,<br/>I know that You're the one to pull me through.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deliver me, loving and caring.<br/>Deliver me, giving and sharing.<br/>Deliver me, the cross that I'm bearing.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh deliver me.<br/>Oh deliver me.<br/>Oh deliver me.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Jesus, Jesus, how I trust You.<br/>How I've proved you o'er and o'er.<br/>Jesus, Jesus, precious Jesus.<br/>Deliver me.<br/>Come and pull me through.</lines>
+    </verse>
+  </lyrics>
+</song>

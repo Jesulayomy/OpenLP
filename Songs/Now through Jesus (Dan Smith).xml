@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>Now through Jesus</title>
+      <title>United</title>
+    </titles>
+    <authors>
+      <author type="words">Dan Smith</author>
+      <author type="music">Dan Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now through Jesus, we have access<br/>In one Spirit, to the Father<br/>Now to Jesus, we're united<br/>One with God and  with each other</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let God be glorified<br/>He's broken all that could divide</lines>
+    </verse>
+  </lyrics>
+</song>

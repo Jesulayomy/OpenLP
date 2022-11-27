@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:05">
+  <properties>
+    <titles>
+      <title>How Firm A Foundation</title>
+    </titles>
+    <authors>
+      <author type="music">Funk, Joseph (1778-1862)</author>
+      <author type="words">Rippon, John (1751-1836)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>kids</theme>
+      <theme>provision</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How firm a foundation, ye saints of the Lord,<br/>Is laid for your faith in His excellent word!<br/>What more can He say than to you He hath said,<br/>To you who for refuge to Jesus hath fled.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Fear not, I am with thee, O be not dismayed,<br/>For I am your God, and will still give thee aid;<br/>I'll strengthen thee, help thee and cause thee to stand,<br/>Upheld by My righteous, omnipotent hand."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"When through the deep waters I call thee to go,<br/>The rivers of sorrow shall not overflow;<br/>For I will be with thee, thy troubles to bless,<br/>And sanctify to thee thy deepest distress."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>"When through fiery trials thy pathway shall lie,<br/>My grace, all sufficient shall be thy supply;<br/>The flame shall not hurt thee; I only design<br/>Thy dross to consume, and thy gold to refine."</lines>
+    </verse>
+    <verse name="v5">
+      <lines>"The soul that on Jesus hath leaned for repose,<br/>I will not, I will not desert to his foes;<br/>That soul, though all hell should endeavor to shake,<br/>I'll never, no never, no never forsake!"</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Sing (Your Love)</title>
+    </titles>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It used to be darkness<br/>Without you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I lived my life in blindness<br/>But now I'm found</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I'll sing, sing I love you so<br/>And I'll sing<br/>Because the world can't take away<br/>Your love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Found me in weakness<br/>Broken<br/>You came to me in kindness<br/>And now I live</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I give my life for you Lord<br/>For all you've done</lines>
+    </verse>
+  </lyrics>
+</song>

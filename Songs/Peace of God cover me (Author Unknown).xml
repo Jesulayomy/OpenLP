@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:17">
+  <properties>
+    <titles>
+      <title>Peace of God cover me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Peace of God cover me<br/>cover me, cover me.<br/>Peace of God, cover me,<br/>Through the storm, cover me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Only in You I am safe<br/>Only in You I'm secure<br/>Only in You I find peace<br/>So Cover me, cover me.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Cover me when I am hurting<br/>Cover me when I'm not strong<br/>Cover me when I am going through the storm<br/>Cover me when all seems hopeless<br/>Cover me when my faith is gone<br/>Let the Peace that passes all I understand<br/>Cover Me, cover Me.</lines>
+    </verse>
+  </lyrics>
+</song>

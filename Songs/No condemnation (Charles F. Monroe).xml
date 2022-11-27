@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>No condemnation</title>
+    </titles>
+    <authors>
+      <author type="words">Charles F. Monroe</author>
+      <author type="music">Charles F. Monroe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come to the Way the Truth and the Life<br/>Come to your God, Come to the light<br/>Come with all you are<br/>And let Him make everything right</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come with your heart, come with your soul<br/>Come with your life, let Him take control<br/>over all you are<br/>And let Him make everything whole</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He is all you want<br/>In every life situation<br/>He is all you need<br/>In Him there is no condemnation</lines>
+    </verse>
+    <verse name="p1">
+      <lines>He's the Holy One<br/>Yet He died for us on a cross<br/>He's the Only One<br/>Who gave Himself up for us</lines>
+    </verse>
+    <verse name="p2">
+      <lines>He is God above<br/>Yet He came down to die for the sinner<br/>He is God of Love<br/>And His love changes us into winners</lines>
+    </verse>
+    <verse name="c2">
+      <lines>He is all you want<br/>In every life situation<br/>He is all you need<br/>In Him there is no condemnation</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the Way the Truth and the Life<br/>You are my God, You are my Light<br/>You are all I need<br/>Oh come and make everything right</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I give You my heart, I give You my soul<br/>I give You my life, I give You control<br/>over all I am<br/>Oh come and make everything whole</lines>
+    </verse>
+    <verse name="c3">
+      <lines>You are all I want<br/>In every life situation<br/>You are all I need<br/>In You there is no condemnation</lines>
+    </verse>
+    <verse name="p3">
+      <lines>You're the Holy One...........(BREAKDOWN START)<br/>Yet You died for us on a cross<br/>You're the Only One<br/>Who gave Yourself up for us</lines>
+    </verse>
+    <verse name="p4">
+      <lines>You are God above<br/>Yet You came down to die for the sinner<br/>You are God of Love<br/>And Your love changes us into winners..(BREAKDOWN STOP)</lines>
+    </verse>
+    <verse name="c4">
+      <lines>You are all I want<br/>In every life situation<br/>You are all I need<br/>In You there is no condemnation</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are the Way the Truth and the Life ..(BREAKDOWN TO END)<br/>You are my God, You are my Light<br/>You are all I need<br/>Come Jesus make everything right</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I give You my heart, I give You my soul<br/>I give You my life, I give You control<br/>over all I am<br/>Come Jesus make everything whole</lines>
+    </verse>
+    <verse name="c5">
+      <lines>You are all I want<br/>In every life situation<br/>You are all I need<br/>In You there is no condemnation</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>The days may yet grow darker</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1- The days may yet grow darker,<br/>The nights more weary grow,<br/>And Jesus may still tarry,<br/>But this one thing I know:<br/>The Lord will still grow dearer,<br/>And fellowship will be<br/>The closer and the sweeter<br/>Between my Lord and me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2- 'Tis our dear Lord we wait for,<br/>Our Hope! our Joy! our Friend!<br/>Himself we long to welcome,<br/>And just beyond the bend<br/>Hidden, perchance to meet us<br/>Before the day is done,<br/>The waiting will be over<br/>And rest will have begun.</lines>
+    </verse>
+  </lyrics>
+</song>

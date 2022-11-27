@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Energy</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Young &amp; Free</author>
+      <author type="music">Hillsong Young &amp; Free</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1247"/>
+    </songbooks>
+    <themes>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>You are the only One in my head<br/>I'm choosing You, not my heart instead<br/>You're first forever and it's my strength<br/>My strength<br/>More than a rush of adrenaline<br/>You are sustaining until the end<br/>You are the only One<br/>You are the only One</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>When You speak, dreams and reality collide<br/>Your word rewrites my destiny<br/>My life finds a new beginning<br/>Cause You are, You are my energy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>Jesus, Your presence is what ignites<br/>Your truth is electric, the source of life<br/>A moment with You makes me come alive</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pre Chorus:<br/>When You speak, dreams and reality collide<br/>Your word rewrites my destiny<br/>My life finds a new beginning<br/>Cause You are, You are my energy</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>Jesus, You're everything I need and more<br/>I follow You 'til the end, You are my strength<br/>Jesus You're every I need and more<br/>You are, You are my energy</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>You're the everlasting  God<br/>You're the One who holds it up<br/>I can't help but stand in awe<br/>You are my energy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're the everlasting  God<br/>You're the One who holds it up<br/>I can't help but stand in awe<br/>You are my energy</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Pre Chorus:<br/>When You speak, dreams and reality collide<br/>Your word rewrites my destiny<br/>My life finds a new beginning<br/>Cause You are, You are my energy</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Chorus:<br/>Jesus, You're everything I need and more<br/>I follow You 'til the end, You are my strength<br/>Jesus You're every I need and more<br/>You are, You are my energy</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Ending:<br/>You are my energy</lines>
+    </verse>
+  </lyrics>
+</song>

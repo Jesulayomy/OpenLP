@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>All the Heavens</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, holy are You, Lord<br/>The whole earth is filled With Your glory<br/>Let the nations rise to give<br/>Honor and praise to Your name</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Let Your face shine on us<br/>And the world will know You live</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All the heavens shout Your praise<br/>Beautiful is our God the universe will sing<br/>Hallelujah to You our King</lines>
+    </verse>
+  </lyrics>
+</song>

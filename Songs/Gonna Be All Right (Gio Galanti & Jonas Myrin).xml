@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Gonna Be All Right</title>
+    </titles>
+    <copyright>2003 Gio Galanti &amp; Jonas Myrin / Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Gio Galanti &amp; Jonas Myrin</author>
+      <author type="music">Gio Galanti &amp; Jonas Myrin</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've found my meaning in you<br/>Your cause is the reason why I live<br/>Your grace is teaching me how to give</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I give my whole life to you<br/>Your love is the reason why I Sing<br/>Jesus You are my everything</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Every night, every day, I don't need to wory - no, I celebrate<br/>All the things You've done in me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And i'ts gonna be all right,<br/>'Cause You are in my life<br/>Yes it's gonna be all right<br/>Gonna be, gonna be,<br/>gonna be, gonna be all right<br/>And i'ts gonna be all right,<br/>'Cause Jesus, Youre my light<br/>And You ahve shown me the way<br/>All of my troubles, all of my life I give to you my king</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Gonna be, gonna be,<br/>gonna be, gonna be all right<br/>Gonna be, gonna be,<br/>gonna be, gonna be all right<br/>Gonna be, gonna be,<br/>gonna be, gonna be all right<br/>Gonna be, gonna be,<br/>gonna be, gonna be all right</lines>
+    </verse>
+  </lyrics>
+</song>

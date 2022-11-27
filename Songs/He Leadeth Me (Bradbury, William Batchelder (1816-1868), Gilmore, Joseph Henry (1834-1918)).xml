@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:09">
+  <properties>
+    <titles>
+      <title>He Leadeth Me</title>
+    </titles>
+    <authors>
+      <author type="music">Bradbury, William Batchelder (1816-1868)</author>
+      <author type="words">Gilmore, Joseph Henry (1834-1918)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He leadeth me! O blessed thought! O words with heavenly comfort fraught!<br/>Whate'er I do, where'er I be, Still 'tis God's hand that leadeth me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I would clasp Thy hand in mine, Nor ever murmur nor repine,<br/>Content, whatever lot I see, Since God through Jordan leadeth me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when my task on earth is done, When by Thy grace the victory's won,<br/>E'en death's cold wave I will not flee, Since God through Jordan leadeth me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He leadeth me, He leadeth me; By His own hand He leadeth me:<br/>His faithful follower I would be, For by His hand He leadeth me.</lines>
+    </verse>
+  </lyrics>
+</song>

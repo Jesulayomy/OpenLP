@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>Memories of Galilee</title>
+      <title>Each cooing dove and sighing bough</title>
+    </titles>
+    <copyright>1874</copyright>
+    <authors>
+      <author type="words">Robert Morris</author>
+      <author type="music">Robert Morris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1- Each cooing dove and sighing bough,<br/>That makes the eve so blest to me,<br/>Has something far diviner now,<br/>It bears me back to Galilee.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Galilee! sweet Galilee!<br/>Where Jesus loved so much to be;<br/>O Galilee! blue Galilee!<br/>Come, sing thy song again to me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2- Each flow'ry glen and mossy dell,<br/>Where happy birds in song agree,<br/>Thro' sunny morn the praises tell<br/>Of sights and sounds in Galilee. [Chorus]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3- And when I read the thrilling love<br/>Of Him who walked upon the sea,<br/>I long, oh, how I long once more<br/>To follow Him in Galilee. [Chorus]</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Everything To Me</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Christ, King Of Glory,<br/>Lord of all we praise You,<br/>Forever Your name will be praised,<br/>In heaven and earth always,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Christ, You're my savior,<br/>I will run after You,<br/>For You are the Son of God and,<br/>King over all the world,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will never stop praising You,<br/>For all the things You've done for me,<br/>And I'll be Yours forever,<br/>Jesus you're everything to me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jesus You're everything to me<br/>Jesus You're everything to me</lines>
+    </verse>
+  </lyrics>
+</song>

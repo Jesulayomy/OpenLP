@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Oh, Blest the House</title>
+    </titles>
+    <authors>
+      <author type="music">from Klug's Geistliche Lieder, Wittenberg, 1533</author>
+      <author type="words">von Pfeil, Christoph Karl Ludwig (1712-1784)</author>
+      <author type="translate">Winkworth, Catherine (1827-1878)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh blest the house, whate'er befall, Where Jesus Christ is All in All; Yea, if He were not dwelling there, How poor and dark and void it were!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh blest that house where faith ye find, And all within have set their mind To trust their God and serve Him still, And do in all His holy will.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blest, where their prayers shall daily rise As fragrant incense to the skies, While in their lives the world is taught That forms without the heart are naught.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blest, where the busy hands fulfil Their proper task with ready skill, While through their different works ye see One spirit run of unity.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Blest such a house, it prospers well, In peace and joy the parents dwell, And in their children's lot is shown How richly God can bless His own.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Then here will I and mine to-day<br/>A solemn covenant make, and say,--<br/>Though all the world forsake Thy Word,<br/>I and my house will serve the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>Hallelujah Sing to Jesus</title>
+    </titles>
+    <authors>
+      <author>W. C. Dix</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah! Sing to Jesus;<br/>His the sceptre, His the throne;<br/>Hallelujah! His the triumph,<br/>His the victory alone.<br/>Hark, the songs of holy Zion<br/>Thunder like a mighty flood:<br/>‘Jesus out of every nation<br/>Hath redeemed us by His blood.’</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah! not as orphans<br/>Are we left in sorrow now;<br/>Hallelujah! He is near us,<br/>Faith believes, nor questions how.<br/>Though the clouds from sight receivedHim<br/>When the forty days were o’er,<br/>Shall our hearts forget His promise,<br/>‘I am with you ever more’?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah! Bread of heaven,<br/>Thou on earth our food, our stay;<br/>Hallelujah! here the sinful<br/>Flee to Thee from day to day.<br/>Intercessor, Friend of sinners,<br/>Earth’s Redeemer, plead for me<br/>Where the songs of all the sinless<br/>Sweep across the crystal sea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah! sing to Jesus;<br/>His the sceptre, His the throne;<br/>Hallelujah! His the triumph,<br/>His the victory alone.<br/>Hark, the songs of holy Zion<br/>Thunder like a mighty flood:<br/>‘Jesus out of every nation<br/>Hath redeemed us by His blood.’</lines>
+    </verse>
+  </lyrics>
+</song>

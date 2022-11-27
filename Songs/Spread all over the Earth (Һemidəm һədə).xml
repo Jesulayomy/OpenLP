@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Spread all over the Earth</title>
+    </titles>
+    <authors>
+      <author type="words">Һemidəm һədə</author>
+      <author type="music">Һemidəm һədə</author>
+    </authors>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>dance</theme>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>gods-holiness</theme>
+      <theme>celebration</theme>
+      <theme>saz</theme>
+      <theme>rubob</theme>
+      <theme>dombra</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Holy Spirit, Breath of God<br/>Come blow, come blow on us<br/>Holy Spirit, Wind of God<br/>Come blow and empower us //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Send Your fire, tongues of fire<br/>Come rest on us<br/>Send Your fire, send revival<br/>Send your fire on us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// Heavenly Father, may Your grace<br/>be known all over the earth<br/>Heavenly Father, may the Good News<br/>spread all over the earth //</lines>
+    </verse>
+    <verse name="c2">
+      <lines>May the Good News of Your Kingdom<br/>spread all over the earth<br/>The sound of praise and songs of worship<br/>be all over the earth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit, Breath of God<br/>Come blow, come blow on us<br/>Holy Spirit, Wind of God<br/>Come blow and empower us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Heavenly Father, may Your grace<br/>be known all over the earth<br/>Heavenly Father, may the Good News<br/>spread all over the earth<br/>//// May the Good News Spread all over the earth ////</lines>
+    </verse>
+  </lyrics>
+</song>

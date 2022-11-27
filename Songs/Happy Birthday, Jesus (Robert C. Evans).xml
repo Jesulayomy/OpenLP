@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Happy Birthday, Jesus</title>
+    </titles>
+    <copyright>1991 Integrity's Hosanna! Music</copyright>
+    <authors>
+      <author type="words">Robert C. Evans</author>
+      <author type="music">Robert C. Evans</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Happy birthday, Jesus. I'm so glad it's Christmas.<br/>All the tinsel and lights and the presents are nice,<br/>But the real gift is You.<br/>Happy birthday, Jesus. I'm so glad it's Christmas.<br/>All the carols and bells make the holidays swell,<br/>And it's all about You.<br/>Happy birthday, Jesus. Jesus, I love You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Happy birthday, Jesus. I'm so glad it's Christmas.<br/>All the tinsel and lights and the presents are nice,<br/>But the real gift is You.<br/>Happy birthday, Jesus. I'm so glad it's Christmas.<br/>All the carols and bells make the holidays swell,<br/>And it's all about You.<br/>Happy birthday Jesus. Jesus, I love You</lines>
+    </verse>
+  </lyrics>
+</song>

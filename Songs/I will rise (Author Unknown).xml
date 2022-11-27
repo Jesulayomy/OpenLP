@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:19">
+  <properties>
+    <titles>
+      <title>I will rise</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a peace I've come to know<br/>Though my heart and flesh may fail<br/>There's an anchor for my soul<br/>I can say "It is well"<br/>Jesus has overcome<br/>And the grave is overwhelmed<br/>The victory is won<br/>He is risen from the dead</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>And I will rise when He calls my name<br/>No more sorrow, no more pain<br/>I will rise on eagles' wings<br/>Before my God fall on my knees<br/>And rise<br/>I will rise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a day that's drawing near<br/>When this darkness breaks to light<br/>And the shadows disappear<br/>And my faith shall be my eyes<br/>Jesus has overcome<br/>And the grave is overwhelmed<br/>The victory is won<br/>He is risen from the dead</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I hear the voice of many angels sing,<br/>"Worthy is the Lamb"<br/>And I hear the cry of every longing heart,<br/>"Worthy is the Lamb" [x2]</lines>
+    </verse>
+  </lyrics>
+</song>

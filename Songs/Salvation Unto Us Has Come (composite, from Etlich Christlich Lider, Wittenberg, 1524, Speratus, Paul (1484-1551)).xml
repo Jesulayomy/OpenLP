@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Salvation Unto Us Has Come</title>
+      <title>To Us Salvation Now Is Come</title>
+    </titles>
+    <authors>
+      <author type="music">from Etlich Christlich Lider, Wittenberg, 1524</author>
+      <author type="words">Speratus, Paul (1484-1551)</author>
+      <author type="translate">composite</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salvation unto us has come By God's free grace and favor; Good works cannot avert our doom, They help and save us never. Faith looks to Jesus Christ alone, Who did for all the world atone; He is our one Redeemer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What God did in His law demand And none to Him could render Caused wrath and woe on every hand For man, the vile offender. Our flesh has not those pure desires The spirit of the Law requires, And lost is our condition.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It was a false, misleading dream That God His Law had given So sinners could themselves redeem And by their works gain Heaven. The Law is but a mirror bright To bring the inbred sin to light That lurks within our nature.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>From sin our flesh could not abstain Sin held its sway unceasing; The task was useless and in vain, Our guilt was e'er increasing. None can remove sin's poisoned dart Or purify our guileful heart? So deep is our corruption.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yet as the Law must be fulfilled<br/>Or we must die despairing,<br/>Christ came and hath God's anger stilled,<br/>Our human nature sharing.<br/>He hath for us the Law obeyed<br/>And thus the Father's vengeance stayed<br/>Which over us impended.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Since Christ hath full atonement made<br/>And brought to us salvation,<br/>Each Christian therefore may be glad<br/>And build on this foundation.<br/>Thy grace alone, dear Lord, I plead,<br/>Thy death is now my life indeed,<br/>For Thou hast paid my ransom.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Let me not doubt, but trust in Thee,<br/>Thy Word cannot be broken;<br/>Thy call rings out, "Come unto Me!"<br/>No falsehood hast Thou spoken.<br/>Baptized into Thy precious name,<br/>My faith cannot be put to shame,<br/>And I shall never perish.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The Law reveals the guilt of sin<br/>And makes men conscience-stricken;<br/>The Gospel then doth enter in<br/>The sinful soul to quicken.<br/>Come to the cross, trust Christ, and live;<br/>The Law no peace can ever give,<br/>No comfort and no blessing.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Faith clings to Jesus' cross alone<br/>And rests in Him unceasing;<br/>And by its fruits true faith is known,<br/>With love and hope increasing.<br/>Yet faith alone doth justify,<br/>Works serve thy neighbor and supply<br/>The proof that faith is living.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>All blessing, honor, thanks, and praise<br/>To Father, Son, and Spirit,<br/>The God that saved us by His grace,-<br/>All glory to His merit!<br/>O Triune God in heaven above,<br/>Who hast revealed Thy saving love,<br/>Thy blessed name be hallowed.</lines>
+    </verse>
+  </lyrics>
+</song>

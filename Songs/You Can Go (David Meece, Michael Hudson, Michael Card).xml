@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>You Can Go</title>
+    </titles>
+    <copyright>Word Music</copyright>
+    <authors>
+      <author type="words">Michael Hudson</author>
+      <author type="music">Michael Hudson</author>
+      <author type="words">Michael Card</author>
+      <author type="music">Michael Card</author>
+      <author type="words">David Meece</author>
+      <author type="music">David Meece</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a river running deep in your soul<br/>It's the power of God, can't you feel it flow?<br/>You've got a glory that can light up the dark<br/>You've got the Kingdom of God in your heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You can go now, you can go<br/>You've got the treasure that the world needs to know<br/>You can go now, you can go<br/>You've got the power of God, let it flow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You've got a promise from your Father above<br/>There is nothing on this earth that can stop His love<br/>You are the light He wants to set on a hill<br/>You are the one who can walk in His will</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You can go now, you can go<br/>You've got the treasure that the world needs to know<br/>You can go now, you can go<br/>You've got the power of God, let it flow</lines>
+    </verse>
+    <verse name="b1">
+      <lines>With the prize before and the cross behind<br/>In the power of God and the name that binds<br/>You can walk in faith, you can always know<br/>When the Lord puts love in your heart, it will flow</lines>
+    </verse>
+    <verse name="c3">
+      <lines>You can go now, you can go<br/>You've got the treasure that the world needs to know<br/>You can go now, you can go<br/>You've got the power of God, let it flow</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>You're Gonna Be Ok</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson &amp; Jenn Johnson</author>
+      <author type="music">Brian Johnson &amp; Jenn Johnson</author>
+      <author type="words">Jenn Johnson</author>
+      <author type="music">Jenn Johnson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3530"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>I know it's all you've got to just be strong<br/>And it's a fight just to keep it together<br/>I know you think that you are too far gone<br/>But hope is never lost<br/>Hope is never lost</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>Hold on, don't let go<br/>Hold on,don't let go</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Just take one step closer<br/>Put one foot in front of the other<br/>You'll get through this<br/>A                A /C#         D<br/>Just follow the light in the darkness<br/>You're gonna be ok</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>I know your heart is heavy from those nights<br/>But just remember that myou are a fighter<br/>You never know just what to morrow holds<br/>And you're stronger than you know<br/>You're stronger than you know</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>And when the night is closing in<br/>Don't give up and don't give in<br/>This won't last, it's not the end<br/>It's not the end<br/>You're gonna be ok</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when the night is closing in<br/>Don't give up and don't give in<br/>This won't last, it's not the end<br/>It's not the end<br/>You're gonna be ok</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Ocean</title>
+    </titles>
+    <copyright>2001 Integrity Music Inc.</copyright>
+    <authors>
+      <author type="words">Lamont Hiebert</author>
+      <author type="music">Lamont Hiebert</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lately I've been thinkin' about You<br/>And lately I've been dreamin' of You<br/>And lately I can't get You out of my head,<br/>Get You out of my head.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Somethin' about the ocean<br/>Makes me rise up and praise.<br/>Somethin' about the heavens<br/>Makes me stand in awe again.<br/>Somethin' about the sunrise<br/>Reminds me of your faithfulness.<br/>Somethin' about the ocean<br/>And I'm lost in love again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll sing 'til I sense a smile<br/>Upon Your great and lovely face<br/>And 'til I know Your glory's in this place<br/>Your glory's in this place.</lines>
+    </verse>
+  </lyrics>
+</song>

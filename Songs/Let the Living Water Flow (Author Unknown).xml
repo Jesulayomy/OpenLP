@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Let the Living Water Flow</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the living water flow o'er my soul<br/>Let the Holy spirit come and take<br/>control<br/>In every situation that has come o'er<br/>my mind<br/>All my cares and trials unto you i<br/>resign.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Father , Father ,Father<br/>Jesus, Jesus, Jesus<br/>Spirit, Spirit, Spirit</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come down Holy spirit and take<br/>control<br/>Hold me in your loving arms and<br/>make me whole<br/>Wipe away all doubts and fears and<br/>take my pride<br/>Hold me to your love and keep me<br/>by your side</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Father , Father Father<br/>Jesus, Jesus, Jesus<br/>Spirit, Spirit, Spirit</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give your life to Jesus, let him take<br/>your soul<br/>Let him take you in His arms and<br/>make you whole<br/>As you give your life to Him He'll<br/>make you whole<br/>You will live and reign with him eternally</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Father , Father Father<br/>Jesus, Jesus, Jesus<br/>Spirit, Spirit, Spirit</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>Halls Of Heaven (ft. Chris Quilala)</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3546"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BPM: 120</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 1<br/>Like thunder speaking from the clouds<br/>Your word is always going out<br/>Your, whisper, I keep following the sound<br/>Into Your presence</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse: 2<br/>I get caught up, shadows left behind<br/>I get caught up, drawn into Your light<br/>I get caught up, where Spirit is alive<br/>Into Your presence</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Like a child we come running<br/>Through the halls of heaven<br/>To the Holy of Ho-lies<br/>Doors are flown wide open<br/>Joy is overflowing<br/>In the halls of Hea-ven<br/>We come running, we come running<br/>Through the halls of Hea-ven<br/>We come running, we come running<br/>Through the halls of Hea-ven</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verse: 3<br/>Unhindered, all fear is letting go<br/>Abandon, a beauty to behold<br/>I get caught up, I get caught up<br/>I get caught up</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Like a child we come running<br/>Through the halls of heaven<br/>To the Holy of Ho-lies<br/>Doors are flown wide open<br/>Joy is overflowing<br/>In the halls of Hea-ven<br/>We come running, we come running<br/>Through the halls of Hea-ven<br/>We come running, we come running<br/>Through the halls of Hea-ven</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental: adlib</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Face to face with the glory of God<br/>And heart to heart with the<br/>One that we love<br/>Face to face with the glory of God<br/>And heart to heart with the<br/>One that we love<br/>Face to face with the glory of God<br/>And heart to heart with the<br/>One that we love</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>Like a child we come running<br/>Through the halls of heaven<br/>To the Holy of Ho-lies<br/>Doors are flown wide open<br/>Joy is overflowing<br/>In the halls of Hea-ven<br/>We come running, we come running<br/>Through the halls of Hea-ven<br/>We come running, we come running<br/>Through the halls of Hea-ven</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Tag:<br/>We come running, we come running<br/>Through the halls of Hea-ven<br/>We come running, can't stop running<br/>Through the halls of Hea-ven</lines>
+    </verse>
+  </lyrics>
+</song>

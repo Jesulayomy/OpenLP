@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>For Your name is Holy</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Wilbur</author>
+      <author type="music">Paul Wilbur</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3473"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I enter the Holy of Holies<br/>I enter through the blood of the Lamb<br/>I enter to worship You only<br/>I enter to honor I AM</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord I worship You, I worship You,<br/>Lord I worship You, I worship You,</lines>
+    </verse>
+    <verse name="b1">
+      <lines>For Your name is Holy, Holy Lord<br/>For Your name is Holy, Holy Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Power in the Cross</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1584"/>
+    </songbooks>
+    <themes>
+      <theme>salvation</theme>
+      <theme>gods-might</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>We all stand amazed. In awe of amazing grace<br/>The divide has been erased, we thank You<br/>All sin is washed away. You alone have saved the day.<br/>We are forever changed, we thank You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre chorus:<br/>Let every heart, every tongue<br/>Come sing of Your redemp tion</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>There's power in the Cross where You proved Your love<br/>The only sacri fice strong enough to save us.<br/>You rose in victory to let the whole world see<br/>Love has made a way. Hope is never lost There's power in the Cross</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>No we are made alive, in freedom like a fire<br/>Burning with one desire we thank You<br/>We will spend all our lives filled with the hope of Christ<br/>Who paid the final price, we thank You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Strong enough to save us<br/>strong enough to save us<br/>strong enough to save, strong enough to save</lines>
+    </verse>
+  </lyrics>
+</song>

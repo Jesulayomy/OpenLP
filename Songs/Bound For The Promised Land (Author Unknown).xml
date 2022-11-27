@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:21">
+  <properties>
+    <titles>
+      <title>Bound For The Promised Land</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On Jordan's stormy banks I stand,<br/>And cast a wishful eye,<br/>Toward Canaan's fair and happy land,<br/>Where my possessions lie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am bound for the promised land,<br/>I am bound for the promised land;<br/>Oh who will come and go with me?<br/>I am bound for the promised land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O'er all those wide extended plains<br/>Shines one eternal day;<br/>There God the Son forever reigns,<br/>And scatters night away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No chilling winds, nor pois'nous breath,<br/>Can reach that healthful shore;<br/>Sickness and sorrow, pain and death,<br/>Are feared and felt no more.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When shall I reach that happy place,<br/>And be forever blest!<br/>When shall I see my Father's face,<br/>And in His bosom rest?</lines>
+    </verse>
+  </lyrics>
+</song>

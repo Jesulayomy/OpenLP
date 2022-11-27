@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>In Need</title>
+    </titles>
+    <copyright>1996 Ross King</copyright>
+    <authors>
+      <author type="words">Ross King</author>
+      <author type="music">Ross King</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In need of grace.<br/>In need of love.<br/>In need of mercy raining down<br/>From high above.<br/>In need of strength.<br/>In need of peace.<br/>In need of things<br/>That only You can give to me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In need of Christ, the perfect Lamb,<br/>My refuge strong, the Great I AM.<br/>This is my song, my humble plea;<br/>I am Your  child, I am in need.</lines>
+    </verse>
+  </lyrics>
+</song>

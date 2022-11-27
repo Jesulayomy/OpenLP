@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Shepherd</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1485"/>
+    </songbooks>
+    <themes>
+      <theme>christian-living</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>In the process, in the waiting<br/>You're making melodies over me<br/>Your presence is the promise<br/>For I'm a pilgrim on a journey</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>And You will lift my head above the mighty waves<br/>You are able to keep me from stumbling<br/>And in my weakness You are the strength that comes from within<br/>Good shepherd of my soul  Take my hand and lead me on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>You make my footsteps and my path secure<br/>So walking on water is just the beginning<br/>Cause my faith to arise, stand at attention<br/>For You are calling me to greater things</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Oh how I love You How I love You<br/>You have not forsaken me<br/>Oh how I love You How I love You<br/>With You is where I want to be</lines>
+    </verse>
+  </lyrics>
+</song>

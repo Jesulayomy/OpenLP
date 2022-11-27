@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:31">
+  <properties>
+    <titles>
+      <title>This Day</title>
+    </titles>
+    <copyright>1999 Up In The Mix Music</copyright>
+    <authors>
+      <author type="words">Audio Adrenaline</author>
+      <author type="music">Audio Adrenaline</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's 6 A.M.; I'm so tired.<br/>The alarm sounds; a new day begins.<br/>Before I go and disturb this peaceful moment,<br/>I look to You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I want to say a prayer<br/>Before my feet can hit the ground.<br/>Lord, I give this day to You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm amazed how you forgive me.<br/>Yesterday seems so far behind.<br/>It's a brand new day, and every day's a new beginning.<br/>I look to You.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Breathe in. (I breathe in)<br/>Breathe out. (I breathe out)<br/>Breathe in and watch the day begin.<br/>I wanna watch the day begin.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>I give this day to you.</lines>
+    </verse>
+  </lyrics>
+</song>

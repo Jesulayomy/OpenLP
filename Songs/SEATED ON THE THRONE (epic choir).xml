@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:44">
+  <properties>
+    <titles>
+      <title>SEATED ON THE THRONE</title>
+    </titles>
+    <authors>
+      <author type="music">epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are seated on the throne<br/>The lion and the lamb<br/>Odobu Ogagu eh<br/>There is none like you<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are seated on the throne<br/>The lion and the lamb<br/>Odobu Ogagu eh<br/>There is none like you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My God, You reign<br/>Yes, you reign<br/>Jesus , you reign<br/>Yes you reign</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My God, You reign<br/>Yes, you reign<br/>Jesus , you reign<br/>Yes you reign</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are seated on the throne<br/>The lion and the lamb <br/>Odobu Ogagu eh<br/>There is none like you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are seated on the throne<br/>The lion and the lamb <br/>Odobu Ogagu eh<br/>There is none like you</lines>
+    </verse>
+    <verse name="v7">
+      <lines>My God, You reign<br/>Yes, you reign<br/>Jesus , you reign<br/>Yes you reign<br/><br/>My God, You reign<br/>Yes, you reign<br/>Jesus , you reign<br/>Yes you reign<br/><br/>My God, You reign<br/>Yes, you reign<br/>Jesus , you reign<br/>Yes you reign<br/><br/>My God, You reign<br/>Yes, you reign<br/>Jesus , you reign<br/>Yes you reign</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yeshua Hamashiach (The anointed one)<br/>Yeshua Hamashiach <br/><br/>Yeshua Hamashiach <br/>Yeshua Hamashiach <br/>Yeshua Hamashiach <br/>Yeshua Hamashiach <br/><br/><br/><br/></lines>
+    </verse>
+    <verse name="v10">
+      <lines>As you are sitted<br/>I am sitted<br/>In heavenly places<br/>Above all<br/>Principalities and powers</lines>
+    </verse>
+    <verse name="v9">
+      <lines> e le...ele oh<br/> e le...ele oh<br/> e le...ele oh<br/> e le...ele oh<br/></lines>
+    </verse>
+  </lyrics>
+</song>

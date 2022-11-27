@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:44">
+  <properties>
+    <titles>
+      <title>There is a river</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a river<br/>that flows from deep within.<br/>There is a fountain<br/>that frees my soul from sin.<br/>Come to this water,<br/>there is a vast supply.<br/>There is a river<br/>that never shall run dry.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There was a thirsty woman,<br/>Who was drawing from a well,<br/>Her life was ruined and wasted,<br/>Her soul was bound for hell.<br/>Then she met the Master,<br/>Who told of her great sin,<br/>He said, "If you drink this water,<br/>You'll never thirst again."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There came a sound from Heaven<br/>As a rushing, mighty wind,<br/>It filled their hearts with singing,<br/>And gave them peace within.<br/>The prophet gave the promise,<br/>The Spirit will descend,<br/>And from your inner being,<br/>A river with no end.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>My sheep know my voice</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My sheep know My voice,<br/>And the path that I take,<br/>They follow wherever I go;<br/>My sheep know My voice<br/>And come at My call,<br/>But a stranger's voice<br/>do they not know.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS<br/>My sheep know My voice,<br/>And day by day,<br/>They abide in the fold,<br/>And go not astray;<br/>They love Me because<br/>I have made them My choice,<br/>And they follow My call,<br/>For My sheep know My voice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My sheep know My voice,<br/>And the pastures of green,<br/>Where I lead them so often to feed;<br/>My sheep know My voice,<br/>And the cool sparkling stream,<br/>Where beside its still waters I lead.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My sheep know My voice,<br/>And the valley of death,<br/>Thru which I shall<br/>lead them some day;<br/>But no danger nor harm<br/>Can touch one of them,<br/>For I will be with them always.</lines>
+    </verse>
+  </lyrics>
+</song>

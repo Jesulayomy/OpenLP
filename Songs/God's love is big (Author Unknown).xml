@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>God's love is big</title>
+      <title>God who made the universe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God who made the universe<br/>The earth, the sun, the moon and stars<br/>Has a place in His heart for me<br/>From the beginning 'til the end<br/>God will always be my friend<br/>So I can jump and shout 'cause God loves me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God's love is big, God's love is great<br/>God's love is fab and He's my mate<br/>God's love surrounds me every day<br/>And I love to sing and say<br/>God's love is big, God's love is strong<br/>God's love goes on and on and on<br/>God's love surrounds me every day<br/>And I love to sing and say<br/>God loves me, WEHEY!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Since before the world began<br/>God knew me and had a plan<br/>For my life, and how I'm gonna be<br/>He sent Jesus to be my friendTo show His love will never endSo I can jump and shout 'cause God loves me</lines>
+    </verse>
+  </lyrics>
+</song>

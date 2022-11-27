@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Great Is Your Love</title>
+    </titles>
+    <copyright>1999 Ross King</copyright>
+    <authors>
+      <author type="words">Ross and Staci King</author>
+      <author type="music">Ross and Staci King</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I will praise You, O Lord my God<br/>With all of my heart;<br/>I will glorify Your name forever. (2X)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Great is Your love to me.<br/>You have delivered me. (2X)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Guys:<br/>Great is Your love to me.<br/>You have delivered me. (2X)<br/>Girls:<br/>I will praise you, O Lord my God<br/>With all of my heart;<br/>I will glorify Your name forever. (2X)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hear the passion of my prayer, O Lord.<br/>I have a desperate need to praise Your name.<br/>Your forgiveness and Your mercy are the only way<br/>That I can get to You to say:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just to know You is to be alive.<br/>Your love has lifted me up from my grave.<br/>You have rescued me from sin and I am blown away.<br/>It's all that I can do to say:</lines>
+    </verse>
+  </lyrics>
+</song>

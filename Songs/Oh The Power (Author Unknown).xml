@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Oh The Power</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4890"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Knees to the earth<br/>That You breathed by Your word<br/>As You watched the darkness come<br/>Crushed by the weight of the cost<br/>As You prayed, "Not my will but Yours be done"<br/>Gethsemane, where Heaven met me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Redeemer, crowned in endless praise<br/>My Savior, name above all names<br/>King Jesus<br/>take the highest place</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There on the hill,<br/>You surrendered Your will<br/>For they know not what they do"<br/>Grief in Your heart,<br/>Your hands bear the scars<br/>of a love that led You to the tomb<br/>Calvary, where Heaven met me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Redeemer, crowned in endless praise<br/>My Savior, name above all names<br/>King Jesus<br/>take the highest place</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh, the power of the cross<br/>Oh, the power of Your blood<br/>Oh, the power of the cross<br/>Oh, the power of Your blood<br/>Oh, the power of the cross<br/>Oh, the power of Your blood</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Oh darkness,<br/>You have lost Your strength<br/>Oh Hell, You lost everything<br/>King Jesus<br/>take the highest place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, the power of the cross<br/>Oh, the power of Your blood<br/>Oh, the power of the cross<br/>Oh, the power of Your blood</lines>
+    </verse>
+  </lyrics>
+</song>

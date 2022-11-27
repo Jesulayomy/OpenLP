@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-08T07:50:20">
+  <properties>
+    <titles>
+      <title>Hymn 15 - My Soul Is Happy In Jesus</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hymn book</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My soul is so happy in Jesus,<br/>For He is so precious to me,<br/>His voice it is music to hear it,<br/>His face it is heaven to see;</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am happy in Him,<br/>I am happy in Him<br/>My soul with delight<br/>He fills day and night<br/>For I am happy i Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He sought me so long ere  new Him, <br/>When wandering afar from the fold, <br/>Safe home in His arms He hath bro't me, <br/>To where there are pleasures untold;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His love and His mercy surround me,<br/>His grace like a river doth flow,<br/>His spirit, to guide and to comfort,<br/>Is with me whenever I go;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>They I shall someday be like Him,<br/>My cross and my burden lay down,<br/>Till then I will ever be faithful,<br/>In gathering gems for His crown;</lines>
+    </verse>
+  </lyrics>
+</song>

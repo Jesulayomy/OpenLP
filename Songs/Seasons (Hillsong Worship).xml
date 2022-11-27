@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Seasons</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2787"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BPM: 146 (6/8)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 1<br/>Like the frost on a rose<br/>Winter comes for us all<br/>Oh how nature acquaints us<br/>With the nature of patience<br/>Like a seed in the snow<br/>I've been buried to grow<br/>For Your promise is loyal<br/>From seed to sequoia</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>I know</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Though the winter is long even richer<br/>The harvest it brings<br/>Though my waiting prolongs even greater<br/>Your promise for me like a seed<br/>I believe that my season will come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 2<br/>Lord I think of Your love<br/>Like the low winter sun<br/>As I gaze I am blinded<br/>In the light of Your brightness<br/>Like a fire to the snow<br/>I'm renewed in Your warmth<br/>Melt the ice of this wild soul<br/>Till the barren is beautiful</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pre Chorus:<br/>I know</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Chorus:<br/>Though the winter is long even richer<br/>The harvest it brings<br/>Though my waiting prolongs even greater<br/>Your promise for me like a seed<br/>I believe that my season will come</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>I can see the promise<br/>I can see the future<br/>You're the God of seasons<br/>I'm just in the winter<br/>If all I know of harvest<br/>Is that it's worth my patience<br/>Then if You're not done working<br/>God I'm not done waiting</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You can see my promise<br/>Even in the winter<br/>Cause You're the God of greatness<br/>Even in a manger</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For all I know of seasons<br/>Is that You take Your time<br/>You could have saved us in a second<br/>Instead You sent a child</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Chorus:<br/>Though the winter is long even richer<br/>The harvest it brings<br/>Though my waiting prolongs even greater<br/>Your promise for me like a seed<br/>I believe that my season will come</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Tag:<br/>And when I finally see my tree<br/>Still I believe there's a season to come</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Verse: 3<br/>Like a seed You were sown<br/>For the sake of us all<br/>From Bethlehem's soil<br/>Grew Calvary's sequoia</lines>
+    </verse>
+  </lyrics>
+</song>

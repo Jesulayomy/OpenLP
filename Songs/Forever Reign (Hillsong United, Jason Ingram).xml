@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>Forever Reign</title>
+    </titles>
+    <authors>
+      <author type="words">Jason Ingram</author>
+      <author type="music">Jason Ingram</author>
+      <author type="words">Hillsong United</author>
+      <author type="music">Hillsong United</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2281"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are good<br/>You are good when there's nothing good in me<br/>You are love You are love on display for all to see<br/>You are light<br/>You are light when the darkness closes in<br/>You are hope<br/>You are hope You have covered all my sin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are peace<br/>You are peace when my fear is crippling<br/>You are true<br/>You are true even in my wandering<br/>You are joy<br/>You are joy You're the reason that I sing<br/>You are life<br/>You are life in You death has lost its sting</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(Oh) I'm running to Your arms<br/>I'm running to Your arms<br/>The riches of Your love<br/>Will always be enough<br/>Nothing compares to Your embrace<br/>Light of the world forever reign</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are more<br/>You are more than my words will ever say<br/>You are Lord<br/>You are Lord all creation will proclaim<br/>You are here<br/>You are here in Your presence I'm made whole<br/>You are God<br/>You are God of all else I'm letting go</lines>
+    </verse>
+    <verse name="b1">
+      <lines>My heart will sing no other Name<br/>Jesus, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

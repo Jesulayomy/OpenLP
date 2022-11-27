@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:34">
+  <properties>
+    <titles>
+      <title>Adonai</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3616"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of eternity,<br/>Mystery behind the veil,<br/>Lord over heaven and earth,<br/>God of Israel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come with Your wisdom and power,<br/>Clothed in Your honor and strength,<br/>Lord, hear the cry of our hearts,<br/>Come, O conquering King!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And every eye will see Your glory fill the sky...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Adonai! Adonai!<br/>Every knee will bow to You, Lord Most High!<br/>Adonai! Adonai!<br/>You alone are God every tongue will cry, Adonai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here Jerusalem waits,<br/>Praises lifted on high.<br/>Here the beautiful gates<br/>Long to see you arise!</lines>
+    </verse>
+    <verse name="p2">
+      <lines>When all of Zion sings "Blessed Is the Lord!"</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are Lord over all the earth;<br/>You are Lord over all the earth.</lines>
+    </verse>
+  </lyrics>
+</song>

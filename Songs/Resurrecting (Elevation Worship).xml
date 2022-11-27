@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:37">
+  <properties>
+    <titles>
+      <title>Resurrecting</title>
+    </titles>
+    <authors>
+      <author type="words">Elevation Worship</author>
+      <author type="music">Elevation Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="4807"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>gospel</theme>
+      <theme>salvation</theme>
+      <theme>easter</theme>
+      <theme>forgiveness</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>The head that once was crowned with thorns<br/>Is crowned with glory now<br/>The Savior knelt to wash our feet<br/>Now at His feet we bow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>The One who wore our sin and shame<br/>Now robed in majesty<br/>The radiance of perfect love<br/>Now shines for all to see</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Your name, Your name is victory<br/>All praise will rise to Christ our King<br/>Your name, Your name is victory<br/>All praise will rise to Christ our King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 3:<br/>The fear that held us now gives way<br/>To Him who is our peace<br/>His final breath upon the cross<br/>Is now alive in me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>By Your Spirit I will rise from the ashes of defeat<br/>The resurrected King is resurrecting me<br/>In Your name I come alive to declare Your victory<br/>The resurrected King is resurrecting me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 4:<br/>The tomb where Life itself was laid<br/>Was borrowed for three days<br/>His body there would not remain<br/>Our God has robbed the grave<br/>Our God has robbed the grave</lines>
+    </verse>
+  </lyrics>
+</song>

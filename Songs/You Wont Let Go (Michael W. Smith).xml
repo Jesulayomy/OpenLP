@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>You Wont Let Go</title>
+    </titles>
+    <authors>
+      <author type="words">Michael W. Smith</author>
+      <author type="music">Michael W. Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1884"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Into:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1 Verse:<br/>No shadow comes without the light making a way<br/>No raging storm can ever defy one word of faith<br/>My heart remains sure in the wind, sure in the waves</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>You are the anchor for my soul<br/>You won't let go<br/>You won't let go<br/>No matter what may come I know<br/>You won't let go<br/>(You won't let go- 2nd time)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2 Verse:<br/>No valley low, changes the truth So I'm not afraid<br/>You hold me close, You lead me through and light up the way</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>Neither life, neither death,<br/>The highest high, the deepest depth<br/>Nothing can, Nothing can separate<br/>Neither tears, neither trial<br/>Certain as the sun will rise<br/>Nothing can, Nothing can separate</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My heart remains sure in the wind, sure in the waves, always</lines>
+    </verse>
+  </lyrics>
+</song>

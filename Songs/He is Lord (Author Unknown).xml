@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:12">
+  <properties>
+    <titles>
+      <title>He is Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is Lord, He is Lord,<br/>He is risen from the dead<br/>And He is Lord.<br/>Every knee shall bow,<br/>Every tongue confess<br/>That Jesus Christ is Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

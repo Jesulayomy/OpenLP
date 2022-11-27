@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:38">
+  <properties>
+    <titles>
+      <title>The Lamb Who was Slain</title>
+    </titles>
+    <authors>
+      <author type="words">Sal Oliveri</author>
+      <author type="music">Sal Oliveri</author>
+      <author type="words">Jeff Nelson</author>
+      <author type="music">Jeff Nelson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You have opened the door<br/>to the riches of God<br/>and poured out Your life for the lost<br/>The Lamb Who was slain<br/>You erased all our sin<br/>Purchased men with Your blood<br/>and made us as priests unto God<br/>The Lamb Who was slain</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are worthy<br/>You are faithful<br/>You are holy<br/>The Lamb Who was slain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You came down as a Man<br/>and You suffered the cross<br/>The King of the heavens became<br/>The Lamb Who was slain<br/>But our God raised You up<br/>and our tongues now confess<br/>That You are the Lord and the Christ<br/>The Lamb Who was slain</lines>
+    </verse>
+  </lyrics>
+</song>

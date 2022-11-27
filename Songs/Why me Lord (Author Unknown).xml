@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Why me Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6277"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Why me, Lord what have I ever done<br/>To deserve even one of the pleasures I've known<br/>Tell me, Lord what did I ever do<br/>That was worth loving You or the kindness You've shown</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, help me, Jesus i've wasted it so<br/>Help me, Jesus i know what I am<br/>Now that I know that I've needed You<br/>So help me, Jesus my soul's in Your hands</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Try me, Lord if You think there's a way<br/>I could ever repay all I've taken from You<br/>Maybe, Lord I can show someone else<br/>What I've been through myself on my way back to You</lines>
+    </verse>
+  </lyrics>
+</song>

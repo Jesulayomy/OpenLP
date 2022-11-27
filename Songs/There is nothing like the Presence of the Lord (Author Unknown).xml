@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:20">
+  <properties>
+    <titles>
+      <title>There is nothing like the Presence of the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is nothing like the<br/>presence of the Lord<br/>Nothing like his presence<br/>Nothing like his presence<br/>There is nothing like the<br/>presence of the Lord<br/>Nothing like the presence of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is nothing like the<br/>goodness of the Lord<br/>Nothing like his goodness<br/>Nothing like his goodness<br/>There is nothing like the<br/>goodness of the Lord<br/>Nothing like the goodness of the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is nothing like the<br/>power of the Lord<br/>Nothing like his power<br/>Nothing like his power<br/>There is nothing like the<br/>power of the Lord<br/>Nothing like the power of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

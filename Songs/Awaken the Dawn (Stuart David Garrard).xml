@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Awaken the Dawn</title>
+      <title>Sing To The Lord With All Of Your Heart</title>
+    </titles>
+    <copyright>1994 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Stuart David Garrard</author>
+      <author type="music">Stuart David Garrard</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing to the Lord with all of your heart.<br/>Sing of the glory that's due to His name.<br/>Sing to the Lord with all of your soul.<br/>Join all of heaven and earth to proclaim:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are the Lord, the Savior of all.<br/>God of creation, we praise You.<br/>We sing the songs that awaken the dawn.<br/>God of creation, we praise You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing to the Lord with all of your mind.<br/>With understanding, give thanks to the King.<br/>Sing to the Lord with all of your strength,<br/>Living our lives as a praise offering.</lines>
+    </verse>
+  </lyrics>
+</song>

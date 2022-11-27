@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Smile</title>
+    </titles>
+    <authors>
+      <author type="words">Philip Moolman</author>
+      <author type="music">Philip Moolman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You'd be surprised what a smile can do<br/>Especially when it comes out of the blue<br/>You don't need many words<br/>To change somebody's mood<br/>A loving smile is easily understood</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And the beauty of it all<br/>Both giver and receiver feel good<br/>And the beauty of it all<br/>Both giver and receiver feel good ........(TWO BARS)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whether you give it or receive it<br/>A smile can make you feel it and believe it<br/>Someone looks at me<br/>Without judging me<br/>Especially when undeservantly</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Blindness to my brokeness<br/>Bathing me in kindness for free<br/>Blindness to my brokeness<br/>Bathing me in kindness for free .........(TWO BARS)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I love it when it happens,<br/>I love it when it happens to me<br/>Temporary blindness<br/>Tender loving-kindness for free<br/>I wanna make it happen,<br/>I wanna make it happen to you, (yeah you)<br/>Look at you the way the Lover of all sinners would do</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I wanna try it on my family<br/>Try it on a stranger in the street<br/>I wanna try it on the angry<br/>The rude and everyone I meet</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I wanna try it in the mirror<br/>Even if I don't like what I see<br/>Temporary blindness<br/>Tender loving-kindness for free</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When we smile on each other<br/>We reveal God's face<br/>When we love one another<br/>We receive God's grace ........(TWO BARS)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>I love it when it happens,<br/>I love it when it happens to me<br/>Temporary blindness<br/>Tender loving-kindness for free<br/>I wanna make it happen,<br/>I wanna make it happen to you, (yeah you)<br/>Look at you the way the Lover of all sinners would do</lines>
+    </verse>
+    <verse name="c2">
+      <lines>When we smile on each other<br/>We reveal God's face<br/>When we love one another<br/>We receive God's grace</lines>
+    </verse>
+    <verse name="c3">
+      <lines>We reveal God's face<br/>We receive God's grace</lines>
+    </verse>
+  </lyrics>
+</song>

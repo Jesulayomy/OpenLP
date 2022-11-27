@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>I need a miracle</title>
+      <title>Lord, I need a miracle</title>
+    </titles>
+    <authors>
+      <author type="words">Heritage Singers</author>
+      <author type="music">Heritage Singers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tempo: 86</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Little girl sitting in her mother's arms with sadness in her eyes<br/>Doctor said "I'm sorry ma'am, there's just no hope in sight"<br/>The family gathered around her and on their knees began to pray<br/>As the tears fell like rain, you could hear her mother say</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, I need a miracle today<br/>Please just let one pass my way<br/>I believe in You<br/>Help me overcome this fear inside<br/>This pain's too much for me to hide<br/>Lord, see me through<br/>I need a miracle from You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A drunken man stumbled in the church house 'cause he had no place to go<br/>The loss of his family left him grieving in his soul<br/>The preacher stood and spoke of how Jesus loves you anyway<br/>With the choice he had to run or stay, the man bowed his head and prayed</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Lord, I need a miracle today<br/>Please just let one pass my way<br/>I believe in You<br/>Help me overcome this fear inside<br/>This pain's too much for me to hide<br/>Lord, see me through<br/>I need a miracle from You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Little girl is now a wife with kids of her own<br/>And the man who bowed his head has led many to the throne</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, I need a miracle today<br/>Please just let one pass my way<br/>I believe in You</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Lord, I need a miracle today<br/>Please just let one pass my way<br/>I believe in You<br/>Help me overcome this fear inside<br/>This pain's too much for me to hide<br/>Lord, see me through<br/>I need a miracle from You</lines>
+    </verse>
+  </lyrics>
+</song>

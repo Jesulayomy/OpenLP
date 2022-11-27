@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:13">
+  <properties>
+    <titles>
+      <title>O For a Thousand Tongues</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O for a thousand tongues to sing <br/>My great Redeemer’s praise, <br/>My great Redeemer’s praise! <br/>The glories of my God and King, <br/>The triumphs of His grace!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus! the name that charms our fears, <br/>That bids our sorrows cease, <br/>That bids our sorrows cease; <br/>’Tis music in the sinner’s ears, <br/>’Tis life, and health, and peace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See all your sins on Jesus laid; <br/>The Lamb of God was slain, <br/>The Lamb of God was slain; <br/>His soul was once an offering made <br/>For every soul of man.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He breaks the power of cancelled sin, <br/>He sets the prisoner free, <br/>He sets the prisoner free; <br/>His blood can make the foulest clean, <br/>His blood availed for me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He speaks and, listening to His voice, <br/>New life the dead receive, <br/>New life the dead receive; <br/>The mournful, broken hearts rejoice, <br/>The humble poor believe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hear Him, ye deaf; His praise, ye dumb, <br/>Your loosened tongues employ, <br/>Your loosened tongues employ; <br/>Ye blind, behold your Saviour come; <br/>And leap, ye lame, for joy!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>My gracious Master and my God, <br/>Assist me to proclaim, <br/>Assist me to proclaim, <br/>To spread through all the earth abroad <br/>The honours of Thy name.</lines>
+    </verse>
+  </lyrics>
+</song>

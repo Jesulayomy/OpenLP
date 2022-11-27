@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Holy Freedom</title>
+    </titles>
+    <authors>
+      <author type="words">Britt Tucker</author>
+      <author type="music">Britt Tucker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Now the Lord is the Spirit<br/>And where he goes there is freedom  //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// Freedom from sin and bondage<br/>Holy Freedom  //</lines>
+    </verse>
+  </lyrics>
+</song>

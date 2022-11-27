@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:36">
+  <properties>
+    <titles>
+      <title>First</title>
+    </titles>
+    <authors>
+      <author type="words">Lauren Daigle</author>
+      <author type="music">Lauren Daigle</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="5503"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"First"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Intro: C7 Am D F</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 1:<br/>Before I bring my need<br/>I will bring my heart<br/>Before I lift my cares<br/>I will lift my arms<br/>I wanna know You<br/>I wanna find You<br/>In every season<br/>In every moment<br/>Before I bring my need<br/>I will bring my heart<br/>And seek You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>First<br/>I wanna seek You<br/>CM7<br/>I wanna seek You<br/>First<br/>I wanna keep You<br/>CM7<br/>I wanna keep You<br/>First<br/>C                    G        CM7<br/>More than anything I want, I want You<br/>First</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 2:<br/>Before I speak a word<br/>Let me  hear Your voice<br/>And in the midst of pain<br/>Let me feel Your joy<br/>Ooh,<br/>I wanna know You<br/>I wanna find You<br/>In every season<br/>In every moment<br/>Before I speak a word<br/>I will bring my heart<br/>And seek You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>You are my treasure and my reward<br/>C/G  FM7    G<br/>Let nothing ever come before<br/>You are my treasure and my reward<br/>C           C/G  FM7    G<br/>Let nothing ever come before<br/>I seek You</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:</lines>
+    </verse>
+  </lyrics>
+</song>

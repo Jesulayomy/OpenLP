@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:24">
+  <properties>
+    <titles>
+      <title>Noel</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The first noel the angels did say<br/>Was to certain poor shepherds in fields as they lay<br/>In fields where they lay keeping their sheep<br/>On a cold winter's night that was so deep</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Noel, noel, noel, noel<br/>Noel, noel, noel, noel</lines>
+    </verse>
+    <verse name="v3">
+      <lines>They looked up and saw a star<br/>Shining in the east, beyond them far<br/>And to the earth it gave great light<br/>And so it continued both day and night</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Instrumental</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Noel, noel, noel, noel<br/>Noel, noel, noel, noel<br/>Born is the King of Israel<br/>Noel, noel, noel, noel<br/>Noel, noel, noel, noel<br/>Born is the King of Israel</lines>
+    </verse>
+  </lyrics>
+</song>

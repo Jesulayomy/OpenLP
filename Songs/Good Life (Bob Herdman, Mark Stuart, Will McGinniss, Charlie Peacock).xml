@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Good Life</title>
+    </titles>
+    <copyright>199 Up In The Mix Music | Sparrow Song | Andi Beat Goes On Music</copyright>
+    <authors>
+      <author type="words">Mark Stuart</author>
+      <author type="music">Mark Stuart</author>
+      <author type="words">Bob Herdman</author>
+      <author type="music">Bob Herdman</author>
+      <author type="words">Charlie Peacock</author>
+      <author type="music">Charlie Peacock</author>
+      <author type="words">Will McGinniss</author>
+      <author type="music">Will McGinniss</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've watched my dreams all fade away, and blister in the sun;<br/>Everything I've ever had's unraveled and undone.<br/>I've set upon a worthless stack, of my ambitious plans<br/>And the people that I've loved the most, have turned their backs and ran.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is the good life, I've lost everything<br/>I could ever want, and ever dream of.<br/>This is the good life, I found everything<br/>I could ever need, here in Your arms.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Loneliness has left me searching for someone to love.<br/>Poverty has changed my view of what true riches are.<br/>Sorrow's opened up my eyes, To see what real joy is.<br/>Pain has been the catalyst to my heart's happiness.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>What good would it be<br/>If you had everything,<br/>But you didn't have was<br/>The only thing you need?</lines>
+    </verse>
+  </lyrics>
+</song>

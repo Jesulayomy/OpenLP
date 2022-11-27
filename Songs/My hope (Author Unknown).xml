@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:42">
+  <properties>
+    <titles>
+      <title>My hope</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>My hope is in the Lord,<br/>from this time on<br/>and ever more.<br/>Oh, my hope is in the Lord<br/>forever more.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I stand in awe within<br/>the presence of the Lord,<br/>in whom the wisdom of the ages lies.<br/>For whom the raging of the sea subsides,<br/>the living sacrifice, the only source of life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His tender mercies come<br/>with every rising sun.<br/>To meet the sinner in his brokeness.<br/>To offer healing and forgiveness.<br/>And those who trust in him,<br/>Will find their hearts at rest</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Mitt håp står til min Gud<br/>fra denne dag<br/>til evig tid<br/>Åh, mitt håp står til min Gud<br/>til evig tid</lines>
+    </verse>
+  </lyrics>
+</song>

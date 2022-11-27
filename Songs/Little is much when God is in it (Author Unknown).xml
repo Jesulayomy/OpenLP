@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Little is much when God is in it</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the harvest field now ripend,<br/>there is work for all to do.<br/>Hark the voice of God is calling,<br/>to the harvest calling you.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus<br/>Little is much when God is in it,<br/>Labor not for wealth or fame;<br/>There's a crown and you can win it,<br/>if you go in Jesus' name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Does the place you're called to labor<br/>seem so small and little known?<br/>It is great if God is in it<br/>and He'll not forget His own.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the conflict here is ended<br/>and our race on earth is run;<br/>He will say, if you are faithful,<br/>"welcome home, my child well done".</lines>
+    </verse>
+  </lyrics>
+</song>

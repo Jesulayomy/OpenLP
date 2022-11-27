@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Welcomed in to the Courts of the King</title>
+      <title>Facedown</title>
+    </titles>
+    <copyright>2003 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welcomed into the courts of the King,<br/>I am ushered into your presence.<br/>Lord, I stand on Your merciful ground,<br/>Yet with every step tread with reverence.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I'll fall facedown<br/>As Your glory shines around.<br/>Yes, I'll fall facedown<br/>As Your glory shines around.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is there in the heavens like You?<br/>And upon the earth, who's Your equal?<br/>You are far above, You're the highest of heights;<br/>We are bowing down to exalt you.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So let Your glory shine around.<br/>Let Your glory shine around.<br/>King of glory here be found. King of glory.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Welcomed into the courts of the King,<br/>I am ushered into your presence.</lines>
+    </verse>
+  </lyrics>
+</song>

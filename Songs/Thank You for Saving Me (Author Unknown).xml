@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>Thank You for Saving Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank you for saving me;<br/>What can I say?<br/>You are my everything,<br/>I will sing Your praise.<br/>You shed Your blood for me;<br/>What can I say?<br/>You took my sin and shame,<br/>A sinner called by name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great is the Lord.<br/>Great is the Lord.<br/>For we know Your truth has set us free;<br/>You've set Your hope in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mercy and grace are mine,<br/>Forgiven is my sin;<br/>Jesus my only hope,<br/>The Saviour of the world.<br/>"Great is the Lord," we cry,<br/>God, let Your Kingdom come",<br/>Your word has let me see,<br/>Thank you for saving me.</lines>
+    </verse>
+  </lyrics>
+</song>

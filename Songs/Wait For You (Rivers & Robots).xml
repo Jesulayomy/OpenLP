@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:19">
+  <properties>
+    <titles>
+      <title>Wait For You</title>
+    </titles>
+    <authors>
+      <author type="words">Rivers &amp; Robots</author>
+      <author type="music">Rivers &amp; Robots</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3531"/>
+    </songbooks>
+    <themes>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 1:<br/>How long now, until You come<br/>Until we see You, as the Eternal Son<br/>Just like the evening for the morning sun<br/>We wait for You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>There will be a day when we are one<br/>Together in a city made of pure gold<br/>And we will be forever in Your love<br/>I just want to be with You my God<br/>I just want to be with You forever<br/>In the glory and the beauty of Your love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse 2:<br/>I know God, You will surely come<br/>You have promised, and You're the faithful one<br/>So hear the Spirit and the bride say ?come?<br/>We wait for You</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Then when You come,<br/>The Bridegroom and bride will be one<br/>There'll be no need for the sun<br/>Cause You will be the light<br/>Then when we meet<br/>There'll be the greatest of feasts<br/>Your face I will finally see<br/>As You wipe the tears from my eyes</lines>
+    </verse>
+  </lyrics>
+</song>

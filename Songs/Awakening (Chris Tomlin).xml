@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Awakening</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+    <themes>
+      <theme>guitar</theme>
+      <theme>gospel</theme>
+      <theme>gods-holiness</theme>
+      <theme>meditation</theme>
+      <theme>longing</theme>
+      <theme>devotion</theme>
+      <theme>blessing</theme>
+      <theme>our-nation-culture</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In our hearts Lord, in this nation awakening<br/>Holy Spirit we desire awakening</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For You and You alone, awake my soul,<br/>Awake my soul and sing<br/>For the world You love, Your will be done,<br/>Let Your will be done in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Your presence, in Your power, awakening<br/>For this moment, for this hour, awakening</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Like the rising sun that shines,<br/>from the darkness comes a light<br/>I hear Your voice and this is my awakening (2x)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Like the rising sun that shines,<br/>Awake my soul, awake my soul and sing<br/>From the darkness comes a light,<br/>Awake my soul, awake my soul and sing<br/>Like the rising sun that shines,<br/>Awake my soul, awake my soul and sing<br/>Only You can raise a life,<br/>Awake my soul, awake my soul and sing</lines>
+    </verse>
+  </lyrics>
+</song>

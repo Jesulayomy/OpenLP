@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:29">
+  <properties>
+    <titles>
+      <title>Find Me in the River</title>
+    </titles>
+    <copyright>1994 Curious? Music UK</copyright>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Find me in the river,find me on my knees.<br/>I've walked against the water,now I'm waiting if You please.<br/>We've longed to see the roses,but never felt the thorns,<br/>And bought our pretty crowns,but never paid the price.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Find me in the river, find me there.<br/>Find me on my knees with my soul laid bare.<br/>Even though You're gone and I'm cracked and dry,<br/>Find me in the river. I'm waiting here.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Find me in the river, find me on my knees.<br/>I've walked against the water, now I'm waiting if You please.<br/>We didn't count on suffering, we didn't count on pain,<br/>But if the blessing's in the valley, then in the river we'll wait.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>For You</lines>
+    </verse>
+  </lyrics>
+</song>

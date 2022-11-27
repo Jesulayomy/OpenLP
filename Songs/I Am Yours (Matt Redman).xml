@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>I Am Yours</title>
+    </titles>
+    <copyright>1998 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God of restoration, my hope is in the life You bring to me.<br/>Healer of my wounds, I thank You, oh, I thank You.<br/>God of my salvation, with saving love You came to rescue me.<br/>Healer of my soul, I thank You, oh, I thank You, today and every day</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am Yours. I am Yours<br/>Every breath that I breathe, every moment that's lived.<br/>I am Yours, I am Yours,<br/>You're the reason to breathe, You're the reason to live,<br/>And now every one that You have saved<br/>Will come to be Your praise, I am Yours.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Singing of a love now,<br/>You taught this broken heart to sing again.<br/>Every day I'll come, to thank You, oh, to thank You.<br/>Singing of a life now,<br/>You taught this wounded soul to live again.<br/>Every day I'll live to thank You. oh, to thank You, today and every day.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And if my food is to do Your will<br/>Then I'm hungry, still hungry;<br/>There's so much more that I need to give<br/>To thank You, to thank You. x2<br/>Today and every day,  I am Yours....</lines>
+    </verse>
+  </lyrics>
+</song>

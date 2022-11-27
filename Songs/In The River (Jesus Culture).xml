@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>In The River</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1585"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>There is a river where goodness flows<br/>There is a fountain that drowns sorrows<br/>There is an ocean deeper than fear<br/>The tide is rising, rising</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>There is a current stirring deep inside<br/>It's overflowing from the heart of God<br/>The flood of heaven crashing over us<br/>The tide is rising, rising</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Bursting, bursting<br/>Up from the ground we feel it now<br/>Bursting, bursting<br/>Up from the ground we feel it now</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>We come a live in the river<br/>We come a live in the river<br/>We come a live in the river<br/>We come a live in the river</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Break open prison doors set all the captives free<br/>Spring up a well, spring up a well spring up the well in me<br/>Nothing can stop this joy we're dancing in the streets<br/>Spring up a well, spring up a well spring up the well in me</lines>
+    </verse>
+  </lyrics>
+</song>

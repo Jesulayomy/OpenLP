@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:48">
+  <properties>
+    <titles>
+      <title>To be in Your Presence</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To be in Your Presence<br/>To sit at Your feet<br/>Where Your love surrounds me<br/>And makes me complete</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is my desire O Lord<br/>This is my desire<br/>This is my desire O Lord<br/>This is my desire</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To rest in Your presence<br/>Not rushing away<br/>To cherish each Moment<br/>Here I would stay</lines>
+    </verse>
+  </lyrics>
+</song>

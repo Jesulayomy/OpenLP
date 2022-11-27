@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Praise Him On The Trumpet</title>
+    </titles>
+    <authors>
+      <author type="words">John Kennett</author>
+      <author type="music">John Kennett</author>
+    </authors>
+    <themes>
+      <theme>kids</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise Him On The Trumpet<br/>The Psaltery and harp<br/>Praise Him On The Timbrel And The Dance<br/>Praise Him With Stringed Instruments, Too<br/>Praise Him On The Loud Cymbals<br/>Praise Him On The Loud Cymbals<br/>Let Everything That Has Breath Praise The Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah, Praise The Lord<br/>Hallelujah, Praise The Lord<br/>Let Everything That Has Breath Praise The Lord<br/>Hallelujah, Praise The Lord<br/>Hallelujah, Praise The Lord<br/>Let Everything That Has Breath Praise The Lord</lines>
+    </verse>
+  </lyrics>
+</song>

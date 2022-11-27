@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Perfect Love</title>
+    </titles>
+    <authors>
+      <author type="words">Planetshakers</author>
+      <author type="music">Planetshakers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2738"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE:<br/>You are at home in my heart<br/>'Cause You loved me right from the start<br/>When I was refusing<br/>Your love kept pursuing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE 2:<br/>Now that I've tasted Your love<br/>My heart just can't get enough<br/>Jesus You have me<br/>You have me completely</lines>
+    </verse>
+    <verse name="c1">
+      <lines>PRE CHORUS:<br/>It's Your love in my heart running over<br/>Everyday of my life I'll draw closer</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CHORUS:<br/>Such a perfect love<br/>Oh You lift me higher<br/>Lighting up my way<br/>Everything is brighter<br/>With You everything is better<br/>With You I am right where I belong<br/>(First and Third time only)<br/>In this perfect love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>VERSE 3:<br/>No matter what I go through<br/>I'll keep my eyes fixed on You<br/>Jesus You're faithful<br/>And You are able</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE:<br/>Every part of my heart is now open<br/>Make Your home in my heart, You are welcome</lines>
+    </verse>
+    <verse name="b2">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+  </lyrics>
+</song>

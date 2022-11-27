@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Reign in Us</title>
+    </titles>
+    <copyright>2008 Fieldstar Music | Birdwing Music | Screaming Norman Music | WB Music Corporation</copyright>
+    <authors>
+      <author type="words">Jon and Tim Neufeld</author>
+      <author type="music">Jon and Tim Neufeld</author>
+      <author type="words">Ben Glover</author>
+      <author type="music">Ben Glover</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You thought of us before the world began to breathe.<br/>You knew our names before we came to be.<br/>You saw the very day we'd fall away from you,<br/>And how desperately we need to be redeemed.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Lord Jesus, come lead us;<br/>We're desperate for your touch.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh Great and Mighty One, with one desire we come,<br/>That you would reign, that you would reign in us.<br/>We're offering up our lives, a living sacrifice,<br/>That you would reign, that you would reign in us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spirit of the Living God, fall fresh again,<br/>Come search our hearts and purify our lives.<br/>We need your perfect love;<br/>We need your discipline.<br/>We're lost unless you guide us with your light.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We cry out for your love to refine us,<br/>Cry out for your love to define us,<br/>Cry out for your mercy to keep us<br/>blameless until You return.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>So reign, please reign in us.<br/>Come purify our hearts; we need your touch.<br/>Come cleanse us like a flood and send us out<br/>So the world may know you reign, you reign in us.</lines>
+    </verse>
+  </lyrics>
+</song>

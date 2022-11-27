@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>The Bridge</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6285"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The world's getting darker by the day<br/>I'm on my knees but don't know what to pray<br/>The broken things that broken people do<br/>But knowing just how far You came for me<br/>Gives me hope for every soul I'll meet<br/>There's no one so far gone that You can't reach<br/>So reach through me<br/>Let them see, Lord, let them see</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your love is the bridge You built with the cross<br/>And Your truth is the light that searches for the lost<br/>Your grace won't stop reaching, Your mercy won't let go<br/>'Cause Your love is the bridge and Your truth leads us-<br/>Home, home<br/>You lead us<br/>Home, home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You never told the broken they were whole<br/>You spoke the truth that healed their broken souls<br/>You'd never leave us here to fight alone<br/>With love we earn the right to speak Your truth<br/>It's not just what we say it's what we do<br/>I wanna be a bridge that leads to You<br/>So reach through me<br/>Let them see, Lord, let them see</lines>
+    </verse>
+    <verse name="b1">
+      <lines>No rescue so relentless<br/>No greater love than this<br/>Where sin leaves a canyon<br/>Your love builds a bridge<br/>No rescue so relentless<br/>No greater love than this<br/>Where sin leaves a canyon<br/>Your love builds a bridge<br/>No rescue so relentless<br/>No greater love than this<br/>Where sin leaves a canyon<br/>Your love builds a bridge<br/>Your love builds a bridge</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Your love is the bridge You built with the cross<br/>And Your truth is the light that searches for the lost<br/>Your grace won't stop reaching, Your mercy won't let go<br/>'Cause Your love is the bridge, 'cause Your love is the bridge</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No rescue so relentless<br/>No greater love than this<br/>Where sin leaves a canyon<br/>Your love builds a bridge</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:18">
+  <properties>
+    <titles>
+      <title>Light Surrounding You</title>
+    </titles>
+    <authors>
+      <author type="words">Evermore</author>
+      <author type="music">Evermore</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cos I see the light surrounding you<br/>So don't be afraid of something new</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cos I see the light surrounding you<br/>So don't be afraid of what you're turning into</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No, don't be afraid<br/>Don't be afraid</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cos I see the light<br/>Cos I see the light surrounding you</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Endless Alleluia</title>
+    </titles>
+    <authors>
+      <author type="words">Cory Asbury</author>
+      <author type="music">Cory Asbury</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3959"/>
+    </songbooks>
+    <themes>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>In the morning when I rise to meet You<br/>In the morning when I lift my eyes<br/>You're the only One I wanna cling to<br/>You're the first thought on my mind</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Let our voices rise<br/>All creation cries<br/>Singing out an endless alleluia<br/>From this moment on<br/>Join with Heaven's song<br/>Singing out an endless alleluia</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>In the moments where You go unnoticed<br/>In the ordinary day to day<br/>Countless miracles of life around us<br/>Point like arrows to Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Channel:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge:<br/>Only a moment to live this life<br/>Like shooting stars burning up the night<br/>Till Heaven's opened and we arrive<br/>In Your presence Lord, In Your presence</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Tag:<br/>There's nothing better<br/>There's nothing better<br/>There's nothing better<br/>Than this right now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse 3:<br/>In the evening when I lay my head down<br/>In the evening when I close my eyes<br/>You're still the only One I wanna cling to<br/>You're the last thought on my mind</lines>
+    </verse>
+  </lyrics>
+</song>

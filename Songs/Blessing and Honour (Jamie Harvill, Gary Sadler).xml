@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Blessing and Honour</title>
+      <title>Ancient of Days</title>
+    </titles>
+    <copyright>1992 Integrity's Hosanna! Music</copyright>
+    <authors>
+      <author type="words">Gary Sadler</author>
+      <author type="music">Gary Sadler</author>
+      <author type="words">Jamie Harvill</author>
+      <author type="music">Jamie Harvill</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+    <themes>
+      <theme>joy</theme>
+      <theme>guitar</theme>
+      <theme>meditation</theme>
+      <theme>celebration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessing and honor, glory and power,<br/>Be unto the Ancient of Days.<br/>From every nation, all of creation,<br/>Bow before the Ancient of Days.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Every tongue in heaven and earth shall declare Your glory.<br/>Every knee shall bow at Your throne in worship.<br/>You will be exalted, oh God, and Your kingdom shall not pass away,<br/>O Ancient of Days.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your kingdom shall reign over all the earth;<br/>Sing unto the Ancient of Days.<br/>For none can compare to Your matchless worth,<br/>Sing unto the Ancient of Days.</lines>
+    </verse>
+  </lyrics>
+</song>

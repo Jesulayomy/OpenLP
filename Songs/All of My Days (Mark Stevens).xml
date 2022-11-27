@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>All of My Days</title>
+      <title>Proclaim Your Awesome Power</title>
+    </titles>
+    <copyright>2000 Mark Stevens/Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Mark Stevens</author>
+      <author type="music">Mark Stevens</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Proclaim Your awesome power.<br/>Tell of mighty deeds.<br/>Declare Your future kingdom<br/>Of everlasting peace.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And my eyes they look<br/>unto You always.<br/>And I am captured<br/>by your majesty.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All of my days I will sing of Your greatness.<br/>All of my days I will speak of Your grace.<br/>All of my days I will tell of Your wondrous love;<br/>Your love in my life,<br/>Your love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All Your works will praise You.<br/>Your children bless Your name.<br/>We speak of all Your goodness.<br/>We walk in fields of grace.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:26:41">
+  <properties>
+    <titles>
+      <title>Free Indeed</title>
+    </titles>
+    <authors>
+      <author>epic choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm free indeed<br/>In Christ I'm free indeed<br/>No chains are holding me<br/>It's who I choose to be<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I choose to be free<br/>I choose to be free<br/>I choose to be free<br/>I choose to be free</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm free indeed<br/>In Christ I'm free indeed<br/>Was blind but now I see<br/>It's who I'm meant to be</lines>
+    </verse>
+  </lyrics>
+</song>

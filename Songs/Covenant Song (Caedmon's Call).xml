@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>Covenant Song</title>
+    </titles>
+    <authors>
+      <author type="words">Caedmon's Call</author>
+      <author type="music">Caedmon's Call</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We belong to the Lion of Judah; we are Abraham's seed<br/>We belong to the God and creator of everything<br/>Let us raise up a covenant chorus; let us bring forth our lives<br/>To the one whose host gathers among us and fills the skies</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And raise up His name on high<br/>Raise up, you people of His pride<br/>Raise up and bear the fire that's in our eyes<br/>And in our lives and shows that we are not afraid</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In His light we can never be hidden; in His love we are healed<br/>We will shine through the night like a city upon a hill</lines>
+    </verse>
+    <verse name="c2">
+      <lines>So raise up His name on high<br/>Raise up, you people of His pride<br/>Raise up and bear the fire that's in our eyes<br/>And in our lives and shows that we are not afraid<br/>No we are not afraid;  no we are not afraid</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He delivers his people from bondage, sets the prisoner free<br/>He has given us love and salvation, His eternal legacy<br/>He will spare us the sword of His anger; he prepares us a home<br/>Where we'll worship in glory forever before His throne</lines>
+    </verse>
+  </lyrics>
+</song>

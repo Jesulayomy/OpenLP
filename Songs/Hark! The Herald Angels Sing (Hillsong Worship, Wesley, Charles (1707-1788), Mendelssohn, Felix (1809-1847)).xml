@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:33">
+  <properties>
+    <titles>
+      <title>Hark! The Herald Angels Sing</title>
+    </titles>
+    <authors>
+      <author type="words">Wesley, Charles (1707-1788)</author>
+      <author type="music">Mendelssohn, Felix (1809-1847)</author>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>appeal</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+      <theme>christmas</theme>
+      <theme>healer</theme>
+      <theme>peace</theme>
+      <theme>resurrection</theme>
+      <theme>light</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark, the herald angels sing, glory to the new born King.<br/>Peace on earth and mercy mild, God and sinners reconciled.<br/>Joyful all ye nations rise, join the trumpets of the skies,<br/>With angelic hosts proclaim, Christ is born in Bethlehem,<br/>Hark, the herald angels sing, glory to the new born King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ by highest heaven adored, Christ the everlasting Lord.<br/>Late in time behold Him come, offspring of a virgin's womb<br/>Veiled in flesh the Godhead see, hail the incarnate Deity.<br/>Pleased as man with man to dwell, Jesus our Emmanuel,<br/>Hark, the herald angels sing, glory to the new born King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hail the heaven born Prince of peace, hail the Son of righteousness,<br/>Light and life to all He brings, risen with healing in His wings.<br/>Mild He lays His glory by, born that man no more may die,<br/>Born to raise the sons of earth, born to give them second birth,<br/>Hark, the herald angels sing, glory to the new born King.</lines>
+    </verse>
+  </lyrics>
+</song>

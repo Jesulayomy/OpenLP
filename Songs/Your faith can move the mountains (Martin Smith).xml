@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:17">
+  <properties>
+    <titles>
+      <title>Your faith can move the mountains</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="3312"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your faith can move the mountains<br/>Let the Mountains move<br/>We come with expectation<br/>We're waiting here for You, waiting here for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the Lord of all creation<br/>And still You know my heart<br/>The Author of salvation<br/>You've Loved me from the start</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Waiting here for you<br/>With our hands lifted high in praise<br/>And it's You we adore<br/>Singing Hallelujah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are everything You promised<br/>Your faithfulness is true<br/>And we're Desperate for Your presence<br/>All we need is You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hallelujah, Hallelujah<br/>We're singing, Hallelujah<br/>We're singing, Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

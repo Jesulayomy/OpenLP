@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:54">
+  <properties>
+    <titles>
+      <title>You won't relent</title>
+      <title>Relent</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You won't relent<br/>Until You have it all<br/>My heart is Yours</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'll set You as a seal upon my heart<br/>As a seal upon my arm<br/>For there is love that is as strong as death<br/>Jealousy demanding as the grave<br/>And many waters cannot quench this love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come be the fire inside of me<br/>Come be the flame upon my heart<br/>Come be the fire inside of me<br/>Until You and I are one</lines>
+    </verse>
+  </lyrics>
+</song>

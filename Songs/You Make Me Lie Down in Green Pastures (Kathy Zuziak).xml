@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:14">
+  <properties>
+    <titles>
+      <title>You Make Me Lie Down in Green Pastures</title>
+    </titles>
+    <authors>
+      <author type="words">Kathy Zuziak</author>
+      <author type="music">Kathy Zuziak</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You make me lie down<br/>In green pastures<br/>You make me wanting for nothing<br/>You fill my hunger<br/>With honey from your sweet sweet word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You let me worship before you<br/>So I will love you and adore you<br/>You are my Shepherd<br/>You are my Jesus<br/>You are my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

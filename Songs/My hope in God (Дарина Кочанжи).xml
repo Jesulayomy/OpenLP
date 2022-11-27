@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>My hope in God</title>
+    </titles>
+    <authors>
+      <author type="words">Дарина Кочанжи</author>
+      <author type="music">Дарина Кочанжи</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="186"/>
+    </songbooks>
+    <themes>
+      <theme>hope</theme>
+      <theme>jesus-return</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ah paradise my home with God when shall I come to thee?<br/>When shall my sorrows have an end? Your joys when shall I see?<br/>Oh happy harbor of the saints, oh sweet and pleasant soil,<br/>In Thee no sorrow may be found, no grief, no care no toil</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My hope in God, I have life eternal<br/>My hope in God, He suffered for me<br/>My hope in God, I can have tomorrow<br/>My hope in God, yes my hope in God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There lust and hatred can not dwell, there envy holes, no sway<br/>There is no hunger, pain, no tears, but pleasure in every way.<br/>Ah paradise my home with God when shall I come to thee?<br/>When shall my sorrows have an end? Thy joys when shall I see?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My hope in God, I have life eternal<br/>My hope in God,  He suffered for me<br/>My hope in God, I can have tomorrow<br/>My hope in God, yes my hope in Aod</lines>
+    </verse>
+  </lyrics>
+</song>

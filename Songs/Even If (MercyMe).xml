@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:39">
+  <properties>
+    <titles>
+      <title>Even If</title>
+    </titles>
+    <authors>
+      <author type="words">MercyMe</author>
+      <author type="music">MercyMe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2506"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intro: F Gm F Gm<br/>Verse 1<br/>They say sometimes you win some<br/>Sometimes you lose some<br/>And right now<br/>Right now I'm losing bad<br/>I've stood on this stage<br/>Night after night<br/>Reminding the broken<br/>It'll be alright<br/>But right now<br/>Oh right now I just can't<br/>It's easy to sing<br/>When there's nothing to bring me down<br/>But what will I say<br/>When I'm held to the flame<br/>Like I am right now<br/>Chorus:<br/>I know You're able<br/>And I know You can<br/>Save through the fire<br/>With Your mighty hand<br/>But even if You don't<br/>My hope is You alone<br/>Verse 2:<br/>They say it only takes a little faith<br/>To move a mountain<br/>Well Good thing<br/>A little faith is all I have right now<br/>But God when You choose<br/>To leave mountains unmovable<br/>Give me the strength<br/>To be able to sing<br/>It is well with my soul<br/>Chorus 2:<br/>I know You're able<br/>And I know You can<br/>Save through the fire<br/>With Your mighty hand<br/>But even if You don't<br/>My hope is You alone<br/>I know the sorrow<br/>I know the hurt<br/>Would all go away<br/>If You'd just say the word<br/>But even if You don't<br/>My hope is You alone<br/>Bridge:<br/>You've been faithful<br/>You've been good<br/>All of my days<br/>Jesus, I will cling to You<br/>Come what may<br/>'Cause I know You're able</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know You can<br/>Chorus 2<br/>Outro:<br/>It is well with my soul<br/>It is well, It is well with my soul</lines>
+    </verse>
+  </lyrics>
+</song>

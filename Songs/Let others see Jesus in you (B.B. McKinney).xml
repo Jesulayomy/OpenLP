@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:07">
+  <properties>
+    <titles>
+      <title>Let others see Jesus in you</title>
+      <title>While passing thro' this world of sin</title>
+    </titles>
+    <copyright>1924</copyright>
+    <authors>
+      <author type="words">B.B. McKinney</author>
+      <author type="music">B.B. McKinney</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1- While passing thro' this world of sin,<br/>and others your life shall view,<br/>Be clean and pure without, within;<br/>Let others see Jesus in you.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let others see Jesus in you,<br/>Let others see Jesus in you.<br/>Keep telling the story, be faithful and true;<br/>Let others see Jesus in you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Your life's a book before their eyes,<br/>They're reading it thro' and thro'<br/>Say, does it point them to the skis,<br/>Do others see Jesus in you?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Then live for Christ both day and night,<br/>Be faithful, be brave and true,<br/>and lead the lost to life and Christ.<br/>Let others see Jesus in you.</lines>
+    </verse>
+  </lyrics>
+</song>

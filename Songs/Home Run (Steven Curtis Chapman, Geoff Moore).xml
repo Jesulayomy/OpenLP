@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Home Run</title>
+    </titles>
+    <copyright>1995 Sparrow Song | Peach Hill Songs | Starstruck Music</copyright>
+    <authors>
+      <author type="words">Geoff Moore</author>
+      <author type="music">Geoff Moore</author>
+      <author type="words">Steven Curtis Chapman</author>
+      <author type="music">Steven Curtis Chapman</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The lights go on, another game day.<br/>I grabbed my bat and headed for the plate.<br/>But the first pitch was a curve and I was done - strike one.<br/>I stepped outta the box, looked the pitcher in the eye.<br/>You could read his lips, "Hey punk, you're mine."<br/>So I gave him a wink and said, "Let's see what you can do" - strike two.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gotta keep my eye on the ball, swing straight and true and follow through,<br/>Don't be afraid whatever the call,<br/>Because we're never alone,<br/>Our Coach is there to cheer us on.<br/>Well it's the wind up, here comes that ball.<br/>You gotta pray and swing, watch it 'till it's goin' goin' it's gone.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Home home home run.<br/>(We need a home run)<br/>Home home home run.<br/>(We need a home run)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You know life can be like a baseball game;<br/>We're on the same team but we're not all the same.<br/>That's why we've got to learn to play together.<br/>I didn't join this team to sit on the bench.<br/>I'm goin' deep, swingin' for the fence.<br/>I got some friends on base I gotta get home.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We are not the first to play this game or stand over this plate.<br/>We are surrounded by the legacy, like they're sittin' in the stands.<br/>I can see them wavin' their hands, sayin', "Go ,go all the way!"</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Come on now<br/>Home home home run hey it's gone gone now<br/>Home home home run hey it's our home run</lines>
+    </verse>
+  </lyrics>
+</song>

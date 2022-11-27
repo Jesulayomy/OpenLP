@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Magnify the Lord with me (Psalm 34)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I sought the Lord<br/>And He answered me<br/>And delivered me<br/>From every fear</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Those who look on Him<br/>Are radiant<br/>They'll never be ashamed<br/>They'll never be ashamed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This poor man cried<br/>And the Lord heard me<br/>And saved me from<br/>My enemies</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Son of God<br/>Surrounds His saints<br/>He will deliver them<br/>He will deliver them</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Magnify the Lord with me<br/>Come exalt His name together<br/>Glorify the Lord with me<br/>Come exalt His name forever</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Taste and see<br/>That the Lord is good<br/>Oh blessed is he<br/>Who hides in Him</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh fear the Lord<br/>Oh all you saints<br/>He'll give you everything<br/>He'll give you everything</lines>
+    </verse>
+    <verse name="b1">
+      <lines>(Bridge)<br/>Let us bless the Lord<br/>Every day and night<br/>Never ending praise<br/>May our incense rise<br/>[x3]</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:08">
+  <properties>
+    <titles>
+      <title>Blind Bartimaeus</title>
+    </titles>
+    <authors>
+      <author type="music">Ingalls, Jeremiah (1764-1828)</author>
+      <author type="words">Longfellow, Henry Wadsworth (1807-1882)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blind Bartimaeus at the gates Of Jericho in darkness waits: He hears the crowd; he hears a breath say "It is Christ of Nazareth!" And calls in tones of agony, "O Jesus, Jesus pity me!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The thronging multitudes in-crease "Blind Bartimaeus, hold thy peace!" But still, above the noisy crowd, The blind man's cry is shrill and loud: Until they say, "He calleth thee; Courage! arise! He calleth thee!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then saith the Christ, as silent stands The crowd, "What wilt thou at My hands?" And he replies, "O give me light! Rabbi, restore the blind man's sight." And Jesus answers, "Go thy way, Thy faith, thy faith hath savèd thee."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ye that hath eyes and cannot see, In darkness and in misery, Recall those mighty voices three\"O Jesus, Jesus pity me!" "Courage! arise! He calleth thee!" "Thy faith, thy faith hath savèd thee."</lines>
+    </verse>
+  </lyrics>
+</song>

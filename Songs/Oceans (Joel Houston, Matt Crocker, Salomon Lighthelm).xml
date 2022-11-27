@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:33">
+  <properties>
+    <titles>
+      <title>Oceans</title>
+      <title>Where Feet May Fail</title>
+    </titles>
+    <copyright>Hillsong United</copyright>
+    <authors>
+      <author type="words">Matt Crocker</author>
+      <author type="music">Matt Crocker</author>
+      <author type="words">Salomon Lighthelm</author>
+      <author type="music">Salomon Lighthelm</author>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>love</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>christian-living</theme>
+      <theme>protection</theme>
+      <theme>meditation</theme>
+      <theme>comfort</theme>
+      <theme>holy-spirit</theme>
+      <theme>difficulties</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse 1:<br/>You call me out upon the waters<br/>The great unknown where feet may fail<br/>And there I find You in the mystery<br/>In oceans deep<br/>My faith will stand</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>And I will call upon Your name<br/>And keep my eyes above the waves<br/>When oceans rise<br/>My soul will rest in Your embrace<br/>For I am Yours and You are mine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse 2:<br/>Your grace abounds in deepest waters<br/>Your sovereign hand<br/>Will be my guide<br/>Where feet may fail and fear surrounds me<br/>You've never failed and You won't start now</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>And I will call upon Your name<br/>And keep my eyes above the waves<br/>When oceans rise<br/>My soul will rest in Your embrace<br/>For I am Yours and You are mine</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge: x3<br/>Spirit lead me where my trust is without borders<br/>Let me walk upon the waters<br/>Wherever You would call me<br/>Take me deeper than my feet could ever wander<br/>And my faith will be made stronger<br/>In the presence of my Savior</lines>
+    </verse>
+    <verse name="b2">
+      <lines>2 Bridge:<br/>Spirit lead me where my trust is without borders<br/>Let me walk upon the waters<br/>Wherever You would call me<br/>Take me deeper than my feet could ever wander<br/>And my faith will be made stronger<br/>In the presence of my Savior</lines>
+    </verse>
+    <verse name="b3">
+      <lines>3 Bridge: x2<br/>Spirit lead me where my trust is without borders<br/>Let me walk upon the waters<br/>Wherever You would call me<br/>Take me deeper than my feet could ever wander<br/>And my faith will be made stronger<br/>In the presence of my Savior</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>I will call upon Your name<br/>keep my eyes above the waves<br/>My soul will rest in Your embrace<br/>I am Yours and You are mine</lines>
+    </verse>
+  </lyrics>
+</song>

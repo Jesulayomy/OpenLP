@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:30">
+  <properties>
+    <titles>
+      <title>Our Love Is Loud</title>
+    </titles>
+    <authors>
+      <author type="words">David Crowder Band</author>
+      <author type="music">David Crowder Band</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When we sing, hear our songs to you.<br/>When we dance, feel us move to you.<br/>When we laugh, fill out smiles with you.<br/>When we lift our voices louder still,<br/>Can You hear us;<br/>Can You feel?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We love You, Lord; we love You; we love You.<br/>We love You, Lord; we love You; we love You.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And our love is big; our love is loud.<br/>Fill this place with this love now. (2X)<br/>And our love is big; our love is loud.<br/>Fill this place with this love now.<br/>(Fill our lungs to sing it now) (2X)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>We lift our voices louder still<br/>Our God is near; our God is here.</lines>
+    </verse>
+  </lyrics>
+</song>

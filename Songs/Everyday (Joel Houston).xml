@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:27">
+  <properties>
+    <titles>
+      <title>Everyday</title>
+    </titles>
+    <copyright>1999 Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>guitar</theme>
+      <theme>freedom</theme>
+      <theme>salvation</theme>
+      <theme>youth</theme>
+      <theme>commitment</theme>
+      <theme>eternal-life</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What's to say Lord it's you gave me life<br/>I can't explain just how much you mean to me now<br/>That you have saved me Lord I give that all I am to You<br/>That everyday I would be a light and shine you're Name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Everyday Lord I'll learn to stand upon you're Word<br/>And I pray that I, I might come to know you more<br/>That you would guide me in every single step I take that<br/>Everyday I can be a light unto Your world</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Everyday, it's You I live for<br/>Everyday, I'll follow after You<br/>Everyday, I'll walk with You my Lord</lines>
+    </verse>
+    <verse name="b1">
+      <lines>It's You I live for everyday<br/>It's You I live for everyday<br/>It's You I live for everyday<br/>It's You I live for everyday, everyday</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:31">
+  <properties>
+    <titles>
+      <title>Broken Vessels</title>
+      <title>Amazing Grace</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+      <author type="words">Jonas Myrin</author>
+      <author type="music">Jonas Myrin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="1294"/>
+    </songbooks>
+    <themes>
+      <theme>keyboard</theme>
+      <theme>hope</theme>
+      <theme>salvation</theme>
+      <theme>worship</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All these pieces<br/>Broken and scattered<br/>In mercy gathered<br/>Mended and whole<br/>Empty handed<br/>But not forsaken<br/>I've been set free<br/>I've been set free</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Amazing grace<br/>How sweet the sound<br/>That saved a wretch like me<br/>I once was lost<br/>But now I am found<br/>Was blind but now I see</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>Oh I can see You now<br/>Oh I can see the love in Your eyes<br/>Laying Yourself down<br/>Raising up the broken to life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You take our failure<br/>You take our weakness<br/>You set Your treasure<br/>In jars of clay<br/>So take this heart Lord<br/>I'll be Your vessel<br/>The world to see Your life in me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>INSTRUMENTAL:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>PRE-CHORUS 2:<br/>Amazing grace<br/>How sweet the sound<br/>That saved a wretch like me<br/>I once was lost<br/>But now I am found<br/>Was blind but now I see</lines>
+    </verse>
+  </lyrics>
+</song>

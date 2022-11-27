@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>God Almighty</title>
+    </titles>
+    <copyright>2008 Vamos Publishing | worshiptogether.com songs | sixsteps Music | Alletrop Music</copyright>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like the water's roar<br/>is Your voice, O Lord.<br/>There is none before<br/>and none beside.<br/>You are set apart;<br/>You alone are God.<br/>Your glory reaches far,<br/>from sky to sky.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy, holy, Lord God Almighty,<br/>Early in the morning we will sing.<br/>Holy, holy, we bow down before Thee.<br/>All Your children love to sing Your name,<br/>God Almighty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the breath of life;<br/>You're the God on high.<br/>Your song shall rise<br/>and never pass away.<br/>O Your Majesty<br/>evermore shall be.<br/>The earth, the skies, the sea<br/>shall bring You praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God Almighty</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And I hide my eyes<br/>with my face to the ground<br/>In the presence of Your Majesty.<br/>And I clap my hands<br/>and I lay my crowns<br/>In the presence of Your Majesty.</lines>
+    </verse>
+  </lyrics>
+</song>

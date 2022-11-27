@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:43">
+  <properties>
+    <titles>
+      <title>Heroes</title>
+    </titles>
+    <authors>
+      <author type="words">Amanda Cook</author>
+      <author type="music">Amanda Cook</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="3579"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+      <theme>prayer</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verse: 1<br/>Let the heroes rest<br/>Let the striving cease<br/>I lay down my crown<br/>Here at your feet</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pre Chorus:<br/>I will, trust, here in the mystery<br/>I will, trust, in You completely</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Awake my soul to sing<br/>With Your breath in me<br/>I will worship<br/>You taught my feet to dance upon disappointment<br/>And I, I will worship</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verse: 2<br/>Let the weary rise<br/>Lift their eyes to see<br/>Your love crushing every lie<br/>Every doubt and fear</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Pre Chorus:<br/>I will, trust, here in the mystery<br/>I will, trust, in You completely</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Hallelujah, Hallelujah, You are making all things new<br/>Hallelujah, Hallelujah, You are making all things new<br/>Hallelujah, Hallelujah, You are making all things new<br/>Hallelujah, Hallelujah, You are making all things new</lines>
+    </verse>
+  </lyrics>
+</song>

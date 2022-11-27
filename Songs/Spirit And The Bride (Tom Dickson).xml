@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:24">
+  <properties>
+    <titles>
+      <title>Spirit And The Bride</title>
+    </titles>
+    <copyright>Mercy/Vineyard Publishing</copyright>
+    <authors>
+      <author type="words">Tom Dickson</author>
+      <author type="music">Tom Dickson</author>
+    </authors>
+    <themes>
+      <theme>keyboard</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deep within<br/>There's a fire that can't be quenched<br/>A love for You as strong as death<br/>Hear us Lord<br/>The longing of our hearts<br/>is to be where You are not apart</lines>
+    </verse>
+    <verse name="p1">
+      <lines>We feel You near<br/>Your presence all around us<br/>Oh Lord we want to see Your face<br/>So take us away</lines>
+    </verse>
+    <verse name="c1">
+      <lines>The Spirit and the bride cry out to You<br/>Lord we cry out to You<br/>Come quickly<br/>We long for the day<br/>When we will see Your face<br/>We long to be with You<br/>Come quickly<br/>And breathe on us until You come<br/>Breathe on us until You come</lines>
+    </verse>
+  </lyrics>
+</song>

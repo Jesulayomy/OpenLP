@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:28">
+  <properties>
+    <titles>
+      <title>Intoxicating</title>
+    </titles>
+    <copyright>2003 worshiptogether.com songs | sixsteps Music (Admin. by EMI Christian Music Publishing) | (Admin. by EMI Christian Music Publishing)</copyright>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intoxicating You are to me.<br/>Illuminating You are to see.<br/>Truly breathtaking You are to breathe<br/>Sending my head swimming You are You see.<br/>And I've lost my mind I'm sure I'll find<br/>Need to apologize for my lack of inhibition<br/>For my belligerent condition<br/>But with You this near I'm dizzy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Inebriating You are to me.<br/>Completely captivating to see.<br/>Sending my world spinning You are You see<br/>And now I find a blurry line<br/>Here between You and I<br/>Raise the cup drink 'til I'm full<br/>Sing 'til I can't 'til my voice is gone<br/>And my head is spinning</lines>
+    </verse>
+    <verse name="c1">
+      <lines>La la dee da, la dee da dee da, dee da da da<br/>Hey la la dee da, la dee da dee da, dee da da da</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Illuminating You are to see.<br/>Truly breathtaking You are to breathe<br/>Sending my head swimming You are You see.<br/>And now I find a blurry line<br/>Here between You and I<br/>Raise the cup drink 'til I'm full<br/>Sing 'til I can't 'til my voice is gone<br/>And my head is spinning</lines>
+    </verse>
+    <verse name="c2">
+      <lines>If I'm out of my mind it's You, You<br/>'Cause I'm crazy in love with You, You<br/>Inebriated by You, You.</lines>
+    </verse>
+  </lyrics>
+</song>

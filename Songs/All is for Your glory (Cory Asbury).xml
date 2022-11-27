@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:32">
+  <properties>
+    <titles>
+      <title>All is for Your glory</title>
+    </titles>
+    <authors>
+      <author type="words">Cory Asbury</author>
+      <author type="music">Cory Asbury</author>
+    </authors>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's just one chief end to man's purpose<br/>One main reason for existence<br/>All man's vain and high ambitions<br/>Will one day be brought low will one day be brought low</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To treasure You above all others<br/>To love You like we love no other<br/>Your greatness soon will be uncovered<br/>Will one day be brought low will one day be brought low</lines>
+    </verse>
+    <verse name="p1">
+      <lines>For You alone will be exalted in that day<br/>Worthless goals will be exposed as idols that we've made<br/>For You alone will be exalted in that day<br/>You'll be seen as rightful King and from our hearts we'll say</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All is for Your glory<br/>All is for Your name<br/>All is for Your glory<br/>That in all things You may have the first place<br/>That in all things You may have preeminence</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So put me anywhere, just put Your glory in me<br/>I'll serve anywhere, just let me see Your beauty<br/>So put me anywhere, just put Your glory in me<br/>I'll serve anywhere, just let me see Your beauty</lines>
+    </verse>
+  </lyrics>
+</song>

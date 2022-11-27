@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:20">
+  <properties>
+    <titles>
+      <title>Everlasting</title>
+      <title>A thousand times I've failed, From the Inside Out</title>
+    </titles>
+    <copyright>2005 Hillsong Publishing</copyright>
+    <authors>
+      <author type="words">Hillsong</author>
+      <author type="music">Hillsong</author>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A thousand times I've failed, still Your mercy remains.<br/>And should I stumble again, still I'm caught in Your grace.<br/>Everlasting, Your light will shine when all else fades.<br/>Neverending, Your glory goes beyond all fame.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>In my heart, in my soul, I give You control.<br/>Consume me from the inside out, Lord.<br/>Let justice and praise become my embrace,<br/>To love You from the inside out.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Everlasting, Your light will shine when all else fades.<br/>Neverending, Your glory goes beyond all fame.<br/>And the cry of my heart is to bring You praise.<br/>From the inside out, Lord, my soul cries out.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your will above all else my purpose remains,<br/>The art of losing myself in bringing You praise.<br/>Everlasting, Your light will shine when all else fades.<br/>Neverending, Your glory goes beyond all fame.</lines>
+    </verse>
+  </lyrics>
+</song>

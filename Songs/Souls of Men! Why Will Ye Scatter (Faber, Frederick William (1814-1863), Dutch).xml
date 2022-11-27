@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:11">
+  <properties>
+    <titles>
+      <title>Souls of Men! Why Will Ye Scatter</title>
+      <title>There's a Wideness in God's Mercy</title>
+    </titles>
+    <authors>
+      <author type="music">Dutch</author>
+      <author type="words">Faber, Frederick William (1814-1863)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Souls of men! why will ye scatter Like a crowd of frightened sheep? Foolish hearts! why will ye wander From a love so true and deep? Was there ever kinder shepherd Half so gentle, half so sweet, As the Savior who would have us Come and gather round His feet?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It is God: His love looks mighty, But is mighti'r than it seems; 'Tis our Father: and His fondness Goes far out beyond our dreams. There's a wideness in God's mercy, Like the wideness of the sea; There's a kindness in His justice, Which is more than liberty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no place where earth's sorrows Are more felt than up in Heav'n; There is no place where earth's failings Have such wondrous judgment giv'n. There is welcome for the sinner, Grace poured out as in a flood There is mercy with the Savior; There is healing in His blood.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is grace enough for thousands Of new worlds as great as this; There is room for fresh creations In that upper home of bliss. For the love of God is broader Than the measure of man's mind; And the heart of the Eternal Is most wonderfully kind.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is plentiful redemption In Christ's blood that has been shed; There is joy for all the members In the sorrows of the Head. Not just all we owe to Jesus; It is something more than all; Greater good because of evil, Larger mercy through the fall.</lines>
+    </verse>
+  </lyrics>
+</song>

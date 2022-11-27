@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Lord Most High</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the ends of the earth, (girls echo)<br/>From the depths of the sea, (girls echo)<br/>From the heights of the heavens, (girls echo)<br/>Your name be praised!<br/>From the cries of the weak, (girls echo)<br/>And the shouts of the strong, (girls echo)<br/>From the lips of all people, (girls echo)<br/>This song we raise, Lord!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Throughout the endless ages<br/>You will be crowned with praises,<br/>Lord Most High!<br/>Exalted in every nation,<br/>Sovereign o'er all creation,<br/>Lord Most High, be magnified!</lines>
+    </verse>
+  </lyrics>
+</song>

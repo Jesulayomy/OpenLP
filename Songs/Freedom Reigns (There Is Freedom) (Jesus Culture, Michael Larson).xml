@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:27">
+  <properties>
+    <titles>
+      <title>Freedom Reigns (There Is Freedom)</title>
+    </titles>
+    <copyright>1999 Flood Songs</copyright>
+    <authors>
+      <author type="words">Michael Larson</author>
+      <author type="music">Michael Larson</author>
+      <author type="words">Jesus Culture</author>
+      <author type="music">Jesus Culture</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>love</theme>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where the Spirit of the Lord is,<br/>There is freedom.<br/>Where the Spirit of the Lord is,<br/>There is freedom.<br/>Lift your eyes to heaven;<br/>There is freedom.<br/>Lift your eyes to heaven;<br/>There is freedom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Freedom reigns in this place;<br/>Showers of mercy and grace<br/>Falling on every face.<br/>There is freedom.<br/>Jesus reigns in this place;<br/>Showers of mercy and grace<br/>Falling on every face.<br/>There is freedom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you're tired or thirsty,<br/>There is freedom.<br/>If you're tired or thirsty,<br/>There is freedom.<br/>Give your all to Jesus;<br/>There is freedom.<br/>Give your all to Jesus;<br/>There is freedom.</lines>
+    </verse>
+  </lyrics>
+</song>

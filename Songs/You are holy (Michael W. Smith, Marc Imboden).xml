@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:30">
+  <properties>
+    <titles>
+      <title>You are holy</title>
+      <title>Prince of Peace</title>
+    </titles>
+    <copyright>1999 Higher Praise</copyright>
+    <authors>
+      <author type="words">Marc Imboden</author>
+      <author type="music">Marc Imboden</author>
+      <author type="words">Michael W. Smith</author>
+      <author type="music">Michael W. Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+    <themes>
+      <theme>proclamation</theme>
+      <theme>keyboard</theme>
+      <theme>joy</theme>
+      <theme>piano</theme>
+      <theme>guitar</theme>
+      <theme>praise</theme>
+      <theme>gospel</theme>
+      <theme>meditation</theme>
+      <theme>grace</theme>
+      <theme>unity</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are holy (you are holy)<br/>You are mighty (You are mighty)<br/>You are worthy (You are worthy)<br/>Worthy of praise (Worthy of praise)<br/>I will follow (I will follow)<br/>I will listen (I will listen)<br/>I will love You (I will love You)<br/>All of my days (All of my days)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will sing to and worship<br/>The King who is worthy<br/>And I will love and adore Him<br/>And I will bow down before Him (repeat)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You are Lord of lords, You are King of kings<br/>You are Mighty God, Lord of everything<br/>You're Emmanuel, You're the great I AM<br/>You're my Prince of Peace who is the Lamb<br/>You're the Living God, You're my saving grace<br/>You will reign forever, You are Ancient of Days<br/>You are Alpha, Omega, Beginning and End<br/>You're my Saviour, Messiah, Redeemer and Friend</lines>
+    </verse>
+    <verse name="c3">
+      <lines>You're my Prince of peace and I will live my life for You</lines>
+    </verse>
+  </lyrics>
+</song>

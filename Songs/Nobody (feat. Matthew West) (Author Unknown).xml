@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:22">
+  <properties>
+    <titles>
+      <title>Nobody (feat. Matthew West)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Fonki" entry="6208"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Why You ever chose me Has always been a mystery<br/>All my life I've been told I belong at the end of the line<br/>With all the other Not-Quites with all the Never-Get-It-Rignts<br/>But it turns out we're the ones You've been looking for all this time</lines>
+    </verse>
+    <verse name="c1">
+      <lines>'Cause I'm just a nobody trying to tell everybody<br/>All about Somebody who saved my soul<br/>Ever since You rescued me You gave my heart a song to sing<br/>I'm living for the world to see nobody but Jesus<br/>I'm living for the world to see nobody but Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moses had stage fright and David brought a rock to a sword fight<br/>You picked 12 outsiders nobody would've chosen<br/>And You changed the world well, the moral of the story is everybody's got a purpose<br/>So when I hear that devil start talking to me, saying<br/>"Who do you think you are"<br/>I say...</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I'm just a nobody trying to tell everybody<br/>All about Somebody who saved my soul<br/>Ever since You rescued me You gave my heart a song to sing<br/>I'm living for the world to see nobody but Jesus<br/>I'm living for the world to see nobody but Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So let me go down down down in history<br/>As another blood-bought faithful member of the family<br/>And if they all forget my name, well, that's fine with me<br/>I'm living for the world to see nobody but Jesus</lines>
+    </verse>
+    <verse name="c3">
+      <lines>'Cause I'm just a nobody trying to tell everybody<br/>All about Somebody who saved my soul<br/>Ever since You rescued me You gave my heart a song to sing<br/>I'm living for the world to see nobody but Jesus<br/>I'm living for the world to see nobody but Jesus<br/>I'm living for the world to see nobody but Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:59">
+  <properties>
+    <titles>
+      <title>Immortal, Invisible, God Only Wise</title>
+    </titles>
+    <authors>
+      <author type="music">Welsh</author>
+      <author type="music">Roberts, John (1822-1877)</author>
+      <author type="words">Smith, Walter Chalmers (1824-1908)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Open Hymnal"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Immortal, invisible, God only wise, In light inaccessible hid from our eyes, Most blessèd, most glorious, the Ancient of Days, Almighty, victorious, Thy great Name we praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unresting, unhasting, and silent as light, Nor wanting, nor wasting, Thou rulest in might; Thy justice, like mountains, high soaring above Thy clouds, which are fountains of goodness and love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To all, life Thou givest, to both great and small; In all life Thou livest, the true life of all; We blossom and flourish as leaves on the tree, And wither and perish but naught changeth Thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Great Father of glory, pure Father of light, Thine angels adore Thee, all veiling their sight; But of Thy rich graces this grace, Lord, impart Take the veil from our face, the vile from our heart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All laud we would render; O help us to see 'Tis only the splendor of light hideth Thee, And so let Thy glory, almighty, impart, Through Christ in His story, Thy Christ to the heart.</lines>
+    </verse>
+  </lyrics>
+</song>

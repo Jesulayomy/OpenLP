@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:29">
+  <properties>
+    <titles>
+      <title>Marvelous Light</title>
+    </titles>
+    <copyright>2005 worshiptogether.com songs | sixsteps Music</copyright>
+    <authors>
+      <author type="words">Charlie Hall</author>
+      <author type="music">Charlie Hall</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I once was fatherless, a stranger with no hope.<br/>Your kindness wakened me, wakened me from my sleep.<br/>Your love it beckons deeply, a call to come and die.<br/>By grace now I will come<br/>and take this life, take Your life.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Sin has lost its power. Death has lost its sting.<br/>From the grave You've risen, victoriously!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Into marvelous light I'm running,<br/>Out of darkness, out of shame.<br/>By the cross, You are the Truth,<br/>You are the Life, You are the Way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My dead heart now is beating, my deepest stains now clean.<br/>Your breath fills up my lungs. Now I'm free! Now I'm free! (2X)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lift my hands and spin around!<br/>See the light that I have found!<br/>Oh the marvelous light, marvelous light!</lines>
+    </verse>
+  </lyrics>
+</song>

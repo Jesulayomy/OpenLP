@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:25">
+  <properties>
+    <titles>
+      <title>As Long as I Have Breath</title>
+      <title>How Do I Thank You O Lord</title>
+    </titles>
+    <copyright>1999 Sovereign Grace Praise</copyright>
+    <authors>
+      <author type="words">Mark Altrogge</author>
+      <author type="music">Mark Altrogge</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How do I thank You, O Lord,<br/>For taking my place on the cross?<br/>And how do I thank You, O Lord,<br/>For all of Your mercy and kindness,<br/>For calling me to You,<br/>For letting me hear You,<br/>For opening my heart to the gospel?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>As long as I have breath, I will praise You;<br/>As long as my heart beats, I will sing;<br/>As long as life flows in my veins,<br/>I will bless Your name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How do I thank You, O Lord,<br/>For all of the love in Your eyes?<br/>And how do I thank You, O Lord,<br/>For how You have changed me forever?<br/>For giving me power,<br/>A hope and a future,<br/>With favor and gladness and every good thing,</lines>
+    </verse>
+  </lyrics>
+</song>

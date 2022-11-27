@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-05T08:10:14">
+  <properties>
+    <titles>
+      <title>When Morning Gilds the Skies</title>
+    </titles>
+    <authors>
+      <author>Edward Caswall</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When morning gilds the skies<br/>My heart awaking cries:<br/>‘May Jesus Christ be praised!’<br/>Alike at work and prayer<br/>To Jesus I repair:<br/>‘May Jesus Christ be praised!’</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Does sadness fill my mind?<br/>A solace here I find:<br/>‘May Jesus Christ be praised!’<br/>When evil thoughts molest,<br/>With this I shield my breast:<br/>‘May Jesus Christ be praised!’</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To God, the Word, on high<br/>The hosts of angels cry:<br/>‘May Jesus Christ be praised!’<br/>Let mortals, too, upraise<br/>Their voice in hymns of praise:<br/>‘May Jesus Christ be praised!’</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let earth’s wide circle round<br/>In joyful notes resound:<br/>‘May Jesus Christ be praised!’<br/>Let air, and sea, and sky,<br/>From depth to height, reply:<br/>‘May Jesus Christ be praised!’</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Be this while life is mine<br/>My canticle divine:<br/>‘May Jesus Christ be praised!’<br/>Be this the eternal song,<br/>Through all the ages long:<br/>‘May Jesus Christ be praised!’</lines>
+    </verse>
+  </lyrics>
+</song>

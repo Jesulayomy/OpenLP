@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:55">
+  <properties>
+    <titles>
+      <title>I am Loved by the King</title>
+    </titles>
+    <authors>
+      <author type="words">Steve Worthy</author>
+      <author type="music">Steve Worthy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am loved by the King,<br/>In faith I'll soar on eagles wings.<br/>I will stand and I will sing of Your great love.<br/>For the universe declares, what a creator God You are,<br/>Holy, Holy, Holy, Holy, Lord, my God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amazing love,<br/>Such power in the name of Jesus.<br/>Amazing love,<br/>There's healing in His hands.<br/>Amazing love,<br/>On a cross He died to save us.<br/>He died and rose again,<br/>I believe it, I receive Him and the Truth has set me free.</lines>
+    </verse>
+  </lyrics>
+</song>

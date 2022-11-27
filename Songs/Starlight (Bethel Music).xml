@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:40">
+  <properties>
+    <titles>
+      <title>Starlight</title>
+    </titles>
+    <authors>
+      <author type="words">Bethel Music</author>
+      <author type="music">Bethel Music</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2628"/>
+    </songbooks>
+    <themes>
+      <theme>gods-might</theme>
+      <theme>thanksgiving</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>CAPO 3 (Key: Bb)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Intro:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verse: 1<br/>You're like starlight in the dark<br/>Endless miles can't conceal you<br/>And every glimmer is a spark<br/>Catching fire as you break through</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Oh, you're not far away<br/>You come in close<br/>Oh, even as I wait<br/>You come in close</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verse: 2<br/>You're like summer in the night<br/>The sun goes down but still I feel you<br/>And every shadow's turning bright<br/>Every broken heart is made new</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Chorus:<br/>Oh, you're not far away<br/>You come in close<br/>Oh, even as I wait<br/>You come in close</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bridge: 1<br/>There's no heart unseen<br/>There's no space between<br/>You and I, You and I<br/>You are closer than<br/>The very oxygen<br/>I'm breathing in<br/>I breathe you in</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bridge: 2<br/>You are God with us<br/>You are here with us<br/>Immanuel, Immanuel<br/>You are infinite<br/>Your glory has no end<br/>Jesus, Jesus</lines>
+    </verse>
+    <verse name="b4">
+      <lines>Instrumental:</lines>
+    </verse>
+    <verse name="b5">
+      <lines>Bridge:<br/>There's no heart unseen<br/>There's no space between<br/>You and I, You and I<br/>You are closer than<br/>The very oxygen<br/>I'm breathing in<br/>I breathe you in</lines>
+    </verse>
+    <verse name="b6">
+      <lines>Bridge: 2<br/>You are God with us<br/>You are here with us<br/>Immanuel, Immanuel<br/>You are infinite<br/>Your glory has no end<br/>Jesus, Jesus</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Chorus:<br/>Oh, you're not far away<br/>You come in close<br/>Oh, even as I wait<br/>You come in close</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verse: 1<br/>You're like starlight in the dark<br/>Endless miles can't conceal you<br/>And every glimmer is a spark<br/>Catching fire as you break through</lines>
+    </verse>
+  </lyrics>
+</song>

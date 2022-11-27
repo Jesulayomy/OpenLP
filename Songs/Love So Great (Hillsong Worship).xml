@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:18">
+  <properties>
+    <titles>
+      <title>Love So Great</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+    <songbooks>
+      <songbook name="Holychords" entry="2159"/>
+    </songbooks>
+    <themes>
+      <theme>praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LOVE SO GREAT<br/>Words and Music by<br/>JOSHUA GRIMMETT,<br/>REUBEN MORGAN &amp; JAMIE SNELL<br/>♩= 92</lines>
+    </verse>
+    <verse name="v2">
+      <lines>VERSE: 1<br/>Your love so great, Jesus in all things<br/>I've seen a glimpse of Your heart<br/>H/D#                  F#<br/>A billion years, still I'll be singing<br/>How can I praise You enough?<br/>How can I praise You enough?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CHORUS:<br/>You are the Lord Almighty<br/>F#                      G#m7<br/>Outshining all the stars in glory<br/>Your love is like the wildest ocean<br/>Oh nothing else compares</lines>
+    </verse>
+    <verse name="v3">
+      <lines>VERSE: 2<br/>Creation calls all to the Saviour<br/>We are alive for Your praise<br/>In earth and sky, no one is higher<br/>Our God of wonders, You reign<br/>Our God of wonders, You reign<br/>Repeat CHORUS twice</lines>
+    </verse>
+    <verse name="b1">
+      <lines>INSTRUMENTAL:<br/>BRIDGE: 1<br/>Not to us, but to Your Name<br/>We lift up all praise<br/>Not to us, but to Your Name<br/>We lift up all praise</lines>
+    </verse>
+    <verse name="b2">
+      <lines>BRIDGE: 2<br/>G#m7              E          H<br/>Not to us, but to Your Name<br/>G#m7       E  H<br/>We lift up all praise<br/>G#m7              E          H<br/>Not to us, but to Your Name<br/>G#m7       E  H<br/>We lift up all praise<br/>Repeat CHORUS: twice</lines>
+    </verse>
+    <verse name="b3">
+      <lines>BRIDGE: 3<br/>Not to us, but to Your Name<br/>H             Hsus  H<br/>We lift up all     praise<br/>Not to us, but to Your Name<br/>H              Hsus  H<br/>We lift up all      praise</lines>
+    </verse>
+    <verse name="b4">
+      <lines>Repeat BRIDGE: 2 twice<br/>Repeat CHORUS: twice</lines>
+    </verse>
+    <verse name="v4">
+      <lines>FINAL CHORD</lines>
+    </verse>
+  </lyrics>
+</song>

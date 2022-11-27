@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:49">
+  <properties>
+    <titles>
+      <title>We are marching in the light of God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// We are marching in the light of God,<br/>We are marching in the light of God.  //</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// We are marching, marching,<br/>We are marching, o-oh,<br/>We are marching in the light of God.  //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// We are living in the love of God<br/>We are living in the love of God  //</lines>
+    </verse>
+    <verse name="c2">
+      <lines>// We are living, living<br/>We are living, o-oh<br/>We are living in the love of God  //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// We are moving in the power of God<br/>We are moving in the power of God  //</lines>
+    </verse>
+    <verse name="c3">
+      <lines>// We are moving, moving,<br/>We are moving, o-oh<br/>We are moving in the power of God  //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>// We are dancing in the joy of God<br/>We are dancing in the joy of God  //</lines>
+    </verse>
+    <verse name="c4">
+      <lines>// We are dancing, dancing<br/>We are dancing, o-oh<br/>We are dancing in the joy of God  //</lines>
+    </verse>
+  </lyrics>
+</song>

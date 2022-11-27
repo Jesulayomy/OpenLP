@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:26">
+  <properties>
+    <titles>
+      <title>Did You Feel the Mountains Tremble?</title>
+    </titles>
+    <copyright>1994 Curious? Music UK</copyright>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="OpenSong: Zagraniczne"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Did you feel the mountains tremble? Did you hear the oceans roar<br/>When the people rose to sing of<br/>    Jesus Christ, the Risen One?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Did you feel the people tremble?  Did you hear the singers roar<br/>When the lost began to sing of<br/>    Jesus Christ, the Saving One?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do you feel the darkness tremble  when all the saints join in one song,<br/>And all the streams flow as one river<br/>to wash away our brokenness?</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And we can see that, God, You're moving,<br/>A mighty river through the nations,<br/>And young and old will turn to Jesus...<br/>Fling wide, you heavenly gates;<br/>Prepare the way of the risen Lord.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>And here we see that, God, You're moving;<br/>A time of jubilee is coming,<br/>When young and old return to Jesus...<br/>Fling wide, you heavenly gates;<br/>Prepare the way of the risen Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Open up the doors and let the music play.<br/>Let the streets resound with singing:<br/>Songs that bring Your hope and songs that bring Your joy,<br/>Dancers who dance upon injustice.</lines>
+    </verse>
+  </lyrics>
+</song>

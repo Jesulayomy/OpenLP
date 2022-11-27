@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:45">
+  <properties>
+    <titles>
+      <title>Had It Not Been</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just suppose God<br/>searched through Heaven<br/>He couldn't find one<br/>willing to be<br/>The Supreme Sacrifice<br/>that was needed<br/>That could buy<br/>Eternal Life for you and me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Had it not been for a place<br/>called mount Calvary<br/>Had it not been for<br/>the old rugged cross<br/>Had it not been for<br/>a man called Jesus<br/>Then forever my<br/>soul would be lost</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I am glad He was<br/>willing to drink that bitter cup<br/>Even though He prayed<br/>"Father let it pass from me"<br/>And I'm so glad He never<br/>called Heavens Angels<br/>"From my hands<br/>- pull the nails that torment me"</lines>
+    </verse>
+  </lyrics>
+</song>

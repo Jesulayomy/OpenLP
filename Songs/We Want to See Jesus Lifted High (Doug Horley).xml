@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:47">
+  <properties>
+    <titles>
+      <title>We Want to See Jesus Lifted High</title>
+    </titles>
+    <copyright>1993 Thankyou Music</copyright>
+    <authors>
+      <author type="words">Doug Horley</author>
+      <author type="music">Doug Horley</author>
+    </authors>
+    <songbooks>
+      <songbook name="Crown Songbook"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I want to see, I want to see, I want to see Jesus lifted high!<br/>I want to see, I want to see, I want to see Jesus lifted high!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I want to see Jesus lifted high,<br/>A banner that flies across the sky;<br/>That all men might see the truth and know,<br/>He is the way to heaven.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>We want to see, we want to see, we want to see Jesus lifted high!<br/>We want to see, we want to see, we want to see Jesus lifted high!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Step by step we're moving forward,<br/>Little by little we're taking ground;<br/>Every prayer is a powerful weapon,<br/>Strongholds come tumbling down,<br/>And down and down and down...</lines>
+    </verse>
+    <verse name="c3">
+      <lines>We're gonna see, we're gonna see, we're gonna see Jesus lifted high!<br/>We're gonna see, we're gonna see, we're gonna see Jesus lifted high!</lines>
+    </verse>
+  </lyrics>
+</song>

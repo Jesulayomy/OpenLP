@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:45:56">
+  <properties>
+    <titles>
+      <title>Amazed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You dance over me<br/>While I am unaware<br/>You sing all around<br/>But I never hear the sound</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord I'm amazed by You<br/>Lord I'm amazed by You<br/>Lord I'm amazed by You<br/>How You love me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You paint the morning sky<br/>With miracles in mind<br/>My hope will always stand<br/>For You hold me in Your hand</lines>
+    </verse>
+    <verse name="b1">
+      <lines>How wide (how wide)<br/>You paint the morning sky<br/>How great (how great)<br/>Is Your love for me</lines>
+    </verse>
+  </lyrics>
+</song>

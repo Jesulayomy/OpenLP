@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-17T08:46:16">
+  <properties>
+    <titles>
+      <title>Lord I Need You</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Maher</author>
+      <author type="music">Matt Maher</author>
+    </authors>
+    <songbooks>
+      <songbook name="Rising Tabernakel"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I come, I confess<br/>Bowing here I find my rest<br/>Without You I fall apart<br/>You're the One that guides my heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, I need You, oh, I need You<br/>Every hour I need You<br/>My one defense, my righteousness<br/>Oh God, how I need You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where sin runs deep Your grace is more<br/>Where grace is found is where You are<br/>Where You are, Lord, I am free<br/>Holiness is Christ in me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So teach my song to rise to You<br/>When temptation comes my way<br/>When I cannot stand I'll fall on You<br/>Jesus, you're my hope and stay</lines>
+    </verse>
+  </lyrics>
+</song>
