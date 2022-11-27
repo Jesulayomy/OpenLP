@@ -2,6 +2,7 @@
 
 ## BIBLES
 | Bibles | Installation | Source | 
+| --- | --- | 
 | American Standard Version | Import using Zefania format | [Zefania](https://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/) | 
 | Amplified Bible | Import using OpenSong format | [OpenSong](http://www.opensong.org/home/download) | 
 | King James Version | Import using OpenSong format | [OpenSong](http://www.opensong.org/home/download) | 
